@@ -8,7 +8,7 @@ function SearchForm({jsonData}) {
         if (searchTerm) {
             const results = jsonData.filter(item =>
                 Object.values(item).some(value =>
-                    value.includes(searchTerm)
+                    typeof value === 'number' && value == searchTerm
                 )
             );
             setSearchResults(results);
