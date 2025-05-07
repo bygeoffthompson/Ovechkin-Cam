@@ -1,6 +1,6 @@
-import React, { useState, useEffect } from 'react';
+import React, {useState, useEffect} from 'react';
 
-function SearchForm({ jsonData }) {
+function SearchForm({jsonData}) {
     const [searchTerm, setSearchTerm] = useState('');
     const [searchResults, setSearchResults] = useState([]);
 
@@ -21,22 +21,27 @@ function SearchForm({ jsonData }) {
         setSearchTerm(event.target.value);
     };
 
+
     return (
         <div>
-            <input
-                type="number"
-                placeholder="Search By Goal Number"
-                value={searchTerm}
-                onChange={handleInputChange}
-            />
-            <ul>
-                {searchResults.map((result, index) => (
-                    <li key={index}>{JSON.stringify(result)}</li>
-                ))}
-            </ul>
+            <form>
+            <label for="goalSearch">Search By Goal Number</label>
+            <input id="goalSearch" type="number" placeholder="Goal Number" value={searchTerm} onChange={handleInputChange}/>
+            </form>
+
+            {searchResults.map((result, index) => (
+                <div key={index}>
+                    <p>Watch goal {JSON.stringify(result.goal).replace(/"/g, "")}.</p>
+                    <iframe width="560" height="315" src={JSON.stringify(result.link).replace(/"/g, "")} title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin"></iframe>
+                </div>
+            ))}
         </div>
     );
 }
+
+/*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BoGOoO9WTOE?si=Rwan7Y4stY-gyrvp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+*/
 
 function App() {
     const [data, setData] = useState(null);
@@ -47,6 +52,7 @@ function App() {
             const json = await response.json();
             setData(json);
         }
+
         fetchData();
     }, []);
 
@@ -56,7 +62,7 @@ function App() {
 
     return (
         <div>
-            <SearchForm jsonData={data} />
+            <SearchForm jsonData={data}/>
         </div>
     );
 }
