@@ -45,7 +45,7 @@ function App() {
 
     useEffect(() => {
         async function fetchData() {
-            const response = await fetch('/goals.json');
+            const response = await fetch('goals.json');
             const json = await response.json();
             setData(json);
         }
