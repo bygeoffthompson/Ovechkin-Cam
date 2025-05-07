@@ -7,7 +7,7 @@
 }
 
 #root > div {
-  width: 100%;
+  max-width: 75%;
 }
 
 #root > div > div {
@@ -45,10 +45,7 @@
   width: 100%;
 }
 
-iframe {
-  width: 100%;
-}
-
 div {
+  margin: 0 auto;
   width: 100%;
 }
