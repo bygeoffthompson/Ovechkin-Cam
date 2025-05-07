@@ -6,6 +6,18 @@
   min-height: 100vh;
 }
 
+#root > div {
+  width: 100%;
+}
+
+#root > div > div {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  justify-content: center;
+}
+
 .goal-search {
   align-items: center;
   border: 1px solid #000;
@@ -34,5 +46,9 @@
 }
 
 iframe {
+  width: 100%;
+}
+
+div {
   width: 100%;
 }

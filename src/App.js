@@ -8,7 +8,7 @@ function SearchForm({jsonData}) {
         if (searchTerm) {
             const results = jsonData.filter(item =>
                 Object.values(item).some(value =>
-                    typeof value === 'string' && value.toLowerCase().includes(searchTerm.toLowerCase())
+                    value.includes(searchTerm)
                 )
             );
             setSearchResults(results);
@@ -26,6 +26,7 @@ function SearchForm({jsonData}) {
         <div>
             <form>
             <label for="goalSearch">Search By Goal Number</label>
+            <br/>
             <input id="goalSearch" type="number" placeholder="Goal Number" value={searchTerm} onChange={handleInputChange}/>
             </form>
 
@@ -38,10 +39,6 @@ function SearchForm({jsonData}) {
         </div>
     );
 }
-
-/*
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BoGOoO9WTOE?si=Rwan7Y4stY-gyrvp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-*/
 
 function App() {
     const [data, setData] = useState(null);
