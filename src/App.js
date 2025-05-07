@@ -30,7 +30,7 @@ function SearchForm({jsonData}) {
 
             {searchResults.map((result, index) => (
                 <div key={index}>
-                    <p>Watch goal {JSON.stringify(result.goal).replace(/"/g, "")}.</p>
+                    <p>Watch goal {result.goal}.</p>
                     <iframe width="560" height="315" src={JSON.stringify(result.link).replace(/"/g, "")} title="YouTube video player" referrerPolicy="strict-origin-when-cross-origin"></iframe>
                 </div>
             ))}
