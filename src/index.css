@@ -1,17 +1,79 @@
 #root {
-  max-width: 75%;
+  max-width: 1000px;
+}
+
+.goal {
+  bottom: -1px;
+  font-size: 1.5rem;
+  font-weight: bold;
+  left: 0;
+  position: absolute;
 }
 
 .iframe {
-  display: flex;
-  justify-content: center;
+  position: relative;
+}
+
+.light {
+  background-image: url(/public/light.gif);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: block;
+  height: 90px;
+  left: -15px;
+  position: absolute;
+  top: -75px;
+  width: 45px;
+  z-index: 1;
+}
+
+form {
+  margin-bottom: 2rem;
+}
+
+h1 {
+  color: #041E42;
+  font-size: 3rem;
 }
 
 iframe {
   aspect-ratio: 16 / 9;
+  border: 0;
+  box-shadow: 0 1rem 3rem rgba(0,0,0,.5);
   height: auto;
   max-width: 1000px;
+  position: relative;
   width: 100% !important;
+}
+
+input[type="number"] {
+  border-left: 0;
+  border-right: 0;
+  border-top: 0;
+  caret-color: #C8102E;
+  color: #C8102E;
+  font-size: 2.5rem;
+  font-weight: bold;
+  max-width: 200px;
+  outline: 0;
+  text-align: center;
+  text-indent: 16px;
+  width: 100%;
+}
+
+input[type="number"]:focus-visible {
+  border-bottom: 2px solid #C8102E;
+}
+
+input[type="number"]:focus-visible::placeholder {
+  opacity: 0;
+}
+
+input[type="number"]::placeholder {
+  color: #000;
+  font-weight: normal;
+  opacity: .25;
 }
 
 body {

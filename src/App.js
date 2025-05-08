@@ -24,14 +24,14 @@ function SearchForm({jsonData}) {
     return (
         <div>
             <form>
-            <input type="number" placeholder="Goal Number" value={searchTerm} onChange={handleInputChange} />
+            <input type="number" placeholder="Goal #" value={searchTerm} onChange={handleInputChange} />
             </form>
 
             {searchResults.map((result, index) => (
-                <div key={index}>
-                    <p>
-                        <strong>Goal {result.goal}</strong>
-                    </p>
+                <div className="iframe" key={index}>
+                    <div className="light">
+                        <div className="goal">{result.goal}</div>
+                    </div>
                     <iframe width="560" height="315" src={result.link.replace(/"/g, "")} title="YouTube video player" referrerPolicy="strict-origin-when-cross-origin"></iframe>
                 </div>
             ))}
