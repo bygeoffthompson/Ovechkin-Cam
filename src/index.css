@@ -28,6 +28,19 @@
   z-index: 1;
 }
 
+.record {
+  background-image: url(/public/record.gif);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+  height: 50px;
+  margin-left: 1rem;
+  position: relative;
+  top: 10px;
+  width: 50px;
+}
+
 form {
   margin-bottom: 2rem;
 }
