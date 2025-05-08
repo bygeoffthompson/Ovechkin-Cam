@@ -1,7 +1,7 @@
 {
   "name": "ovechkin-cam",
   "version": "0.1.0",
-  "homepage": "https://ovechkin.cam",
+  "homepage": "https://www.ovechkin.cam",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
