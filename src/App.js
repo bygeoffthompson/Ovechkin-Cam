@@ -21,6 +21,10 @@ function SearchForm({jsonData}) {
         setSearchTerm(event.target.value);
     };
 
+    const preventSubmit = (event) => {
+        event.preventDefault();
+    };
+
     const header = (
         <header>
             <h1>Watch Every Ovechkin Goal</h1>
@@ -38,7 +42,7 @@ function SearchForm({jsonData}) {
     return (
         <div>
             {header}
-            <form onsubmit="return false;">
+            <form onSubmit={preventSubmit}>
                 <input type="number" placeholder="#" value={searchTerm} onChange={handleInputChange}/>
                 <button type="submit" disabled>Submit</button>
             </form>
@@ -48,7 +52,7 @@ function SearchForm({jsonData}) {
                     <div className="light">
                         <div className="goal">{result.goal}</div>
                     </div>
-                    <iframe width="560" height="315" src={result.link.replace(/"/g, "")} title="YouTube video player" referrerPolicy="strict-origin-when-cross-origin"></iframe>
+                    <iframe width="560" height="315" src={result.link.replace(/"/g, "")} title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
                 </div>
             ))}
             {footer}

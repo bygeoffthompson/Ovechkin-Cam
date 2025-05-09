@@ -107,6 +107,7 @@ iframe {
 
 input[type="number"] {
   border-left: 0;
+  border-radius: 0;
   border-right: 0;
   border-top: 0;
   caret-color: #C8102E;
@@ -115,6 +116,7 @@ input[type="number"] {
   font-weight: bold;
   max-width: 100px;
   outline: 0;
+  padding: 3px;
   text-align: center;
   text-indent: 16px;
   width: 100%;
