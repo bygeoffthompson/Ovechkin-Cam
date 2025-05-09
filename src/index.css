@@ -13,6 +13,7 @@
   font-size: 1.1rem;
   font-weight: bold;
   left: 0;
+  letter-spacing: -2px;
   position: absolute;
 }
 
@@ -93,9 +94,8 @@ input[type="number"] {
   color: #C8102E;
   font-size: 2rem;
   font-weight: bold;
-  max-width: 200px;
+  max-width: 100px;
   outline: 0;
-  padding: 0;
   text-align: center;
   text-indent: 16px;
   width: 100%;

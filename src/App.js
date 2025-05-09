@@ -24,7 +24,7 @@ function SearchForm({jsonData}) {
     return (
         <div>
             <form>
-            <input type="number" placeholder="Goal #" value={searchTerm} onChange={handleInputChange} />
+            <input type="number" placeholder="#" value={searchTerm} onChange={handleInputChange} />
             </form>
 
             {searchResults.map((result, index) => (
