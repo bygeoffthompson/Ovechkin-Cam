@@ -21,10 +21,26 @@ function SearchForm({jsonData}) {
         setSearchTerm(event.target.value);
     };
 
+    const header = (
+        <header>
+            <h1>Watch Every Ovechkin Goal</h1>
+            <span className="record"></span>
+        </header>
+    );
+
+    const footer = (
+        <footer>
+            <span className="acknowledgements" title="@Capitals, @EveryOvechkinGoal, @NHL895 and other embedded Youtube channels.">Acknowledgements</span>&nbsp;|&nbsp;
+            <a href="https://x.com/bygeoffthompson" rel="noreferrer" target="_blank">Report an Error</a>
+        </footer>
+    );
+
     return (
         <div>
-            <form>
-            <input type="number" placeholder="#" value={searchTerm} onChange={handleInputChange} />
+            {header}
+            <form onsubmit="return false;">
+                <input type="number" placeholder="#" value={searchTerm} onChange={handleInputChange}/>
+                <button type="submit" disabled>Submit</button>
             </form>
 
             {searchResults.map((result, index) => (
@@ -35,6 +51,7 @@ function SearchForm({jsonData}) {
                     <iframe width="560" height="315" src={result.link.replace(/"/g, "")} title="YouTube video player" referrerPolicy="strict-origin-when-cross-origin"></iframe>
                 </div>
             ))}
+            {footer}
         </div>
     );
 }
