@@ -126,6 +126,11 @@ input[type="number"] {
   width: 100%;
 }
 
+input[disabled] {
+  background: transparent;
+  border: 0;
+}
+
 input[type="number"]:focus-visible {
   border-bottom: 2px solid #C8102E;
 }
