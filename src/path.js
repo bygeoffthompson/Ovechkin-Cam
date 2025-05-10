@@ -1,0 +1,1 @@
+console.log('path.js file loaded yup');
