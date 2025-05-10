@@ -39,9 +39,9 @@ function SearchForm({jsonData}) {
 
     const header = (
         <header>
-            <img alt="Goal Light gif" className="goal-light" src="/goal-light.gif"></img>
-            <h1><a href="/">Watch Every Ovechkin Goal</a></h1>
-            <img alt="Record Light gif" className="record-light" src="/record-light.gif"></img>
+            <img alt="Goal Light gif" className="goal-light" src="/goal-light.gif"/>
+            <h1><a href="/" title="Home">Watch Every Ovechkin Goal</a></h1>
+            <img alt="Record Light gif" className="record-light" src="/record-light.gif"/>
         </header>
     );
 
