@@ -84,8 +84,12 @@ form {
 }
 
 h1 {
-  color: #041E42;
   margin: 0;
+}
+
+h1 a {
+  color: #041E42;
+  text-decoration: none;
 }
 
 header {
@@ -118,7 +122,7 @@ input[type="number"] {
   color: #C8102E;
   font-size: 2rem;
   font-weight: bold;
-  max-width: 100px;
+  max-width: 95px;
   outline: 0;
   padding: 3px;
   text-align: center;

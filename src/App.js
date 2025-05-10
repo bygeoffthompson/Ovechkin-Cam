@@ -5,10 +5,10 @@ function SearchForm({jsonData}) {
     const [searchResults, setSearchResults] = useState([]);
 
     useEffect(() => {
-        const goalQuery = parseInt(window.location.search.slice(1));
+        const query = parseInt(window.location.search.slice(1));
 
-        if (goalQuery >= 1 && goalQuery <= 897) {
-            setSearchTerm(goalQuery);
+        if (query >= 1 && query <= 897) {
+            setSearchTerm(query);
             document.getElementById('search').disabled = true;
         }
 
@@ -34,7 +34,7 @@ function SearchForm({jsonData}) {
 
     const header = (
         <header>
-            <h1>Watch Every Ovechkin Goal</h1>
+            <h1><a href="/">Watch Every Ovechkin Goal</a></h1>
             <span className="record"></span>
         </header>
     );
