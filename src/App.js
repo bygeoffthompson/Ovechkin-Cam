@@ -47,11 +47,11 @@ function SearchForm({jsonData}) {
 
     const footer = (
         <footer>
-            <a href="/about.html">About</a>
+            <a href="/about.txt">About</a>
             &nbsp;|&nbsp;
             <a href="https://x.com/bygeoffthompson" rel="noreferrer" target="_blank">Report an Error</a>
             &nbsp;|&nbsp;
-            <a href="/thanks.html">Thanks</a>
+            <a href="/thanks.txt">Thanks</a>
         </footer>
     );
 
@@ -59,7 +59,7 @@ function SearchForm({jsonData}) {
         <div>
             {header}
             <form onSubmit={preventSubmit}>
-                <input id="search" type="number" placeholder="#" value={searchTerm} onChange={handleInputChange}/>
+                <input min="0" max="897" id="search" type="number" placeholder="#" value={searchTerm} onChange={handleInputChange}/>
                 <button type="submit" disabled>Submit</button>
             </form>
 
@@ -67,7 +67,7 @@ function SearchForm({jsonData}) {
                 <div className="iframe" key={index}>
                     <iframe width="560" height="315" src={result.link.replace(/"/g, "")} title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
                     <div className="flex">
-                        <strong id="link">www.ovechkin.cam/?{result.goal}</strong>
+                        <strong id="link">https://www.ovechkin.cam/?{result.goal}</strong>
                         <button onClick={copyFunction} id="copy" title="Copy Link">Copy</button>
                     </div>
                 </div>
