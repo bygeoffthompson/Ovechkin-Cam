@@ -1,0 +1,5 @@
+About
+
+* Built with React.
+* Data via JSON.
+* Hosted by Github Pages.
