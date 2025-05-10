@@ -39,10 +39,9 @@ function SearchForm({jsonData}) {
 
     const header = (
         <header>
-            <div>
-                <h1><a href="/">Watch Every Ovechkin Goal</a></h1>
-                <span className="record"></span>
-            </div>
+            <img alt="Goal Light gif" className="goal-light" src="/goal-light.gif"></img>
+            <h1><a href="/">Watch Every Ovechkin Goal</a></h1>
+            <img alt="Record Light gif" className="record-light" src="/record-light.gif"></img>
         </header>
     );
 
@@ -66,13 +65,10 @@ function SearchForm({jsonData}) {
 
             {searchResults.map((result, index) => (
                 <div className="iframe" key={index}>
-                    <div className="light">
-                        <div className="goal">{result.goal}</div>
-                    </div>
                     <iframe width="560" height="315" src={result.link.replace(/"/g, "")} title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
                     <div className="flex">
-                    <strong id="link">www.ovechkin.cam/?{result.goal}</strong>
-                    <button onClick={copyFunction} id="copy" title="Copy Link">Copy</button>
+                        <strong id="link">www.ovechkin.cam/?{result.goal}</strong>
+                        <button onClick={copyFunction} id="copy" title="Copy Link">Copy</button>
                     </div>
                 </div>
             ))}
