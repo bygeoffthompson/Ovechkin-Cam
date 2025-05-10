@@ -32,10 +32,17 @@ function SearchForm({jsonData}) {
         event.preventDefault();
     };
 
+    const copyFunction = (event) => {
+        var link = document.getElementById("link").innerHTML;
+        navigator.clipboard.writeText(link);
+    };
+
     const header = (
         <header>
-            <h1><a href="/">Watch Every Ovechkin Goal</a></h1>
-            <span className="record"></span>
+            <div>
+                <h1><a href="/">Watch Every Ovechkin Goal</a></h1>
+                <span className="record"></span>
+            </div>
         </header>
     );
 
@@ -63,6 +70,12 @@ function SearchForm({jsonData}) {
                         <div className="goal">{result.goal}</div>
                     </div>
                     <iframe width="560" height="315" src={result.link.replace(/"/g, "")} title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+                    <strong id="link">www.ovechkin.cam/?{result.goal}</strong>
+                    <button onClick={copyFunction} id="copy" title="Copy Link">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="currentColor" className="bi bi-copy" viewBox="0 0 16 16">
+                            <path fill-rule="evenodd" d="M4 2a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2zm2-1a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1zM2 5a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1v-1h1v1a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h1v1z"/>
+                        </svg>
+                    </button>
                 </div>
             ))}
             {footer}

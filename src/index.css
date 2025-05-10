@@ -1,11 +1,25 @@
+#copy {
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+  outline:0;
+}
+
+#link {
+  font-size: 1.125rem;
+}
+
 #root {
   box-sizing: border-box;
   max-width: 1000px;
   padding: 0 8px;
 }
 
-.acknowledgements {
-  cursor: default;
+.copy {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  justify-content: center;
 }
 
 .goal {
@@ -49,6 +63,14 @@
   width: 30px;
 }
 
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
 button[type="submit"] {
   display: none;
   height: 0;
@@ -72,11 +94,6 @@ footer {
 
 footer a {
   color: #fff;
-  text-decoration: none;
-}
-
-footer a:hover {
-  text-decoration: underline;
 }
 
 form {
@@ -89,10 +106,9 @@ h1 {
 
 h1 a {
   color: #041E42;
-  text-decoration: none;
 }
 
-header {
+header > div {
   align-items: center;
   box-sizing: border-box;
   display: flex;
@@ -108,6 +124,7 @@ iframe {
   border: 0;
   box-shadow: 0 1rem 3rem rgba(0,0,0,.5);
   height: auto;
+  margin: 0 0 2rem;
   max-width: 1000px;
   position: relative;
   width: 100% !important;
