@@ -35,6 +35,10 @@
   z-index: 1;
 }
 
+.loading {
+  opacity: .1;
+}
+
 .record {
   background-image: url(/public/record.gif);
   background-position: center;

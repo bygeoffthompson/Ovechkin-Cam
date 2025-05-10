@@ -1,4 +1,7 @@
 import React, {useState, useEffect} from 'react';
+import { BrowserRouter, Route, Routes, Link } from 'react-router-dom';
+import About from './About';
+import Thanks from './Thanks';
 
 function SearchForm({jsonData}) {
     const [searchTerm, setSearchTerm] = useState('');
@@ -34,8 +37,11 @@ function SearchForm({jsonData}) {
 
     const footer = (
         <footer>
-            <span className="acknowledgements" title="@Capitals, @EveryOvechkinGoal, @NHL895 and other embedded Youtube channels.">Acknowledgements</span>&nbsp;|&nbsp;
+            <a href="/about">About</a>
+            &nbsp;|&nbsp;
             <a href="https://x.com/bygeoffthompson" rel="noreferrer" target="_blank">Report an Error</a>
+            &nbsp;|&nbsp;
+            <a href="/thanks">Thanks</a>
         </footer>
     );
 
@@ -74,13 +80,19 @@ function App() {
     }, []);
 
     if (!data) {
-        return <div>Loading...</div>;
+        return <div className="loading">Loading...</div>;
     }
 
     return (
-        <div>
-            <SearchForm jsonData={data}/>
-        </div>
+        <BrowserRouter>
+            <div>
+                <SearchForm jsonData={data}/>
+            </div>
+            <Routes>
+                <Route path="/about" element={<About />} />
+                <Route path="/thanks" element={<Thanks />} />
+            </Routes>
+        </BrowserRouter>
     );
 }
 
