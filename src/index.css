@@ -33,6 +33,32 @@
   padding: 0 8px;
 }
 
+#note {
+  align-items: center;
+  display: none;
+  gap: 8px;
+  justify-content: center;
+  left: -30px;
+  margin-bottom: 8px;
+  pointer-events: none;
+  top: -50px;
+  z-index: 1;
+}
+
+#note > span {
+  background-color: transparent;
+  background-image: url(/public/sign.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 54px;
+  width: 54px;
+}
+
+#note[data-note] {
+  display: flex;
+}
+
 .copy {
   align-items: center;
   display: flex;
@@ -100,7 +126,7 @@ footer a {
 }
 
 form {
-  margin-bottom: 2rem;
+  margin-bottom: 4rem;
 }
 
 h1 {
@@ -203,6 +229,18 @@ div {
 }
 
 @media (min-width:992px) {
+  #note {
+    font-size: 1.5rem;
+    justify-content: start;
+    margin-top: -16px;
+    position: absolute;
+  }
+
+  #note span {
+    height: 100px;
+    width: 100px;
+  }
+
   #root {
     padding: 0;
   }

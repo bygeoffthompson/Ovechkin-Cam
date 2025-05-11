@@ -24,6 +24,8 @@ function SearchForm({jsonData}) {
         }
     }, [searchTerm, jsonData]);
 
+
+
     const handleInputChange = (event) => {
         setSearchTerm(event.target.value);
     };
@@ -65,7 +67,13 @@ function SearchForm({jsonData}) {
 
             {searchResults.map((result, index) => (
                 <div className="frame" key={index}>
-                    <iframe width="560" height="315" src={result.link.replace(/"/g, "")} title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+                    <div id="note" data-note={result.note} data-check={result.check} data-hat={result.hat} data-star={result.star}>
+                        <span><span></span></span>
+                        <strong>{result.text}</strong>
+                    </div>
+                    <iframe width="560" height="315" src={result.link.replace(/"/g, "")} title="YouTube video player"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                            referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
                     <div className="flex">
                         <strong id="link">https://www.ovechkin.cam/?{result.goal}</strong>
                         <button onClick={copyFunction} id="copy" title="Copy Link">Copy</button>
