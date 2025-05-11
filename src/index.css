@@ -24,6 +24,7 @@
 
 #link {
   font-size: 1.125rem;
+  user-select: text;
 }
 
 #root {
@@ -183,6 +184,7 @@ body {
   justify-content: center;
   margin: 0;
   text-align: center;
+  user-select: none;
   width: 100%;
 }
 
