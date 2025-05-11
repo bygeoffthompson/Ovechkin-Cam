@@ -64,7 +64,7 @@ function SearchForm({jsonData}) {
             </form>
 
             {searchResults.map((result, index) => (
-                <div className="iframe" key={index}>
+                <div className="frame" key={index}>
                     <iframe width="560" height="315" src={result.link.replace(/"/g, "")} title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
                     <div className="flex">
                         <strong id="link">https://www.ovechkin.cam/?{result.goal}</strong>
@@ -95,9 +95,9 @@ function App() {
     }
 
     return (
-            <div>
-                <SearchForm jsonData={data}/>
-            </div>
+        <div>
+            <SearchForm jsonData={data}/>
+        </div>
     );
 }
 

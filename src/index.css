@@ -45,15 +45,16 @@
   display: flex;
   gap: 6px;
   justify-content: center;
+  margin-bottom: 2rem;
+}
+
+.frame {
+  position: relative;
 }
 
 .goal-light {
   height: auto;
   width: 24px;
-}
-
-.iframe {
-  position: relative;
 }
 
 .loading {
