@@ -46,17 +46,37 @@
 }
 
 #note > span {
+  align-items: center;
   background-color: transparent;
   background-image: url(/public/sign.svg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  display: flex;
   height: 54px;
+  justify-content: center;
   width: 54px;
 }
 
 #note[data-note] {
   display: flex;
+}
+
+#note[data-note] > span > span {
+  background-color: transparent;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: block;
+  height: 22px;
+  margin-top: 8px;
+  position: relative;
+  z-index: 1;
+  width: 22px;
+}
+
+#note[data-bullseye] > span > span {
+  background-image: url(/public/bullseye.svg);
 }
 
 .copy {
@@ -241,7 +261,13 @@ div {
     width: 100px;
   }
 
-  #root {
+  #note[data-note] > span > span {
+    height: 44px;
+    margin-top: 18px;
+    width: 44px;
+  }
+
+    #root {
     padding: 0;
   }
 }

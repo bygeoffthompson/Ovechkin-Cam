@@ -7,7 +7,7 @@
     "goal": 1,
     "link": "https://www.youtube.com/embed/BoGOoO9WTOE?si=78xJy_OXwYKSNK4j",
     "note": true,
-    "text": "First Goal"
+    "text": "Welcome On Board"
   },
   {
     "goal": 2,
@@ -131,7 +131,9 @@
   },
   {
     "goal": 32,
-    "link": "https://www.youtube.com/embed/E82oUXP6Hng?si=VMZ8uH6APGX7repn"
+    "link": "https://www.youtube.com/embed/E82oUXP6Hng?si=VMZ8uH6APGX7repn",
+    "note": true,
+    "text": "Simply Sensational!"
   },
   {
     "goal": 33,
@@ -2819,7 +2821,10 @@
   },
   {
     "goal": 690,
-    "link": "https://www.youtube.com/embed/ThErKIJAxp8?si=yDb5N0wWyETbe-d0"
+    "link": "https://www.youtube.com/embed/ThErKIJAxp8?si=yDb5N0wWyETbe-d0",
+    "note": true,
+    "text": "Lemieux",
+    "bullseye": true
   },
   {
     "goal": 691,
@@ -2827,7 +2832,10 @@
   },
   {
     "goal": 692,
-    "link": "https://www.youtube.com/embed/F3QmnTStPJM?si=CR_GQY5MFNvGlAfQ"
+    "link": "https://www.youtube.com/embed/F3QmnTStPJM?si=CR_GQY5MFNvGlAfQ",
+    "note": true,
+    "text": "Yzerman",
+    "bullseye": true
   },
   {
     "goal": 693,
@@ -2835,7 +2843,10 @@
   },
   {
     "goal": 694,
-    "link": "https://www.youtube.com/embed/dMRfloiegWY?si=k0cMDoYgsqfPJfIc"
+    "link": "https://www.youtube.com/embed/dMRfloiegWY?si=k0cMDoYgsqfPJfIc",
+    "note": true,
+    "text": "Messier",
+    "bullseye": true
   },
   {
     "goal": 695,
@@ -2895,7 +2906,10 @@
   },
   {
     "goal": 708,
-    "link": "https://www.youtube.com/embed/71t2fiiqk54?si=KPkQlRSGwkQemm8D"
+    "link": "https://www.youtube.com/embed/71t2fiiqk54?si=KPkQlRSGwkQemm8D",
+    "note": true,
+    "text": "Gartner",
+    "bullseye": true
   },
   {
     "goal": 709,
@@ -2931,7 +2945,10 @@
   },
   {
     "goal": 717,
-    "link": "https://www.youtube.com/embed/cLOJDgfnIaA?si=wtXHdNSzcjnkY3FK"
+    "link": "https://www.youtube.com/embed/cLOJDgfnIaA?si=wtXHdNSzcjnkY3FK",
+    "note": true,
+    "text": "Esposito",
+    "bullseye": true
   },
   {
     "goal": 718,
@@ -2991,7 +3008,8 @@
     "goal": 731,
     "link": "https://www.youtube.com/embed/0jJECto6FRo?si=W77Tj8RbWR5P6VJD",
     "note": true,
-    "text": "First of Season 17"
+    "text": "Dionne",
+    "bullseye": true
   },
   {
     "goal": 732,
@@ -3031,7 +3049,10 @@
   },
   {
     "goal": 741,
-    "link": "https://www.youtube.com/embed/zFljJO1r0Dc?si=yQXzW2P9vK2_PmS6"
+    "link": "https://www.youtube.com/embed/zFljJO1r0Dc?si=yQXzW2P9vK2_PmS6",
+    "note": true,
+    "text": "Hull",
+    "bullseye": true
   },
   {
     "goal": 742,
@@ -3131,7 +3152,10 @@
   },
   {
     "goal": 766,
-    "link": "https://www.youtube.com/embed/nCKoKyiKWJo?si=mr4VzQguK_dp-NdG"
+    "link": "https://www.youtube.com/embed/nCKoKyiKWJo?si=mr4VzQguK_dp-NdG",
+    "note": true,
+    "text": "Jagr",
+    "bullseye": true
   },
   {
     "goal": 767,
@@ -3275,7 +3299,10 @@
   },
   {
     "goal": 801,
-    "link": "https://www.youtube.com/embed/jf8p8yd0zrs?si=vhep7No6tWW3FxXg"
+    "link": "https://www.youtube.com/embed/jf8p8yd0zrs?si=vhep7No6tWW3FxXg",
+    "note": true,
+    "text": "Howe",
+    "bullseye": true
   },
   {
     "goal": 802,
@@ -3655,11 +3682,16 @@
   },
   {
     "goal": 894,
-    "link": "https://www.youtube.com/embed/0Wi35sZLH10?si=OpYvCoYbcIx8qb_0"
+    "link": "https://www.youtube.com/embed/0Wi35sZLH10?si=OpYvCoYbcIx8qb_0",
+    "note": true,
+    "text": "Gretzky",
+    "bullseye": true
   },
   {
     "goal": 895,
-    "link": "https://www.youtube.com/embed/S4DvTs8vveI?si=U7Gmvs36ke_qz4Cp"
+    "link": "https://www.youtube.com/embed/S4DvTs8vveI?si=U7Gmvs36ke_qz4Cp",
+    "note": true,
+    "text": "The Chasing Days Are Done!"
   },
   {
     "goal": 896,
