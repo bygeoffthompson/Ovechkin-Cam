@@ -182,7 +182,6 @@ body {
   flex-direction: column;
   justify-content: center;
   margin: 0;
-  overflow: hidden;
   text-align: center;
   width: 100%;
 }
