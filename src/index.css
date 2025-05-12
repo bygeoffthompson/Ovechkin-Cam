@@ -64,11 +64,11 @@
   width: 54px;
 }
 
-#note[data-icon] {
+#note[class] {
   opacity: 1;
 }
 
-#note[data-icon] > span > span {
+#icon {
   background-color: transparent;
   background-position: center;
   background-repeat: no-repeat;
@@ -81,38 +81,42 @@
   width: 22px;
 }
 
-#note[data-bookmark] > span > span {
+.bookmark #icon {
   background-image: url(/public/bookmark.svg);
   height: 24px;
   margin-left: 1px;
   width: 14px;
 }
 
-#note[data-bullseye] > span > span {
+.bullseye #icon {
   background-image: url(/public/bullseye.svg);
 }
 
-#note[data-fifty] > span > span {
+.fifty #icon {
   background-image: url(/public/fifty.svg);
 }
 
-#note[data-four] > span > span {
+.forty #icon {
+  background-image: url(/public/forty.svg);
+}
+
+.four #icon {
   background-image: url(/public/four.svg);
 }
 
-#note[data-hat] > span > span {
+.hat #icon {
   background-image: url(/public/hat.svg);
 }
 
-#note[data-sixty] > span > span {
+.sixty #icon {
   background-image: url(/public/sixty.svg);
 }
 
-#note[data-trophy] > span > span {
+.trophy #icon {
   background-image: url(/public/trophy.svg);
 }
 
-#note[data-mega] > span > span {
+.mega #icon {
   background-image: url(/public/mega.svg);
   height: 18px;
   margin-right: 1px;
@@ -296,7 +300,7 @@ div {
     position: absolute;
   }
 
-  #note span {
+  #note > span {
     height: 100px;
     width: 100px;
   }
@@ -305,18 +309,23 @@ div {
     font-size: 1.5rem;
   }
 
-  #note[data-icon] > span > span {
+  #icon {
     height: 44px;
     margin-top: 18px;
     width: 44px;
   }
 
-  #note[data-hat] > span > span {
+  .bookmark #icon {
+    height: 36px;
+    width: 24px;
+  }
+
+  .hat #icon {
     height: 50px;
     width: 60px;
   }
 
-  #note[data-mega] > span > span {
+  .mega #icon {
     height: 32px;
     margin-right: 4px;
     width: 40px;

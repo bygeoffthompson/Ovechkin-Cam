@@ -67,8 +67,8 @@ function SearchForm({jsonData}) {
 
             {searchResults.map((result, index) => (
                 <div className="frame" key={index}>
-                    <div id="note" data-icon={result.icon} data-bookmark={result.bookmark} data-bullseye={result.bullseye} data-fifty={result.fifty} data-four={result.four} data-hat={result.hat} data-mega={result.mega} data-sixty={result.sixty} data-trophy={result.trophy}>
-                        <span><span></span></span>
+                    <div id="note" className={result.icon}>
+                        <span><span id="icon"></span></span>
                         <strong>{result.text}</strong>
                     </div>
                     <iframe width="560" height="315" src={result.link.replace(/"/g, "")} title="YouTube video player"
