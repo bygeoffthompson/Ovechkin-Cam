@@ -45,6 +45,10 @@
   z-index: 1;
 }
 
+#note strong {
+  font-size: 1.25rem;
+}
+
 #note > span {
   align-items: center;
   background-color: transparent;
@@ -75,8 +79,30 @@
   width: 22px;
 }
 
+#note[data-bookmark] > span > span {
+  background-image: url(/public/bookmark.svg);
+  height: 24px;
+  margin-left: 1px;
+  width: 14px;
+}
+
 #note[data-bullseye] > span > span {
   background-image: url(/public/bullseye.svg);
+}
+
+#note[data-four] > span > span {
+  background-image: url(/public/four.svg);
+}
+
+#note[data-hat] > span > span {
+  background-image: url(/public/hat.svg);
+}
+
+#note[data-mega] > span > span {
+  background-image: url(/public/mega.svg);
+  height: 18px;
+  margin-right: 1px;
+  width: 20px;
 }
 
 .copy {
@@ -252,7 +278,7 @@ div {
   #note {
     font-size: 1.5rem;
     justify-content: start;
-    margin-top: -16px;
+    margin-top: -24px;
     position: absolute;
   }
 
@@ -261,10 +287,25 @@ div {
     width: 100px;
   }
 
+  #note strong {
+    font-size: 2rem;
+  }
+
   #note[data-note] > span > span {
     height: 44px;
     margin-top: 18px;
     width: 44px;
+  }
+
+  #note[data-hat] > span > span {
+    height: 50px;
+    width: 60px;
+  }
+
+  #note[data-mega] > span > span {
+    height: 32px;
+    margin-right: 4px;
+    width: 40px;
   }
 
     #root {

@@ -67,7 +67,7 @@ function SearchForm({jsonData}) {
 
             {searchResults.map((result, index) => (
                 <div className="frame" key={index}>
-                    <div id="note" data-note={result.note} data-bullseye={result.bullseye}>
+                    <div id="note" data-note={result.note} data-bookmark={result.bookmark} data-bullseye={result.bullseye} data-four={result.four} data-hat={result.hat} data-mega={result.mega}>
                         <span><span></span></span>
                         <strong>{result.text}</strong>
                     </div>
