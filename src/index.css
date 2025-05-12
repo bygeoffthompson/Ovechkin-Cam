@@ -62,11 +62,11 @@
   width: 54px;
 }
 
-#note[data-note] {
+#note[data-icon] {
   display: flex;
 }
 
-#note[data-note] > span > span {
+#note[data-icon] > span > span {
   background-color: transparent;
   background-position: center;
   background-repeat: no-repeat;
@@ -90,12 +90,24 @@
   background-image: url(/public/bullseye.svg);
 }
 
+#note[data-fifty] > span > span {
+  background-image: url(/public/fifty.svg);
+}
+
 #note[data-four] > span > span {
   background-image: url(/public/four.svg);
 }
 
 #note[data-hat] > span > span {
   background-image: url(/public/hat.svg);
+}
+
+#note[data-sixty] > span > span {
+  background-image: url(/public/sixty.svg);
+}
+
+#note[data-trophy] > span > span {
+  background-image: url(/public/trophy.svg);
 }
 
 #note[data-mega] > span > span {
@@ -288,10 +300,10 @@ div {
   }
 
   #note strong {
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
 
-  #note[data-note] > span > span {
+  #note[data-icon] > span > span {
     height: 44px;
     margin-top: 18px;
     width: 44px;
@@ -308,7 +320,7 @@ div {
     width: 40px;
   }
 
-    #root {
+  #root {
     padding: 0;
   }
 }

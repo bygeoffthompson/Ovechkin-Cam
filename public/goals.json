@@ -6,7 +6,7 @@
   {
     "goal": 1,
     "link": "https://www.youtube.com/embed/BoGOoO9WTOE?si=78xJy_OXwYKSNK4j",
-    "note": true,
+    "icon": true,
     "text": "Welcome On Board",
     "mega": true
   },
@@ -125,7 +125,7 @@
   {
     "goal": 30,
     "link": "https://www.youtube.com/embed/PHWGjGxHbP8?si=BsWqFqWOoOmWSu08",
-    "note": true,
+    "icon": true,
     "text": "Hat Trick",
     "hat": true
   },
@@ -136,7 +136,7 @@
   {
     "goal": 32,
     "link": "https://www.youtube.com/embed/E82oUXP6Hng?si=VMZ8uH6APGX7repn",
-    "note": true,
+    "icon": true,
     "text": "Simply Sensational!",
     "mega": true
   },
@@ -210,7 +210,9 @@
   },
   {
     "goal": 50,
-    "link": "https://www.youtube.com/embed/5yXW_0DlUnA?si=-MBQREkytTx5NWIJ"
+    "link": "https://www.youtube.com/embed/5yXW_0DlUnA?si=-MBQREkytTx5NWIJ",
+    "icon": true,
+    "fifty": true
   },
   {
     "goal": 51,
@@ -219,14 +221,14 @@
   {
     "goal": 52,
     "link": "https://www.youtube.com/embed/bjH8rkA_N3Q?si=ZEYE2EVGaeqFzGPU",
-    "note": true,
+    "icon": true,
     "text": "Last of Season 1",
     "bookmark": true
   },
   {
     "goal": 53,
     "link": "https://www.youtube.com/embed/o3LfzB3qF2U?si=lcsZPaEIoqLFhR_c",
-    "note": true,
+    "icon": true,
     "text": "First of Season 2",
     "bookmark": true
   },
@@ -309,7 +311,7 @@
   {
     "goal": 73,
     "link": "https://www.youtube.com/embed/SKqyd_OLm1M?si=GV9u7Z3vABRxKv4j",
-    "note": true,
+    "icon": true,
     "text": "Hat Trick",
     "hat": true
   },
@@ -412,20 +414,22 @@
   {
     "goal": 98,
     "link": "https://www.youtube.com/embed/5eD_RVDj7xc?si=QxPPimeo6qTi__UX",
-    "note": true,
+    "icon": true,
     "text": "Last of Season 2",
     "bookmark": true
   },
   {
     "goal": 99,
     "link": "https://www.youtube.com/embed/3Ux6RrGKc1c?si=QCf4QyxH7eANx-vO",
-    "note": true,
+    "icon": true,
     "text": "First of Season 3",
     "bookmark": true
   },
   {
     "goal": 100,
-    "link": "https://www.youtube.com/embed/F7jFSVOVWyU?si=6QMMch4EXgc41wMg"
+    "link": "https://www.youtube.com/embed/F7jFSVOVWyU?si=6QMMch4EXgc41wMg",
+    "icon": true,
+    "trophy": true
   },
   {
     "goal": 101,
@@ -534,14 +538,14 @@
   {
     "goal": 127,
     "link": "https://www.youtube.com/embed/58fbvKXDm7k?si=focnYiPVvfPN699l",
-    "note": true,
+    "icon": true,
     "text": "Hat Trick",
     "hat": true
   },
   {
     "goal": 128,
     "link": "https://www.youtube.com/embed/tTinu1k8INg?si=p68Dr-drk4_P1jpP",
-    "note": true,
+    "icon": true,
     "four": true
   },
   {
@@ -591,14 +595,14 @@
   {
     "goal": 140,
     "link": "https://www.youtube.com/embed/sQ9an3LItfM?si=aRyHioySLmYc0fdW",
-    "note": true,
+    "icon": true,
     "text": "Hat Trick",
     "hat": true
   },
   {
     "goal": 141,
     "link": "https://www.youtube.com/embed/8h4SRDJU-Fo?si=eFlyw_1x2xZrVCI6",
-    "note": true,
+    "icon": true,
     "four": true
   },
   {
@@ -627,7 +631,9 @@
   },
   {
     "goal": 148,
-    "link": "https://www.youtube.com/embed/CjszjUgvFNQ?si=KqTwmLFlEwaSeJJK"
+    "link": "https://www.youtube.com/embed/CjszjUgvFNQ?si=KqTwmLFlEwaSeJJK",
+    "icon": true,
+    "fifty": true
   },
   {
     "goal": 149,
@@ -636,7 +642,7 @@
   {
     "goal": 150,
     "link": "https://www.youtube.com/embed/hkUTlg9lKWE?si=5rUjB4hNdEAXduWm",
-    "note": true,
+    "icon": true,
     "text": "Hat Trick",
     "hat": true
   },
@@ -670,7 +676,9 @@
   },
   {
     "goal": 158,
-    "link": "https://www.youtube.com/embed/zP6ghtjRiZs?si=_UOQ7v8jpQ5EZvVP&amp;start=1155"
+    "link": "https://www.youtube.com/embed/ZU30LDf1bMQ?si=hYh147x4675c5CgU",
+    "icon": true,
+    "sixty": true
   },
   {
     "goal": 159,
@@ -691,14 +699,14 @@
   {
     "goal": 163,
     "link": "https://www.youtube.com/embed/zP6ghtjRiZs?si=_UOQ7v8jpQ5EZvVP&amp;start=1312",
-    "note": true,
+    "icon": true,
     "text": "Last of Season 3",
     "bookmark": true
   },
   {
     "goal": 164,
     "link": "https://www.youtube.com/embed/a-eEmLFJ74g?si=6ZHtkJusD97abLWv",
-    "note": true,
+    "icon": true,
     "text": "First of Season 4",
     "bookmark": true
   },
@@ -745,7 +753,7 @@
   {
     "goal": 175,
     "link": "https://www.youtube.com/embed/kmwnfuj0cXY?si=PSY2pqEzogy5-qb-",
-    "note": true,
+    "icon": true,
     "text": "Hat Trick",
     "hat": true
   },
@@ -844,13 +852,15 @@
   {
     "goal": 199,
     "link": "https://www.youtube.com/embed/AoOpMajgq_M?si=e1OIw0RHKsffJxwG",
-    "note": true,
+    "icon": true,
     "text": "Hat Trick",
     "hat": true
   },
   {
     "goal": 200,
-    "link": "https://www.youtube.com/embed/k2_BOouSyMA?si=qMoQ4yhtE14x17Sw"
+    "link": "https://www.youtube.com/embed/k2_BOouSyMA?si=qMoQ4yhtE14x17Sw",
+    "icon": true,
+    "trophy": true
   },
   {
     "goal": 201,
@@ -867,7 +877,7 @@
   {
     "goal": 204,
     "link": "https://www.youtube.com/embed/3lqUJ7MxJgM?si=cUVzC_X20W1Sgr4F",
-    "note": true,
+    "icon": true,
     "text": "Hat Trick",
     "hat": true
   },
@@ -905,7 +915,9 @@
   },
   {
     "goal": 213,
-    "link": "https://www.youtube.com/embed/a-eEmLFJ74g?si=6ZHtkJusD97abLWv&amp;start=1278"
+    "link": "https://www.youtube.com/embed/XApANGDaTE4?si=3ex6qRjJISPc7Y9u",
+    "icon": true,
+    "fifty": true
   },
   {
     "goal": 214,
@@ -930,14 +942,14 @@
   {
     "goal": 219,
     "link": "https://www.youtube.com/embed/mtbCDO4vPuI?si=1yq22Z_IAnfZfiIa",
-    "note": true,
+    "icon": true,
     "text": "Last of Season 4",
     "bookmark": true
   },
   {
     "goal": 220,
     "link": "https://www.youtube.com/embed/lM1viOPnC44?si=zR4CJh1fYr1Byw7a",
-    "note": true,
+    "icon": true,
     "text": "First of Season 5",
     "bookmark": true
   },
@@ -1096,7 +1108,7 @@
   {
     "goal": 259,
     "link": "https://www.youtube.com/embed/SfJGLZCNk_g?si=i5r4V4khenPaC-ST",
-    "note": true,
+    "icon": true,
     "text": "He Shattered The Goal Cam",
     "mega": true
   },
@@ -1107,7 +1119,7 @@
   {
     "goal": 261,
     "link": "https://www.youtube.com/embed/S-M3kn-hQSM?si=6GSBXcJWFQrzg4Qw",
-    "note": true,
+    "icon": true,
     "text": "Hat Trick",
     "hat": true
   },
@@ -1141,15 +1153,14 @@
   },
   {
     "goal": 269,
-    "link": "https://www.youtube.com/embed/lM1viOPnC44?si=zR4CJh1fYr1Byw7a&amp;start=1542",
-    "note": true,
-    "text": "Last of Season 5",
-    "bookmark": true
+    "link": "https://www.youtube.com/embed/ugZoaYF8EJs?si=9S0iXlVGPdTT76wc",
+    "icon": true,
+    "fifty": true
   },
   {
     "goal": 270,
     "link": "https://www.youtube.com/embed/7E3PI1H3Grs?si=g-70KbkQ3Yf0xHp1",
-    "note": true,
+    "icon": true,
     "text": "First of Season 6",
     "bookmark": true
   },
@@ -1224,7 +1235,7 @@
   {
     "goal": 288,
     "link": "https://www.youtube.com/embed/CkM0rKUtpTI?si=BD_izPcagQDY0uHG",
-    "note": true,
+    "icon": true,
     "text": "Hat Trick",
     "hat": true
   },
@@ -1274,19 +1285,21 @@
   },
   {
     "goal": 300,
-    "link": "https://www.youtube.com/embed/5AkDUH0NrY4?si=rARvq-nJfhe7K0--"
+    "link": "https://www.youtube.com/embed/5AkDUH0NrY4?si=rARvq-nJfhe7K0--",
+    "icon": true,
+    "trophy": true
   },
   {
     "goal": 301,
     "link": "https://www.youtube.com/embed/8chz5FBwPm0?si=H8DOoGE6SOS6ZOqU",
-    "note": true,
+    "icon": true,
     "text": "Last of Season 6",
     "bookmark": true
   },
   {
     "goal": 302,
     "link": "https://www.youtube.com/embed/Q7yvDdQP9Z8?si=oCKtQ6R2tf1D1ESe",
-    "note": true,
+    "icon": true,
     "text": "First of Season 7",
     "bookmark": true
   },
@@ -1437,14 +1450,14 @@
   {
     "goal": 339,
     "link": "https://www.youtube.com/embed/Q7yvDdQP9Z8?si=oCKtQ6R2tf1D1ESe&amp;start=1220",
-    "note": true,
+    "icon": true,
     "text": "Last of Season 7",
     "bookmark": true
   },
   {
     "goal": 340,
     "link": "https://www.youtube.com/embed/BOkrYFo5P0w?si=dg2Bt7YOhji0sRSk",
-    "note": true,
+    "icon": true,
     "text": "First of Season 8",
     "bookmark": true
   },
@@ -1470,11 +1483,14 @@
   },
   {
     "goal": 346,
-    "link": "https://www.youtube.com/embed/BOkrYFo5P0w?si=dg2Bt7YOhji0sRSk&amp;start=171"
+    "link": "https://www.youtube.com/embed/HBtUu2VoIyA?si=PBdNeIFerr4Mabiv"
   },
   {
     "goal": 347,
-    "link": "https://www.youtube.com/embed/PeUR9NFjIFA?si=yHN4xglnRojnbV2Z"
+    "link": "https://www.youtube.com/embed/PeUR9NFjIFA?si=yHN4xglnRojnbV2Z",
+    "icon": true,
+    "text": "Hat Trick",
+    "hat": true
   },
   {
     "goal": 348,
@@ -1534,7 +1550,10 @@
   },
   {
     "goal": 362,
-    "link": "https://www.youtube.com/embed/BOkrYFo5P0w?si=dg2Bt7YOhji0sRSk&amp;start=726"
+    "link": "https://www.youtube.com/embed/hUsKr9kIcbg?si=YgpGxdUqWeSJIA7j",
+    "icon": true,
+    "text": "Hat Trick",
+    "hat": true
   },
   {
     "goal": 363,
@@ -1571,14 +1590,14 @@
   {
     "goal": 371,
     "link": "https://www.youtube.com/embed/BOkrYFo5P0w?si=dg2Bt7YOhji0sRSk&amp;start=1085",
-    "note": true,
+    "icon": true,
     "text": "Last of Season 8",
     "bookmark": true
   },
   {
     "goal": 372,
     "link": "https://www.youtube.com/embed/7JC2zT5gczM?si=GHqKxo2Ipj5Ch4o4",
-    "note": true,
+    "icon": true,
     "text": "First of Season 9",
     "bookmark": true
   },
@@ -1676,7 +1695,10 @@
   },
   {
     "goal": 396,
-    "link": "https://www.youtube.com/embed/QLW052pVdq0?si=IS2TakSyqd4Df26N"
+    "link": "https://www.youtube.com/embed/QLW052pVdq0?si=IS2TakSyqd4Df26N",
+    "icon": true,
+    "text": "Hat Trick",
+    "hat": true
   },
   {
     "goal": 397,
@@ -1692,7 +1714,9 @@
   },
   {
     "goal": 400,
-    "link": "https://www.youtube.com/embed/tQOggNAEmp0?si=TfjTJ2TO1sNh_98k"
+    "link": "https://www.youtube.com/embed/tQOggNAEmp0?si=TfjTJ2TO1sNh_98k",
+    "icon": true,
+    "trophy": true
   },
   {
     "goal": 401,
@@ -1776,19 +1800,21 @@
   },
   {
     "goal": 421,
-    "link": "https://www.youtube.com/embed/7JC2zT5gczM?si=GHqKxo2Ipj5Ch4o4&amp;start=1908"
+    "link": "https://www.youtube.com/embed/YV9TiIgBJcU?si=dvRMu4tLs43yVvvo",
+    "icon": true,
+    "fifty": true
   },
   {
     "goal": 422,
     "link": "https://www.youtube.com/embed/7JC2zT5gczM?si=GHqKxo2Ipj5Ch4o4&amp;start=1959",
-    "note": true,
+    "icon": true,
     "text": "Last of Season 9",
     "bookmark": true
   },
   {
     "goal": 423,
     "link": "https://www.youtube.com/embed/PNXKKES6zxI?si=KY5lzHcNFoo0MxAo",
-    "note": true,
+    "icon": true,
     "text": "First of Season 10",
     "bookmark": true
   },
@@ -1986,7 +2012,9 @@
   },
   {
     "goal": 472,
-    "link": "https://www.youtube.com/embed/PNXKKES6zxI?si=KY5lzHcNFoo0MxAo&amp;start=1845"
+    "link": "https://www.youtube.com/embed/7hJuboUgzs0?si=PG0cN2Ex49vaiXJ5",
+    "icon": true,
+    "fifty": true
   },
   {
     "goal": 473,
@@ -1999,14 +2027,14 @@
   {
     "goal": 475,
     "link": "https://www.youtube.com/embed/nJ5i_pWsAtc?si=09tVf9OZZzmGa3on",
-    "note": true,
+    "icon": true,
     "text": "Last of Season 10",
     "bookmark": true
   },
   {
     "goal": 476,
     "link": "https://www.youtube.com/embed/l65ZATmF5Hw?si=ORTFAAed-kcd61k_",
-    "note": true,
+    "icon": true,
     "text": "First of Season 11",
     "bookmark": true
   },
@@ -2104,7 +2132,9 @@
   },
   {
     "goal": 500,
-    "link": "https://www.youtube.com/embed/YxUVWBSPv_4?si=LV28ZbxQa0WyfMH9"
+    "link": "https://www.youtube.com/embed/YxUVWBSPv_4?si=LV28ZbxQa0WyfMH9",
+    "icon": true,
+    "trophy": true
   },
   {
     "goal": 501,
@@ -2140,7 +2170,10 @@
   },
   {
     "goal": 509,
-    "link": "https://www.youtube.com/embed/KAy-3VsBVJQ?si=jfsTbi0WsbH8sVBL"
+    "link": "https://www.youtube.com/embed/KAy-3VsBVJQ?si=jfsTbi0WsbH8sVBL",
+    "icon": true,
+    "text": "Hat Trick",
+    "hat": true
   },
   {
     "goal": 510,
@@ -2205,14 +2238,13 @@
   {
     "goal": 525,
     "link": "https://www.youtube.com/embed/7AAhV-wUuqY?si=-o7no9PxWXJKSHHW",
-    "note": true,
-    "text": "Last of Season 11",
-    "bookmark": true
+    "icon": true,
+    "fifty": true
   },
   {
     "goal": 526,
     "link": "https://www.youtube.com/embed/lNBIMQSpa0c?si=q9RtmOE6RpT2OLGw",
-    "note": true,
+    "icon": true,
     "text": "First of Season 12",
     "bookmark": true
   },
@@ -2258,7 +2290,10 @@
   },
   {
     "goal": 537,
-    "link": "https://www.youtube.com/embed/jSqZ29H-Wck?si=TNdBjrNC4mmlpeoT"
+    "link": "https://www.youtube.com/embed/jSqZ29H-Wck?si=TNdBjrNC4mmlpeoT",
+    "icon": true,
+    "text": "Hat Trick",
+    "hat": true
   },
   {
     "goal": 538,
@@ -2343,14 +2378,14 @@
   {
     "goal": 558,
     "link": "https://www.youtube.com/embed/p-lcPHYHPVk?si=hlZtTIr4QXXltqlr",
-    "note": true,
-    "text": "Last of Season 12",
-    "bookmark": true
+    "icon": true,
+    "text": "Hat Trick",
+    "hat": true
   },
   {
     "goal": 559,
     "link": "https://www.youtube.com/embed/IAdASKPvNp4?si=8TllBE9boZajSUn4",
-    "note": true,
+    "icon": true,
     "text": "First of Season 13",
     "bookmark": true
   },
@@ -2360,7 +2395,10 @@
   },
   {
     "goal": 561,
-    "link": "https://www.youtube.com/embed/Ozq8QpQtmjI?si=TNqBAQP2EOu39TLv"
+    "link": "https://www.youtube.com/embed/Ozq8QpQtmjI?si=TNqBAQP2EOu39TLv",
+    "icon": true,
+    "text": "Hat Trick",
+    "hat": true
   },
   {
     "goal": 562,
@@ -2372,11 +2410,16 @@
   },
   {
     "goal": 564,
-    "link": "https://www.youtube.com/embed/nJa-7Om_on4?si=9qHa7EBowI2jyEMS"
+    "link": "https://www.youtube.com/embed/nJa-7Om_on4?si=9qHa7EBowI2jyEMS",
+    "icon": true,
+    "text": "Hat Trick",
+    "hat": true
   },
   {
     "goal": 565,
-    "link": "https://www.youtube.com/embed/F46JbM9mAgI?si=KGFqWoSFx0DiJ86L"
+    "link": "https://www.youtube.com/embed/F46JbM9mAgI?si=KGFqWoSFx0DiJ86L",
+    "icon": true,
+    "four": true
   },
   {
     "goal": 566,
@@ -2420,7 +2463,10 @@
   },
   {
     "goal": 576,
-    "link": "https://www.youtube.com/embed/zm0nd76X2aY?si=xpxQVYXWdF2NyYhC"
+    "link": "https://www.youtube.com/embed/zm0nd76X2aY?si=xpxQVYXWdF2NyYhC",
+    "icon": true,
+    "text": "Hat Trick",
+    "hat": true
   },
   {
     "goal": 577,
@@ -2516,7 +2562,9 @@
   },
   {
     "goal": 600,
-    "link": "https://www.youtube.com/embed/sM2vVyx0oa8?si=1B-YAbfTXe0hmePL"
+    "link": "https://www.youtube.com/embed/sM2vVyx0oa8?si=1B-YAbfTXe0hmePL",
+    "icon": true,
+    "trophy": true
   },
   {
     "goal": 601,
@@ -2545,14 +2593,14 @@
   {
     "goal": 607,
     "link": "https://www.youtube.com/embed/CAyfV6I9_ow?si=hXKZ_y8pp_I9_MPs",
-    "note": true,
+    "icon": true,
     "text": "Last of Season 13",
     "bookmark": true
   },
   {
     "goal": 608,
     "link": "https://www.youtube.com/embed/LC-lw9zIwbo?si=4a2NhtoPrvastaBg",
-    "note": true,
+    "icon": true,
     "text": "First of Season 14",
     "bookmark": true
   },
@@ -2650,7 +2698,10 @@
   },
   {
     "goal": 632,
-    "link": "https://www.youtube.com/embed/F5-6jSwab2I?si=alVX5Dk1GSMYpwou"
+    "link": "https://www.youtube.com/embed/F5-6jSwab2I?si=alVX5Dk1GSMYpwou",
+    "icon": true,
+    "text": "Hat Trick",
+    "hat": true
   },
   {
     "goal": 633,
@@ -2662,7 +2713,10 @@
   },
   {
     "goal": 635,
-    "link": "https://www.youtube.com/embed/zmngvH1X42I?si=BEzTfIU_2in_uGlu"
+    "link": "https://www.youtube.com/embed/zmngvH1X42I?si=BEzTfIU_2in_uGlu",
+    "icon": true,
+    "text": "Hat Trick",
+    "hat": true
   },
   {
     "goal": 636,
@@ -2694,7 +2748,10 @@
   },
   {
     "goal": 643,
-    "link": "https://www.youtube.com/embed/85EU7KGMNeY?si=QFozGJbotfT8nmp3"
+    "link": "https://www.youtube.com/embed/85EU7KGMNeY?si=QFozGJbotfT8nmp3",
+    "icon": true,
+    "text": "Hat Trick",
+    "hat": true
   },
   {
     "goal": 644,
@@ -2750,19 +2807,21 @@
   },
   {
     "goal": 657,
-    "link": "https://www.youtube.com/embed/jDxTt5jqh0M?si=4TnmMalB0xv1PFba"
+    "link": "https://www.youtube.com/embed/jDxTt5jqh0M?si=4TnmMalB0xv1PFba",
+    "icon": true,
+    "fifty": true
   },
   {
     "goal": 658,
     "link": "https://www.youtube.com/embed/wVF-ChKmQFA?si=jl_criI-2UCVCtBJ",
-    "note": true,
+    "icon": true,
     "text": "Last of Season 14",
     "bookmark": true
   },
   {
     "goal": 659,
     "link": "https://www.youtube.com/embed/2_ffZriINV8?si=zXMPKRwQ4BBXuYNb",
-    "note": true,
+    "icon": true,
     "text": "First of Season 15",
     "bookmark": true
   },
@@ -2840,7 +2899,10 @@
   },
   {
     "goal": 678,
-    "link": "https://www.youtube.com/embed/hK7KnNlWCFE?si=Hld3YkS4PKUV0lXl"
+    "link": "https://www.youtube.com/embed/hK7KnNlWCFE?si=Hld3YkS4PKUV0lXl",
+    "icon": true,
+    "text": "Hat Trick",
+    "hat": true
   },
   {
     "goal": 679,
@@ -2884,12 +2946,15 @@
   },
   {
     "goal": 689,
-    "link": "https://www.youtube.com/embed/4K92Nc6Rrgg?si=FnW6efs6UKuig4Fk"
+    "link": "https://www.youtube.com/embed/4K92Nc6Rrgg?si=FnW6efs6UKuig4Fk",
+    "icon": true,
+    "text": "Hat Trick",
+    "hat": true
   },
   {
     "goal": 690,
     "link": "https://www.youtube.com/embed/ThErKIJAxp8?si=yDb5N0wWyETbe-d0",
-    "note": true,
+    "icon": true,
     "text": "Lemieux",
     "bullseye": true
   },
@@ -2900,7 +2965,7 @@
   {
     "goal": 692,
     "link": "https://www.youtube.com/embed/F3QmnTStPJM?si=CR_GQY5MFNvGlAfQ",
-    "note": true,
+    "icon": true,
     "text": "Yzerman",
     "bullseye": true
   },
@@ -2911,7 +2976,7 @@
   {
     "goal": 694,
     "link": "https://www.youtube.com/embed/dMRfloiegWY?si=k0cMDoYgsqfPJfIc",
-    "note": true,
+    "icon": true,
     "text": "Messier",
     "bullseye": true
   },
@@ -2929,7 +2994,10 @@
   },
   {
     "goal": 698,
-    "link": "https://www.youtube.com/embed/NSTIP_cSOmc?si=3qtRfVwyiwhbovvA"
+    "link": "https://www.youtube.com/embed/NSTIP_cSOmc?si=3qtRfVwyiwhbovvA",
+    "icon": true,
+    "text": "Hat Trick",
+    "hat": true
   },
   {
     "goal": 699,
@@ -2962,21 +3030,21 @@
   {
     "goal": 706,
     "link": "https://www.youtube.com/embed/RQy7yBQ9E4o?si=2_eruAFDLepOyl1W",
-    "note": true,
+    "icon": true,
     "text": "Last of Season 15",
     "bookmark": true
   },
   {
     "goal": 707,
     "link": "https://www.youtube.com/embed/Xq2m0AAqrrA?si=8RpNtat1SoC2Akw7",
-    "note": true,
+    "icon": true,
     "text": "First of Season 16",
     "bookmark": true
   },
   {
     "goal": 708,
     "link": "https://www.youtube.com/embed/71t2fiiqk54?si=KPkQlRSGwkQemm8D",
-    "note": true,
+    "icon": true,
     "text": "Gartner",
     "bullseye": true
   },
@@ -3015,7 +3083,7 @@
   {
     "goal": 717,
     "link": "https://www.youtube.com/embed/cLOJDgfnIaA?si=wtXHdNSzcjnkY3FK",
-    "note": true,
+    "icon": true,
     "text": "Esposito",
     "bullseye": true
   },
@@ -3070,14 +3138,14 @@
   {
     "goal": 730,
     "link": "https://www.youtube.com/embed/qOGmGX4QMHc?si=dt0yqgp1SOFC2hwg",
-    "note": true,
+    "icon": true,
     "text": "Last of Season 16",
     "bookmark": true
   },
   {
     "goal": 731,
     "link": "https://www.youtube.com/embed/0jJECto6FRo?si=W77Tj8RbWR5P6VJD",
-    "note": true,
+    "icon": true,
     "text": "Dionne",
     "bullseye": true
   },
@@ -3120,7 +3188,7 @@
   {
     "goal": 741,
     "link": "https://www.youtube.com/embed/zFljJO1r0Dc?si=yQXzW2P9vK2_PmS6",
-    "note": true,
+    "icon": true,
     "text": "Hull",
     "bullseye": true
   },
@@ -3150,7 +3218,10 @@
   },
   {
     "goal": 748,
-    "link": "https://www.youtube.com/embed/iCSI3kTYWG0?si=jyxLARao_vzYlCr6"
+    "link": "https://www.youtube.com/embed/iCSI3kTYWG0?si=jyxLARao_vzYlCr6",
+    "icon": true,
+    "text": "Hat Trick",
+    "hat": true
   },
   {
     "goal": 749,
@@ -3223,7 +3294,7 @@
   {
     "goal": 766,
     "link": "https://www.youtube.com/embed/nCKoKyiKWJo?si=mr4VzQguK_dp-NdG",
-    "note": true,
+    "icon": true,
     "text": "Jagr",
     "bullseye": true
   },
@@ -3282,14 +3353,13 @@
   {
     "goal": 780,
     "link": "https://www.youtube.com/embed/NCo2ycLKGxQ?si=1cfag75C6itL2-OV",
-    "note": true,
-    "text": "Last of Season 17",
-    "bookmark": true
+    "icon": true,
+    "fifty": true
   },
   {
     "goal": 781,
     "link": "https://www.youtube.com/embed/2mxTO0omf6A?si=RCmLMrQ7vEC8LIQ0",
-    "note": true,
+    "icon": true,
     "text": "First of Season 18",
     "bookmark": true
   },
@@ -3372,7 +3442,7 @@
   {
     "goal": 801,
     "link": "https://www.youtube.com/embed/jf8p8yd0zrs?si=vhep7No6tWW3FxXg",
-    "note": true,
+    "icon": true,
     "text": "Howe",
     "bullseye": true
   },
@@ -3394,7 +3464,10 @@
   },
   {
     "goal": 806,
-    "link": "https://www.youtube.com/embed/k84uPV2coHM?si=E4UuwRlLiFWs2wbF"
+    "link": "https://www.youtube.com/embed/k84uPV2coHM?si=E4UuwRlLiFWs2wbF",
+    "icon": true,
+    "text": "Hat Trick",
+    "hat": true
   },
   {
     "goal": 807,
@@ -3459,14 +3532,14 @@
   {
     "goal": 822,
     "link": "https://www.youtube.com/embed/_Z56915Mb0Q?si=xi_nmJpjF5oVcra9",
-    "note": true,
+    "icon": true,
     "text": "Last of Season 18",
     "bookmark": true
   },
   {
     "goal": 823,
     "link": "https://www.youtube.com/embed/cwdzuUfeDPM?si=7ZLpohGLiWaY8jpe",
-    "note": true,
+    "icon": true,
     "text": "First of Season 19",
     "bookmark": true
   },
@@ -3589,14 +3662,14 @@
   {
     "goal": 853,
     "link": "https://www.youtube.com/embed/t8bXuJ47Ysk?si=udRrjv0X2MEXihhW",
-    "note": true,
+    "icon": true,
     "text": "Last of Season 19",
     "bookmark": true
   },
   {
     "goal": 854,
     "link": "https://www.youtube.com/embed/68_6WwihRHg?si=V0t2orFL4X7AYn3w",
-    "note": true,
+    "icon": true,
     "text": "First of Season 20",
     "bookmark": true
   },
@@ -3646,7 +3719,10 @@
   },
   {
     "goal": 866,
-    "link": "https://www.youtube.com/embed/L8pVwFrgznc?si=3UmvDFSx7ei6OMD-"
+    "link": "https://www.youtube.com/embed/L8pVwFrgznc?si=3UmvDFSx7ei6OMD-",
+    "icon": true,
+    "text": "Hat Trick",
+    "hat": true
   },
   {
     "goal": 867,
@@ -3710,7 +3786,10 @@
   },
   {
     "goal": 882,
-    "link": "https://www.youtube.com/embed/ECX9-sWcPNs?si=B8jDRyo2sXCrapQY"
+    "link": "https://www.youtube.com/embed/ECX9-sWcPNs?si=B8jDRyo2sXCrapQY",
+    "icon": true,
+    "text": "Hat Trick",
+    "hat": true
   },
   {
     "goal": 883,
@@ -3759,14 +3838,14 @@
   {
     "goal": 894,
     "link": "https://www.youtube.com/embed/0Wi35sZLH10?si=OpYvCoYbcIx8qb_0",
-    "note": true,
+    "icon": true,
     "text": "Gretzky",
     "bullseye": true
   },
   {
     "goal": 895,
     "link": "https://www.youtube.com/embed/S4DvTs8vveI?si=U7Gmvs36ke_qz4Cp",
-    "note": true,
+    "icon": true,
     "text": "The Chasing Days Are Done!",
     "mega": true
   },
@@ -3777,7 +3856,7 @@
   {
     "goal": 897,
     "link": "https://www.youtube.com/embed/PD1odnef0FQ?si=nL6ra2ItfPhFjXiM",
-    "note": true,
+    "icon": true,
     "text": "Last of Season 20",
     "bookmark": true
   }
