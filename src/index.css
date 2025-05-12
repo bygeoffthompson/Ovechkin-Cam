@@ -35,13 +35,15 @@
 
 #note {
   align-items: center;
-  display: none;
+  display: flex;
   gap: 8px;
   justify-content: center;
   left: -30px;
   margin-bottom: 8px;
+  opacity: 0;
   pointer-events: none;
   top: -50px;
+  transition: all .25s ease-in-out;
   z-index: 1;
 }
 
@@ -63,7 +65,7 @@
 }
 
 #note[data-icon] {
-  display: flex;
+  opacity: 1;
 }
 
 #note[data-icon] > span > span {
