@@ -108,6 +108,11 @@
   background-image: url(/public/hat.svg);
 }
 
+.mega #icon {
+  background-image: url(/public/mega.svg);
+  margin-right: 2px;
+}
+
 .sixty #icon {
   background-image: url(/public/sixty.svg);
 }
@@ -120,11 +125,8 @@
   background-image: url(/public/trophy.svg);
 }
 
-.mega #icon {
-  background-image: url(/public/mega.svg);
-  height: 18px;
-  margin-right: 1px;
-  width: 20px;
+.twenty #icon {
+  background-image: url(/public/twenty.svg);
 }
 
 .copy {
