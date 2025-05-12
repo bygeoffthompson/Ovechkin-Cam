@@ -112,6 +112,10 @@
   background-image: url(/public/sixty.svg);
 }
 
+.thirty #icon {
+  background-image: url(/public/thirty.svg);
+}
+
 .trophy #icon {
   background-image: url(/public/trophy.svg);
 }
