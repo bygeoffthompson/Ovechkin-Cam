@@ -79,6 +79,7 @@
   },
   {
     "goal": 19,
+
     "link": "https://www.youtube.com/embed/3Ra2l1Y8YkE?si=fUQqvr9m3ph8G9G2"
   },
   {
@@ -901,7 +902,8 @@
   },
   {
     "goal": 213,
-    "link": "https://www.youtube.com/embed/XApANGDaTE4?si=3ex6qRjJISPc7Y9u",
+    "link": "https://www.youtube.com/embed/pEfdUqLWeYs?si=bujcblkwUFi6YDuE",
+    "fallback": "https://www.youtube.com/embed/XApANGDaTE4?si=3ex6qRjJISPc7Y9u",
     "icon": "fifty"
   },
   {
@@ -1135,7 +1137,8 @@
   },
   {
     "goal": 269,
-    "link": "https://www.youtube.com/embed/ugZoaYF8EJs?si=9S0iXlVGPdTT76wc",
+    "link": "https://www.youtube.com/embed/crkZ0Vt-GoQ?si=xLR1xRdNJTPdNYUd",
+    "fallback": "https://www.youtube.com/embed/ugZoaYF8EJs?si=9S0iXlVGPdTT76wc",
     "icon": "fifty"
   },
   {
@@ -1700,31 +1703,31 @@
   },
   {
     "goal": 402,
-    "link": "https://www.youtube.com/embed/7JC2zT5gczM?si=GHqKxo2Ipj5Ch4o4&amp;start=1275"
+    "link": "https://www.youtube.com/embed/_2S03oz-VZU?si=EbW5LQfRtXy063TO"
   },
   {
     "goal": 403,
-    "link": "https://www.youtube.com/embed/7JC2zT5gczM?si=GHqKxo2Ipj5Ch4o4&amp;start=1307"
+    "link": "https://www.youtube.com/embed/zn-SB28sxtw?si=zpIeJYWzVv1HfAn-"
   },
   {
     "goal": 404,
-    "link": "https://www.youtube.com/embed/7JC2zT5gczM?si=GHqKxo2Ipj5Ch4o4&amp;start=1331"
+    "link": "https://www.youtube.com/embed/zXv3ygv-PwM?si=p-Tz0QzvuzrCMxgP"
   },
   {
     "goal": 405,
-    "link": "https://www.youtube.com/embed/7JC2zT5gczM?si=GHqKxo2Ipj5Ch4o4&amp;start=1370"
+    "link": "https://www.youtube.com/embed/yH_zv8VWtIk?si=RXDHvV0hl224QOKZ"
   },
   {
     "goal": 406,
-    "link": "https://www.youtube.com/embed/7JC2zT5gczM?si=GHqKxo2Ipj5Ch4o4&amp;start=1406"
+    "link": "https://www.youtube.com/embed/j40ttwCc6AI?si=9HBjHKaGvPNeAeDB"
   },
   {
     "goal": 407,
-    "link": "https://www.youtube.com/embed/7JC2zT5gczM?si=GHqKxo2Ipj5Ch4o4&amp;start=1442"
+    "link": "https://www.youtube.com/embed/gAeSq-QJvTU?si=x9T96gKaeJ6F7-bE"
   },
   {
     "goal": 408,
-    "link": "https://www.youtube.com/embed/7JC2zT5gczM?si=GHqKxo2Ipj5Ch4o4&amp;start=1493"
+    "link": "https://www.youtube.com/embed/ElH_bznM9og?si=X7hFDUiHL-pwOlZh"
   },
   {
     "goal": 409,
@@ -1736,40 +1739,41 @@
   },
   {
     "goal": 411,
-    "link": "https://www.youtube.com/embed/qiNYPyia1sI?si=XAlKy5iPmmpOXWWY",
+    "link": "https://www.youtube.com/embed/0ItSn7Y-x6k?si=xWrmeB-deFsR17Yy",
+    "fallback": "https://www.youtube.com/embed/qiNYPyia1sI?si=XAlKy5iPmmpOXWWY",
     "icon": "forty"
   },
   {
     "goal": 412,
-    "link": "https://www.youtube.com/embed/7JC2zT5gczM?si=GHqKxo2Ipj5Ch4o4&amp;start=1647"
+    "link": "https://www.youtube.com/embed/KaIF5QHvsnA?si=Zrr4czAGo9e1_d2u"
   },
   {
     "goal": 413,
-    "link": "https://www.youtube.com/embed/7JC2zT5gczM?si=GHqKxo2Ipj5Ch4o4&amp;start=1679"
+    "link": "https://www.youtube.com/embed/nObA-O2yLGI?si=sgeG6I77DLBlbTOh"
   },
   {
     "goal": 414,
-    "link": "https://www.youtube.com/embed/7JC2zT5gczM?si=GHqKxo2Ipj5Ch4o4&amp;start=1700"
+    "link": "https://www.youtube.com/embed/Oj4kBNwz0IY?si=TQNw5Zlp6OFiXwsh"
   },
   {
     "goal": 415,
-    "link": "https://www.youtube.com/embed/7JC2zT5gczM?si=GHqKxo2Ipj5Ch4o4&amp;start=1728"
+    "link": "https://www.youtube.com/embed/XonVvPr_lzU?si=Fv-Xz5aLUBrnT47J"
   },
   {
     "goal": 416,
-    "link": "https://www.youtube.com/embed/7JC2zT5gczM?si=GHqKxo2Ipj5Ch4o4&amp;start=1739"
+    "link": "https://www.youtube.com/embed/BizSHgNYnR0?si=qmTJM5o6TALJaCAL"
   },
   {
     "goal": 417,
-    "link": "https://www.youtube.com/embed/7JC2zT5gczM?si=GHqKxo2Ipj5Ch4o4&amp;start=1769"
+    "link": "https://www.youtube.com/embed/jRWyzBHOT38?si=bFshgBYYm-J8cXh6"
   },
   {
     "goal": 418,
-    "link": "https://www.youtube.com/embed/7JC2zT5gczM?si=GHqKxo2Ipj5Ch4o4&amp;start=1804"
+    "link": "https://www.youtube.com/embed/XRroYjCDSFs?si=uriWnRaz4UiK7U2O"
   },
   {
     "goal": 419,
-    "link": "https://www.youtube.com/embed/7JC2zT5gczM?si=GHqKxo2Ipj5Ch4o4&amp;start=1847"
+    "link": "https://www.youtube.com/embed/Xlicuk-s0rM?si=mqL8trvIGuW8Mdl7"
   },
   {
     "goal": 420,
@@ -1777,7 +1781,8 @@
   },
   {
     "goal": 421,
-    "link": "https://www.youtube.com/embed/YV9TiIgBJcU?si=dvRMu4tLs43yVvvo",
+    "link": "https://www.youtube.com/embed/p3nZK5bIkbs?si=Ax5XeqedsZhSQXgr",
+    "fallback": "https://www.youtube.com/embed/YV9TiIgBJcU?si=dvRMu4tLs43yVvvo",
     "icon": "fifty"
   },
   {
@@ -1838,15 +1843,15 @@
   },
   {
     "goal": 435,
-    "link": "https://www.youtube.com/embed/PNXKKES6zxI?si=KY5lzHcNFoo0MxAo&amp;start=392"
+    "link": "https://www.youtube.com/embed/hd8dbqeUOGE?si=sFHl8q2gxNpLx2JO"
   },
   {
     "goal": 436,
-    "link": "https://www.youtube.com/embed/PNXKKES6zxI?si=KY5lzHcNFoo0MxAo&amp;start=422"
+    "link": "https://www.youtube.com/embed/-Cj4CjPCw74?si=4o-O123L6q2zS8CH"
   },
   {
     "goal": 437,
-    "link": "https://www.youtube.com/embed/PNXKKES6zxI?si=KY5lzHcNFoo0MxAo&amp;start=440"
+    "link": "https://www.youtube.com/embed/LSO3okWbrYo?si=gTvD3nZ_6ShsTndd"
   },
   {
     "goal": 438,
@@ -1854,7 +1859,7 @@
   },
   {
     "goal": 439,
-    "link": "https://www.youtube.com/embed/PNXKKES6zxI?si=KY5lzHcNFoo0MxAo&amp;start=525"
+    "link": "https://www.youtube.com/embed/mA_Y-evG2CI?si=Fz4IWmKAQRbZkKp8"
   },
   {
     "goal": 440,
@@ -1862,7 +1867,7 @@
   },
   {
     "goal": 441,
-    "link": "https://www.youtube.com/embed/PNXKKES6zxI?si=KY5lzHcNFoo0MxAo&amp;start=620"
+    "link": "https://www.youtube.com/embed/8EFuE4z9RRI?si=lf1Qj1FNbE9RGh22"
   },
   {
     "goal": 442,
@@ -1871,11 +1876,11 @@
   },
   {
     "goal": 443,
-    "link": "https://www.youtube.com/embed/PNXKKES6zxI?si=KY5lzHcNFoo0MxAo&amp;start=700"
+    "link": "https://www.youtube.com/embed/wwjB0K91PU8?si=yu2-I2UvpsDrHLQ2"
   },
   {
     "goal": 444,
-    "link": "https://www.youtube.com/embed/PNXKKES6zxI?si=KY5lzHcNFoo0MxAo&amp;start=735"
+    "link": "https://www.youtube.com/embed/FnYWD_EsPSc?si=PZ3BETM4eS25cUiW"
   },
   {
     "goal": 445,
@@ -1887,15 +1892,15 @@
   },
   {
     "goal": 447,
-    "link": "https://www.youtube.com/embed/PNXKKES6zxI?si=KY5lzHcNFoo0MxAo&amp;start=852"
+    "link": "https://www.youtube.com/embed/m61WKCjACQw?si=LgPnWaJFhDPB2KVJ"
   },
   {
     "goal": 448,
-    "link": "https://www.youtube.com/embed/PNXKKES6zxI?si=KY5lzHcNFoo0MxAo&amp;start=897"
+    "link": "https://www.youtube.com/embed/hUirDOdlFlQ?si=WzJNuC1DvfPC005Y"
   },
   {
     "goal": 449,
-    "link": "https://www.youtube.com/embed/PNXKKES6zxI?si=KY5lzHcNFoo0MxAo&amp;start=942"
+    "link": "https://www.youtube.com/embed/emqwkiuC_Qg?si=eID_yGYDPTbOWsih"
   },
   {
     "goal": 450,
@@ -1903,11 +1908,12 @@
   },
   {
     "goal": 451,
-    "link": "https://www.youtube.com/embed/PNXKKES6zxI?si=KY5lzHcNFoo0MxAo&amp;start=1019"
+    "link": "https://www.youtube.com/embed/SHvJu5OW4vk?si=pTZDfUYalHja7Uk_"
   },
   {
     "goal": 452,
-    "link": "https://www.youtube.com/embed/tFfMzJIfW2w?si=meihqj9wD8k8xEh6",
+    "link": "https://www.youtube.com/embed/hs0BtKcT5Gs?si=9mKuvY1kqMFipYLE",
+    "fallback": "https://www.youtube.com/embed/tFfMzJIfW2w?si=meihqj9wD8k8xEh6",
     "icon": "thirty"
   },
   {
@@ -1916,27 +1922,27 @@
   },
   {
     "goal": 454,
-    "link": "https://www.youtube.com/embed/PNXKKES6zxI?si=KY5lzHcNFoo0MxAo&amp;start=1151"
+    "link": "https://www.youtube.com/embed/tknR2FDFvgo?si=MylfeCbWhnA264_u"
   },
   {
     "goal": 455,
-    "link": "https://www.youtube.com/embed/PNXKKES6zxI?si=KY5lzHcNFoo0MxAo&amp;start=1186"
+    "link": "https://www.youtube.com/embed/1sjn4MZSNfs?si=83fWE0DUgzrt9rIq"
   },
   {
     "goal": 456,
-    "link": "https://www.youtube.com/embed/PNXKKES6zxI?si=KY5lzHcNFoo0MxAo&amp;start=1236"
+    "link": "https://www.youtube.com/embed/iS2kb6Rj8Ek?si=KaqbjIxdxB_uxCH_"
   },
   {
     "goal": 457,
-    "link": "https://www.youtube.com/embed/PNXKKES6zxI?si=KY5lzHcNFoo0MxAo&amp;start=1279"
+    "link": "https://www.youtube.com/embed/v8Nyj3eIriM?si=6d4RtoE2-JrE7kq9"
   },
   {
     "goal": 458,
-    "link": "https://www.youtube.com/embed/PNXKKES6zxI?si=KY5lzHcNFoo0MxAo&amp;start=1319"
+    "link": "https://www.youtube.com/embed/lkZhwdYuq-Y?si=JsrPwHp9AroCd2oU"
   },
   {
     "goal": 459,
-    "link": "https://www.youtube.com/embed/PNXKKES6zxI?si=KY5lzHcNFoo0MxAo&amp;start=1349"
+    "link": "https://www.youtube.com/embed/ND_TaovUYqQ?si=Ktzj5xbf25xh0xhD"
   },
   {
     "goal": 460,
@@ -1944,20 +1950,21 @@
   },
   {
     "goal": 461,
-    "link": "https://www.youtube.com/embed/PNXKKES6zxI?si=KY5lzHcNFoo0MxAo&amp;start=1442"
+    "link": "https://www.youtube.com/embed/Q_AOMz7xMzQ?si=9UoQoTpN6mwwUqCo"
   },
   {
     "goal": 462,
-    "link": "https://www.youtube.com/embed/-6eCY8oeSGs?si=k54HBeA_O20m3Xqa",
+    "link": "https://www.youtube.com/embed/uJPl80Yqtjc?si=hgEnZ8XvI02I5LlS",
+    "fallback": "https://www.youtube.com/embed/-6eCY8oeSGs?si=k54HBeA_O20m3Xqa",
     "icon": "forty"
   },
   {
     "goal": 463,
-    "link": "https://www.youtube.com/embed/PNXKKES6zxI?si=KY5lzHcNFoo0MxAo&amp;start=1523"
+    "link": "https://www.youtube.com/embed/w5aBB6Oo4pA?si=gZ6jyWp7Aq67-EV-"
   },
   {
     "goal": 464,
-    "link": "https://www.youtube.com/embed/PNXKKES6zxI?si=KY5lzHcNFoo0MxAo&amp;start=1559"
+    "link": "https://www.youtube.com/embed/vReaJtfU4vw?si=QFMwkH6Gb6WZqqw5"
   },
   {
     "goal": 465,
@@ -1969,15 +1976,15 @@
   },
   {
     "goal": 467,
-    "link": "https://www.youtube.com/embed/PNXKKES6zxI?si=KY5lzHcNFoo0MxAo&amp;start=1647"
+    "link": "https://www.youtube.com/embed/vDTh7iZfJmo?si=yl47Ow_kLo11pwX1"
   },
   {
     "goal": 468,
-    "link": "https://www.youtube.com/embed/PNXKKES6zxI?si=KY5lzHcNFoo0MxAo&amp;start=1684"
+    "link": "https://www.youtube.com/embed/rc0iuL0Q6y0?si=yMPa8N06m3cIA3Jr"
   },
   {
     "goal": 469,
-    "link": "https://www.youtube.com/embed/PNXKKES6zxI?si=KY5lzHcNFoo0MxAo&amp;start=1730"
+    "link": "https://www.youtube.com/embed/dccmoDVZMVQ?si=oZEg-O8htV2-mIjC"
   },
   {
     "goal": 470,
@@ -1985,20 +1992,21 @@
   },
   {
     "goal": 471,
-    "link": "https://www.youtube.com/embed/PNXKKES6zxI?si=KY5lzHcNFoo0MxAo&amp;start=1805"
+    "link": "https://www.youtube.com/embed/NS14qsJ2xRI?si=FPYSyLUA3E88vmyi"
   },
   {
     "goal": 472,
-    "link": "https://www.youtube.com/embed/7hJuboUgzs0?si=PG0cN2Ex49vaiXJ5",
+    "link": "https://www.youtube.com/embed/BcA10Izdnk8?si=yoZf8OJnBIjcLjI1",
+    "fallback": "https://www.youtube.com/embed/7hJuboUgzs0?si=PG0cN2Ex49vaiXJ5",
     "icon": "fifty"
   },
   {
     "goal": 473,
-    "link": "https://www.youtube.com/embed/PNXKKES6zxI?si=KY5lzHcNFoo0MxAo&amp;start=1925"
+    "link": "https://www.youtube.com/embed/gGTwIWn7kyY?si=MhEqW0KxSgYNnqgU"
   },
   {
     "goal": 474,
-    "link": "https://www.youtube.com/embed/PNXKKES6zxI?si=KY5lzHcNFoo0MxAo&amp;start=1967"
+    "link": "https://www.youtube.com/embed/k75JpNnf8ww?si=KdlTsxZok3eiUS4f"
   },
   {
     "goal": 475,
@@ -2338,7 +2346,8 @@
   },
   {
     "goal": 555,
-    "link": "https://www.youtube.com/embed/bZ01Ej0D6Xc?si=LkHoHUUCZIZUjFs9",
+    "link": "https://www.youtube.com/embed/H4nqdkgGd6s?si=Mqxnb1ivFXi_-Mpt",
+    "fallback": "https://www.youtube.com/embed/bZ01Ej0D6Xc?si=LkHoHUUCZIZUjFs9",
     "icon": "thirty"
   },
   {
@@ -2524,7 +2533,8 @@
   },
   {
     "goal": 598,
-    "link": "https://www.youtube.com/embed/SWLrHe4NkBQ?si=NVcThyklwmpth8BS",
+    "link": "https://www.youtube.com/embed/t7JT4gyWOSw?si=vlppIajiZdNJ9PZh",
+    "fallback": "https://www.youtube.com/embed/SWLrHe4NkBQ?si=NVcThyklwmpth8BS",
     "icon": "forty"
   },
   {
@@ -2691,7 +2701,8 @@
   },
   {
     "goal": 637,
-    "link": "https://www.youtube.com/embed/bPpOUlThJ6g?si=JtGz6wUnTMtLHcMg",
+    "link": "https://www.youtube.com/embed/emrBohNjRhQ?si=MoLhX3KnoqbUnp92",
+    "fallback": "https://www.youtube.com/embed/bPpOUlThJ6g?si=JtGz6wUnTMtLHcMg",
     "icon": "thirty"
   },
   {
@@ -2734,7 +2745,8 @@
   },
   {
     "goal": 647,
-    "link": "https://www.youtube.com/embed/IF3rcdWtfTk?si=mP_zvFPJLZLjjvuk",
+    "link": "https://www.youtube.com/embed/fsHtr-JhQog?si=gNpnJ2Pv4GMr-YYB",
+    "fallback": "https://www.youtube.com/embed/IF3rcdWtfTk?si=mP_zvFPJLZLjjvuk",
     "icon": "forty"
   },
   {
@@ -2775,7 +2787,7 @@
   },
   {
     "goal": 657,
-    "link": "https://www.youtube.com/embed/jDxTt5jqh0M?si=4TnmMalB0xv1PFba",
+    "link": "https://www.youtube.com/embed/GytIIlQNFAY?si=1SjR9KKcwLiaZiGa",
     "icon": "fifty"
   },
   {
@@ -3416,7 +3428,8 @@
   },
   {
     "goal": 806,
-    "link": "https://www.youtube.com/embed/k84uPV2coHM?si=E4UuwRlLiFWs2wbF",
+    "link": "https://www.youtube.com/embed/u1Xd9Awl1RU?si=fmWNmbNI_j81ofxG",
+    "fallback": "https://www.youtube.com/embed/k84uPV2coHM?si=E4UuwRlLiFWs2wbF",
     "icon": "hat",
     "text": "Hat Trick"
   },
@@ -3475,7 +3488,8 @@
   },
   {
     "goal": 820,
-    "link": "https://www.youtube.com/embed/jkodWLAOZJ4?si=ckRv76bCuh5IZ8wv",
+    "link": "https://www.youtube.com/embed/taYoRVHKAQ8?si=dZrYImf6o4b4Qe8k",
+    "fallback": "https://www.youtube.com/embed/jkodWLAOZJ4?si=ckRv76bCuh5IZ8wv",
     "icon": "forty"
   },
   {
