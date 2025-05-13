@@ -47,11 +47,13 @@
   },
   {
     "goal": 11,
-    "link": "https://www.youtube.com/embed/XaO9yXZlQIs?si=agHegAMuHUS6DZG5"
+    "link": "https://www.youtube.com/embed/IM3Hi3DVmDE?si=shPdwOWeXaZ3I0F9&amp;start=66",
+    "fallback": "https://www.youtube.com/embed/XaO9yXZlQIs?si=agHegAMuHUS6DZG5"
   },
   {
     "goal": 12,
-    "link": "https://www.youtube.com/embed/PFGPL8W8o1s?si=ifHVndwaKcajSqLy"
+    "link": "https://www.youtube.com/embed/IM3Hi3DVmDE?si=shPdwOWeXaZ3I0F9&amp;start=256",
+    "fallback": "https://www.youtube.com/embed/PFGPL8W8o1s?si=ifHVndwaKcajSqLy"
   },
   {
     "goal": 13,
@@ -1086,7 +1088,9 @@
   },
   {
     "goal": 257,
-    "link": "https://www.youtube.com/embed/lM1viOPnC44?si=zR4CJh1fYr1Byw7a&amp;start=999"
+    "link": "https://www.youtube.com/embed/CnKHhwNj2-k?si=wqEaLp4vLE-NxPUt",
+    "icon": "trophy",
+    "text": "500th Point"
   },
   {
     "goal": 258,
@@ -1519,7 +1523,8 @@
   {
     "goal": 359,
     "link": "https://www.youtube.com/embed/uY1gcKgxw7I?si=FBVc1vZCz_ySikSK",
-    "icon": "twenty"
+    "icon": "trophy",
+    "text": "700th Point"
   },
   {
     "goal": 360,
@@ -1753,7 +1758,10 @@
   },
   {
     "goal": 414,
-    "link": "https://www.youtube.com/embed/Oj4kBNwz0IY?si=TQNw5Zlp6OFiXwsh"
+    "link": "https://www.youtube.com/embed/NXRzxFPYn5I?si=DtX_w8Bvibgq_ozR",
+    "fallback": "https://www.youtube.com/embed/Oj4kBNwz0IY?si=TQNw5Zlp6OFiXwsh",
+    "icon": "trophy",
+    "text": "800th Point"
   },
   {
     "goal": 415,
@@ -2002,11 +2010,15 @@
   },
   {
     "goal": 473,
-    "link": "https://www.youtube.com/embed/gGTwIWn7kyY?si=MhEqW0KxSgYNnqgU"
+    "link": "https://www.youtube.com/embed/aucqOncw85A?si=H6rS6e-SJ7S72DJc&amp;start=48",
+    "fallback": "https://www.youtube.com/embed/gGTwIWn7kyY?si=MhEqW0KxSgYNnqgU",
+    "icon": "mega",
+    "text": "\"The Rightful Goal Scoring King of Washington\""
   },
   {
     "goal": 474,
-    "link": "https://www.youtube.com/embed/k75JpNnf8ww?si=KdlTsxZok3eiUS4f"
+    "link": "https://www.youtube.com/embed/aucqOncw85A?si=EnsVZDOBQsxgP6kM&amp;start=139",
+    "fallback": "https://www.youtube.com/embed/k75JpNnf8ww?si=KdlTsxZok3eiUS4f"
   },
   {
     "goal": 475,
@@ -2030,7 +2042,10 @@
   },
   {
     "goal": 479,
-    "link": "https://www.youtube.com/embed/kk2GYp_YDQU?si=DbfEYWNzhUnSWQYp"
+    "link": "https://www.youtube.com/embed/FfVKXPubgQc?si=_9KyGcPe7c0Ifub2",
+    "fallback": "https://www.youtube.com/embed/kk2GYp_YDQU?si=DbfEYWNzhUnSWQYp",
+    "icon": "trophy",
+    "text": "900th Point"
   },
   {
     "goal": 480,
@@ -2306,7 +2321,8 @@
   {
     "goal": 545,
     "link": "https://www.youtube.com/embed/RCnqzUOx-Iw?si=92PwFDhz9Rqqr0vO",
-    "icon": "twenty"
+    "icon": "trophy",
+    "text": "1000th Point"
   },
   {
     "goal": 546,
@@ -3006,7 +3022,7 @@
   },
   {
     "goal": 707,
-    "link": "https://www.youtube.com/embed/Xq2m0AAqrrA?si=8RpNtat1SoC2Akw7",
+    "link": "https://www.youtube.com/embed/IKJJ2ME6qN8?si=X-ira3f5LMXEaynu",
     "icon": "bookmark",
     "text": "First of Season 16"
   },
@@ -3056,7 +3072,9 @@
   },
   {
     "goal": 718,
-    "link": "https://www.youtube.com/embed/MG1SUqa2lC4?si=ShwctWMcUIyk3-LI"
+    "link": "https://www.youtube.com/embed/MG1SUqa2lC4?si=ShwctWMcUIyk3-LI",
+    "icon": "trophy",
+    "text": "1300th Point"
   },
   {
     "goal": 719,
@@ -3634,7 +3652,8 @@
   },
   {
     "goal": 854,
-    "link": "https://www.youtube.com/embed/68_6WwihRHg?si=V0t2orFL4X7AYn3w",
+    "link": "https://www.youtube.com/embed/abOQGjzrMtk?si=__UtUuJTh4DwmH2H",
+    "fallback": "https://www.youtube.com/embed/68_6WwihRHg?si=V0t2orFL4X7AYn3w",
     "icon": "bookmark",
     "text": "First of Season 20"
   },
