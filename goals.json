@@ -208,7 +208,9 @@
   },
   {
     "goal": 49,
-    "link": "https://www.youtube.com/embed/NtDd4X0Y8Zc?si=g83K4ATVYiJiEJoC"
+    "link": "https://www.youtube.com/embed/NtDd4X0Y8Zc?si=g83K4ATVYiJiEJoC",
+    "icon": "trophy",
+    "text": "100th Point"
   },
   {
     "goal": 50,
@@ -3787,7 +3789,9 @@
   },
   {
     "goal": 886,
-    "link": "https://www.youtube.com/embed/YzbnqIh7HZ8?si=Ty7VfmhMDP3ybl4h"
+    "link": "https://www.youtube.com/embed/YzbnqIh7HZ8?si=Ty7VfmhMDP3ybl4h",
+    "icon": "trophy",
+    "text": "1600th Point"
   },
   {
     "goal": 887,
