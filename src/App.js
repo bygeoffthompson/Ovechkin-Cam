@@ -34,6 +34,15 @@ function SearchForm({jsonData}) {
         event.preventDefault();
     };
 
+    const random = () => {
+        function getRandomInt(min, max) {
+            min = Math.ceil(min);
+            max = Math.floor(max);
+            return Math.floor(Math.random() * (max - min + 1)) + min;
+        }
+        setSearchTerm(getRandomInt(0, 897));
+    };
+
     const copyFunction = (event) => {
         var link = document.getElementById("link").innerHTML;
         navigator.clipboard.writeText(link);
@@ -62,6 +71,8 @@ function SearchForm({jsonData}) {
             {header}
             <form onSubmit={preventSubmit}>
                 <input min="0" max="897" id="search" type="number" placeholder="#" value={searchTerm} onChange={handleInputChange}/>
+                <span>&nbsp;or&nbsp;&nbsp;</span>
+                <button onClick={random} type="button">Random</button>
                 <button type="submit" disabled>Submit</button>
             </form>
 
