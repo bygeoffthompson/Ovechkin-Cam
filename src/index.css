@@ -267,7 +267,7 @@ input[type="number"]:focus-visible::placeholder {
 input[type="number"]::placeholder {
   color: #000;
   font-weight: normal;
-  opacity: .25;
+  opacity: .5;
 }
 
 body {

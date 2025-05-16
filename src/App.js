@@ -54,7 +54,7 @@ function SearchForm({jsonData}) {
         min = Math.ceil(min);
         max = Math.floor(max);
         return Math.floor(Math.random() * (max - min + 1)) + min;
-    };
+    }
 
     const randomGoal = () => {
         setSearchTerm(random(1, 897));
@@ -64,13 +64,13 @@ function SearchForm({jsonData}) {
         <div>
             <form onSubmit={preventSubmit}>
                 <div>
-                    <span>Show Goal Number&nbsp;</span>
+                    <span>Goal&nbsp;</span>
                     <input min="0" max="897" id="search" type="number" placeholder="#" value={searchTerm} onChange={handleInputChange}/>
+                    <span>&nbsp;or</span>
                 </div>
                 <div>
-                    <span>&nbsp;or&nbsp;</span>
                     <button onClick={randomGoal} type="button">Random Goal</button>
-                    <span>&nbsp;or&nbsp;</span>
+                    <span>&nbsp;&nbsp;/&nbsp;&nbsp;</span>
                     <button onClick={highlightGoal} type="button">Highlight Goal</button>
                 </div>
             </form>
