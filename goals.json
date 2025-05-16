@@ -678,7 +678,8 @@
   {
     "goal": 158,
     "link": "https://www.youtube.com/embed/ZU30LDf1bMQ?si=hYh147x4675c5CgU",
-    "icon": "sixty"
+    "icon": "sixty",
+    "text": "1st 60 Goal Season"
   },
   {
     "goal": 159,
@@ -1066,7 +1067,8 @@
   {
     "goal": 249,
     "link": "https://www.youtube.com/embed/Rw-oDb-1w7M?si=gz8JPU0DhSUnCjku",
-    "icon": "thirty"
+    "icon": "penalty",
+    "text": "1st Penalty Shot Goal"
   },
   {
     "goal": 250,
@@ -1164,7 +1166,9 @@
   },
   {
     "goal": 271,
-    "link": "https://www.youtube.com/embed/mf8dyd3Qrzs?si=ELjvsZFZKNDm5sfz"
+    "link": "https://www.youtube.com/embed/mf8dyd3Qrzs?si=ELjvsZFZKNDm5sfz",
+    "icon": "penalty",
+    "text": "2nd Penalty Shot Goal"
   },
   {
     "goal": 272,
