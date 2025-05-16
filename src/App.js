@@ -48,31 +48,14 @@ function SearchForm({jsonData}) {
         navigator.clipboard.writeText(link);
     };
 
-    const header = (
-        <header>
-            <img alt="Goal Light gif" className="goal-light" src="/goal-light.gif"/>
-            <h1><a href="/" title="Home">Search and Watch Ovechkin Goal Videos</a></h1>
-            <img alt="Record Light gif" className="record-light" src="/record-light.gif"/>
-        </header>
-    );
-
-    const footer = (
-        <footer>
-            <a href="/about.txt">About</a>
-            &nbsp;|&nbsp;
-            <a href="https://x.com/bygeoffthompson" rel="noreferrer" target="_blank">Report an Error</a>
-            &nbsp;|&nbsp;
-            <a href="/thanks.txt">Thanks</a>
-        </footer>
-    );
-
     return (
         <div>
-            {header}
             <form onSubmit={preventSubmit}>
+                <span>Goal Number&nbsp;</span>
                 <input min="0" max="897" id="search" type="number" placeholder="#" value={searchTerm} onChange={handleInputChange}/>
-                <span>&nbsp;or&nbsp;&nbsp;</span>
+                <span>&nbsp;(or&nbsp;&nbsp;</span>
                 <button onClick={random} type="button">Random</button>
+                <span>&nbsp;)</span>
                 <button type="submit" disabled>Submit</button>
             </form>
 
@@ -91,7 +74,6 @@ function SearchForm({jsonData}) {
                     </div>
                 </div>
             ))}
-            {footer}
         </div>
     );
 }
