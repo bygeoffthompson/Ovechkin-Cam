@@ -24,11 +24,16 @@ function SearchForm({jsonData}) {
         }
     },[]);
 
+    const copyFunction = (event) => {
+        var link = document.getElementById("link").innerHTML;
+        navigator.clipboard.writeText(link);
+    };
+
     const handleInputChange = (event) => {
         setSearchTerm(event.target.value);
     };
 
-    const highlight = (event) => {
+    const highlightGoal = (event) => {
         const highlight = jsonData.filter(item =>
             Object.values(item).some(value =>
                 value === 'bookmark'  ||
@@ -41,12 +46,8 @@ function SearchForm({jsonData}) {
                 value === 'trophy'
             )
         );
-        function getRandomInt(min, max) {
-            min = Math.ceil(min);
-            max = Math.floor(max);
-            return Math.floor(Math.random() * (max - min + 1)) + min;
-        }
-        const goal = Object.values(highlight[getRandomInt(1, Object.keys(highlight).length)]);
+
+        const goal = Object.values(highlight[random(1, Object.keys(highlight).length)]);
         setSearchTerm(goal[0]);
     };
 
@@ -54,18 +55,14 @@ function SearchForm({jsonData}) {
         event.preventDefault();
     };
 
-    const random = () => {
-        function getRandomInt(min, max) {
-            min = Math.ceil(min);
-            max = Math.floor(max);
-            return Math.floor(Math.random() * (max - min + 1)) + min;
-        }
-        setSearchTerm(getRandomInt(0, 897));
+    function random(min, max) {
+        min = Math.ceil(min);
+        max = Math.floor(max);
+        return Math.floor(Math.random() * (max - min + 1)) + min;
     };
 
-    const copyFunction = (event) => {
-        var link = document.getElementById("link").innerHTML;
-        navigator.clipboard.writeText(link);
+    const randomGoal = () => {
+        setSearchTerm(random(1, 897));
     };
 
     return (
@@ -77,9 +74,9 @@ function SearchForm({jsonData}) {
                 </div>
                 <div>
                     <span>&nbsp;or&nbsp;</span>
-                    <button onClick={random} type="button">Random Goal</button>
+                    <button onClick={randomGoal} type="button">Random Goal</button>
                     <span>&nbsp;or&nbsp;</span>
-                    <button onClick={highlight} type="button">Highlight Goal</button>
+                    <button onClick={highlightGoal} type="button">Highlight Goal</button>
                 </div>
             </form>
 
