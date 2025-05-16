@@ -215,7 +215,8 @@
   {
     "goal": 50,
     "link": "https://www.youtube.com/embed/5yXW_0DlUnA?si=-MBQREkytTx5NWIJ",
-    "icon": "fifty"
+    "icon": "fifty",
+    "text": "1st 50 Goal Season"
   },
   {
     "goal": 51,
@@ -429,7 +430,8 @@
   {
     "goal": 100,
     "link": "https://www.youtube.com/embed/F7jFSVOVWyU?si=6QMMch4EXgc41wMg",
-    "icon": "trophy"
+    "icon": "trophy",
+    "text": "100th Career Goal"
   },
   {
     "goal": 101,
@@ -632,7 +634,8 @@
   {
     "goal": 148,
     "link": "https://www.youtube.com/embed/CjszjUgvFNQ?si=KqTwmLFlEwaSeJJK",
-    "icon": "fifty"
+    "icon": "fifty",
+    "text": "2nd 50 Goal Season"
   },
   {
     "goal": 149,
@@ -854,7 +857,8 @@
   {
     "goal": 200,
     "link": "https://www.youtube.com/embed/k2_BOouSyMA?si=qMoQ4yhtE14x17Sw",
-    "icon": "trophy"
+    "icon": "trophy",
+    "text": "200th Career Goal"
   },
   {
     "goal": 201,
@@ -911,7 +915,8 @@
     "goal": 213,
     "link": "https://www.youtube.com/embed/pEfdUqLWeYs?si=bujcblkwUFi6YDuE",
     "fallback": "https://www.youtube.com/embed/XApANGDaTE4?si=3ex6qRjJISPc7Y9u",
-    "icon": "fifty"
+    "icon": "fifty",
+    "text": "3rd 50 Goal Season"
   },
   {
     "goal": 214,
@@ -1148,7 +1153,8 @@
     "goal": 269,
     "link": "https://www.youtube.com/embed/crkZ0Vt-GoQ?si=xLR1xRdNJTPdNYUd",
     "fallback": "https://www.youtube.com/embed/ugZoaYF8EJs?si=9S0iXlVGPdTT76wc",
-    "icon": "fifty"
+    "icon": "fifty",
+    "text": "4th 50 Goal Season"
   },
   {
     "goal": 270,
@@ -1279,7 +1285,8 @@
   {
     "goal": 300,
     "link": "https://www.youtube.com/embed/5AkDUH0NrY4?si=rARvq-nJfhe7K0--",
-    "icon": "trophy"
+    "icon": "trophy",
+    "text": "300th Career Goal"
   },
   {
     "goal": 301,
@@ -1704,7 +1711,8 @@
   {
     "goal": 400,
     "link": "https://www.youtube.com/embed/tQOggNAEmp0?si=TfjTJ2TO1sNh_98k",
-    "icon": "trophy"
+    "icon": "trophy",
+    "text": "400th Career Goal"
   },
   {
     "goal": 401,
@@ -1797,7 +1805,8 @@
     "goal": 421,
     "link": "https://www.youtube.com/embed/p3nZK5bIkbs?si=Ax5XeqedsZhSQXgr",
     "fallback": "https://www.youtube.com/embed/YV9TiIgBJcU?si=dvRMu4tLs43yVvvo",
-    "icon": "fifty"
+    "icon": "fifty",
+    "text": "5th 50 Goal Season"
   },
   {
     "goal": 422,
@@ -2012,7 +2021,8 @@
     "goal": 472,
     "link": "https://www.youtube.com/embed/BcA10Izdnk8?si=yoZf8OJnBIjcLjI1",
     "fallback": "https://www.youtube.com/embed/7hJuboUgzs0?si=PG0cN2Ex49vaiXJ5",
-    "icon": "fifty"
+    "icon": "fifty",
+    "text": "6th 50 Goal Season"
   },
   {
     "goal": 473,
@@ -2137,7 +2147,8 @@
   {
     "goal": 500,
     "link": "https://www.youtube.com/embed/YxUVWBSPv_4?si=LV28ZbxQa0WyfMH9",
-    "icon": "trophy"
+    "icon": "trophy",
+    "text": "500th Career Goal"
   },
   {
     "goal": 501,
@@ -2151,7 +2162,7 @@
     "goal": 503,
     "link": "https://www.youtube.com/embed/jY8h52s7WJQ?si=ga6aKmLCu9Rn4wBH",
     "icon": "bullseye",
-    "text": "Bondra"
+    "text": "Peter Bondra"
   },
   {
     "goal": 504,
@@ -2170,7 +2181,7 @@
     "goal": 507,
     "link": "https://www.youtube.com/embed/upjgyckv9_I?si=V5miFNBJxY1tN_xj",
     "icon": "bullseye",
-    "text": "Beliveau"
+    "text": "Jean Beliveau"
   },
   {
     "goal": 508,
@@ -2194,13 +2205,13 @@
     "goal": 512,
     "link": "https://www.youtube.com/embed/9ow8kTz6_dI?si=MemCrljj68ah_5my",
     "icon": "bullseye",
-    "text": "Perreault"
+    "text": "Gilbert Perreault"
   },
   {
     "goal": 513,
     "link": "https://www.youtube.com/embed/opOeY8HRUfo?si=z-PtG3wpLg32aOUm",
     "icon": "bullseye",
-    "text": "Roenick"
+    "text": "Jeremy Roenick"
   },
   {
     "goal": 514,
@@ -2223,7 +2234,7 @@
     "goal": 518,
     "link": "https://www.youtube.com/embed/olVhyIU1QQg?si=KcOGCQVv0lV4_QqG",
     "icon": "bullseye",
-    "text": "Hawerchuk"
+    "text": "Dale Hawerchuk"
   },
   {
     "goal": 519,
@@ -2241,7 +2252,7 @@
     "goal": 522,
     "link": "https://www.youtube.com/embed/SxW_PCwMHFI?si=9iLEUnQZJfbhRohu",
     "icon": "bullseye",
-    "text": "Verbeek"
+    "text": "Pat Verbeek"
   },
   {
     "goal": 523,
@@ -2251,12 +2262,13 @@
     "goal": 524,
     "link": "https://www.youtube.com/embed/ilmDtkRjPGE?si=XX_OHmt0XVgEmBRH",
     "icon": "bullseye",
-    "text": "Trottier"
+    "text": "Bryan Trottier"
   },
   {
     "goal": 525,
     "link": "https://www.youtube.com/embed/7AAhV-wUuqY?si=-o7no9PxWXJKSHHW",
-    "icon": "fifty"
+    "icon": "fifty",
+    "text": "7th 50 Goal Season"
   },
   {
     "goal": 526,
@@ -2314,7 +2326,7 @@
     "goal": 538,
     "link": "https://www.youtube.com/embed/iGQ_kopx1-k?si=bdqj32H6LCMApVVa",
     "icon": "bullseye",
-    "text": "Tkachuk"
+    "text": "Keith Tkachuk"
   },
   {
     "goal": 539,
@@ -2328,7 +2340,7 @@
     "goal": 541,
     "link": "https://www.youtube.com/embed/G7l0i3XKhIo?si=jbIRfV8j3abQTBfk",
     "icon": "bullseye",
-    "text": "Makita"
+    "text": "Stan Makita"
   },
   {
     "goal": 542,
@@ -2342,7 +2354,7 @@
     "goal": 544,
     "link": "https://www.youtube.com/embed/i6fuPlv1REI?si=5aLhTt41UnwMKIuG",
     "icon": "bullseye",
-    "text": "Richard"
+    "text": "Maurice Richard"
   },
   {
     "goal": 545,
@@ -2396,7 +2408,7 @@
     "goal": 556,
     "link": "https://www.youtube.com/embed/ZCG6IwPlG5w?si=SMjJthXqwtZn3URv",
     "icon": "bullseye",
-    "text": "Bucyk"
+    "text": "Johnny Bucyk"
   },
   {
     "goal": 557,
@@ -2418,7 +2430,7 @@
     "goal": 560,
     "link": "https://www.youtube.com/embed/6xinVXeHth8?si=8OUEoe0osyOk6SDz",
     "icon": "bullseye",
-    "text": "Lafleur"
+    "text": "Guy Lafleur"
   },
   {
     "goal": 561,
@@ -2450,7 +2462,7 @@
     "goal": 566,
     "link": "https://www.youtube.com/embed/SGlkHy9qLkI?si=wlihCKZK39wkHhmz",
     "icon": "bullseye",
-    "text": "Marleau"
+    "text": "Patrick Marleau"
   },
   {
     "goal": 567,
@@ -2480,7 +2492,7 @@
     "goal": 573,
     "link": "https://www.youtube.com/embed/U3LFeAj6Zw8?si=DN1Wl3dtG7lfboxi",
     "icon": "bullseye",
-    "text": "Bossy"
+    "text": "Mike Bossy"
   },
   {
     "goal": 574,
@@ -2500,7 +2512,7 @@
     "goal": 577,
     "link": "https://www.youtube.com/embed/nzI31E5XoQg?si=qjnXN4FC-UTnmQty",
     "icon": "bullseye",
-    "text": "Recchi"
+    "text": "Mark Recchi"
   },
   {
     "goal": 578,
@@ -2597,13 +2609,14 @@
   {
     "goal": 600,
     "link": "https://www.youtube.com/embed/sM2vVyx0oa8?si=1B-YAbfTXe0hmePL",
-    "icon": "trophy"
+    "icon": "trophy",
+    "text": "600th Career Goal"
   },
   {
     "goal": 601,
     "link": "https://www.youtube.com/embed/B9cEiMpdpaQ?si=nmGLJ5bTmfpwHpJ2",
     "icon": "bullseye",
-    "text": "Kurri"
+    "text": "Jari Kurri"
   },
   {
     "goal": 602,
@@ -2635,7 +2648,7 @@
     "goal": 608,
     "link": "https://www.youtube.com/embed/LC-lw9zIwbo?si=4a2NhtoPrvastaBg",
     "icon": "bullseye",
-    "text": "Ciccarelli"
+    "text": "Dino Ciccarelli"
   },
   {
     "goal": 609,
@@ -2707,7 +2720,7 @@
     "goal": 625,
     "link": "https://www.youtube.com/embed/RAO1kZ2xf94?si=b28RXS-Gw-9HICqQ",
     "icon": "bullseye",
-    "text": "Iginla and Sakic"
+    "text": "Jarome Iginla and Joe Sakic"
   },
   {
     "goal": 626,
@@ -2776,7 +2789,7 @@
     "goal": 640,
     "link": "https://www.youtube.com/embed/7XqlLU5EUw0?si=KY-XlPPxJlTv9l27",
     "icon": "bullseye",
-    "text": "Andreychuk"
+    "text": "Dave Andreychuk"
   },
   {
     "goal": 641,
@@ -2846,12 +2859,13 @@
     "goal": 656,
     "link": "https://www.youtube.com/embed/KOmAR8sn72Y?si=DatbkCBaqkGhovrX",
     "icon": "bullseye",
-    "text": "Shanahan"
+    "text": "Brendan Shanahan"
   },
   {
     "goal": 657,
     "link": "https://www.youtube.com/embed/GytIIlQNFAY?si=1SjR9KKcwLiaZiGa",
-    "icon": "fifty"
+    "icon": "fifty",
+    "text": "8th 50 Goal Season"
   },
   {
     "goal": 658,
@@ -2901,7 +2915,7 @@
     "goal": 668,
     "link": "https://www.youtube.com/embed/cqzCLsoc40c?si=-ims4Xo-5kmlfPbW",
     "icon": "bullseye",
-    "text": "Robitaille"
+    "text": "Luc Robitaille"
   },
   {
     "goal": 669,
@@ -2969,7 +2983,7 @@
     "goal": 684,
     "link": "https://www.youtube.com/embed/7LdHJ2Ib3tQ?si=SNuwqNgKHLXWD97k",
     "icon": "bullseye",
-    "text": "Selanne"
+    "text": "Teemu Selanne"
   },
   {
     "goal": 685,
@@ -2997,7 +3011,7 @@
     "goal": 690,
     "link": "https://www.youtube.com/embed/ThErKIJAxp8?si=yDb5N0wWyETbe-d0",
     "icon": "bullseye",
-    "text": "Lemieux"
+    "text": "Mario Lemieux"
   },
   {
     "goal": 691,
@@ -3007,7 +3021,7 @@
     "goal": 692,
     "link": "https://www.youtube.com/embed/F3QmnTStPJM?si=CR_GQY5MFNvGlAfQ",
     "icon": "bullseye",
-    "text": "Yzerman"
+    "text": "Steve Yzerman"
   },
   {
     "goal": 693,
@@ -3017,7 +3031,7 @@
     "goal": 694,
     "link": "https://www.youtube.com/embed/dMRfloiegWY?si=k0cMDoYgsqfPJfIc",
     "icon": "bullseye",
-    "text": "Messier"
+    "text": "Mark Messier"
   },
   {
     "goal": 695,
@@ -3043,7 +3057,9 @@
   },
   {
     "goal": 700,
-    "link": "https://www.youtube.com/embed/11eCWB1sJxg?si=W41nuXRNJSRtmJ3Z"
+    "link": "https://www.youtube.com/embed/11eCWB1sJxg?si=W41nuXRNJSRtmJ3Z",
+    "icon": "trophy",
+    "text": "700th Career Goal"
   },
   {
     "goal": 701,
@@ -3081,7 +3097,7 @@
     "goal": 708,
     "link": "https://www.youtube.com/embed/71t2fiiqk54?si=KPkQlRSGwkQemm8D",
     "icon": "bullseye",
-    "text": "Gartner"
+    "text": "Mike Gartner"
   },
   {
     "goal": 709,
@@ -3119,7 +3135,7 @@
     "goal": 717,
     "link": "https://www.youtube.com/embed/cLOJDgfnIaA?si=wtXHdNSzcjnkY3FK",
     "icon": "bullseye",
-    "text": "Esposito"
+    "text": "Phil Esposito"
   },
   {
     "goal": 718,
@@ -3181,8 +3197,8 @@
   {
     "goal": 731,
     "link": "https://www.youtube.com/embed/0jJECto6FRo?si=W77Tj8RbWR5P6VJD",
-    "icon": "bookmark",
-    "text": "Dionne"
+    "icon": "bullseye",
+    "text": "Marcel Dionne"
   },
   {
     "goal": 732,
@@ -3330,7 +3346,7 @@
     "goal": 766,
     "link": "https://www.youtube.com/embed/nCKoKyiKWJo?si=mr4VzQguK_dp-NdG",
     "icon": "bullseye",
-    "text": "Jagr"
+    "text": "Jaromir Jagr"
   },
   {
     "goal": 767,
@@ -3388,7 +3404,8 @@
   {
     "goal": 780,
     "link": "https://www.youtube.com/embed/NCo2ycLKGxQ?si=1cfag75C6itL2-OV",
-    "icon": "fifty"
+    "icon": "fifty",
+    "text": "9th 50 Goal Season"
   },
   {
     "goal": 781,
@@ -3471,13 +3488,14 @@
   {
     "goal": 800,
     "link": "https://www.youtube.com/embed/c5opGdr9wu8?si=B2I7lyUe3SAHE7Vh",
-    "icon": "trophy"
+    "icon": "trophy",
+    "text": "800th Career Goal"
   },
   {
     "goal": 801,
     "link": "https://www.youtube.com/embed/jf8p8yd0zrs?si=vhep7No6tWW3FxXg",
     "icon": "bullseye",
-    "text": "Howe"
+    "text": "Gordie Howe"
   },
   {
     "goal": 802,
@@ -3874,7 +3892,7 @@
     "goal": 894,
     "link": "https://www.youtube.com/embed/0Wi35sZLH10?si=OpYvCoYbcIx8qb_0",
     "icon": "bullseye",
-    "text": "Gretzky"
+    "text": "Wayne Gretzky"
   },
   {
     "goal": 895,
