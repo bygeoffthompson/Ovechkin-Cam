@@ -24,7 +24,7 @@ function SearchForm({jsonData}) {
         }
     },[]);
 
-    const copyFunction = (event) => {
+    const copyFunction = () => {
         var link = document.getElementById("link").innerHTML;
         navigator.clipboard.writeText(link);
     };
@@ -33,21 +33,16 @@ function SearchForm({jsonData}) {
         setSearchTerm(event.target.value);
     };
 
-    const highlightGoal = (event) => {
-        const highlight = jsonData.filter(item =>
+    const highlightGoal = () => {
+        const highlights = ['bookmark', 'bullseye', 'four', 'fifty', 'hat', 'mega', 'sixty', 'trophy'];
+
+        const result = jsonData.filter(item =>
             Object.values(item).some(value =>
-                value === 'bookmark'  ||
-                value === 'bullseye'  ||
-                value === 'four'  ||
-                value === 'fifty' ||
-                value === 'hat' ||
-                value === 'mega' ||
-                value === 'sixty' ||
-                value === 'trophy'
+                highlights.includes(value)
             )
         );
 
-        const goal = Object.values(highlight[random(1, Object.keys(highlight).length)]);
+        const goal = Object.values(result[random(1, Object.keys(result).length)]);
         setSearchTerm(goal[0]);
     };
 
