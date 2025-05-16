@@ -71,12 +71,16 @@ function SearchForm({jsonData}) {
     return (
         <div>
             <form onSubmit={preventSubmit}>
-                <span>Goal Number&nbsp;</span>
-                <input min="0" max="897" id="search" type="number" placeholder="#" value={searchTerm} onChange={handleInputChange}/>
-                <span>&nbsp;or&nbsp;</span>
-                <button onClick={random} type="button">Random</button>
-                <span>&nbsp;or a&nbsp;</span>
-                <button onClick={highlight} type="button">Highlight</button>
+                <div>
+                    <span>Show Goal Number&nbsp;</span>
+                    <input min="0" max="897" id="search" type="number" placeholder="#" value={searchTerm} onChange={handleInputChange}/>
+                </div>
+                <div>
+                    <span>&nbsp;or&nbsp;</span>
+                    <button onClick={random} type="button">Random Goal</button>
+                    <span>&nbsp;or&nbsp;</span>
+                    <button onClick={highlight} type="button">Highlight Goal</button>
+                </div>
             </form>
 
             {searchResults.map((result, index) => (

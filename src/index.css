@@ -188,7 +188,19 @@ footer a {
 }
 
 form {
-  margin-bottom: 4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  justify-content: center;
+  margin-bottom: 2.5rem;
+}
+
+form > div {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 }
 
 h1 {
@@ -237,19 +249,14 @@ input[type="number"] {
   border-top: 0;
   caret-color: #C8102E;
   color: #C8102E;
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: bold;
-  max-width: 95px;
+  max-width: 75px;
   outline: 0;
-  padding: 3px;
+  padding: 0;
   text-align: center;
   text-indent: 16px;
   width: 100%;
-}
-
-input[disabled] {
-  background: transparent;
-  border: 0;
 }
 
 input[type="number"]:focus-visible {
@@ -283,6 +290,10 @@ div {
 }
 
 @media (min-width:576px) {
+  form {
+    margin-bottom: 4rem;
+  }
+
   header {
     flex-direction: row;
     gap: 1rem;
