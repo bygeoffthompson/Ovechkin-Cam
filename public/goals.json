@@ -210,7 +210,7 @@
     "goal": 49,
     "link": "https://www.youtube.com/embed/NtDd4X0Y8Zc?si=g83K4ATVYiJiEJoC",
     "icon": "trophy",
-    "text": "100th Point"
+    "text": "100th Career Point"
   },
   {
     "goal": 50,
@@ -1092,7 +1092,7 @@
     "goal": 257,
     "link": "https://www.youtube.com/embed/CnKHhwNj2-k?si=wqEaLp4vLE-NxPUt",
     "icon": "trophy",
-    "text": "500th Point"
+    "text": "500th Career Point"
   },
   {
     "goal": 258,
@@ -1526,7 +1526,7 @@
     "goal": 359,
     "link": "https://www.youtube.com/embed/uY1gcKgxw7I?si=FBVc1vZCz_ySikSK",
     "icon": "trophy",
-    "text": "700th Point"
+    "text": "700th Career Point"
   },
   {
     "goal": 360,
@@ -1764,7 +1764,7 @@
     "link": "https://www.youtube.com/embed/NXRzxFPYn5I?si=DtX_w8Bvibgq_ozR",
     "fallback": "https://www.youtube.com/embed/Oj4kBNwz0IY?si=TQNw5Zlp6OFiXwsh",
     "icon": "trophy",
-    "text": "800th Point"
+    "text": "800th Career Point"
   },
   {
     "goal": 415,
@@ -2048,7 +2048,7 @@
     "link": "https://www.youtube.com/embed/FfVKXPubgQc?si=_9KyGcPe7c0Ifub2",
     "fallback": "https://www.youtube.com/embed/kk2GYp_YDQU?si=DbfEYWNzhUnSWQYp",
     "icon": "trophy",
-    "text": "900th Point"
+    "text": "900th Career Point"
   },
   {
     "goal": 480,
@@ -2146,7 +2146,9 @@
   },
   {
     "goal": 503,
-    "link": "https://www.youtube.com/embed/jY8h52s7WJQ?si=ga6aKmLCu9Rn4wBH"
+    "link": "https://www.youtube.com/embed/jY8h52s7WJQ?si=ga6aKmLCu9Rn4wBH",
+    "icon": "bullseye",
+    "text": "Bondra"
   },
   {
     "goal": 504,
@@ -2163,7 +2165,9 @@
   },
   {
     "goal": 507,
-    "link": "https://www.youtube.com/embed/upjgyckv9_I?si=V5miFNBJxY1tN_xj"
+    "link": "https://www.youtube.com/embed/upjgyckv9_I?si=V5miFNBJxY1tN_xj",
+    "icon": "bullseye",
+    "text": "Beliveau"
   },
   {
     "goal": 508,
@@ -2185,11 +2189,15 @@
   },
   {
     "goal": 512,
-    "link": "https://www.youtube.com/embed/9ow8kTz6_dI?si=MemCrljj68ah_5my"
+    "link": "https://www.youtube.com/embed/9ow8kTz6_dI?si=MemCrljj68ah_5my",
+    "icon": "bullseye",
+    "text": "Perreault"
   },
   {
     "goal": 513,
-    "link": "https://www.youtube.com/embed/opOeY8HRUfo?si=z-PtG3wpLg32aOUm"
+    "link": "https://www.youtube.com/embed/opOeY8HRUfo?si=z-PtG3wpLg32aOUm",
+    "icon": "bullseye",
+    "text": "Roenick"
   },
   {
     "goal": 514,
@@ -2210,7 +2218,9 @@
   },
   {
     "goal": 518,
-    "link": "https://www.youtube.com/embed/olVhyIU1QQg?si=KcOGCQVv0lV4_QqG"
+    "link": "https://www.youtube.com/embed/olVhyIU1QQg?si=KcOGCQVv0lV4_QqG",
+    "icon": "bullseye",
+    "text": "Hawerchuk"
   },
   {
     "goal": 519,
@@ -2226,7 +2236,9 @@
   },
   {
     "goal": 522,
-    "link": "https://www.youtube.com/embed/SxW_PCwMHFI?si=9iLEUnQZJfbhRohu"
+    "link": "https://www.youtube.com/embed/SxW_PCwMHFI?si=9iLEUnQZJfbhRohu",
+    "icon": "bullseye",
+    "text": "Verbeek"
   },
   {
     "goal": 523,
@@ -2234,7 +2246,9 @@
   },
   {
     "goal": 524,
-    "link": "https://www.youtube.com/embed/ilmDtkRjPGE?si=XX_OHmt0XVgEmBRH"
+    "link": "https://www.youtube.com/embed/ilmDtkRjPGE?si=XX_OHmt0XVgEmBRH",
+    "icon": "bullseye",
+    "text": "Trottier"
   },
   {
     "goal": 525,
@@ -2295,7 +2309,9 @@
   },
   {
     "goal": 538,
-    "link": "https://www.youtube.com/embed/iGQ_kopx1-k?si=bdqj32H6LCMApVVa"
+    "link": "https://www.youtube.com/embed/iGQ_kopx1-k?si=bdqj32H6LCMApVVa",
+    "icon": "bullseye",
+    "text": "Tkachuk"
   },
   {
     "goal": 539,
@@ -2307,7 +2323,9 @@
   },
   {
     "goal": 541,
-    "link": "https://www.youtube.com/embed/G7l0i3XKhIo?si=jbIRfV8j3abQTBfk"
+    "link": "https://www.youtube.com/embed/G7l0i3XKhIo?si=jbIRfV8j3abQTBfk",
+    "icon": "bullseye",
+    "text": "Makita"
   },
   {
     "goal": 542,
@@ -2319,13 +2337,15 @@
   },
   {
     "goal": 544,
-    "link": "https://www.youtube.com/embed/i6fuPlv1REI?si=5aLhTt41UnwMKIuG"
+    "link": "https://www.youtube.com/embed/i6fuPlv1REI?si=5aLhTt41UnwMKIuG",
+    "icon": "bullseye",
+    "text": "Richard"
   },
   {
     "goal": 545,
     "link": "https://www.youtube.com/embed/RCnqzUOx-Iw?si=92PwFDhz9Rqqr0vO",
     "icon": "trophy",
-    "text": "1000th Point"
+    "text": "1000th Career Point"
   },
   {
     "goal": 546,
@@ -2371,7 +2391,9 @@
   },
   {
     "goal": 556,
-    "link": "https://www.youtube.com/embed/ZCG6IwPlG5w?si=SMjJthXqwtZn3URv"
+    "link": "https://www.youtube.com/embed/ZCG6IwPlG5w?si=SMjJthXqwtZn3URv",
+    "icon": "bullseye",
+    "text": "Bucyk"
   },
   {
     "goal": 557,
@@ -2391,7 +2413,9 @@
   },
   {
     "goal": 560,
-    "link": "https://www.youtube.com/embed/6xinVXeHth8?si=8OUEoe0osyOk6SDz"
+    "link": "https://www.youtube.com/embed/6xinVXeHth8?si=8OUEoe0osyOk6SDz",
+    "icon": "bullseye",
+    "text": "Lafleur"
   },
   {
     "goal": 561,
@@ -2420,7 +2444,9 @@
   },
   {
     "goal": 566,
-    "link": "https://www.youtube.com/embed/SGlkHy9qLkI?si=wlihCKZK39wkHhmz"
+    "link": "https://www.youtube.com/embed/SGlkHy9qLkI?si=wlihCKZK39wkHhmz",
+    "icon": "bullseye",
+    "text": "Marleau"
   },
   {
     "goal": 567,
@@ -2448,7 +2474,9 @@
   },
   {
     "goal": 573,
-    "link": "https://www.youtube.com/embed/U3LFeAj6Zw8?si=DN1Wl3dtG7lfboxi"
+    "link": "https://www.youtube.com/embed/U3LFeAj6Zw8?si=DN1Wl3dtG7lfboxi",
+    "icon": "bullseye",
+    "text": "Bossy"
   },
   {
     "goal": 574,
@@ -2466,7 +2494,9 @@
   },
   {
     "goal": 577,
-    "link": "https://www.youtube.com/embed/nzI31E5XoQg?si=qjnXN4FC-UTnmQty"
+    "link": "https://www.youtube.com/embed/nzI31E5XoQg?si=qjnXN4FC-UTnmQty",
+    "icon": "bullseye",
+    "text": "Recchi"
   },
   {
     "goal": 578,
@@ -2567,7 +2597,9 @@
   },
   {
     "goal": 601,
-    "link": "https://www.youtube.com/embed/B9cEiMpdpaQ?si=nmGLJ5bTmfpwHpJ2"
+    "link": "https://www.youtube.com/embed/B9cEiMpdpaQ?si=nmGLJ5bTmfpwHpJ2",
+    "icon": "bullseye",
+    "text": "Kurri"
   },
   {
     "goal": 602,
@@ -2598,8 +2630,8 @@
   {
     "goal": 608,
     "link": "https://www.youtube.com/embed/LC-lw9zIwbo?si=4a2NhtoPrvastaBg",
-    "icon": "bookmark",
-    "text": "First of Season 14"
+    "icon": "bullseye",
+    "text": "Ciccarelli"
   },
   {
     "goal": 609,
@@ -2607,7 +2639,9 @@
   },
   {
     "goal": 610,
-    "link": "https://www.youtube.com/embed/-AFquTlI-BM?si=LCjhjfO61-YxK0re"
+    "link": "https://www.youtube.com/embed/-AFquTlI-BM?si=LCjhjfO61-YxK0re",
+    "icon": "bullseye",
+    "text": "Bobby Hull"
   },
   {
     "goal": 611,
@@ -2667,7 +2701,9 @@
   },
   {
     "goal": 625,
-    "link": "https://www.youtube.com/embed/RAO1kZ2xf94?si=b28RXS-Gw-9HICqQ"
+    "link": "https://www.youtube.com/embed/RAO1kZ2xf94?si=b28RXS-Gw-9HICqQ",
+    "icon": "bullseye",
+    "text": "Iginla and Sakic"
   },
   {
     "goal": 626,
@@ -2734,7 +2770,9 @@
   },
   {
     "goal": 640,
-    "link": "https://www.youtube.com/embed/7XqlLU5EUw0?si=KY-XlPPxJlTv9l27"
+    "link": "https://www.youtube.com/embed/7XqlLU5EUw0?si=KY-XlPPxJlTv9l27",
+    "icon": "bullseye",
+    "text": "Andreychuk"
   },
   {
     "goal": 641,
@@ -2802,7 +2840,9 @@
   },
   {
     "goal": 656,
-    "link": "https://www.youtube.com/embed/KOmAR8sn72Y?si=DatbkCBaqkGhovrX"
+    "link": "https://www.youtube.com/embed/KOmAR8sn72Y?si=DatbkCBaqkGhovrX",
+    "icon": "bullseye",
+    "text": "Shanahan"
   },
   {
     "goal": 657,
@@ -2855,7 +2895,9 @@
   },
   {
     "goal": 668,
-    "link": "https://www.youtube.com/embed/cqzCLsoc40c?si=-ims4Xo-5kmlfPbW"
+    "link": "https://www.youtube.com/embed/cqzCLsoc40c?si=-ims4Xo-5kmlfPbW",
+    "icon": "bullseye",
+    "text": "Robitaille"
   },
   {
     "goal": 669,
@@ -2921,7 +2963,9 @@
   },
   {
     "goal": 684,
-    "link": "https://www.youtube.com/embed/7LdHJ2Ib3tQ?si=SNuwqNgKHLXWD97k"
+    "link": "https://www.youtube.com/embed/7LdHJ2Ib3tQ?si=SNuwqNgKHLXWD97k",
+    "icon": "bullseye",
+    "text": "Selanne"
   },
   {
     "goal": 685,
@@ -3077,7 +3121,7 @@
     "goal": 718,
     "link": "https://www.youtube.com/embed/MG1SUqa2lC4?si=ShwctWMcUIyk3-LI",
     "icon": "trophy",
-    "text": "1300th Point"
+    "text": "1300th Career Point"
   },
   {
     "goal": 719,
@@ -3176,7 +3220,7 @@
     "goal": 741,
     "link": "https://www.youtube.com/embed/zFljJO1r0Dc?si=yQXzW2P9vK2_PmS6",
     "icon": "bullseye",
-    "text": "Hull"
+    "text": "Brett Hull"
   },
   {
     "goal": 742,
@@ -3792,7 +3836,7 @@
     "goal": 886,
     "link": "https://www.youtube.com/embed/YzbnqIh7HZ8?si=Ty7VfmhMDP3ybl4h",
     "icon": "trophy",
-    "text": "1600th Point"
+    "text": "1600th Career Point"
   },
   {
     "goal": 887,

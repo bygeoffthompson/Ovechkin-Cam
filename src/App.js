@@ -28,6 +28,28 @@ function SearchForm({jsonData}) {
         setSearchTerm(event.target.value);
     };
 
+    const highlight = (event) => {
+        const highlight = jsonData.filter(item =>
+            Object.values(item).some(value =>
+                value === 'bookmark'  ||
+                value === 'bullseye'  ||
+                value === 'four'  ||
+                value === 'fifty' ||
+                value === 'hat' ||
+                value === 'mega' ||
+                value === 'sixty' ||
+                value === 'trophy'
+            )
+        );
+        function getRandomInt(min, max) {
+            min = Math.ceil(min);
+            max = Math.floor(max);
+            return Math.floor(Math.random() * (max - min + 1)) + min;
+        }
+        const goal = Object.values(highlight[getRandomInt(1, Object.keys(highlight).length)]);
+        setSearchTerm(goal[0]);
+    };
+
     const preventSubmit = (event) => {
         event.preventDefault();
     };
@@ -51,10 +73,10 @@ function SearchForm({jsonData}) {
             <form onSubmit={preventSubmit}>
                 <span>Goal Number&nbsp;</span>
                 <input min="0" max="897" id="search" type="number" placeholder="#" value={searchTerm} onChange={handleInputChange}/>
-                <span>&nbsp;(or&nbsp;</span>
+                <span>&nbsp;or&nbsp;</span>
                 <button onClick={random} type="button">Random</button>
-                <span>&nbsp;)</span>
-                <button type="submit" disabled>Submit</button>
+                <span>&nbsp;or a&nbsp;</span>
+                <button onClick={highlight} type="button">Highlight</button>
             </form>
 
             {searchResults.map((result, index) => (
