@@ -5,13 +5,6 @@ function SearchForm({jsonData}) {
     const [searchResults, setSearchResults] = useState([]);
 
     useEffect(() => {
-        const query = parseInt(window.location.search.slice(1));
-
-        if (query >= 1 && query <= 897) {
-            setSearchTerm(query);
-            document.getElementById('search').disabled = true;
-        }
-
         if (searchTerm) {
             const results = jsonData.filter(item =>
                 Object.values(item).some(value =>
@@ -24,7 +17,12 @@ function SearchForm({jsonData}) {
         }
     }, [searchTerm, jsonData]);
 
-
+    useEffect(() => {
+        const query = parseInt(window.location.search.slice(1));
+        if (query >= 1 && query <= 897) {
+            setSearchTerm(query);
+        }
+    },[]);
 
     const handleInputChange = (event) => {
         setSearchTerm(event.target.value);
@@ -53,7 +51,7 @@ function SearchForm({jsonData}) {
             <form onSubmit={preventSubmit}>
                 <span>Goal Number&nbsp;</span>
                 <input min="0" max="897" id="search" type="number" placeholder="#" value={searchTerm} onChange={handleInputChange}/>
-                <span>&nbsp;(or&nbsp;&nbsp;</span>
+                <span>&nbsp;(or&nbsp;</span>
                 <button onClick={random} type="button">Random</button>
                 <span>&nbsp;)</span>
                 <button type="submit" disabled>Submit</button>
