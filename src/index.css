@@ -113,6 +113,10 @@
   margin-right: 2px;
 }
 
+.penalty #icon {
+  background-image: url(/public/penalty.svg);
+}
+
 .sixty #icon {
   background-image: url(/public/sixty.svg);
 }
