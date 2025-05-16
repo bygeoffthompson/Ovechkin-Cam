@@ -34,7 +34,7 @@ function SearchForm({jsonData}) {
     };
 
     const highlightGoal = () => {
-        const highlights = ['bookmark', 'bullseye', 'four', 'fifty', 'hat', 'mega', 'penalty', 'sixty', 'trophy'];
+        const highlights = ['bookmark', 'bullseye', 'four', 'fifty', 'forty', 'hat', 'mega', 'penalty', 'sixty', 'trophy'];
 
         const result = jsonData.filter(item =>
             Object.values(item).some(value =>
