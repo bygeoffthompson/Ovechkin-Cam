@@ -501,7 +501,8 @@
   },
   {
     "goal": 118,
-    "link": "https://www.youtube.com/embed/5GgsTFW6lMQ?si=dzrPxBKvcwIljiEB"
+    "link": "https://www.youtube.com/embed/5GgsTFW6lMQ?si=dzrPxBKvcwIljiEB",
+    "icon": "twenty"
   },
   {
     "goal": 119,
@@ -544,7 +545,8 @@
   {
     "goal": 128,
     "link": "https://www.youtube.com/embed/tTinu1k8INg?si=p68Dr-drk4_P1jpP",
-    "icon": "four"
+    "icon": "four",
+    "text": "Four Goal Game"
   },
   {
     "goal": 129,
@@ -600,7 +602,8 @@
   {
     "goal": 141,
     "link": "https://www.youtube.com/embed/8h4SRDJU-Fo?si=eFlyw_1x2xZrVCI6",
-    "icon": "four"
+    "icon": "four",
+    "text": "Four Goal Game"
   },
   {
     "goal": 142,
@@ -2440,7 +2443,8 @@
   {
     "goal": 565,
     "link": "https://www.youtube.com/embed/F46JbM9mAgI?si=KGFqWoSFx0DiJ86L",
-    "icon": "four"
+    "icon": "four",
+    "text": "Four Goal Game"
   },
   {
     "goal": 566,
