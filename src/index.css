@@ -113,12 +113,20 @@
   margin-right: 2px;
 }
 
+.moon #icon {
+  background-image: url(/public/moon.svg);
+}
+
 .penalty #icon {
   background-image: url(/public/penalty.svg);
 }
 
 .sixty #icon {
   background-image: url(/public/sixty.svg);
+}
+
+.sun #icon {
+  background-image: url(/public/sun.svg);
 }
 
 .thirty #icon {
