@@ -1079,7 +1079,7 @@
     "goal": 249,
     "link": "https://www.youtube.com/embed/Rw-oDb-1w7M?si=gz8JPU0DhSUnCjku",
     "icon": "penalty",
-    "text": "1st Penalty Shot Goal"
+    "text": "Penalty Shot"
   },
   {
     "goal": 250,
@@ -1180,7 +1180,7 @@
     "goal": 271,
     "link": "https://www.youtube.com/embed/mf8dyd3Qrzs?si=ELjvsZFZKNDm5sfz",
     "icon": "penalty",
-    "text": "2nd Penalty Shot Goal"
+    "text": "Penalty Shot"
   },
   {
     "goal": 272,
@@ -1908,7 +1908,9 @@
   },
   {
     "goal": 440,
-    "link": "https://www.youtube.com/embed/sfSHrc9T4Ts?si=PVaJBOT6x7YAO5wM"
+    "link": "https://www.youtube.com/embed/sfSHrc9T4Ts?si=PVaJBOT6x7YAO5wM",
+    "icon": "sun",
+    "text": "Outdoor Goal"
   },
   {
     "goal": 441,
@@ -2631,8 +2633,8 @@
     "goal": 598,
     "link": "https://www.youtube.com/embed/t7JT4gyWOSw?si=vlppIajiZdNJ9PZh",
     "fallback": "https://www.youtube.com/embed/SWLrHe4NkBQ?si=NVcThyklwmpth8BS",
-    "icon": "forty",
-    "text": "9th 40 Goal Season"
+    "icon": "moon",
+    "text": "Outdoor Goal"
   },
   {
     "goal": 599,
