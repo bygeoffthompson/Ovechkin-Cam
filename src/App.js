@@ -60,6 +60,14 @@ function SearchForm({jsonData}) {
         setSearchTerm(random(1, 897));
     };
 
+    const todayGoal = () => {
+        const date = new Date();
+        const hash = (date.getMonth() + 1) * date.getDate();
+        const goal = hash * 2.41129;
+
+        setSearchTerm(Math.trunc(goal));
+    };
+
     return (
         <div>
             <form onSubmit={preventSubmit}>
@@ -72,6 +80,8 @@ function SearchForm({jsonData}) {
                     <button onClick={randomGoal} type="button">Random Goal</button>
                     <span>&nbsp;&nbsp;/&nbsp;&nbsp;</span>
                     <button onClick={highlightGoal} type="button">Highlight Goal</button>
+                    <span>&nbsp;&nbsp;/&nbsp;&nbsp;</span>
+                    <button onClick={todayGoal} type="button">Today's Goal</button>
                 </div>
             </form>
 
