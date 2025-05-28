@@ -11,7 +11,7 @@ function SearchForm({jsonData}) {
         if (searchTerm) {
             const results = jsonData.filter(item =>
                 Object.values(item).some(value =>
-                    typeof value === 'number' && value == searchTerm
+                    typeof value === 'number' && value === parseInt(searchTerm)
                 )
             );
             setSearchResults(results);
@@ -19,7 +19,7 @@ function SearchForm({jsonData}) {
             ReactGA.event({
                 category: "Goal Request",
                 action: "Request",
-                value: searchTerm
+                value: parseInt(searchTerm)
             });
 
         } else {
