@@ -1,4 +1,7 @@
 import React, {useState, useEffect} from 'react';
+import ReactGA from "react-ga4";
+
+ReactGA.initialize("G-5RVBYX6N0S");
 
 function SearchForm({jsonData}) {
     const [searchTerm, setSearchTerm] = useState('');
@@ -12,6 +15,13 @@ function SearchForm({jsonData}) {
                 )
             );
             setSearchResults(results);
+            console.log(searchTerm)
+            ReactGA.event({
+                category: "Goal Request",
+                action: "Request",
+                value: searchTerm
+            });
+
         } else {
             setSearchResults([]);
         }
@@ -31,7 +41,6 @@ function SearchForm({jsonData}) {
 
     const handleInputChange = (event) => {
         setSearchTerm(event.target.value);
-        console.log(event.target.value);
     };
 
     const highlightGoal = () => {
@@ -45,7 +54,6 @@ function SearchForm({jsonData}) {
 
         const goal = Object.values(result[random(1, Object.keys(result).length)]);
         setSearchTerm(goal[0]);
-        console.log(goal[0]);
     };
 
     const preventSubmit = (event) => {
@@ -61,7 +69,6 @@ function SearchForm({jsonData}) {
     const randomGoal = () => {
         const randomGoal = random(1, 897);
         setSearchTerm(randomGoal);
-        console.log(randomGoal);
     };
 
     const todayGoal = () => {
@@ -69,7 +76,6 @@ function SearchForm({jsonData}) {
         const hash = (date.getMonth() + 1) * date.getDate();
         const goal = hash * 2.41129;
         setSearchTerm(Math.trunc(goal));
-        console.log(Math.trunc(goal));
     };
 
     return (
