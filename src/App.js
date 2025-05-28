@@ -31,6 +31,7 @@ function SearchForm({jsonData}) {
 
     const handleInputChange = (event) => {
         setSearchTerm(event.target.value);
+        console.log(event.target.value);
     };
 
     const highlightGoal = () => {
@@ -44,6 +45,7 @@ function SearchForm({jsonData}) {
 
         const goal = Object.values(result[random(1, Object.keys(result).length)]);
         setSearchTerm(goal[0]);
+        console.log(goal[0]);
     };
 
     const preventSubmit = (event) => {
@@ -57,15 +59,17 @@ function SearchForm({jsonData}) {
     }
 
     const randomGoal = () => {
-        setSearchTerm(random(1, 897));
+        const randomGoal = random(1, 897);
+        setSearchTerm(randomGoal);
+        console.log(randomGoal);
     };
 
     const todayGoal = () => {
         const date = new Date();
         const hash = (date.getMonth() + 1) * date.getDate();
         const goal = hash * 2.41129;
-
         setSearchTerm(Math.trunc(goal));
+        console.log(Math.trunc(goal));
     };
 
     return (
