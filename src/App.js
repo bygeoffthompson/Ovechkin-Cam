@@ -107,7 +107,6 @@ function SearchForm({jsonData}) {
                 <div>
                     <span>Goal&nbsp;</span>
                     <input min="0" max="897" id="search" type="number" placeholder="#" value={searchTerm} onChange={handleInputChange}/>
-                    <span>&nbsp;or</span>
                 </div>
                 <div>
                     <button onClick={randomGoal} type="button">Random Goal</button>

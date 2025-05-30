@@ -213,6 +213,7 @@ form > div {
   display: flex;
   flex-direction: row;
   justify-content: center;
+  margin-bottom: 10px;
 }
 
 h1 {
@@ -245,7 +246,7 @@ iframe {
   border: 0;
   box-shadow: rgba(200, 16, 46, 0.4) 10px 10px, rgba(200, 16, 46, 0.3) 20px 20px, rgba(200, 16, 46, 0.2) 30px 30px, rgba(200, 16, 46, 0.1) 40px 40px, rgba(200, 16, 46, 0.05) 50px 50px;
   height: auto;
-  margin: 0 0 2rem;
+  margin: 0 0 60px;
   max-width: 960px;
   position: relative;
   width: 100% !important;
@@ -262,7 +263,6 @@ input[type="number"] {
   font-weight: bold;
   max-width: 75px;
   outline: 0;
-  padding: 0;
   text-align: center;
   text-indent: 16px;
   width: 100%;
