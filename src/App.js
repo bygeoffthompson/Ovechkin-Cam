@@ -17,16 +17,15 @@ function SearchForm({jsonData}) {
             setSearchResults(results);
             console.log("Goal " + parseInt(searchTerm))
             ReactGA.event({
-                category: "Individual Goals",
+                category: "Goals",
                 action: "Goal " + parseInt(searchTerm),
                 value: 1
             });
             ReactGA.event({
-                category: "Total Goals",
+                category: "Total",
                 action: "Total Goals",
                 value: 1
             });
-
         } else {
             setSearchResults([]);
         }
@@ -59,6 +58,11 @@ function SearchForm({jsonData}) {
 
         const goal = Object.values(result[random(1, Object.keys(result).length)]);
         setSearchTerm(goal[0]);
+        ReactGA.event({
+            category: "Click",
+            action: "Highlight Goal Click",
+            value: 1
+        });
     };
 
     const preventSubmit = (event) => {
@@ -74,6 +78,11 @@ function SearchForm({jsonData}) {
     const randomGoal = () => {
         const randomGoal = random(1, 897);
         setSearchTerm(randomGoal);
+        ReactGA.event({
+            category: "Click",
+            action: "Random Goal Click",
+            value: 1
+        });
     };
 
     const todayGoal = () => {
@@ -81,6 +90,11 @@ function SearchForm({jsonData}) {
         const hash = (date.getMonth() + 1) * date.getDate();
         const goal = hash * 2.41129;
         setSearchTerm(Math.trunc(goal));
+        ReactGA.event({
+            category: "Click",
+            action: "Today's Goal Click",
+            value: 1
+        });
     };
 
     return (
