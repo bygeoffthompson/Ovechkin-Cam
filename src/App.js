@@ -42,8 +42,8 @@ function SearchForm({jsonData}) {
                     action: "Total Goals",
                     value: 1
                 });
-                console.log('windowlocationhostnamedoesnotincludelocalhost');
             }
+
             document.querySelector('h1').innerHTML = 'Watch Ovechkin\'s ' + suffix(goal) + ' Goal';
             document.querySelector('title').innerHTML = 'Goal ' + goal + ' | Ovechkin Cam';
             document.querySelector('meta[name="description"]').setAttribute('content', 'Watch broadcast footage of Alex Ovechkin\'s ' + suffix(goal) + ' career goal.');
@@ -80,6 +80,7 @@ function SearchForm({jsonData}) {
 
         const goal = Object.values(result[random(1, Object.keys(result).length)]);
         setSearchTerm(goal[0]);
+
         if (!window.location.hostname.includes('localhost')) {
             ReactGA.event({
                 category: "Click",
@@ -102,6 +103,7 @@ function SearchForm({jsonData}) {
     const randomGoal = () => {
         const randomGoal = random(1, 897);
         setSearchTerm(randomGoal);
+
         if (!window.location.hostname.includes('localhost')) {
             ReactGA.event({
                 category: "Click",
@@ -116,6 +118,7 @@ function SearchForm({jsonData}) {
         const hash = (date.getMonth() + 1) * date.getDate();
         const goal = hash * 2.41129;
         setSearchTerm(Math.trunc(goal));
+        
         if (!window.location.hostname.includes('localhost')) {
             ReactGA.event({
                 category: "Click",
