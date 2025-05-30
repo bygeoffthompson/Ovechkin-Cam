@@ -9,16 +9,17 @@ function SearchForm({jsonData}) {
 
     useEffect(() => {
         if (searchTerm) {
+            const goal = parseInt(searchTerm);
             const results = jsonData.filter(item =>
                 Object.values(item).some(value =>
-                    typeof value === 'number' && value === parseInt(searchTerm)
+                    typeof value === 'number' && value === goal
                 )
             );
             setSearchResults(results);
-            console.log("Goal " + parseInt(searchTerm))
+            console.log("Goal " + goal)
             ReactGA.event({
                 category: "Goals",
-                action: "Goal " + parseInt(searchTerm),
+                action: "Goal " + goal,
                 value: 1
             });
             ReactGA.event({
@@ -26,10 +27,10 @@ function SearchForm({jsonData}) {
                 action: "Total Goals",
                 value: 1
             });
-            document.querySelector('title').innerHTML = 'Goal ' + parseInt(searchTerm) + ' | Ovechkin Cam';
-            document.querySelector('meta[name="description"]').setAttribute('content', 'Watch broadcast footage of goal ' + parseInt(searchTerm) + ' of Alex Ovechkin\'s career');
-            document.querySelector('link[rel="canonical"]').setAttribute('href', 'https://www.ovechkin.cam/?' + parseInt(searchTerm));
-            document.querySelector('h1').innerHTML = 'Goal Number ' + parseInt(searchTerm);
+            document.querySelector('title').innerHTML = 'Goal ' + goal + ' | Ovechkin Cam';
+            document.querySelector('meta[name="description"]').setAttribute('content', 'Watch broadcast footage of goal ' + goal + ' of Alex Ovechkin\'s career');
+            document.querySelector('link[rel="canonical"]').setAttribute('href', 'https://www.ovechkin.cam/?' + goal);
+            document.querySelector('h1').innerHTML = 'Goal ' + goal;
         } else {
             setSearchResults([]);
         }
