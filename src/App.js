@@ -26,6 +26,10 @@ function SearchForm({jsonData}) {
                 action: "Total Goals",
                 value: 1
             });
+            document.querySelector('title').innerHTML = 'Goal ' + parseInt(searchTerm) + ' | Ovechkin Cam';
+            document.querySelector('meta[name="description"]').setAttribute('content', 'Watch broadcast footage of goal ' + parseInt(searchTerm) + ' of Alex Ovechkin\'s career');
+            document.querySelector('link[rel="canonical"]').setAttribute('href', 'https://www.ovechkin.cam/?' + parseInt(searchTerm));
+            document.querySelector('h1').innerHTML = 'Goal Number ' + parseInt(searchTerm);
         } else {
             setSearchResults([]);
         }
