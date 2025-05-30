@@ -30,16 +30,20 @@ function SearchForm({jsonData}) {
                 )
             );
             setSearchResults(results);
-            ReactGA.event({
-                category: "Goals",
-                action: "Goal " + goal,
-                value: 1
-            });
-            ReactGA.event({
-                category: "Total",
-                action: "Total Goals",
-                value: 1
-            });
+
+            if (!window.location.hostname.includes('localhost')) {
+                ReactGA.event({
+                    category: "Goals",
+                    action: "Goal " + goal,
+                    value: 1
+                });
+                ReactGA.event({
+                    category: "Total",
+                    action: "Total Goals",
+                    value: 1
+                });
+                console.log('windowlocationhostnamedoesnotincludelocalhost');
+            }
             document.querySelector('h1').innerHTML = 'Watch Ovechkin\'s ' + suffix(goal) + ' Goal';
             document.querySelector('title').innerHTML = 'Goal ' + goal + ' | Ovechkin Cam';
             document.querySelector('meta[name="description"]').setAttribute('content', 'Watch broadcast footage of Alex Ovechkin\'s ' + suffix(goal) + ' career goal.');
@@ -76,11 +80,13 @@ function SearchForm({jsonData}) {
 
         const goal = Object.values(result[random(1, Object.keys(result).length)]);
         setSearchTerm(goal[0]);
-        ReactGA.event({
-            category: "Click",
-            action: "Highlight Goal Click",
-            value: 1
-        });
+        if (!window.location.hostname.includes('localhost')) {
+            ReactGA.event({
+                category: "Click",
+                action: "Highlight Goal Click",
+                value: 1
+            });
+        }
     };
 
     const preventSubmit = (event) => {
@@ -96,11 +102,13 @@ function SearchForm({jsonData}) {
     const randomGoal = () => {
         const randomGoal = random(1, 897);
         setSearchTerm(randomGoal);
-        ReactGA.event({
-            category: "Click",
-            action: "Random Goal Click",
-            value: 1
-        });
+        if (!window.location.hostname.includes('localhost')) {
+            ReactGA.event({
+                category: "Click",
+                action: "Random Goal Click",
+                value: 1
+            });
+        }
     };
 
     const todayGoal = () => {
@@ -108,11 +116,13 @@ function SearchForm({jsonData}) {
         const hash = (date.getMonth() + 1) * date.getDate();
         const goal = hash * 2.41129;
         setSearchTerm(Math.trunc(goal));
-        ReactGA.event({
-            category: "Click",
-            action: "Today's Goal Click",
-            value: 1
-        });
+        if (!window.location.hostname.includes('localhost')) {
+            ReactGA.event({
+                category: "Click",
+                action: "Today's Goal Click",
+                value: 1
+            });
+        }
     };
 
     return (
