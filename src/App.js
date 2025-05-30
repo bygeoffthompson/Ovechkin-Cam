@@ -15,11 +15,16 @@ function SearchForm({jsonData}) {
                 )
             );
             setSearchResults(results);
-            console.log(searchTerm)
+            console.log("Goal " + parseInt(searchTerm))
             ReactGA.event({
-                category: "Goal Request",
-                action: "Request",
-                value: parseInt(searchTerm)
+                category: "Individual Goals",
+                action: "Goal " + parseInt(searchTerm),
+                value: 1
+            });
+            ReactGA.event({
+                category: "Total Goals",
+                action: "Total Goals",
+                value: 1
             });
 
         } else {
