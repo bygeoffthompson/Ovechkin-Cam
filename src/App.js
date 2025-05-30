@@ -10,13 +10,26 @@ function SearchForm({jsonData}) {
     useEffect(() => {
         if (searchTerm) {
             const goal = parseInt(searchTerm);
+            function suffix(goal) {
+                const j = goal % 10;
+                const k = goal % 100;
+                if (j === 1 && k !== 11) {
+                    return goal + "st";
+                }
+                if (j === 2 && k !== 12) {
+                    return goal + "nd";
+                }
+                if (j === 3 && k !== 13) {
+                    return goal + "rd";
+                }
+                return goal + "th";
+            }
             const results = jsonData.filter(item =>
                 Object.values(item).some(value =>
                     typeof value === 'number' && value === goal
                 )
             );
             setSearchResults(results);
-            console.log("Goal " + goal)
             ReactGA.event({
                 category: "Goals",
                 action: "Goal " + goal,
@@ -27,10 +40,10 @@ function SearchForm({jsonData}) {
                 action: "Total Goals",
                 value: 1
             });
+            document.querySelector('h1').innerHTML = 'Watch Ovechkin\'s ' + suffix(goal) + ' Goal';
             document.querySelector('title').innerHTML = 'Goal ' + goal + ' | Ovechkin Cam';
-            document.querySelector('meta[name="description"]').setAttribute('content', 'Watch broadcast footage of goal ' + goal + ' of Alex Ovechkin\'s career');
+            document.querySelector('meta[name="description"]').setAttribute('content', 'Watch broadcast footage of Alex Ovechkin\'s ' + suffix(goal) + ' career goal.');
             document.querySelector('link[rel="canonical"]').setAttribute('href', 'https://www.ovechkin.cam/?' + goal);
-            document.querySelector('h1').innerHTML = 'Goal ' + goal;
         } else {
             setSearchResults([]);
         }
