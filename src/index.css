@@ -243,13 +243,18 @@ html {
 
 iframe {
   aspect-ratio: 16 / 9;
+  background: #000;
   border: 0;
   box-shadow: rgba(200, 16, 46, 0.4) 10px 10px, rgba(200, 16, 46, 0.3) 20px 20px, rgba(200, 16, 46, 0.2) 30px 30px, rgba(200, 16, 46, 0.1) 40px 40px, rgba(200, 16, 46, 0.05) 50px 50px;
   height: auto;
-  margin: 0 0 60px;
-  max-width: 960px;
   position: relative;
   width: 100% !important;
+}
+
+#shadow {
+  box-shadow: rgba(4, 30, 66, 0.4) -10px -10px, rgba(4, 30, 66, 0.3) -20px -20px, rgba(4, 30, 66, 0.2) -30px -30px, rgba(4, 30, 66, 0.1) -40px -40px, rgba(4, 30, 66, 0.05) -50px -50px;
+  margin: 0 0 60px;
+  max-width: 960px;
 }
 
 input[type="number"] {

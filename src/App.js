@@ -150,9 +150,10 @@ function SearchForm({jsonData}) {
                         <span><span id="icon"></span></span>
                         <strong>{result.text}</strong>
                     </div>
-                    <iframe width="560" height="315" src={result.link.replace(/"/g, "")} title="YouTube video player"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                            referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+                    <div id="shadow">
+                        <iframe width="560" height="315" src={result.link.replace(/"/g, "")} title="Alex Ovechkin Goal Video"
+                            referrerPolicy="no-referrer" allowFullScreen></iframe>
+                    </div>
                     <div className="flex">
                         <strong id="link">https://www.ovechkin.cam/?{result.goal}</strong>
                         <button onClick={copyFunction} id="copy" title="Copy Link">Copy</button>
