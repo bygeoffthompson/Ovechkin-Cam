@@ -6,7 +6,7 @@
 
         <loc>https://www.ovechkin.cam</loc>
 
-        <lastmod>2025-05-15</lastmod>
+        <lastmod>2025-06-11</lastmod>
 
         <changefreq>monthly</changefreq>
 
@@ -18,7 +18,7 @@
 
         <loc>https://www.ovechkin.cam/about.html</loc>
 
-        <lastmod>2025-05-15</lastmod>
+        <lastmod>2025-06-11</lastmod>
 
         <changefreq>monthly</changefreq>
 
@@ -30,7 +30,7 @@
 
         <loc>https://www.ovechkin.cam/thanks.html</loc>
 
-        <lastmod>2025-05-15</lastmod>
+        <lastmod>2025-06-11</lastmod>
 
         <changefreq>monthly</changefreq>
 
@@ -38,11 +38,24 @@
 
     </url>
 
+
+    <url>
+
+        <loc>https://www.ovechkin.cam/?897</loc>
+
+        <lastmod>2025-06-11</lastmod>
+
+        <changefreq>monthly</changefreq>
+
+        <priority>0.8</priority>
+
+    </url>
+
     <url>
 
         <loc>https://www.ovechkin.cam/?895</loc>
 
-        <lastmod>2025-05-15</lastmod>
+        <lastmod>2025-06-11</lastmod>
 
         <changefreq>monthly</changefreq>
 
@@ -54,7 +67,7 @@
 
         <loc>https://www.ovechkin.cam/?800</loc>
 
-        <lastmod>2025-05-15</lastmod>
+        <lastmod>2025-06-11</lastmod>
 
         <changefreq>monthly</changefreq>
 
@@ -66,7 +79,7 @@
 
         <loc>https://www.ovechkin.cam/?700</loc>
 
-        <lastmod>2025-05-15</lastmod>
+        <lastmod>2025-06-11</lastmod>
 
         <changefreq>monthly</changefreq>
 
@@ -79,7 +92,7 @@
 
         <loc>https://www.ovechkin.cam/?600</loc>
 
-        <lastmod>2025-05-15</lastmod>
+        <lastmod>2025-06-11</lastmod>
 
         <changefreq>monthly</changefreq>
 
@@ -91,7 +104,7 @@
 
         <loc>https://www.ovechkin.cam/?500</loc>
 
-        <lastmod>2025-05-15</lastmod>
+        <lastmod>2025-06-11</lastmod>
 
         <changefreq>monthly</changefreq>
 
@@ -103,7 +116,7 @@
 
         <loc>https://www.ovechkin.cam/?400</loc>
 
-        <lastmod>2025-05-15</lastmod>
+        <lastmod>2025-06-11</lastmod>
 
         <changefreq>monthly</changefreq>
 
@@ -115,7 +128,7 @@
 
         <loc>https://www.ovechkin.cam/?300</loc>
 
-        <lastmod>2025-05-15</lastmod>
+        <lastmod>2025-06-11</lastmod>
 
         <changefreq>monthly</changefreq>
 
@@ -127,7 +140,7 @@
 
         <loc>https://www.ovechkin.cam/?200</loc>
 
-        <lastmod>2025-05-15</lastmod>
+        <lastmod>2025-06-11</lastmod>
 
         <changefreq>monthly</changefreq>
 
@@ -139,7 +152,7 @@
 
         <loc>https://www.ovechkin.cam/?100</loc>
 
-        <lastmod>2025-05-15</lastmod>
+        <lastmod>2025-06-11</lastmod>
 
         <changefreq>monthly</changefreq>
 
@@ -151,7 +164,7 @@
 
         <loc>https://www.ovechkin.cam/?1</loc>
 
-        <lastmod>2025-05-15</lastmod>
+        <lastmod>2025-06-11</lastmod>
 
         <changefreq>monthly</changefreq>
 
