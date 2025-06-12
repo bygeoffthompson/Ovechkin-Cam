@@ -44,7 +44,7 @@ function SearchForm({jsonData}) {
                 });
             }
 
-            document.querySelector('h1').innerHTML = 'Watch Ovechkin\'s ' + suffix(goal) + ' Goal';
+            document.querySelector('h1').innerHTML = 'Watch Alex Ovechkin\'s ' + suffix(goal) + ' Goal';
             document.querySelector('title').innerHTML = suffix(goal) + ' Goal | Ovechkin Cam';
             document.querySelector('meta[name="description"]').setAttribute('content', 'Watch broadcast footage of Alex Ovechkin\'s ' + suffix(goal) + ' career goal.');
         } else {
