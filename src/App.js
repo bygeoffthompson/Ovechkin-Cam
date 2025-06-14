@@ -69,7 +69,7 @@ function SearchForm({jsonData}) {
     };
 
     const highlightGoal = () => {
-        const highlights = ['bullseye', 'four', 'fifty', 'hat', 'mega', 'moon', 'penalty', 'sixty', 'sun', 'trophy'];
+        const highlights = ['four', 'fifty', 'hat', 'mega', 'moon', 'penalty', 'sixty', 'sun', 'trophy'];
 
         const result = jsonData.filter(item =>
             Object.values(item).some(value =>
@@ -132,7 +132,7 @@ function SearchForm({jsonData}) {
             <form onSubmit={preventSubmit}>
                 <div>
                     <label for="search">Goal</label>
-                    <input min="0" max="897" id="search" type="number" placeholder="#" value={searchTerm} onChange={handleInputChange}/>
+                    <input min="1" max="897" id="search" type="number" placeholder="#" value={searchTerm} onChange={handleInputChange}/>
                 </div>
                 <div>
                     <button onClick={randomGoal} name="Random Goal" type="button">Random Goal</button>/
