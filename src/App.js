@@ -9,7 +9,7 @@ function SearchForm({jsonData}) {
 
     useEffect(() => {
         if (searchTerm) {
-            const goal = parseInt(searchTerm);
+            const goalQuery = parseInt(searchTerm);
             function suffix(goal) {
                 const j = goal % 10;
                 const k = goal % 100;
@@ -24,17 +24,13 @@ function SearchForm({jsonData}) {
                 }
                 return goal + "th";
             }
-            const results = jsonData.filter(item =>
-                Object.values(item).some(value =>
-                    typeof value === 'number' && value === goal
-                )
-            );
+            const results = jsonData.filter(item => item.goal === goalQuery)
             setSearchResults(results);
 
             if (!window.location.hostname.includes('localhost')) {
                 ReactGA.event({
                     category: "Goals",
-                    action: "Goal " + goal,
+                    action: "Goal " + goalQuery,
                     value: 1
                 });
                 ReactGA.event({
@@ -44,9 +40,9 @@ function SearchForm({jsonData}) {
                 });
             }
 
-            document.querySelector('h1').innerHTML = 'Alex Ovechkin\'s ' + suffix(goal) + ' Goal';
-            document.querySelector('title').innerHTML = suffix(goal) + ' Goal | Ovechkin Cam';
-            document.querySelector('meta[name="description"]').setAttribute('content', 'Watch broadcast footage of Alex Ovechkin\'s ' + suffix(goal) + ' career NHL goal.');
+            document.querySelector('h1').innerHTML = 'Alex Ovechkin\'s ' + suffix(goalQuery) + ' Goal';
+            document.querySelector('title').innerHTML = suffix(goalQuery) + ' Goal | Ovechkin Cam';
+            document.querySelector('meta[name="description"]').setAttribute('content', 'Watch broadcast footage of Alex Ovechkin\'s ' + suffix(goalQuery) + ' career NHL goal.');
         } else {
             setSearchResults([]);
         }
