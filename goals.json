@@ -488,197 +488,427 @@
     "goal": 53,
     "link": "https://www.youtube.com/embed/XyRFjVB6O0I?si=qA2cCUHhwEOV0ZWb",
     "highlight": "bookmark",
-    "text": "First of Season 2"
+    "text": "First of Season 2",
+    "team": "CAR",
+    "goalie": "Cam Ward",
+    "month": 10,
+    "day": 7,
+    "year": 2006
   },
   {
     "goal": 54,
-    "link": "https://www.youtube.com/embed/OiK6vfjFhAM?si=tNS35dP2g0QH_V90"
+    "link": "https://www.youtube.com/embed/OiK6vfjFhAM?si=tNS35dP2g0QH_V90",
+    "team": "CAR",
+    "goalie": "Cam Ward",
+    "month": 10,
+    "day": 7,
+    "year": 2006
   },
   {
     "goal": 55,
-    "link": "https://www.youtube.com/embed/9YgQyOM0mww?si=Tql9BSEdRUZFOkgC"
+    "link": "https://www.youtube.com/embed/9YgQyOM0mww?si=Tql9BSEdRUZFOkgC",
+    "team": "ATL",
+    "goalie": "Kari Lehtonen",
+    "month": 10,
+    "day": 19,
+    "year": 2006
   },
   {
     "goal": 56,
-    "link": "https://www.youtube.com/embed/5IZlVy0-Eww?si=fznXpDIo6-S9JAz8"
+    "link": "https://www.youtube.com/embed/5IZlVy0-Eww?si=fznXpDIo6-S9JAz8",
+    "team": "TBL",
+    "goalie": "Marc Denis",
+    "month": 10,
+    "day": 21,
+    "year": 2006
   },
   {
     "goal": 57,
-    "link": "https://www.youtube.com/embed/9-ptbz16ZXY?si=cGHX2k8kThb6qk4R"
+    "link": "https://www.youtube.com/embed/9-ptbz16ZXY?si=cGHX2k8kThb6qk4R",
+    "team": "COL",
+    "goalie": "Peter Budaj",
+    "month": 10,
+    "day": 25,
+    "year": 2006
   },
   {
     "goal": 58,
-    "link": "https://www.youtube.com/embed/KWovK_CAr50?si=uYA8GPFAObZqJBnH"
+    "link": "https://www.youtube.com/embed/KWovK_CAr50?si=uYA8GPFAObZqJBnH",
+    "team": "VAN",
+    "goalie": "Roberto Luongo",
+    "month": 10,
+    "day": 27,
+    "year": 2006
   },
   {
     "goal": 59,
-    "link": "https://www.youtube.com/embed/NtRs1L31zRs?si=zM0BgQV-LFNMY_Yi"
+    "link": "https://www.youtube.com/embed/NtRs1L31zRs?si=zM0BgQV-LFNMY_Yi",
+    "team": "PHI",
+    "goalie": "Robert Esche",
+    "month": 11,
+    "day": 4,
+    "year": 2006
   },
   {
     "goal": 60,
-    "link": "https://www.youtube.com/embed/PY8NCTjaQ2k?si=r4Vkx3_FtmwtIJHT"
+    "link": "https://www.youtube.com/embed/PY8NCTjaQ2k?si=r4Vkx3_FtmwtIJHT",
+    "team": "PHI",
+    "goalie": "Robert Esche",
+    "month": 11,
+    "day": 4,
+    "year": 2006
   },
   {
     "goal": 61,
-    "link": "https://www.youtube.com/embed/Lgvrm-X07e4?si=vNqVJiZ8-Ra9xE5H"
+    "link": "https://www.youtube.com/embed/Lgvrm-X07e4?si=vNqVJiZ8-Ra9xE5H",
+    "team": "OTT",
+    "goalie": "Martin Gerber",
+    "month": 11,
+    "day": 6,
+    "year": 2006
   },
   {
     "goal": 62,
-    "link": "https://www.youtube.com/embed/dsg9c_GkmlU?si=kz0cmGsMsrpmImeD"
+    "link": "https://www.youtube.com/embed/dsg9c_GkmlU?si=kz0cmGsMsrpmImeD",
+    "team": "OTT",
+    "goalie": "Martin Gerber",
+    "month": 11,
+    "day": 6,
+    "year": 2006
   },
   {
     "goal": 63,
-    "link": "https://www.youtube.com/embed/JmgaQk9QHAI?si=23XnnmQF7xJkY4s-"
+    "link": "https://www.youtube.com/embed/JmgaQk9QHAI?si=23XnnmQF7xJkY4s-",
+    "team": "NYR",
+    "goalie": "Henrik Lundqvist",
+    "month": 11,
+    "day": 11,
+    "year": 2006
   },
   {
     "goal": 64,
-    "link": "https://www.youtube.com/embed/zG2aKqAplmw?si=60c-SdNM_15yCBi1"
+    "link": "https://www.youtube.com/embed/zG2aKqAplmw?si=60c-SdNM_15yCBi1",
+    "team": "FLA",
+    "goalie": "Alex Auld",
+    "month": 11,
+    "day": 13,
+    "year": 2006
   },
   {
     "goal": 65,
-    "link": "https://www.youtube.com/embed/uqV3tmLXaZU?si=GTuG0FhE_PunfX1t"
+    "link": "https://www.youtube.com/embed/uqV3tmLXaZU?si=GTuG0FhE_PunfX1t",
+    "team": "BOS",
+    "goalie": "Tim Thomas",
+    "month": 11,
+    "day": 18,
+    "year": 2006
   },
   {
     "goal": 66,
-    "link": "https://www.youtube.com/embed/1Q_fxnmvoYY?si=NfFwAqWcr-ojDdXy"
+    "link": "https://www.youtube.com/embed/1Q_fxnmvoYY?si=NfFwAqWcr-ojDdXy",
+    "team": "TOR",
+    "goalie": "Andrew Raycroft",
+    "month": 11,
+    "day": 24,
+    "year": 2006
   },
   {
     "goal": 67,
-    "link": "https://www.youtube.com/embed/JnXDaIslhaU?si=SJce94iLVeRQnqzD"
+    "link": "https://www.youtube.com/embed/JnXDaIslhaU?si=SJce94iLVeRQnqzD",
+    "team": "NYI",
+    "goalie": "Rick DiPietro",
+    "month": 11,
+    "day": 25,
+    "year": 2006
   },
   {
     "goal": 68,
-    "link": "https://www.youtube.com/embed/uIrKbXIz4y0?si=aA5FmyM1etduxDET"
+    "link": "https://www.youtube.com/embed/uIrKbXIz4y0?si=aA5FmyM1etduxDET",
+    "team": "TBL",
+    "goalie": null,
+    "month": 11,
+    "day": 28,
+    "year": 2006
   },
   {
     "goal": 69,
-    "link": "https://www.youtube.com/embed/QuXW-IDKAyY?si=QnJNfpCLfLDi2I5r"
+    "link": "https://www.youtube.com/embed/QuXW-IDKAyY?si=QnJNfpCLfLDi2I5r",
+    "team": "BUF",
+    "goalie": "Ryan Miller",
+    "month": 12,
+    "day": 2,
+    "year": 2006
   },
   {
     "goal": 70,
-    "link": "https://www.youtube.com/embed/G-LJT4PmOxc?si=eRZcHSQvglBHnZcT"
+    "link": "https://www.youtube.com/embed/G-LJT4PmOxc?si=eRZcHSQvglBHnZcT",
+    "team": "PHI",
+    "goalie": "Antero Niittymäki",
+    "month": 12,
+    "day": 9,
+    "year": 2006
   },
   {
     "goal": 71,
-    "link": "https://www.youtube.com/embed/zhwLJFsjHGw?si=UqgU5lz0-3pvAnst"
+    "link": "https://www.youtube.com/embed/zhwLJFsjHGw?si=UqgU5lz0-3pvAnst",
+    "team": "ATL",
+    "goalie": "Kari Lehtonen",
+    "month": 12,
+    "day": 15,
+    "year": 2006
   },
   {
     "goal": 72,
     "link": "https://www.youtube.com/embed/fq-ro6J9VI4?si=Ku7uMzdNsWSD6LML",
     "highlight": "twenty",
-    "text": "2nd 20 Goal Season"
+    "text": "2nd 20 Goal Season",
+    "team": "ATL",
+    "goalie": "Kari Lehtonen",
+    "month": 12,
+    "day": 15,
+    "year": 2006
   },
   {
     "goal": 73,
     "link": "https://www.youtube.com/embed/SKqyd_OLm1M?si=GV9u7Z3vABRxKv4j",
     "highlight": "hat",
-    "text": "2nd Hat Trick"
+    "text": "2nd Hat Trick",
+    "team": "ATL",
+    "goalie": "Kari Lehtonen",
+    "month": 12,
+    "day": 15,
+    "year": 2006
   },
   {
     "goal": 74,
-    "link": "https://www.youtube.com/embed/Ytg_1GKC2uk?si=Bjg8q191xDoFDpcq"
+    "link": "https://www.youtube.com/embed/Ytg_1GKC2uk?si=Bjg8q191xDoFDpcq",
+    "team": "PHI",
+    "goalie": "Antero Niittymäki",
+    "month": 12,
+    "day": 16,
+    "year": 2006
   },
   {
     "goal": 75,
-    "link": "https://www.youtube.com/embed/AE6F9oXnZB8?si=KCxdnr3MG7p9Cjch"
+    "link": "https://www.youtube.com/embed/AE6F9oXnZB8?si=KCxdnr3MG7p9Cjch",
+    "team": "TBL",
+    "goalie": "Marc Denis",
+    "month": 12,
+    "day": 19,
+    "year": 2006
   },
   {
     "goal": 76,
-    "link": "https://www.youtube.com/embed/PcGykwqcs7o?si=06M_uFnuKd2QpO46"
+    "link": "https://www.youtube.com/embed/PcGykwqcs7o?si=06M_uFnuKd2QpO46",
+    "team": "TOR",
+    "goalie": "Andrew Raycroft",
+    "month": 12,
+    "day": 23,
+    "year": 2006
   },
   {
     "goal": 77,
-    "link": "https://www.youtube.com/embed/ytq1wSXJAmY?si=gw8EX3Aqatf9PMFi"
+    "link": "https://www.youtube.com/embed/ytq1wSXJAmY?si=gw8EX3Aqatf9PMFi",
+    "team": "BUF",
+    "goalie": "Ryan Miller",
+    "month": 12,
+    "day": 26,
+    "year": 2006
   },
   {
     "goal": 78,
-    "link": "https://www.youtube.com/embed/uzZXgBYSjck?si=QFEUSFROS30r_v0N"
+    "link": "https://www.youtube.com/embed/uzZXgBYSjck?si=QFEUSFROS30r_v0N",
+    "team": "ATL",
+    "goalie": "Kari Lehtonen",
+    "month": 1,
+    "day": 6,
+    "year": 2007
   },
   {
     "goal": 79,
-    "link": "https://www.youtube.com/embed/Hk5nFEAHSIk?si=5gHBZLJrAkhzEhPB"
+    "link": "https://www.youtube.com/embed/Hk5nFEAHSIk?si=5gHBZLJrAkhzEhPB",
+    "team": "PHI",
+    "goalie": "Robert Esche",
+    "month": 1,
+    "day": 9,
+    "year": 2007
   },
   {
     "goal": 80,
-    "link": "https://www.youtube.com/embed/q_ibdyn31js?si=hEIXOPNRzbOt4wYQ"
+    "link": "https://www.youtube.com/embed/q_ibdyn31js?si=hEIXOPNRzbOt4wYQ",
+    "team": "PHI",
+    "goalie": "Robert Esche",
+    "month": 1,
+    "day": 9,
+    "year": 2007
   },
   {
     "goal": 81,
-    "link": "https://www.youtube.com/embed/xNeIubPu-aM?si=3f3waj0rp_Pdo9I8"
+    "link": "https://www.youtube.com/embed/xNeIubPu-aM?si=3f3waj0rp_Pdo9I8",
+    "team": "CAR",
+    "goalie": null,
+    "month": 1,
+    "day": 18,
+    "year": 2007
   },
   {
     "goal": 82,
     "link": "https://www.youtube.com/embed/mc0qFkeeMVQ?si=xTu8Vp4Zw6rWmR65",
     "highlight": "thirty",
-    "text": "2nd 30 Goal Season"
+    "text": "2nd 30 Goal Season",
+    "team": "CAR",
+    "goalie": "Cam Ward",
+    "month": 1,
+    "day": 26,
+    "year": 2007
   },
   {
     "goal": 83,
-    "link": "https://www.youtube.com/embed/l8u80Pr8sho?si=htdHBrCnWRBBrPyY"
+    "link": "https://www.youtube.com/embed/l8u80Pr8sho?si=htdHBrCnWRBBrPyY",
+    "team": "CAR",
+    "goalie": "Cam Ward",
+    "month": 1,
+    "day": 27,
+    "year": 2007
   },
   {
     "goal": 84,
-    "link": "https://www.youtube.com/embed/PTUwaU9kf9s?si=t2BV5-33uf4m0987"
+    "link": "https://www.youtube.com/embed/PTUwaU9kf9s?si=t2BV5-33uf4m0987",
+    "team": "OTT",
+    "goalie": "Martin Gerber",
+    "month": 1,
+    "day": 30,
+    "year": 2007
   },
   {
     "goal": 85,
-    "link": "https://www.youtube.com/embed/dClAajSILxA?si=55cTSzlrcbI-1a2d"
+    "link": "https://www.youtube.com/embed/dClAajSILxA?si=55cTSzlrcbI-1a2d",
+    "team": "FLA",
+    "goalie": "Ed Belfour",
+    "month": 2,
+    "day": 1,
+    "year": 2007
   },
   {
     "goal": 86,
-    "link": "https://www.youtube.com/embed/TnMJBbvMuBg?si=_AIXXTEBbsdXsb81"
+    "link": "https://www.youtube.com/embed/TnMJBbvMuBg?si=_AIXXTEBbsdXsb81",
+    "team": "NYR",
+    "goalie": "Henrik Lundqvist",
+    "month": 2,
+    "day": 10,
+    "year": 2007
   },
   {
     "goal": 87,
-    "link": "https://www.youtube.com/embed/q7QQQKD3lKw?si=BfpJySfU1n-2UwQf"
+    "link": "https://www.youtube.com/embed/q7QQQKD3lKw?si=BfpJySfU1n-2UwQf",
+    "team": "NJD",
+    "goalie": "Scott Clemmensen",
+    "month": 2,
+    "day": 25,
+    "year": 2007
   },
   {
     "goal": 88,
-    "link": "https://www.youtube.com/embed/mHar1K0iMzM?si=G29GOj_AcnRa5Rct"
+    "link": "https://www.youtube.com/embed/mHar1K0iMzM?si=G29GOj_AcnRa5Rct",
+    "team": "FLA",
+    "goalie": "Ed Belfour",
+    "month": 2,
+    "day": 27,
+    "year": 2007
   },
   {
     "goal": 89,
-    "link": "https://www.youtube.com/embed/nZdgGsC3ZTQ?si=x4LZMu7qMjX_6ekI"
+    "link": "https://www.youtube.com/embed/nZdgGsC3ZTQ?si=x4LZMu7qMjX_6ekI",
+    "team": "FLA",
+    "goalie": "Ed Belfour",
+    "month": 2,
+    "day": 27,
+    "year": 2007
   },
   {
     "goal": 90,
-    "link": "https://www.youtube.com/embed/gPmaUqwECr0?si=2gbv2FMqNaPQPBXL"
+    "link": "https://www.youtube.com/embed/gPmaUqwECr0?si=2gbv2FMqNaPQPBXL",
+    "team": "TBL",
+    "goalie": "Johan Holmqvist",
+    "month": 3,
+    "day": 1,
+    "year": 2007
   },
   {
     "goal": 91,
-    "link": "https://www.youtube.com/embed/R290c4zYDnQ?si=8CO2kEOCLA09NwZH"
+    "link": "https://www.youtube.com/embed/R290c4zYDnQ?si=8CO2kEOCLA09NwZH",
+    "team": "NYI",
+    "goalie": "Rick DiPietro",
+    "month": 3,
+    "day": 10,
+    "year": 2007
   },
   {
     "goal": 92,
     "link": "https://www.youtube.com/embed/E4-2eQqRZrE?si=GxQtlt62l3UwKY_T",
     "highlight": "forty",
-    "text": "2nd 40 Goal Season"
+    "text": "2nd 40 Goal Season",
+    "team": "ATL",
+    "goalie": "Kari Lehtonen",
+    "month": 3,
+    "day": 12,
+    "year": 2007
   },
   {
     "goal": 93,
-    "link": "https://www.youtube.com/embed/ic3DdFSBMVY?si=lZIncAZQBBbS7YoM"
+    "link": "https://www.youtube.com/embed/ic3DdFSBMVY?si=lZIncAZQBBbS7YoM",
+    "team": "ATL",
+    "goalie": "Kari Lehtonen",
+    "month": 3,
+    "day": 12,
+    "year": 2007
   },
   {
     "goal": 94,
-    "link": "https://www.youtube.com/embed/3CUs7e131Sg?si=MWmN4wUtLOOp3q9A"
+    "link": "https://www.youtube.com/embed/3CUs7e131Sg?si=MWmN4wUtLOOp3q9A",
+    "team": "CAR",
+    "goalie": "John Grahame",
+    "month": 3,
+    "day": 22,
+    "year": 2007
   },
   {
     "goal": 95,
-    "link": "https://www.youtube.com/embed/RI1XofrOkrA?si=-ZbEWFi52XdFCTIo"
+    "link": "https://www.youtube.com/embed/RI1XofrOkrA?si=-ZbEWFi52XdFCTIo",
+    "team": "CAR",
+    "goalie": "John Grahame",
+    "month": 3,
+    "day": 22,
+    "year": 2007
   },
   {
     "goal": 96,
-    "link": "https://www.youtube.com/embed/omZ6xaUWIxU?si=kY8m85Dchol1PuEz"
+    "link": "https://www.youtube.com/embed/omZ6xaUWIxU?si=kY8m85Dchol1PuEz",
+    "team": "FLA",
+    "goalie": "Craig Anderson",
+    "month": 4,
+    "day": 3,
+    "year": 2007
   },
   {
     "goal": 97,
-    "link": "https://www.youtube.com/embed/3dOEfZB5wnk?si=_op_L813RrlPK7GP"
+    "link": "https://www.youtube.com/embed/3dOEfZB5wnk?si=_op_L813RrlPK7GP",
+    "team": "ATL",
+    "goalie": "Kari Lehtonen",
+    "month": 4,
+    "day": 4,
+    "year": 2007
   },
   {
     "goal": 98,
     "link": "https://www.youtube.com/embed/5eD_RVDj7xc?si=QxPPimeo6qTi__UX",
     "highlight": "bookmark",
-    "text": "Last of Season 2"
+    "text": "Last of Season 2",
+    "team": "ATL",
+    "goalie": "Kari Lehtonen",
+    "month": 4,
+    "day": 4,
+    "year": 2007
   },
   {
     "goal": 99,
