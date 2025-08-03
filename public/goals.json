@@ -914,61 +914,131 @@
     "goal": 99,
     "link": "https://www.youtube.com/embed/3Ux6RrGKc1c?si=QCf4QyxH7eANx-vO",
     "highlight": "bookmark",
-    "text": "First of Season 3"
+    "text": "First of Season 3",
+    "team": "CAR",
+    "goalie": "John Grahame",
+    "month": 10,
+    "day": 6,
+    "year": 2007
   },
   {
     "goal": 100,
     "link": "https://www.youtube.com/embed/F7jFSVOVWyU?si=6QMMch4EXgc41wMg",
     "highlight": "trophy",
-    "text": "100th Career Goal"
+    "text": "100th Career Goal",
+    "team": "NYR",
+    "goalie": "Henrik Lundqvist",
+    "month": 10,
+    "day": 12,
+    "year": 2007
   },
   {
     "goal": 101,
-    "link": "https://www.youtube.com/embed/KuwBIDq-j8I?si=smgIjMeCuVFSjy68"
+    "link": "https://www.youtube.com/embed/KuwBIDq-j8I?si=smgIjMeCuVFSjy68",
+    "team": "BUF",
+    "goalie": "Ryan Miller",
+    "month": 10,
+    "day": 13,
+    "year": 2007
   },
   {
     "goal": 102,
-    "link": "https://www.youtube.com/embed/4ed9E3DCVd4?si=Kw2JQEZcutFHQSPI"
+    "link": "https://www.youtube.com/embed/4ed9E3DCVd4?si=Kw2JQEZcutFHQSPI",
+    "team": "NYI",
+    "goalie": "Rick DiPietro",
+    "month": 10,
+    "day": 18,
+    "year": 2007
   },
   {
     "goal": 103,
-    "link": "https://www.youtube.com/embed/gU-AbAqQBUE?si=a0_llEfWmdvziBfe"
+    "link": "https://www.youtube.com/embed/gU-AbAqQBUE?si=a0_llEfWmdvziBfe",
+    "team": "TBL",
+    "goalie": null,
+    "month": 10,
+    "day": 24,
+    "year": 2007
   },
   {
     "goal": 104,
-    "link": "https://www.youtube.com/embed/rw8JgFNeAMU?si=tdmKeT48mOy5w5dh"
+    "link": "https://www.youtube.com/embed/rw8JgFNeAMU?si=tdmKeT48mOy5w5dh",
+    "team": "VAN",
+    "goalie": "Roberto Luongo",
+    "month": 10,
+    "day": 26,
+    "year": 2007
   },
   {
     "goal": 105,
-    "link": "https://www.youtube.com/embed/ZUBYmIHD_cQ?si=2HQoM5l6z31PV3N1"
+    "link": "https://www.youtube.com/embed/ZUBYmIHD_cQ?si=2HQoM5l6z31PV3N1",
+    "team": "TOR",
+    "goalie": "Vesa Toskala",
+    "month": 10,
+    "day": 29,
+    "year": 2007
   },
   {
     "goal": 106,
-    "link": "https://www.youtube.com/embed/WmBUTXzM1Uk?si=DJzgmCjxGkeOgwac"
+    "link": "https://www.youtube.com/embed/WmBUTXzM1Uk?si=DJzgmCjxGkeOgwac",
+    "team": "TOR",
+    "goalie": "Andrew Raycroft",
+    "month": 10,
+    "day": 29,
+    "year": 2007
   },
   {
     "goal": 107,
-    "link": "https://www.youtube.com/embed/FnL_iY6z89Y?si=qYAIVCqoerHJPnRd"
+    "link": "https://www.youtube.com/embed/FnL_iY6z89Y?si=qYAIVCqoerHJPnRd",
+    "team": "PHI",
+    "goalie": "Antero Niittymäki",
+    "month": 11,
+    "day": 2,
+    "year": 2007
   },
   {
     "goal": 108,
-    "link": "https://www.youtube.com/embed/p-HTvZtWcZY?si=aTVLte0V8qTMx7sP"
+    "link": "https://www.youtube.com/embed/p-HTvZtWcZY?si=aTVLte0V8qTMx7sP",
+    "team": "OTT",
+    "goalie": "Ray Emery",
+    "month": 11,
+    "day": 8,
+    "year": 2007
   },
   {
     "goal": 109,
-    "link": "https://www.youtube.com/embed/n1k45H7_Uvs?si=HsQ8b8f3VYejzsjh"
+    "link": "https://www.youtube.com/embed/n1k45H7_Uvs?si=HsQ8b8f3VYejzsjh",
+    "team": "TBL",
+    "goalie": "Johan Holmqvist",
+    "month": 11,
+    "day": 10,
+    "year": 2007
   },
   {
     "goal": 110,
-    "link": "https://www.youtube.com/embed/g-Q9yI6RF2M?si=LygRlsLaMdwCSsOK"
+    "link": "https://www.youtube.com/embed/g-Q9yI6RF2M?si=LygRlsLaMdwCSsOK",
+    "team": "FLA",
+    "goalie": "Tomáš Vokoun",
+    "month": 11,
+    "day": 15,
+    "year": 2007
   },
   {
     "goal": 111,
-    "link": "https://www.youtube.com/embed/jyKePOQ2szY?si=dPqyti7QxBdqNdss"
+    "link": "https://www.youtube.com/embed/jyKePOQ2szY?si=dPqyti7QxBdqNdss",
+    "team": "TBL",
+    "goalie": "Johan Holmqvist",
+    "month": 11,
+    "day": 16,
+    "year": 2007
   },
   {
     "goal": 112,
-    "link": "https://www.youtube.com/embed/e8Y4U_GiTgY?si=tOuxT5H2HdXcL4cK"
+    "link": "https://www.youtube.com/embed/e8Y4U_GiTgY?si=tOuxT5H2HdXcL4cK",
+    "team": "ATL",
+    "goalie": "Johan Hedberg",
+    "month": 11,
+    "day": 21,
+    "year": 2007
   },
   {
     "goal": 113,
