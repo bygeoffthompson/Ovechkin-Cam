@@ -169,7 +169,30 @@
 }
 
 button {
+  backface-visibility: hidden;
+  background: #CE8946;
+  border: 0;
+  border-radius: .375rem;
+  box-shadow: 0 .5rem 1rem rgba(41,41,41,.25);
+  box-sizing: border-box;
+  color: #292929;
+  cursor: pointer;
+  display: inline-block;
   font-size: .9375rem;
+  font-weight: 700;
+  line-height: 1.3;
+  padding: .625rem 1rem;
+  transition: transform .2s;
+}
+
+button:hover {
+  box-shadow: 0 .5rem 2.5rem #041E42;
+  transform: scale(1.05);
+}
+
+button:active {
+  box-shadow: 0 .5rem 1rem #041E42;
+  transform: scale(1.05) translateY(.125rem);
 }
 
 form {
@@ -190,7 +213,11 @@ form > div {
 }
 
 form > div:first-of-type {
-  margin-bottom: 1.75rem;
+  margin-bottom: 2rem;
+}
+
+form > div:last-of-type {
+  flex-direction: column;
 }
 
 iframe {
@@ -223,10 +250,10 @@ input[type="number"] {
   color: #C8102E;
   font-size: 1.5rem;
   font-weight: bold;
-  max-width: 100px;
+  max-width: 75px;
   outline: 0;
   text-align: center;
-  text-indent: 16px;
+  text-indent: -2px;
   width: 100%;
 }
 
@@ -242,6 +269,12 @@ input[type="number"]::placeholder {
   color: #000;
   font-weight: normal;
   opacity: .5;
+}
+
+@media (min-width: 500px) {
+  form > div:last-of-type {
+    flex-direction: row;
+  }
 }
 
 @media (min-width:992px) {
