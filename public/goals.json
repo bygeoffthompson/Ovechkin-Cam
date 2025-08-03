@@ -2,7 +2,7 @@
   {
     "goal": 1,
     "link": "https://www.youtube.com/embed/BoGOoO9WTOE?si=78xJy_OXwYKSNK4j",
-    "icon": "mega",
+    "highlight": "mega",
     "text": "\"Welcome On Board\""
   },
   {
@@ -83,7 +83,7 @@
   {
     "goal": 20,
     "link": "https://www.youtube.com/embed/y-q8y3e34_M?si=EXNIdySa7X4DdbkA",
-    "icon": "twenty",
+    "highlight": "twenty",
     "text": "1st 20 Goal Season"
   },
   {
@@ -125,7 +125,7 @@
   {
     "goal": 30,
     "link": "https://www.youtube.com/embed/PHWGjGxHbP8?si=BsWqFqWOoOmWSu08",
-    "icon": "hat",
+    "highlight": "hat",
     "text": "1st Hat Trick"
   },
   {
@@ -135,7 +135,7 @@
   {
     "goal": 32,
     "link": "https://www.youtube.com/embed/E82oUXP6Hng?si=VMZ8uH6APGX7repn",
-    "icon": "mega",
+    "highlight": "mega",
     "text": "\"Simply Sensational\""
   },
   {
@@ -169,7 +169,7 @@
   {
     "goal": 40,
     "link": "https://www.youtube.com/embed/75JJ-C8iTn8?si=WAlVpSAjoeM1rxLR",
-    "icon": "forty",
+    "highlight": "forty",
     "text": "1st 40 Goal Season"
   },
   {
@@ -207,13 +207,13 @@
   {
     "goal": 49,
     "link": "https://www.youtube.com/embed/NtDd4X0Y8Zc?si=g83K4ATVYiJiEJoC",
-    "icon": "trophy",
+    "highlight": "trophy",
     "text": "100th Career Point"
   },
   {
     "goal": 50,
     "link": "https://www.youtube.com/embed/5yXW_0DlUnA?si=-MBQREkytTx5NWIJ",
-    "icon": "fifty",
+    "highlight": "fifty",
     "text": "1st 50 Goal Season"
   },
   {
@@ -223,13 +223,13 @@
   {
     "goal": 52,
     "link": "https://www.youtube.com/embed/bjH8rkA_N3Q?si=ZEYE2EVGaeqFzGPU",
-    "icon": "bookmark",
+    "highlight": "bookmark",
     "text": "Last of Season 1"
   },
   {
     "goal": 53,
     "link": "https://www.youtube.com/embed/XyRFjVB6O0I?si=qA2cCUHhwEOV0ZWb",
-    "icon": "bookmark",
+    "highlight": "bookmark",
     "text": "First of Season 2"
   },
   {
@@ -307,13 +307,13 @@
   {
     "goal": 72,
     "link": "https://www.youtube.com/embed/fq-ro6J9VI4?si=Ku7uMzdNsWSD6LML",
-    "icon": "twenty",
+    "highlight": "twenty",
     "text": "2nd 20 Goal Season"
   },
   {
     "goal": 73,
     "link": "https://www.youtube.com/embed/SKqyd_OLm1M?si=GV9u7Z3vABRxKv4j",
-    "icon": "hat",
+    "highlight": "hat",
     "text": "2nd Hat Trick"
   },
   {
@@ -351,7 +351,7 @@
   {
     "goal": 82,
     "link": "https://www.youtube.com/embed/mc0qFkeeMVQ?si=xTu8Vp4Zw6rWmR65",
-    "icon": "thirty",
+    "highlight": "thirty",
     "text": "2nd 30 Goal Season"
   },
   {
@@ -393,7 +393,7 @@
   {
     "goal": 92,
     "link": "https://www.youtube.com/embed/E4-2eQqRZrE?si=GxQtlt62l3UwKY_T",
-    "icon": "forty",
+    "highlight": "forty",
     "text": "2nd 40 Goal Season"
   },
   {
@@ -419,19 +419,19 @@
   {
     "goal": 98,
     "link": "https://www.youtube.com/embed/5eD_RVDj7xc?si=QxPPimeo6qTi__UX",
-    "icon": "bookmark",
+    "highlight": "bookmark",
     "text": "Last of Season 2"
   },
   {
     "goal": 99,
     "link": "https://www.youtube.com/embed/3Ux6RrGKc1c?si=QCf4QyxH7eANx-vO",
-    "icon": "bookmark",
+    "highlight": "bookmark",
     "text": "First of Season 3"
   },
   {
     "goal": 100,
     "link": "https://www.youtube.com/embed/F7jFSVOVWyU?si=6QMMch4EXgc41wMg",
-    "icon": "trophy",
+    "highlight": "trophy",
     "text": "100th Career Goal"
   },
   {
@@ -505,7 +505,7 @@
   {
     "goal": 118,
     "link": "https://www.youtube.com/embed/5GgsTFW6lMQ?si=dzrPxBKvcwIljiEB",
-    "icon": "twenty",
+    "highlight": "twenty",
     "text": "3rd 20 Goal Season"
   },
   {
@@ -543,13 +543,13 @@
   {
     "goal": 127,
     "link": "https://www.youtube.com/embed/58fbvKXDm7k?si=focnYiPVvfPN699l",
-    "icon": "hat",
+    "highlight": "hat",
     "text": "3rd Hat Trick"
   },
   {
     "goal": 128,
     "link": "https://www.youtube.com/embed/tTinu1k8INg?si=p68Dr-drk4_P1jpP",
-    "icon": "four",
+    "highlight": "four",
     "text": "1st Four Goal Game"
   },
   {
@@ -591,7 +591,7 @@
   {
     "goal": 138,
     "link": "https://www.youtube.com/embed/evTZ7yOLgVs?si=8oSeqQVlzQDLEVb_",
-    "icon": "forty",
+    "highlight": "forty",
     "text": "3rd 40 Goal Season"
   },
   {
@@ -601,13 +601,13 @@
   {
     "goal": 140,
     "link": "https://www.youtube.com/embed/sQ9an3LItfM?si=aRyHioySLmYc0fdW",
-    "icon": "hat",
+    "highlight": "hat",
     "text": "4th Hat Trick"
   },
   {
     "goal": 141,
     "link": "https://www.youtube.com/embed/8h4SRDJU-Fo?si=eFlyw_1x2xZrVCI6",
-    "icon": "four",
+    "highlight": "four",
     "text": "2nd Four Goal Game"
   },
   {
@@ -637,7 +637,7 @@
   {
     "goal": 148,
     "link": "https://www.youtube.com/embed/CjszjUgvFNQ?si=KqTwmLFlEwaSeJJK",
-    "icon": "fifty",
+    "highlight": "fifty",
     "text": "2nd 50 Goal Season"
   },
   {
@@ -647,7 +647,7 @@
   {
     "goal": 150,
     "link": "https://www.youtube.com/embed/hkUTlg9lKWE?si=5rUjB4hNdEAXduWm",
-    "icon": "hat",
+    "highlight": "hat",
     "text": "5th Hat Trick"
   },
   {
@@ -681,7 +681,7 @@
   {
     "goal": 158,
     "link": "https://www.youtube.com/embed/ZU30LDf1bMQ?si=hYh147x4675c5CgU",
-    "icon": "sixty",
+    "highlight": "sixty",
     "text": "1st 60 Goal Season"
   },
   {
@@ -703,13 +703,13 @@
   {
     "goal": 163,
     "link": "https://www.youtube.com/embed/vXoCndfMGGQ?si=giMF12NfWBSpD92s",
-    "icon": "bookmark",
+    "highlight": "bookmark",
     "text": "Last of Season 3"
   },
   {
     "goal": 164,
     "link": "https://www.youtube.com/embed/YNNYzF6GAdI?si=8lCiTXUQRlReDg-h",
-    "icon": "bookmark",
+    "highlight": "bookmark",
     "text": "First of Season 4"
   },
   {
@@ -755,7 +755,7 @@
   {
     "goal": 175,
     "link": "https://www.youtube.com/embed/kmwnfuj0cXY?si=PSY2pqEzogy5-qb-",
-    "icon": "hat",
+    "highlight": "hat",
     "text": "6th Hat Trick"
   },
   {
@@ -789,7 +789,7 @@
   {
     "goal": 183,
     "link": "https://www.youtube.com/embed/jgkr1_VlNd4?si=NZcmVmgNTD_eliUM",
-    "icon": "twenty",
+    "highlight": "twenty",
     "text": "4th 20 Goal Season"
   },
   {
@@ -831,7 +831,7 @@
   {
     "goal": 193,
     "link": "https://www.youtube.com/embed/WUm8a_8J6hU?si=lOlD58p2Rs2mOqsT",
-    "icon": "thirty",
+    "highlight": "thirty",
     "text": "4th 30 Goal Season"
   },
   {
@@ -857,13 +857,13 @@
   {
     "goal": 199,
     "link": "https://www.youtube.com/embed/AoOpMajgq_M?si=e1OIw0RHKsffJxwG",
-    "icon": "hat",
+    "highlight": "hat",
     "text": "7th Hat Trick"
   },
   {
     "goal": 200,
     "link": "https://www.youtube.com/embed/k2_BOouSyMA?si=qMoQ4yhtE14x17Sw",
-    "icon": "trophy",
+    "highlight": "trophy",
     "text": "200th Career Goal"
   },
   {
@@ -877,19 +877,19 @@
   {
     "goal": 203,
     "link": "https://www.youtube.com/embed/_ej5rTGLZBQ?si=loNTiu68GZ48ipVx",
-    "icon": "forty",
+    "highlight": "forty",
     "text": "4th 40 Goal Season"
   },
   {
     "goal": 204,
     "link": "https://www.youtube.com/embed/3lqUJ7MxJgM?si=cUVzC_X20W1Sgr4F",
-    "icon": "hat",
+    "highlight": "hat",
     "text": "8th Hat Trick"
   },
   {
     "goal": 205,
     "link": "https://www.youtube.com/embed/_PQwsvFWaXk?si=GnBNFcEqOPwyEumS",
-    "icon": "mega",
+    "highlight": "mega",
     "text": "\"All Alex All the Time\""
   },
   {
@@ -924,7 +924,7 @@
     "goal": 213,
     "link": "https://www.youtube.com/embed/pEfdUqLWeYs?si=bujcblkwUFi6YDuE",
     "fallback": "https://www.youtube.com/embed/XApANGDaTE4?si=3ex6qRjJISPc7Y9u",
-    "icon": "fifty",
+    "highlight": "fifty",
     "text": "3rd 50 Goal Season"
   },
   {
@@ -950,13 +950,13 @@
   {
     "goal": 219,
     "link": "https://www.youtube.com/embed/mtbCDO4vPuI?si=1yq22Z_IAnfZfiIa",
-    "icon": "bookmark",
+    "highlight": "bookmark",
     "text": "Last of Season 4"
   },
   {
     "goal": 220,
     "link": "https://www.youtube.com/embed/Hb5stcP-tLA?si=YGjNa-f7KT5QYFaF",
-    "icon": "bookmark",
+    "highlight": "bookmark",
     "text": "First of Season 5"
   },
   {
@@ -1034,7 +1034,7 @@
   {
     "goal": 239,
     "link": "https://www.youtube.com/embed/jxwjOfUDpQg?si=uoA7rzIHn_yoroY8",
-    "icon": "twenty",
+    "highlight": "twenty",
     "text": "5th 20 Goal Season"
   },
   {
@@ -1076,7 +1076,7 @@
   {
     "goal": 249,
     "link": "https://www.youtube.com/embed/Rw-oDb-1w7M?si=gz8JPU0DhSUnCjku",
-    "icon": "penalty",
+    "highlight": "penalty",
     "text": "Penalty Shot"
   },
   {
@@ -1110,7 +1110,7 @@
   {
     "goal": 257,
     "link": "https://www.youtube.com/embed/CnKHhwNj2-k?si=wqEaLp4vLE-NxPUt",
-    "icon": "trophy",
+    "highlight": "trophy",
     "text": "500th Career Point"
   },
   {
@@ -1120,7 +1120,7 @@
   {
     "goal": 259,
     "link": "https://www.youtube.com/embed/SfJGLZCNk_g?si=i5r4V4khenPaC-ST",
-    "icon": "forty",
+    "highlight": "forty",
     "text": "5th 40 Goal Season"
   },
   {
@@ -1130,7 +1130,7 @@
   {
     "goal": 261,
     "link": "https://www.youtube.com/embed/S-M3kn-hQSM?si=6GSBXcJWFQrzg4Qw",
-    "icon": "hat",
+    "highlight": "hat",
     "text": "9th Hat Trick"
   },
   {
@@ -1165,19 +1165,19 @@
     "goal": 269,
     "link": "https://www.youtube.com/embed/crkZ0Vt-GoQ?si=xLR1xRdNJTPdNYUd",
     "fallback": "https://www.youtube.com/embed/ugZoaYF8EJs?si=9S0iXlVGPdTT76wc",
-    "icon": "fifty",
+    "highlight": "fifty",
     "text": "4th 50 Goal Season"
   },
   {
     "goal": 270,
     "link": "https://www.youtube.com/embed/3f3kQ11WOMc?si=RFWrOYE_R-r4brzZ",
-    "icon": "bookmark",
+    "highlight": "bookmark",
     "text": "First of Season 6"
   },
   {
     "goal": 271,
     "link": "https://www.youtube.com/embed/mf8dyd3Qrzs?si=ELjvsZFZKNDm5sfz",
-    "icon": "penalty",
+    "highlight": "penalty",
     "text": "Penalty Shot"
   },
   {
@@ -1247,13 +1247,13 @@
   {
     "goal": 288,
     "link": "https://www.youtube.com/embed/CkM0rKUtpTI?si=BD_izPcagQDY0uHG",
-    "icon": "hat",
+    "highlight": "hat",
     "text": "10th Hat Trick"
   },
   {
     "goal": 289,
     "link": "https://www.youtube.com/embed/maG6iAEIcgE?si=haka09CJStoo2gTl",
-    "icon": "twenty",
+    "highlight": "twenty",
     "text": "6th 20 Goal Season"
   },
   {
@@ -1295,25 +1295,25 @@
   {
     "goal": 299,
     "link": "https://www.youtube.com/embed/h5v1SkK_ZAc?si=HPbN_AvKNRg95k_A",
-    "icon": "thirty",
+    "highlight": "thirty",
     "text": "6th 30 Goal Season"
   },
   {
     "goal": 300,
     "link": "https://www.youtube.com/embed/xC2Sw5MuAho?si=kUoJg98nAMsBebs4",
-    "icon": "trophy",
+    "highlight": "trophy",
     "text": "300th Career Goal"
   },
   {
     "goal": 301,
     "link": "https://www.youtube.com/embed/8chz5FBwPm0?si=H8DOoGE6SOS6ZOqU",
-    "icon": "bookmark",
+    "highlight": "bookmark",
     "text": "Last of Season 6"
   },
   {
     "goal": 302,
     "link": "https://www.youtube.com/embed/DHoIUoBD8s8?si=Y-ZObszGl-B72O_9",
-    "icon": "bookmark",
+    "highlight": "bookmark",
     "text": "First of Season 7"
   },
   {
@@ -1391,7 +1391,7 @@
   {
     "goal": 321,
     "link": "https://www.youtube.com/embed/aIzrPDaz08o?si=t7qabFP28MEMfC-E",
-    "icon": "twenty",
+    "highlight": "twenty",
     "text": "7th 20 Goal Season"
   },
   {
@@ -1433,7 +1433,7 @@
   {
     "goal": 331,
     "link": "https://www.youtube.com/embed/a57wu48BW9c?si=PsDDb9Hx8DiAPjsG",
-    "icon": "thirty"
+    "highlight": "thirty"
   },
   {
     "goal": 332,
@@ -1466,13 +1466,13 @@
   {
     "goal": 339,
     "link": "https://www.youtube.com/embed/uWIedJurQso?si=mJRt1LpU8NTELmjO",
-    "icon": "bookmark",
+    "highlight": "bookmark",
     "text": "Last of Season 7"
   },
   {
     "goal": 340,
     "link": "https://www.youtube.com/embed/a6ckjaUmby8?si=FDch8r_i6J9DsouY",
-    "icon": "bookmark",
+    "highlight": "bookmark",
     "text": "First of Season 8"
   },
   {
@@ -1502,7 +1502,7 @@
   {
     "goal": 347,
     "link": "https://www.youtube.com/embed/PeUR9NFjIFA?si=yHN4xglnRojnbV2Z",
-    "icon": "hat",
+    "highlight": "hat",
     "text": "12th Hat Trick"
   },
   {
@@ -1552,7 +1552,7 @@
   {
     "goal": 359,
     "link": "https://www.youtube.com/embed/uY1gcKgxw7I?si=FBVc1vZCz_ySikSK",
-    "icon": "trophy",
+    "highlight": "trophy",
     "text": "700th Career Point"
   },
   {
@@ -1566,7 +1566,7 @@
   {
     "goal": 362,
     "link": "https://www.youtube.com/embed/hUsKr9kIcbg?si=YgpGxdUqWeSJIA7j",
-    "icon": "hat",
+    "highlight": "hat",
     "text": "13th Hat Trick"
   },
   {
@@ -1596,7 +1596,7 @@
   {
     "goal": 369,
     "link": "https://www.youtube.com/embed/LTbYU5zyhFg?si=uTzBzZh0ottFs7qb",
-    "icon": "thirty",
+    "highlight": "thirty",
     "text": "8th 30 Goal Season"
   },
   {
@@ -1606,13 +1606,13 @@
   {
     "goal": 371,
     "link": "https://www.youtube.com/embed/XqBiT2OBjDo?si=C4gcpt_6kofqA5BZ",
-    "icon": "bookmark",
+    "highlight": "bookmark",
     "text": "Last of Season 8"
   },
   {
     "goal": 372,
     "link": "https://www.youtube.com/embed/KUqSu1WamDY?si=fyMsQZEeZabxk5g1",
-    "icon": "bookmark",
+    "highlight": "bookmark",
     "text": "First of Season 9"
   },
   {
@@ -1690,7 +1690,7 @@
   {
     "goal": 391,
     "link": "https://www.youtube.com/embed/43LJgeKz-_0?si=lNLihfD5jLu7omKw",
-    "icon": "twenty",
+    "highlight": "twenty",
     "text": "9th 20 Goal Season"
   },
   {
@@ -1712,7 +1712,7 @@
   {
     "goal": 396,
     "link": "https://www.youtube.com/embed/QLW052pVdq0?si=IS2TakSyqd4Df26N",
-    "icon": "hat",
+    "highlight": "hat",
     "text": "14th Hat Trick"
   },
   {
@@ -1730,13 +1730,13 @@
   {
     "goal": 400,
     "link": "https://www.youtube.com/embed/tQOggNAEmp0?si=TfjTJ2TO1sNh_98k",
-    "icon": "trophy",
+    "highlight": "trophy",
     "text": "400th Career Goal"
   },
   {
     "goal": 401,
     "link": "https://www.youtube.com/embed/MUzqbUMHeQg?si=etOb8Bf4nXWP6x9w",
-    "icon": "thirty",
+    "highlight": "thirty",
     "text": "9th 30 Goal Season"
   },
   {
@@ -1779,7 +1779,7 @@
   {
     "goal": 411,
     "link": "https://www.youtube.com/embed/0ItSn7Y-x6k?si=xWrmeB-deFsR17Yy",
-    "icon": "forty",
+    "highlight": "forty",
     "text": "6th 40 Goal Season"
   },
   {
@@ -1794,7 +1794,7 @@
     "goal": 414,
     "link": "https://www.youtube.com/embed/NXRzxFPYn5I?si=DtX_w8Bvibgq_ozR",
     "fallback": "https://www.youtube.com/embed/Oj4kBNwz0IY?si=TQNw5Zlp6OFiXwsh",
-    "icon": "trophy",
+    "highlight": "trophy",
     "text": "800th Career Point"
   },
   {
@@ -1825,19 +1825,19 @@
     "goal": 421,
     "link": "https://www.youtube.com/embed/p3nZK5bIkbs?si=Ax5XeqedsZhSQXgr",
     "fallback": "https://www.youtube.com/embed/YV9TiIgBJcU?si=dvRMu4tLs43yVvvo",
-    "icon": "fifty",
+    "highlight": "fifty",
     "text": "5th 50 Goal Season"
   },
   {
     "goal": 422,
     "link": "https://www.youtube.com/embed/fm1OLWomPFQ?si=kkkmeGWX_JQRGAYt",
-    "icon": "bookmark",
+    "highlight": "bookmark",
     "text": "Last of Season 9"
   },
   {
     "goal": 423,
     "link": "https://www.youtube.com/embed/PNXKKES6zxI?si=KY5lzHcNFoo0MxAo",
-    "icon": "bookmark",
+    "highlight": "bookmark",
     "text": "First of Season 10"
   },
   {
@@ -1907,7 +1907,7 @@
   {
     "goal": 440,
     "link": "https://www.youtube.com/embed/sfSHrc9T4Ts?si=PVaJBOT6x7YAO5wM",
-    "icon": "sun",
+    "highlight": "sun",
     "text": "Outdoor Goal"
   },
   {
@@ -1917,7 +1917,7 @@
   {
     "goal": 442,
     "link": "https://www.youtube.com/embed/kuXPwEt4CdY?si=JbovUYw7A5bmlPRg",
-    "icon": "twenty",
+    "highlight": "twenty",
     "text": "10th 20 Goal Season"
   },
   {
@@ -1960,7 +1960,7 @@
     "goal": 452,
     "link": "https://www.youtube.com/embed/hs0BtKcT5Gs?si=9mKuvY1kqMFipYLE",
     "fallback": "https://www.youtube.com/embed/tFfMzJIfW2w?si=meihqj9wD8k8xEh6",
-    "icon": "thirty",
+    "highlight": "thirty",
     "text": "10th 20 Goal Season"
   },
   {
@@ -2003,7 +2003,7 @@
     "goal": 462,
     "link": "https://www.youtube.com/embed/uJPl80Yqtjc?si=hgEnZ8XvI02I5LlS",
     "fallback": "https://www.youtube.com/embed/-6eCY8oeSGs?si=k54HBeA_O20m3Xqa",
-    "icon": "forty",
+    "highlight": "forty",
     "text": "7th 40 Goal Season"
   },
   {
@@ -2046,14 +2046,14 @@
     "goal": 472,
     "link": "https://www.youtube.com/embed/BcA10Izdnk8?si=yoZf8OJnBIjcLjI1",
     "fallback": "https://www.youtube.com/embed/7hJuboUgzs0?si=PG0cN2Ex49vaiXJ5",
-    "icon": "fifty",
+    "highlight": "fifty",
     "text": "6th 50 Goal Season"
   },
   {
     "goal": 473,
     "link": "https://www.youtube.com/embed/aucqOncw85A?si=H6rS6e-SJ7S72DJc&amp;start=48",
     "fallback": "https://www.youtube.com/embed/gGTwIWn7kyY?si=MhEqW0KxSgYNnqgU",
-    "icon": "mega",
+    "highlight": "mega",
     "text": "\"The Rightful Goal Scoring King of Washington\""
   },
   {
@@ -2064,13 +2064,13 @@
   {
     "goal": 475,
     "link": "https://www.youtube.com/embed/nJ5i_pWsAtc?si=09tVf9OZZzmGa3on",
-    "icon": "bookmark",
+    "highlight": "bookmark",
     "text": "Last of Season 10"
   },
   {
     "goal": 476,
     "link": "https://www.youtube.com/embed/HO17kcIZSHQ?si=yDUYos1q75ObIdGv",
-    "icon": "bookmark",
+    "highlight": "bookmark",
     "text": "First of Season 11"
   },
   {
@@ -2085,7 +2085,7 @@
     "goal": 479,
     "link": "https://www.youtube.com/embed/FfVKXPubgQc?si=_9KyGcPe7c0Ifub2",
     "fallback": "https://www.youtube.com/embed/kk2GYp_YDQU?si=DbfEYWNzhUnSWQYp",
-    "icon": "trophy",
+    "highlight": "trophy",
     "text": "900th Career Point"
   },
   {
@@ -2151,7 +2151,7 @@
   {
     "goal": 495,
     "link": "https://www.youtube.com/embed/KrtxkK232Es?si=5YC9ySsfnBQScjBo",
-    "icon": "twenty",
+    "highlight": "twenty",
     "text": "11th 20 Goal Season"
   },
   {
@@ -2173,7 +2173,7 @@
   {
     "goal": 500,
     "link": "https://www.youtube.com/embed/YxUVWBSPv_4?si=LV28ZbxQa0WyfMH9",
-    "icon": "trophy",
+    "highlight": "trophy",
     "text": "500th Career Goal"
   },
   {
@@ -2187,7 +2187,7 @@
   {
     "goal": 503,
     "link": "https://www.youtube.com/embed/jY8h52s7WJQ?si=ga6aKmLCu9Rn4wBH",
-    "icon": "bullseye",
+    "highlight": "bullseye",
     "text": "Peter Bondra"
   },
   {
@@ -2197,7 +2197,7 @@
   {
     "goal": 505,
     "link": "https://www.youtube.com/embed/fFtM-PUZ6mk?si=9F2AFYIALeY6IGTD",
-    "icon": "thirty",
+    "highlight": "thirty",
     "text": "11th 30 Goal Season"
   },
   {
@@ -2207,7 +2207,7 @@
   {
     "goal": 507,
     "link": "https://www.youtube.com/embed/upjgyckv9_I?si=V5miFNBJxY1tN_xj",
-    "icon": "bullseye",
+    "highlight": "bullseye",
     "text": "Jean Beliveau"
   },
   {
@@ -2217,7 +2217,7 @@
   {
     "goal": 509,
     "link": "https://www.youtube.com/embed/KAy-3VsBVJQ?si=jfsTbi0WsbH8sVBL",
-    "icon": "hat",
+    "highlight": "hat",
     "text": "14th Hat Trick"
   },
   {
@@ -2231,13 +2231,13 @@
   {
     "goal": 512,
     "link": "https://www.youtube.com/embed/9ow8kTz6_dI?si=MemCrljj68ah_5my",
-    "icon": "bullseye",
+    "highlight": "bullseye",
     "text": "Gilbert Perreault"
   },
   {
     "goal": 513,
     "link": "https://www.youtube.com/embed/opOeY8HRUfo?si=z-PtG3wpLg32aOUm",
-    "icon": "bullseye",
+    "highlight": "bullseye",
     "text": "Jeremy Roenick"
   },
   {
@@ -2247,7 +2247,7 @@
   {
     "goal": 515,
     "link": "https://www.youtube.com/embed/sRlC49q_Sb8?si=qsFyvfrOmDSoySat",
-    "icon": "forty",
+    "highlight": "forty",
     "text": "8th 40 Goal Season"
   },
   {
@@ -2261,7 +2261,7 @@
   {
     "goal": 518,
     "link": "https://www.youtube.com/embed/olVhyIU1QQg?si=KcOGCQVv0lV4_QqG",
-    "icon": "bullseye",
+    "highlight": "bullseye",
     "text": "Dale Hawerchuk"
   },
   {
@@ -2279,7 +2279,7 @@
   {
     "goal": 522,
     "link": "https://www.youtube.com/embed/SxW_PCwMHFI?si=9iLEUnQZJfbhRohu",
-    "icon": "bullseye",
+    "highlight": "bullseye",
     "text": "Pat Verbeek"
   },
   {
@@ -2289,19 +2289,19 @@
   {
     "goal": 524,
     "link": "https://www.youtube.com/embed/ilmDtkRjPGE?si=XX_OHmt0XVgEmBRH",
-    "icon": "bullseye",
+    "highlight": "bullseye",
     "text": "Bryan Trottier"
   },
   {
     "goal": 525,
     "link": "https://www.youtube.com/embed/7AAhV-wUuqY?si=-o7no9PxWXJKSHHW",
-    "icon": "fifty",
+    "highlight": "fifty",
     "text": "7th 50 Goal Season"
   },
   {
     "goal": 526,
     "link": "https://www.youtube.com/embed/SjdsOuKg7kY?si=jfPLPHySeB4GF9Bs",
-    "icon": "bookmark",
+    "highlight": "bookmark",
     "text": "First of Season 12"
   },
   {
@@ -2347,13 +2347,13 @@
   {
     "goal": 537,
     "link": "https://www.youtube.com/embed/jSqZ29H-Wck?si=TNdBjrNC4mmlpeoT",
-    "icon": "hat",
+    "highlight": "hat",
     "text": "16th Hat Trick"
   },
   {
     "goal": 538,
     "link": "https://www.youtube.com/embed/iGQ_kopx1-k?si=bdqj32H6LCMApVVa",
-    "icon": "bullseye",
+    "highlight": "bullseye",
     "text": "Keith Tkachuk"
   },
   {
@@ -2367,7 +2367,7 @@
   {
     "goal": 541,
     "link": "https://www.youtube.com/embed/G7l0i3XKhIo?si=jbIRfV8j3abQTBfk",
-    "icon": "bullseye",
+    "highlight": "bullseye",
     "text": "Stan Makita"
   },
   {
@@ -2381,13 +2381,13 @@
   {
     "goal": 544,
     "link": "https://www.youtube.com/embed/i6fuPlv1REI?si=5aLhTt41UnwMKIuG",
-    "icon": "bullseye",
+    "highlight": "bullseye",
     "text": "Maurice Richard"
   },
   {
     "goal": 545,
     "link": "https://www.youtube.com/embed/RCnqzUOx-Iw?si=92PwFDhz9Rqqr0vO",
-    "icon": "trophy",
+    "highlight": "trophy",
     "text": "1000th Career Point"
   },
   {
@@ -2430,13 +2430,13 @@
     "goal": 555,
     "link": "https://www.youtube.com/embed/H4nqdkgGd6s?si=Mqxnb1ivFXi_-Mpt",
     "fallback": "https://www.youtube.com/embed/bZ01Ej0D6Xc?si=LkHoHUUCZIZUjFs9",
-    "icon": "thirty",
+    "highlight": "thirty",
     "text": "12th 30 Goal Season"
   },
   {
     "goal": 556,
     "link": "https://www.youtube.com/embed/ZCG6IwPlG5w?si=SMjJthXqwtZn3URv",
-    "icon": "bullseye",
+    "highlight": "bullseye",
     "text": "Johnny Bucyk"
   },
   {
@@ -2446,25 +2446,25 @@
   {
     "goal": 558,
     "link": "https://www.youtube.com/embed/p-lcPHYHPVk?si=hlZtTIr4QXXltqlr",
-    "icon": "hat",
+    "highlight": "hat",
     "text": "17th Hat Trick"
   },
   {
     "goal": 559,
     "link": "https://www.youtube.com/embed/CNt_HOWbj3I?si=WO76snGuZ8VcaGJ0",
-    "icon": "bookmark",
+    "highlight": "bookmark",
     "text": "First of Season 13"
   },
   {
     "goal": 560,
     "link": "https://www.youtube.com/embed/6xinVXeHth8?si=8OUEoe0osyOk6SDz",
-    "icon": "bullseye",
+    "highlight": "bullseye",
     "text": "Guy Lafleur"
   },
   {
     "goal": 561,
     "link": "https://www.youtube.com/embed/Ozq8QpQtmjI?si=TNqBAQP2EOu39TLv",
-    "icon": "hat",
+    "highlight": "hat",
     "text": "18th Hat Trick"
   },
   {
@@ -2478,19 +2478,19 @@
   {
     "goal": 564,
     "link": "https://www.youtube.com/embed/nJa-7Om_on4?si=9qHa7EBowI2jyEMS",
-    "icon": "hat",
+    "highlight": "hat",
     "text": "19th Hat Trick"
   },
   {
     "goal": 565,
     "link": "https://www.youtube.com/embed/F46JbM9mAgI?si=KGFqWoSFx0DiJ86L",
-    "icon": "four",
+    "highlight": "four",
     "text": "3rd Four Goal Game"
   },
   {
     "goal": 566,
     "link": "https://www.youtube.com/embed/SGlkHy9qLkI?si=wlihCKZK39wkHhmz",
-    "icon": "bullseye",
+    "highlight": "bullseye",
     "text": "Patrick Marleau"
   },
   {
@@ -2520,7 +2520,7 @@
   {
     "goal": 573,
     "link": "https://www.youtube.com/embed/U3LFeAj6Zw8?si=DN1Wl3dtG7lfboxi",
-    "icon": "bullseye",
+    "highlight": "bullseye",
     "text": "Mike Bossy"
   },
   {
@@ -2534,19 +2534,19 @@
   {
     "goal": 576,
     "link": "https://www.youtube.com/embed/zm0nd76X2aY?si=xpxQVYXWdF2NyYhC",
-    "icon": "hat",
+    "highlight": "hat",
     "text": "20th Hat Trick"
   },
   {
     "goal": 577,
     "link": "https://www.youtube.com/embed/nzI31E5XoQg?si=qjnXN4FC-UTnmQty",
-    "icon": "bullseye",
+    "highlight": "bullseye",
     "text": "Mark Recchi"
   },
   {
     "goal": 578,
     "link": "https://www.youtube.com/embed/MYsxXrWaIfg?si=xl4jnEEbBH6_tlhH",
-    "icon": "twenty",
+    "highlight": "twenty",
     "text": "13th 20 Goal Season"
   },
   {
@@ -2588,7 +2588,7 @@
   {
     "goal": 588,
     "link": "https://www.youtube.com/embed/BHh2RLW38eY?si=CgBgoqbV81x2Q0TJ",
-    "icon": "thirty",
+    "highlight": "thirty",
     "text": "13th 30 Goal Season"
   },
   {
@@ -2631,7 +2631,7 @@
     "goal": 598,
     "link": "https://www.youtube.com/embed/t7JT4gyWOSw?si=vlppIajiZdNJ9PZh",
     "fallback": "https://www.youtube.com/embed/SWLrHe4NkBQ?si=NVcThyklwmpth8BS",
-    "icon": "moon",
+    "highlight": "moon",
     "text": "Outdoor Goal"
   },
   {
@@ -2641,13 +2641,13 @@
   {
     "goal": 600,
     "link": "https://www.youtube.com/embed/sM2vVyx0oa8?si=1B-YAbfTXe0hmePL",
-    "icon": "trophy",
+    "highlight": "trophy",
     "text": "600th Career Goal"
   },
   {
     "goal": 601,
     "link": "https://www.youtube.com/embed/B9cEiMpdpaQ?si=nmGLJ5bTmfpwHpJ2",
-    "icon": "bullseye",
+    "highlight": "bullseye",
     "text": "Jari Kurri"
   },
   {
@@ -2673,13 +2673,13 @@
   {
     "goal": 607,
     "link": "https://www.youtube.com/embed/CAyfV6I9_ow?si=hXKZ_y8pp_I9_MPs",
-    "icon": "bookmark",
+    "highlight": "bookmark",
     "text": "Last of Season 13"
   },
   {
     "goal": 608,
     "link": "https://www.youtube.com/embed/2XwOvbeulaA?si=ACCLxiBQ6KaC7kux",
-    "icon": "bullseye",
+    "highlight": "bullseye",
     "text": "Dino Ciccarelli"
   },
   {
@@ -2689,7 +2689,7 @@
   {
     "goal": 610,
     "link": "https://www.youtube.com/embed/-AFquTlI-BM?si=LCjhjfO61-YxK0re",
-    "icon": "bullseye",
+    "highlight": "bullseye",
     "text": "Bobby Hull"
   },
   {
@@ -2751,7 +2751,7 @@
   {
     "goal": 625,
     "link": "https://www.youtube.com/embed/RAO1kZ2xf94?si=b28RXS-Gw-9HICqQ",
-    "icon": "bullseye",
+    "highlight": "bullseye",
     "text": "Jarome Iginla and Joe Sakic"
   },
   {
@@ -2761,7 +2761,7 @@
   {
     "goal": 627,
     "link": "https://www.youtube.com/embed/GuigoSYCyRs?si=gwmwZxjpaCKu0kgU",
-    "icon": "twenty",
+    "highlight": "twenty",
     "text": "14th 20 Goal Season"
   },
   {
@@ -2783,7 +2783,7 @@
   {
     "goal": 632,
     "link": "https://www.youtube.com/embed/F5-6jSwab2I?si=alVX5Dk1GSMYpwou",
-    "icon": "hat",
+    "highlight": "hat",
     "text": "21st Hat Trick"
   },
   {
@@ -2797,7 +2797,7 @@
   {
     "goal": 635,
     "link": "https://www.youtube.com/embed/zmngvH1X42I?si=BEzTfIU_2in_uGlu",
-    "icon": "hat",
+    "highlight": "hat",
     "text": "22nd Hat Trick"
   },
   {
@@ -2808,7 +2808,7 @@
     "goal": 637,
     "link": "https://www.youtube.com/embed/emrBohNjRhQ?si=MoLhX3KnoqbUnp92",
     "fallback": "https://www.youtube.com/embed/bPpOUlThJ6g?si=JtGz6wUnTMtLHcMg",
-    "icon": "thirty",
+    "highlight": "thirty",
     "text": "14th 30 Goal Season"
   },
   {
@@ -2822,7 +2822,7 @@
   {
     "goal": 640,
     "link": "https://www.youtube.com/embed/7XqlLU5EUw0?si=KY-XlPPxJlTv9l27",
-    "icon": "bullseye",
+    "highlight": "bullseye",
     "text": "Dave Andreychuk"
   },
   {
@@ -2836,7 +2836,7 @@
   {
     "goal": 643,
     "link": "https://www.youtube.com/embed/85EU7KGMNeY?si=QFozGJbotfT8nmp3",
-    "icon": "hat",
+    "highlight": "hat",
     "text": "23rd Hat Trick"
   },
   {
@@ -2855,7 +2855,7 @@
     "goal": 647,
     "link": "https://www.youtube.com/embed/fsHtr-JhQog?si=gNpnJ2Pv4GMr-YYB",
     "fallback": "https://www.youtube.com/embed/IF3rcdWtfTk?si=mP_zvFPJLZLjjvuk",
-    "icon": "forty",
+    "highlight": "forty",
     "text": "10th 40 Goal Season"
   },
   {
@@ -2893,25 +2893,25 @@
   {
     "goal": 656,
     "link": "https://www.youtube.com/embed/KOmAR8sn72Y?si=DatbkCBaqkGhovrX",
-    "icon": "bullseye",
+    "highlight": "bullseye",
     "text": "Brendan Shanahan"
   },
   {
     "goal": 657,
     "link": "https://www.youtube.com/embed/GytIIlQNFAY?si=1SjR9KKcwLiaZiGa",
-    "icon": "fifty",
+    "highlight": "fifty",
     "text": "8th 50 Goal Season"
   },
   {
     "goal": 658,
     "link": "https://www.youtube.com/embed/wVF-ChKmQFA?si=jl_criI-2UCVCtBJ",
-    "icon": "bookmark",
+    "highlight": "bookmark",
     "text": "Last of Season 14"
   },
   {
     "goal": 659,
     "link": "https://www.youtube.com/embed/2_ffZriINV8?si=zXMPKRwQ4BBXuYNb",
-    "icon": "bookmark",
+    "highlight": "bookmark",
     "text": "First of Season 15"
   },
   {
@@ -2949,7 +2949,7 @@
   {
     "goal": 668,
     "link": "https://www.youtube.com/embed/cqzCLsoc40c?si=-ims4Xo-5kmlfPbW",
-    "icon": "bullseye",
+    "highlight": "bullseye",
     "text": "Luc Robitaille"
   },
   {
@@ -2991,7 +2991,7 @@
   {
     "goal": 678,
     "link": "https://www.youtube.com/embed/hK7KnNlWCFE?si=Hld3YkS4PKUV0lXl",
-    "icon": "hat",
+    "highlight": "hat",
     "text": "24th Hat Trick"
   },
   {
@@ -3017,7 +3017,7 @@
   {
     "goal": 684,
     "link": "https://www.youtube.com/embed/7LdHJ2Ib3tQ?si=SNuwqNgKHLXWD97k",
-    "icon": "bullseye",
+    "highlight": "bullseye",
     "text": "Teemu Selanne"
   },
   {
@@ -3035,31 +3035,31 @@
   {
     "goal": 688,
     "link": "https://www.youtube.com/embed/etON1_qvPbs?si=voBSMaUvmaPQS8Zz",
-    "icon": "thirty",
+    "highlight": "thirty",
     "text": "15th 30 Goal Season"
   },
   {
     "goal": 689,
     "link": "https://www.youtube.com/embed/4K92Nc6Rrgg?si=FnW6efs6UKuig4Fk",
-    "icon": "hat",
+    "highlight": "hat",
     "text": "25th Hat Trick"
   },
   {
     "goal": 690,
     "link": "https://www.youtube.com/embed/ThErKIJAxp8?si=yDb5N0wWyETbe-d0",
-    "icon": "bullseye",
+    "highlight": "bullseye",
     "text": "Mario Lemieux"
   },
   {
     "goal": 691,
     "link": "https://www.youtube.com/embed/mV2Q3uKJHmY?si=xCmzvIByf0YReMLf",
-    "icon": "mega",
+    "highlight": "mega",
     "text": "\"Move Over Mario\""
   },
   {
     "goal": 692,
     "link": "https://www.youtube.com/embed/F3QmnTStPJM?si=CR_GQY5MFNvGlAfQ",
-    "icon": "bullseye",
+    "highlight": "bullseye",
     "text": "Steve Yzerman"
   },
   {
@@ -3069,7 +3069,7 @@
   {
     "goal": 694,
     "link": "https://www.youtube.com/embed/dMRfloiegWY?si=k0cMDoYgsqfPJfIc",
-    "icon": "bullseye",
+    "highlight": "bullseye",
     "text": "Mark Messier"
   },
   {
@@ -3087,7 +3087,7 @@
   {
     "goal": 698,
     "link": "https://www.youtube.com/embed/NSTIP_cSOmc?si=3qtRfVwyiwhbovvA",
-    "icon": "hat",
+    "highlight": "hat",
     "text": "27th Hat Trick"
   },
   {
@@ -3097,7 +3097,7 @@
   {
     "goal": 700,
     "link": "https://www.youtube.com/embed/11eCWB1sJxg?si=W41nuXRNJSRtmJ3Z",
-    "icon": "trophy",
+    "highlight": "trophy",
     "text": "700th Career Goal"
   },
   {
@@ -3123,19 +3123,19 @@
   {
     "goal": 706,
     "link": "https://www.youtube.com/embed/RQy7yBQ9E4o?si=2_eruAFDLepOyl1W",
-    "icon": "bookmark",
+    "highlight": "bookmark",
     "text": "Last of Season 15"
   },
   {
     "goal": 707,
     "link": "https://www.youtube.com/embed/IKJJ2ME6qN8?si=X-ira3f5LMXEaynu",
-    "icon": "bookmark",
+    "highlight": "bookmark",
     "text": "First of Season 16"
   },
   {
     "goal": 708,
     "link": "https://www.youtube.com/embed/71t2fiiqk54?si=KPkQlRSGwkQemm8D",
-    "icon": "bullseye",
+    "highlight": "bullseye",
     "text": "Mike Gartner"
   },
   {
@@ -3173,13 +3173,13 @@
   {
     "goal": 717,
     "link": "https://www.youtube.com/embed/cLOJDgfnIaA?si=wtXHdNSzcjnkY3FK",
-    "icon": "bullseye",
+    "highlight": "bullseye",
     "text": "Phil Esposito"
   },
   {
     "goal": 718,
     "link": "https://www.youtube.com/embed/MG1SUqa2lC4?si=ShwctWMcUIyk3-LI",
-    "icon": "trophy",
+    "highlight": "trophy",
     "text": "1300th Career Point"
   },
   {
@@ -3213,7 +3213,7 @@
   {
     "goal": 726,
     "link": "https://www.youtube.com/embed/-trdGFtKKls?si=8MWJRtTJBclax557",
-    "icon": "twenty",
+    "highlight": "twenty",
     "text": "16th 20 Goal Season"
   },
   {
@@ -3231,13 +3231,13 @@
   {
     "goal": 730,
     "link": "https://www.youtube.com/embed/qOGmGX4QMHc?si=dt0yqgp1SOFC2hwg",
-    "icon": "bookmark",
+    "highlight": "bookmark",
     "text": "Last of Season 16"
   },
   {
     "goal": 731,
     "link": "https://www.youtube.com/embed/0jJECto6FRo?si=W77Tj8RbWR5P6VJD",
-    "icon": "bullseye",
+    "highlight": "bullseye",
     "text": "Marcel Dionne"
   },
   {
@@ -3279,7 +3279,7 @@
   {
     "goal": 741,
     "link": "https://www.youtube.com/embed/zFljJO1r0Dc?si=yQXzW2P9vK2_PmS6",
-    "icon": "bullseye",
+    "highlight": "bullseye",
     "text": "Brett Hull"
   },
   {
@@ -3309,7 +3309,7 @@
   {
     "goal": 748,
     "link": "https://www.youtube.com/embed/iCSI3kTYWG0?si=jyxLARao_vzYlCr6",
-    "icon": "hat",
+    "highlight": "hat",
     "text": "28th Hat Trick"
   },
   {
@@ -3319,7 +3319,7 @@
   {
     "goal": 750,
     "link": "https://www.youtube.com/embed/Q91QVND_OZ0?si=56cBPSidcc820Xdd",
-    "icon": "twenty",
+    "highlight": "twenty",
     "text": "17th 20 Goal Season"
   },
   {
@@ -3333,7 +3333,7 @@
   {
     "goal": 753,
     "link": "https://www.youtube.com/embed/gHozzwODUeo?si=Ywl953wG8vmfLa2F",
-    "icon": "trophy",
+    "highlight": "trophy",
     "text": "275th Power Play Goal"
   },
   {
@@ -3363,7 +3363,7 @@
   {
     "goal": 760,
     "link": "https://www.youtube.com/embed/gPVulAhPpK4?si=5tVTfVjo8OqgvqhW",
-    "icon": "thirty",
+    "highlight": "thirty",
     "text": "16th 30 Goal Season"
   },
   {
@@ -3389,7 +3389,7 @@
   {
     "goal": 766,
     "link": "https://www.youtube.com/embed/yK8BltbbhQ4?si=E0p0atYSOZ0bX3Oo",
-    "icon": "bullseye",
+    "highlight": "bullseye",
     "text": "Jaromir Jagr"
   },
   {
@@ -3407,7 +3407,7 @@
   {
     "goal": 770,
     "link": "https://www.youtube.com/embed/Cf0GuRUblcU?si=zhkQmiYgTWuN-_b8",
-    "icon": "forty",
+    "highlight": "forty",
     "text": "12th 40 Goal Season"
   },
   {
@@ -3449,13 +3449,13 @@
   {
     "goal": 780,
     "link": "https://www.youtube.com/embed/NCo2ycLKGxQ?si=1cfag75C6itL2-OV",
-    "icon": "fifty",
+    "highlight": "fifty",
     "text": "9th 50 Goal Season"
   },
   {
     "goal": 781,
     "link": "https://www.youtube.com/embed/2mxTO0omf6A?si=RCmLMrQ7vEC8LIQ0",
-    "icon": "bookmark",
+    "highlight": "bookmark",
     "text": "First of Season 18"
   },
   {
@@ -3533,13 +3533,13 @@
   {
     "goal": 800,
     "link": "https://www.youtube.com/embed/c5opGdr9wu8?si=B2I7lyUe3SAHE7Vh",
-    "icon": "trophy",
+    "highlight": "trophy",
     "text": "800th Career Goal"
   },
   {
     "goal": 801,
     "link": "https://www.youtube.com/embed/jf8p8yd0zrs?si=vhep7No6tWW3FxXg",
-    "icon": "bullseye",
+    "highlight": "bullseye",
     "text": "Gordie Howe"
   },
   {
@@ -3562,7 +3562,7 @@
     "goal": 806,
     "link": "https://www.youtube.com/embed/u1Xd9Awl1RU?si=fmWNmbNI_j81ofxG",
     "fallback": "https://www.youtube.com/embed/k84uPV2coHM?si=E4UuwRlLiFWs2wbF",
-    "icon": "hat",
+    "highlight": "hat",
     "text": "30th Hat Trick"
   },
   {
@@ -3580,7 +3580,7 @@
   {
     "goal": 810,
     "link": "https://www.youtube.com/embed/eQbS7vc29E8?si=ZYcCNFES3Ak3sxkU",
-    "icon": "thirty",
+    "highlight": "thirty",
     "text": "19th 30 Goal Season"
   },
   {
@@ -3623,7 +3623,7 @@
     "goal": 820,
     "link": "https://www.youtube.com/embed/taYoRVHKAQ8?si=dZrYImf6o4b4Qe8k",
     "fallback": "https://www.youtube.com/embed/jkodWLAOZJ4?si=ckRv76bCuh5IZ8wv",
-    "icon": "forty",
+    "highlight": "forty",
     "text": "13th 40 Goal Season"
   },
   {
@@ -3633,13 +3633,13 @@
   {
     "goal": 822,
     "link": "https://www.youtube.com/embed/_Z56915Mb0Q?si=xi_nmJpjF5oVcra9",
-    "icon": "bookmark",
+    "highlight": "bookmark",
     "text": "Last of Season 18"
   },
   {
     "goal": 823,
     "link": "https://www.youtube.com/embed/cwdzuUfeDPM?si=7ZLpohGLiWaY8jpe",
-    "icon": "bookmark",
+    "highlight": "bookmark",
     "text": "First of Season 19"
   },
   {
@@ -3717,7 +3717,7 @@
   {
     "goal": 842,
     "link": "https://www.youtube.com/embed/BLvoWWPVNfQ?si=o3mceOxVwbJVa7Hi",
-    "icon": "twenty",
+    "highlight": "twenty",
     "text": "19th 20 Goal Season"
   },
   {
@@ -3759,19 +3759,19 @@
   {
     "goal": 852,
     "link": "https://www.youtube.com/embed/wqaDEXKGsgA?si=TpksfFJoyubZXNp8",
-    "icon": "thirty",
+    "highlight": "thirty",
     "text": "18th 30 Goal Season"
   },
   {
     "goal": 853,
     "link": "https://www.youtube.com/embed/t8bXuJ47Ysk?si=udRrjv0X2MEXihhW",
-    "icon": "bookmark",
+    "highlight": "bookmark",
     "text": "Last of Season 19"
   },
   {
     "goal": 854,
     "link": "https://www.youtube.com/embed/abOQGjzrMtk?si=__UtUuJTh4DwmH2H",
-    "icon": "bookmark",
+    "highlight": "bookmark",
     "text": "First of Season 20"
   },
   {
@@ -3821,7 +3821,7 @@
   {
     "goal": 866,
     "link": "https://www.youtube.com/embed/5Z3YW4rA7gA?si=3W_ZpQWvdhcvu5ww&amp;start=113",
-    "icon": "hat",
+    "highlight": "hat",
     "text": "31st Hat Trick"
   },
   {
@@ -3851,7 +3851,7 @@
   {
     "goal": 873,
     "link": "https://www.youtube.com/embed/ym0gMGbHEW8?si=ss63_EgYrHGAaCUI",
-    "icon": "twenty",
+    "highlight": "twenty",
     "text": "20th 20 Goal Season"
   },
   {
@@ -3889,13 +3889,13 @@
   {
     "goal": 882,
     "link": "https://www.youtube.com/embed/ECX9-sWcPNs?si=B8jDRyo2sXCrapQY",
-    "icon": "hat",
+    "highlight": "hat",
     "text": "32nd Hat Trick"
   },
   {
     "goal": 883,
     "link": "https://www.youtube.com/embed/CEM8-cDkvpk?si=v8o-tCO15DpsHZcU",
-    "icon": "thirty",
+    "highlight": "thirty",
     "text": "19th 30 Goal Season"
   },
   {
@@ -3909,7 +3909,7 @@
   {
     "goal": 886,
     "link": "https://www.youtube.com/embed/YzbnqIh7HZ8?si=Ty7VfmhMDP3ybl4h",
-    "icon": "trophy",
+    "highlight": "trophy",
     "text": "1600th Career Point"
   },
   {
@@ -3939,19 +3939,19 @@
   {
     "goal": 893,
     "link": "https://www.youtube.com/embed/hx2UWo6_HHs?si=rPfsk1sGfhFbDW4a",
-    "icon": "forty",
+    "highlight": "forty",
     "text": "14th 40 Goal Season"
   },
   {
     "goal": 894,
     "link": "https://www.youtube.com/embed/0Wi35sZLH10?si=OpYvCoYbcIx8qb_0",
-    "icon": "bullseye",
+    "highlight": "bullseye",
     "text": "Wayne Gretzky"
   },
   {
     "goal": 895,
     "link": "https://www.youtube.com/embed/S4DvTs8vveI?si=U7Gmvs36ke_qz4Cp",
-    "icon": "mega",
+    "highlight": "mega",
     "text": "\"The Chasing Days Are Done\""
   },
   {
@@ -3961,7 +3961,7 @@
   {
     "goal": 897,
     "link": "https://www.youtube.com/embed/PD1odnef0FQ?si=nL6ra2ItfPhFjXiM",
-    "icon": "bookmark",
+    "highlight": "bookmark",
     "text": "Last of Season 20"
   }
 ]
