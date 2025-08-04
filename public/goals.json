@@ -2817,300 +2817,650 @@
     "goal": 302,
     "link": "https://www.youtube.com/embed/DHoIUoBD8s8?si=Y-ZObszGl-B72O_9",
     "highlight": "bookmark",
-    "text": "First of Season 7"
+    "text": "First of Season 7",
+    "team": "PIT",
+    "goalie": "Brent Johnson",
+    "month": 10,
+    "day": 13,
+    "year": 2011
   },
   {
     "goal": 303,
-    "link": "https://www.youtube.com/embed/XoWuNfmn8h0?si=DvtXkdOMcpfk_EuQ"
+    "link": "https://www.youtube.com/embed/XoWuNfmn8h0?si=DvtXkdOMcpfk_EuQ",
+    "team": "PHI",
+    "goalie": "Ilya Bryzgalov",
+    "month": 10,
+    "day": 20,
+    "year": 2011
   },
   {
     "goal": 304,
-    "link": "https://www.youtube.com/embed/uMpIELWVygI?si=fbDT5hs8YjrnRn0V"
+    "link": "https://www.youtube.com/embed/uMpIELWVygI?si=fbDT5hs8YjrnRn0V",
+    "team": "PHI",
+    "goalie": "Ilya Bryzgalov",
+    "month": 10,
+    "day": 20,
+    "year": 2011
   },
   {
     "goal": 305,
-    "link": "https://www.youtube.com/embed/q8jHWpipbPk?si=xmt9PzN1m_ofmh63"
+    "link": "https://www.youtube.com/embed/q8jHWpipbPk?si=xmt9PzN1m_ofmh63",
+    "team": "VAN",
+    "goalie": "Roberto Luongo",
+    "month": 10,
+    "day": 29,
+    "year": 2011
   },
   {
     "goal": 306,
-    "link": "https://www.youtube.com/embed/1x6UpUR65V0?si=APNHH67TA8Ij24QW"
+    "link": "https://www.youtube.com/embed/1x6UpUR65V0?si=APNHH67TA8Ij24QW",
+    "team": "VAN",
+    "goalie": "Roberto Luongo",
+    "month": 10,
+    "day": 29,
+    "year": 2011
   },
   {
     "goal": 307,
-    "link": "https://www.youtube.com/embed/H1B20ghAPH0?si=I629yeNz9yvuyYcr"
+    "link": "https://www.youtube.com/embed/H1B20ghAPH0?si=I629yeNz9yvuyYcr",
+    "team": "NYI",
+    "goalie": "Rick DiPietro",
+    "month": 11,
+    "day": 5,
+    "year": 2011
   },
   {
     "goal": 308,
-    "link": "https://www.youtube.com/embed/s3nuMDkKOis?si=hKV3mndCpoiVPTD6"
+    "link": "https://www.youtube.com/embed/s3nuMDkKOis?si=hKV3mndCpoiVPTD6",
+    "team": "NJD",
+    "goalie": "Martin Brodeur",
+    "month": 11,
+    "day": 11,
+    "year": 2011
   },
   {
     "goal": 309,
-    "link": "https://www.youtube.com/embed/Tsr8OatSQ8I?si=G6cRfL3tKSL5TbpQ"
+    "link": "https://www.youtube.com/embed/Tsr8OatSQ8I?si=G6cRfL3tKSL5TbpQ",
+    "team": "NYR",
+    "goalie": "Henrik Lundqvist",
+    "month": 11,
+    "day": 25,
+    "year": 2011
   },
   {
     "goal": 310,
-    "link": "https://www.youtube.com/embed/5sPbeoC6t6Y?si=YroCr8CbPi6pYeLc"
+    "link": "https://www.youtube.com/embed/5sPbeoC6t6Y?si=YroCr8CbPi6pYeLc",
+    "team": "OTT",
+    "goalie": "Craig Anderson",
+    "month": 12,
+    "day": 7,
+    "year": 2011
   },
   {
     "goal": 311,
-    "link": "https://www.youtube.com/embed/53-dBM3C3ZQ?si=QH13lnwoG2EsQJpE"
+    "link": "https://www.youtube.com/embed/53-dBM3C3ZQ?si=QH13lnwoG2EsQJpE",
+    "team": "WPG",
+    "goalie": "Ondřej Pavelec",
+    "month": 12,
+    "day": 15,
+    "year": 2011
   },
   {
     "goal": 312,
-    "link": "https://www.youtube.com/embed/zIaXxsZKVuo?si=SXO-jCT7EXBw0F3C"
+    "link": "https://www.youtube.com/embed/zIaXxsZKVuo?si=SXO-jCT7EXBw0F3C",
+    "team": "NSH",
+    "goalie": "Anders Lindbäck",
+    "month": 12,
+    "day": 20,
+    "year": 2011
   },
   {
     "goal": 313,
-    "link": "https://www.youtube.com/embed/1BHFSWOZ54U?si=id8djZkV0iXENQ-X"
+    "link": "https://www.youtube.com/embed/1BHFSWOZ54U?si=id8djZkV0iXENQ-X",
+    "team": "BUF",
+    "goalie": "Ryan Miller",
+    "month": 12,
+    "day": 26,
+    "year": 2011
   },
   {
     "goal": 314,
-    "link": "https://www.youtube.com/embed/Am6WOGGNSn0?si=lPib903gOhql3aqg"
+    "link": "https://www.youtube.com/embed/Am6WOGGNSn0?si=lPib903gOhql3aqg",
+    "team": "BUF",
+    "goalie": "Ryan Miller",
+    "month": 12,
+    "day": 30,
+    "year": 2011
   },
   {
     "goal": 315,
-    "link": "https://www.youtube.com/embed/6Y8qSUvlykY?si=CwLHiGNi4fy3TClt"
+    "link": "https://www.youtube.com/embed/6Y8qSUvlykY?si=CwLHiGNi4fy3TClt",
+    "team": "BUF",
+    "goalie": "Ryan Miller",
+    "month": 12,
+    "day": 30,
+    "year": 2011
   },
   {
     "goal": 316,
-    "link": "https://www.youtube.com/embed/KMV0xBl1V9U?si=t5-PdMbu-Ed81gbJ"
+    "link": "https://www.youtube.com/embed/KMV0xBl1V9U?si=t5-PdMbu-Ed81gbJ",
+    "team": "CBJ",
+    "goalie": "Steve Mason",
+    "month": 12,
+    "day": 31,
+    "year": 2011
   },
   {
     "goal": 317,
-    "link": "https://www.youtube.com/embed/xIUlNBz83Bs?si=bFyU0-sS5bel_tCQ"
+    "link": "https://www.youtube.com/embed/xIUlNBz83Bs?si=bFyU0-sS5bel_tCQ",
+    "team": "CBJ",
+    "goalie": "Steve Mason",
+    "month": 12,
+    "day": 31,
+    "year": 2011
   },
   {
     "goal": 318,
-    "link": "https://www.youtube.com/embed/amnJWEiC-EA?si=mrBKbEU8VR-WBmMF"
+    "link": "https://www.youtube.com/embed/amnJWEiC-EA?si=mrBKbEU8VR-WBmMF",
+    "team": "CGY",
+    "goalie": "Miikka Kiprusoff",
+    "month": 1,
+    "day": 3,
+    "year": 2012
   },
   {
     "goal": 319,
-    "link": "https://www.youtube.com/embed/4hdPm6k2l-c?si=bqLIrpFsfv3XaD8L"
+    "link": "https://www.youtube.com/embed/4hdPm6k2l-c?si=bqLIrpFsfv3XaD8L",
+    "team": "TBL",
+    "goalie": "Ben Bishop",
+    "month": 1,
+    "day": 13,
+    "year": 2012
   },
   {
     "goal": 320,
-    "link": "https://www.youtube.com/embed/KX-K-ZMhRhs?si=WPDe_3UiTLL_t2ap"
+    "link": "https://www.youtube.com/embed/KX-K-ZMhRhs?si=WPDe_3UiTLL_t2ap",
+    "team": "MTL",
+    "goalie": "Carey Price",
+    "month": 1,
+    "day": 18,
+    "year": 2012
   },
   {
     "goal": 321,
     "link": "https://www.youtube.com/embed/aIzrPDaz08o?si=t7qabFP28MEMfC-E",
     "highlight": "twenty",
-    "text": "7th 20 Goal Season"
+    "text": "7th 20 Goal Season",
+    "team": "PIT",
+    "goalie": "Marc-André Fleury",
+    "month": 1,
+    "day": 22,
+    "year": 2012
   },
   {
     "goal": 322,
-    "link": "https://www.youtube.com/embed/1kIsP0wsxE8?si=EeiMer3rvA7B8Pvi"
+    "link": "https://www.youtube.com/embed/1kIsP0wsxE8?si=EeiMer3rvA7B8Pvi",
+    "team": "FLA",
+    "goalie": "Scott Clemmensen",
+    "month": 2,
+    "day": 7,
+    "year": 2012
   },
   {
     "goal": 323,
-    "link": "https://www.youtube.com/embed/j0ImGmuSB90?si=Yn0mDXG_Rfe1Id-o"
+    "link": "https://www.youtube.com/embed/j0ImGmuSB90?si=Yn0mDXG_Rfe1Id-o",
+    "team": "FLA",
+    "goalie": "Scott Clemmensen",
+    "month": 2,
+    "day": 7,
+    "year": 2012
   },
   {
     "goal": 324,
-    "link": "https://www.youtube.com/embed/SmKbF7FiDdY?si=we08ey_pV5KfvVDP"
+    "link": "https://www.youtube.com/embed/SmKbF7FiDdY?si=we08ey_pV5KfvVDP",
+    "team": "WPG",
+    "goalie": "Ondřej Pavelec",
+    "month": 2,
+    "day": 9,
+    "year": 2012
   },
   {
     "goal": 325,
-    "link": "https://www.youtube.com/embed/Xy7BHABW7rA?si=IP1p3MfjrwEs-AHl"
+    "link": "https://www.youtube.com/embed/Xy7BHABW7rA?si=IP1p3MfjrwEs-AHl",
+    "team": "FLA",
+    "goalie": "José Théodore",
+    "month": 2,
+    "day": 17,
+    "year": 2012
   },
   {
     "goal": 326,
-    "link": "https://www.youtube.com/embed/SPFz7A2k05g?si=tFWwgdwDKDvNp-2I"
+    "link": "https://www.youtube.com/embed/SPFz7A2k05g?si=tFWwgdwDKDvNp-2I",
+    "team": "MTL",
+    "goalie": "Carey Price",
+    "month": 2,
+    "day": 24,
+    "year": 2012
   },
   {
     "goal": 327,
-    "link": "https://www.youtube.com/embed/pqOTEvcEVYo?si=2srtv9_tl1MpdCA7"
+    "link": "https://www.youtube.com/embed/pqOTEvcEVYo?si=2srtv9_tl1MpdCA7",
+    "team": "NYI",
+    "goalie": "Evgeni Nabokov",
+    "month": 2,
+    "day": 28,
+    "year": 2012
   },
   {
     "goal": 328,
-    "link": "https://www.youtube.com/embed/VYGqTewMVXc?si=GFzGM8Rdc3xSzXxN"
+    "link": "https://www.youtube.com/embed/VYGqTewMVXc?si=GFzGM8Rdc3xSzXxN",
+    "team": "TBL",
+    "goalie": "Dustin Tokarski",
+    "month": 3,
+    "day": 8,
+    "year": 2012
   },
   {
     "goal": 329,
-    "link": "https://www.youtube.com/embed/9-A3hYi3-g8?si=1aQE_ivV9m4-Um1t"
+    "link": "https://www.youtube.com/embed/9-A3hYi3-g8?si=1aQE_ivV9m4-Um1t",
+    "team": "NYI",
+    "goalie": "Evgeni Nabokov",
+    "month": 3,
+    "day": 13,
+    "year": 2012
   },
   {
     "goal": 330,
-    "link": "https://www.youtube.com/embed/IrD3mKlLeJg?si=iZrG9vaNq0ktByDy"
+    "link": "https://www.youtube.com/embed/IrD3mKlLeJg?si=iZrG9vaNq0ktByDy",
+    "team": "NYI",
+    "goalie": "Evgeni Nabokov",
+    "month": 3,
+    "day": 13,
+    "year": 2012
   },
   {
     "goal": 331,
     "link": "https://www.youtube.com/embed/a57wu48BW9c?si=PsDDb9Hx8DiAPjsG",
-    "highlight": "thirty"
+    "highlight": "thirty",
+    "team": "CHI",
+    "goalie": "Corey Crawford",
+    "month": 3,
+    "day": 18,
+    "year": 2012
   },
   {
     "goal": 332,
-    "link": "https://www.youtube.com/embed/WUnC8U3VPso?si=g6ks3vbb1TPKkuP4"
+    "link": "https://www.youtube.com/embed/WUnC8U3VPso?si=g6ks3vbb1TPKkuP4",
+    "team": "DET",
+    "goalie": "Jimmy Howard",
+    "month": 3,
+    "day": 19,
+    "year": 2012
   },
   {
     "goal": 333,
-    "link": "https://www.youtube.com/embed/o2jBvNBH2oI?si=LFhbpinaD7WVNpVh"
+    "link": "https://www.youtube.com/embed/o2jBvNBH2oI?si=LFhbpinaD7WVNpVh",
+    "team": "DET",
+    "goalie": "Jimmy Howard",
+    "month": 3,
+    "day": 19,
+    "year": 2012
   },
   {
     "goal": 334,
-    "link": "https://www.youtube.com/embed/eDGFzj4-F1Q?si=L2X4GdWP8uwcybmK"
+    "link": "https://www.youtube.com/embed/eDGFzj4-F1Q?si=L2X4GdWP8uwcybmK",
+    "team": "PHI",
+    "goalie": "Sergei Bobrovsky",
+    "month": 3,
+    "day": 22,
+    "year": 2012
   },
   {
     "goal": 335,
-    "link": "https://www.youtube.com/embed/7xNR3M6klIk?si=bSJUC-m8TIi4hbEd"
+    "link": "https://www.youtube.com/embed/7xNR3M6klIk?si=bSJUC-m8TIi4hbEd",
+    "team": "WPG",
+    "goalie": "Ondřej Pavelec",
+    "month": 3,
+    "day": 23,
+    "year": 2012
   },
   {
     "goal": 336,
-    "link": "https://www.youtube.com/embed/EMkXtEgHph8?si=ijzSWoravSSydtcm"
+    "link": "https://www.youtube.com/embed/EMkXtEgHph8?si=ijzSWoravSSydtcm",
+    "team": "WPG",
+    "goalie": "Ondřej Pavelec",
+    "month": 3,
+    "day": 23,
+    "year": 2012
   },
   {
     "goal": 337,
-    "link": "https://www.youtube.com/embed/3ABCXFtXW-k?si=a9wSVq_Y5hYDhJTb"
+    "link": "https://www.youtube.com/embed/3ABCXFtXW-k?si=a9wSVq_Y5hYDhJTb",
+    "team": "MIN",
+    "goalie": "Matthew Hackett",
+    "month": 3,
+    "day": 25,
+    "year": 2012
   },
   {
     "goal": 338,
-    "link": "https://www.youtube.com/embed/Enm-txxoCPc?si=rnPT1OzZSiOPST-k"
+    "link": "https://www.youtube.com/embed/Enm-txxoCPc?si=rnPT1OzZSiOPST-k",
+    "team": "FLA",
+    "goalie": "José Théodore",
+    "month": 4,
+    "day": 5,
+    "year": 2012
   },
   {
     "goal": 339,
     "link": "https://www.youtube.com/embed/uWIedJurQso?si=mJRt1LpU8NTELmjO",
     "highlight": "bookmark",
-    "text": "Last of Season 7"
+    "text": "Last of Season 7",
+    "team": "NYR",
+    "goalie": "Henrik Lundqvist",
+    "month": 4,
+    "day": 7,
+    "year": 2012
   },
   {
     "goal": 340,
     "link": "https://www.youtube.com/embed/a6ckjaUmby8?si=FDch8r_i6J9DsouY",
     "highlight": "bookmark",
-    "text": "First of Season 8"
+    "text": "First of Season 8",
+    "team": "BUF",
+    "goalie": "Ryan Miller",
+    "month": 1,
+    "day": 27,
+    "year": 2013
   },
   {
     "goal": 341,
-    "link": "https://www.youtube.com/embed/Lxg3QVGuxTA?si=MgblPmvLWVkSv8YO"
+    "link": "https://www.youtube.com/embed/Lxg3QVGuxTA?si=MgblPmvLWVkSv8YO",
+    "team": "TOR",
+    "goalie": "James Reimer",
+    "month": 1,
+    "day": 31,
+    "year": 2013
   },
   {
     "goal": 342,
-    "link": "https://www.youtube.com/embed/mWZi_nm-oIQ?si=9T2CzXSAy2pm6L1x"
+    "link": "https://www.youtube.com/embed/mWZi_nm-oIQ?si=9T2CzXSAy2pm6L1x",
+    "team": "PIT",
+    "goalie": "Marc-André Fleury",
+    "month": 2,
+    "day": 7,
+    "year": 2013
   },
   {
     "goal": 343,
-    "link": "https://www.youtube.com/embed/GD6VoMY6VZo?si=Y4oKr4xKw76ysCAJ"
+    "link": "https://www.youtube.com/embed/GD6VoMY6VZo?si=Y4oKr4xKw76ysCAJ",
+    "team": "FLA",
+    "goalie": "José Théodore",
+    "month": 2,
+    "day": 12,
+    "year": 2013
   },
   {
     "goal": 344,
-    "link": "https://www.youtube.com/embed/Z7f1yOmeow4?si=hwP8KMc5NDjVyCU3"
+    "link": "https://www.youtube.com/embed/Z7f1yOmeow4?si=hwP8KMc5NDjVyCU3",
+    "team": "FLA",
+    "goalie": "Scott Clemmensen",
+    "month": 2,
+    "day": 13,
+    "year": 2013
   },
   {
     "goal": 345,
-    "link": "https://www.youtube.com/embed/nOd5UuOyVBw?si=w8C-4th-EAEh5Mw6"
+    "link": "https://www.youtube.com/embed/nOd5UuOyVBw?si=w8C-4th-EAEh5Mw6",
+    "team": "NJD",
+    "goalie": "Johan Hedberg",
+    "month": 2,
+    "day": 23,
+    "year": 2013
   },
   {
     "goal": 346,
-    "link": "https://www.youtube.com/embed/HBtUu2VoIyA?si=PBdNeIFerr4Mabiv"
+    "link": "https://www.youtube.com/embed/HBtUu2VoIyA?si=PBdNeIFerr4Mabiv",
+    "team": "NJD",
+    "goalie": "Johan Hedberg",
+    "month": 2,
+    "day": 23,
+    "year": 2013
   },
   {
     "goal": 347,
     "link": "https://www.youtube.com/embed/PeUR9NFjIFA?si=yHN4xglnRojnbV2Z",
     "highlight": "hat",
-    "text": "12th Hat Trick"
+    "text": "12th Hat Trick",
+    "team": "NJD",
+    "goalie": "Johan Hedberg",
+    "month": 2,
+    "day": 23,
+    "year": 2013
   },
   {
     "goal": 348,
-    "link": "https://www.youtube.com/embed/vsBwSZjA054?si=XElMjthGiXIHPb32"
+    "link": "https://www.youtube.com/embed/vsBwSZjA054?si=XElMjthGiXIHPb32",
+    "team": "FLA",
+    "goalie": "Scott Clemmensen",
+    "month": 3,
+    "day": 7,
+    "year": 2013
   },
   {
     "goal": 349,
-    "link": "https://www.youtube.com/embed/RSsswb1iR8s?si=XQBMGI6IXw8XKaRG"
+    "link": "https://www.youtube.com/embed/RSsswb1iR8s?si=XQBMGI6IXw8XKaRG",
+    "team": "CAR",
+    "goalie": "Dan Ellis",
+    "month": 3,
+    "day": 14,
+    "year": 2013
   },
   {
     "goal": 350,
-    "link": "https://www.youtube.com/embed/zmLYI9c-K18?si=W3aftuHB5IJw7Qvs"
+    "link": "https://www.youtube.com/embed/zmLYI9c-K18?si=W3aftuHB5IJw7Qvs",
+    "team": "BUF",
+    "goalie": "Ryan Miller",
+    "month": 3,
+    "day": 17,
+    "year": 2013
   },
   {
     "goal": 351,
-    "link": "https://www.youtube.com/embed/7_4TENpl9Cw?si=5r5caY4qea1t8SIF"
+    "link": "https://www.youtube.com/embed/7_4TENpl9Cw?si=5r5caY4qea1t8SIF",
+    "team": "PIT",
+    "goalie": "Marc-André Fleury",
+    "month": 3,
+    "day": 19,
+    "year": 2013
   },
   {
     "goal": 352,
-    "link": "https://www.youtube.com/embed/MFFq6pYP5HE?si=TaYOM3qiwH9zrF35"
+    "link": "https://www.youtube.com/embed/MFFq6pYP5HE?si=TaYOM3qiwH9zrF35",
+    "team": "WPG",
+    "goalie": "Ondřej Pavelec",
+    "month": 3,
+    "day": 21,
+    "year": 2013
   },
   {
     "goal": 353,
-    "link": "https://www.youtube.com/embed/Wye5WF6ElQg?si=_tewisQRqbSIMUa6"
+    "link": "https://www.youtube.com/embed/Wye5WF6ElQg?si=_tewisQRqbSIMUa6",
+    "team": "WPG",
+    "goalie": "Al Montoya",
+    "month": 3,
+    "day": 22,
+    "year": 2013
   },
   {
     "goal": 354,
-    "link": "https://www.youtube.com/embed/hSHTmcLFAzA?si=XYl4m_GA2LKeLW2G"
+    "link": "https://www.youtube.com/embed/hSHTmcLFAzA?si=XYl4m_GA2LKeLW2G",
+    "team": "WPG",
+    "goalie": "Al Montoya",
+    "month": 3,
+    "day": 22,
+    "year": 2013
   },
   {
     "goal": 355,
-    "link": "https://www.youtube.com/embed/vrXnboWdrjQ?si=EVSfP83-LUhIZsfg"
+    "link": "https://www.youtube.com/embed/vrXnboWdrjQ?si=EVSfP83-LUhIZsfg",
+    "team": "NYR",
+    "goalie": "Henrik Lundqvist",
+    "month": 3,
+    "day": 24,
+    "year": 2013
   },
   {
     "goal": 356,
-    "link": "https://www.youtube.com/embed/_DVPb_5U9Gg?si=FQ-paJR73W0ewhYC"
+    "link": "https://www.youtube.com/embed/_DVPb_5U9Gg?si=FQ-paJR73W0ewhYC",
+    "team": "BUF",
+    "goalie": "Jhonas Enroth",
+    "month": 3,
+    "day": 30,
+    "year": 2013
   },
   {
     "goal": 357,
-    "link": "https://www.youtube.com/embed/yKvXiSK_Hlc?si=JqAX9VHnDAZXlljq"
+    "link": "https://www.youtube.com/embed/yKvXiSK_Hlc?si=JqAX9VHnDAZXlljq",
+    "team": "PHI",
+    "goalie": "Ilya Bryzgalov",
+    "month": 3,
+    "day": 31,
+    "year": 2013
   },
   {
     "goal": 358,
-    "link": "https://www.youtube.com/embed/7d_Vg0w6mtU?si=gfEUPpTFaS3PgrVI"
+    "link": "https://www.youtube.com/embed/7d_Vg0w6mtU?si=gfEUPpTFaS3PgrVI",
+    "team": "CAR",
+    "goalie": "Dan Ellis",
+    "month": 4,
+    "day": 2,
+    "year": 2013
   },
   {
     "goal": 359,
     "link": "https://www.youtube.com/embed/uY1gcKgxw7I?si=FBVc1vZCz_ySikSK",
     "highlight": "trophy",
-    "text": "700th Career Point"
+    "text": "700th Career Point",
+    "team": "CAR",
+    "goalie": "Justin Peters",
+    "month": 4,
+    "day": 2,
+    "year": 2013
   },
   {
     "goal": 360,
-    "link": "https://www.youtube.com/embed/E9qoAvxtlYs?si=Y8KGW2G_v1F4VURj"
+    "link": "https://www.youtube.com/embed/E9qoAvxtlYs?si=Y8KGW2G_v1F4VURj",
+    "team": "FLA",
+    "goalie": "Jacob Markström",
+    "month": 4,
+    "day": 6,
+    "year": 2013
   },
   {
     "goal": 361,
-    "link": "https://www.youtube.com/embed/OioicWeRBhc?si=ecebhokxmg4rMjIF"
+    "link": "https://www.youtube.com/embed/OioicWeRBhc?si=ecebhokxmg4rMjIF",
+    "team": "FLA",
+    "goalie": "Jacob Markström",
+    "month": 4,
+    "day": 6,
+    "year": 2013
   },
   {
     "goal": 362,
     "link": "https://www.youtube.com/embed/hUsKr9kIcbg?si=YgpGxdUqWeSJIA7j",
     "highlight": "hat",
-    "text": "13th Hat Trick"
+    "text": "13th Hat Trick",
+    "team": "FLA",
+    "goalie": "Jacob Markström",
+    "month": 4,
+    "day": 6,
+    "year": 2013
   },
   {
     "goal": 363,
-    "link": "https://www.youtube.com/embed/mqLM0EPaga0?si=Ii3j1dM5v1jfzWtu"
+    "link": "https://www.youtube.com/embed/mqLM0EPaga0?si=Ii3j1dM5v1jfzWtu",
+    "team": "TBL",
+    "goalie": "Ben Bishop",
+    "month": 4,
+    "day": 7,
+    "year": 2013
   },
   {
     "goal": 364,
-    "link": "https://www.youtube.com/embed/KfrsqdfL9bU?si=P3zmHY_1wZoA3z7Q"
+    "link": "https://www.youtube.com/embed/KfrsqdfL9bU?si=P3zmHY_1wZoA3z7Q",
+    "team": "TBL",
+    "goalie": null,
+    "month": 4,
+    "day": 7,
+    "year": 2013
   },
   {
     "goal": 365,
-    "link": "https://www.youtube.com/embed/uwz0GJXmUS8?si=iPzwJnfu0ZQMTjIm"
+    "link": "https://www.youtube.com/embed/uwz0GJXmUS8?si=iPzwJnfu0ZQMTjIm",
+    "team": "MTL",
+    "goalie": "Carey Price",
+    "month": 4,
+    "day": 9,
+    "year": 2013
   },
   {
     "goal": 366,
-    "link": "https://www.youtube.com/embed/gDzwuKgMllw?si=b4nb9CyhSfWVM2su"
+    "link": "https://www.youtube.com/embed/gDzwuKgMllw?si=b4nb9CyhSfWVM2su",
+    "team": "TBL",
+    "goalie": "Ben Bishop",
+    "month": 4,
+    "day": 13,
+    "year": 2013
   },
   {
     "goal": 367,
-    "link": "https://www.youtube.com/embed/IITZOQSPT8w?si=56QGPgVOHgfPBPXG"
+    "link": "https://www.youtube.com/embed/IITZOQSPT8w?si=56QGPgVOHgfPBPXG",
+    "team": "TOR",
+    "goalie": "Ben Scrivens",
+    "month": 4,
+    "day": 16,
+    "year": 2013
   },
   {
     "goal": 368,
-    "link": "https://www.youtube.com/embed/7lY6g3oGlxg?si=eyRiJdGiFscOGRb7"
+    "link": "https://www.youtube.com/embed/7lY6g3oGlxg?si=eyRiJdGiFscOGRb7",
+    "team": "MTL",
+    "goalie": "Carey Price",
+    "month": 4,
+    "day": 20,
+    "year": 2013
   },
   {
     "goal": 369,
     "link": "https://www.youtube.com/embed/LTbYU5zyhFg?si=uTzBzZh0ottFs7qb",
     "highlight": "thirty",
-    "text": "8th 30 Goal Season"
+    "text": "8th 30 Goal Season",
+    "team": "MTL",
+    "goalie": "Carey Price",
+    "month": 4,
+    "day": 20,
+    "year": 2013
   },
   {
     "goal": 370,
-    "link": "https://www.youtube.com/embed/AsiMqLT5U5k?si=evPS2BrHh0VIT537"
+    "link": "https://www.youtube.com/embed/AsiMqLT5U5k?si=evPS2BrHh0VIT537",
+    "team": "WPG",
+    "goalie": null,
+    "month": 4,
+    "day": 23,
+    "year": 2013
   },
   {
     "goal": 371,
     "link": "https://www.youtube.com/embed/XqBiT2OBjDo?si=C4gcpt_6kofqA5BZ",
     "highlight": "bookmark",
-    "text": "Last of Season 8"
+    "text": "Last of Season 8",
+    "team": "OTT",
+    "goalie": "Craig Anderson",
+    "month": 4,
+    "day": 25,
+    "year": 2013
   },
   {
     "goal": 372,
