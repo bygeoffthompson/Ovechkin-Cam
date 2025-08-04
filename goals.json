@@ -1042,474 +1042,1009 @@
   },
   {
     "goal": 113,
-    "link": "https://www.youtube.com/embed/IXU58e48E7I?si=Og1W2DCJ9PlwBiDI"
+    "link": "https://www.youtube.com/embed/IXU58e48E7I?si=Og1W2DCJ9PlwBiDI",
+    "team": "CAR",
+    "goalie": "John Grahame",
+    "month": 11,
+    "day": 24,
+    "year": 2007
   },
   {
     "goal": 114,
-    "link": "https://www.youtube.com/embed/eV6UFvq1KH4?si=ZNFW_VYAlS1I-cuP"
+    "link": "https://www.youtube.com/embed/eV6UFvq1KH4?si=ZNFW_VYAlS1I-cuP",
+    "team": "CAR",
+    "goalie": "John Grahame",
+    "month": 11,
+    "day": 24,
+    "year": 2007
   },
   {
     "goal": 115,
-    "link": "https://www.youtube.com/embed/00GADZr-200?si=v_HZUStvPATt6lT4"
+    "link": "https://www.youtube.com/embed/00GADZr-200?si=v_HZUStvPATt6lT4",
+    "team": "BUF",
+    "goalie": "Ryan Miller",
+    "month": 11,
+    "day": 26,
+    "year": 2007
   },
   {
     "goal": 116,
-    "link": "https://www.youtube.com/embed/gNQAhyznpx0?si=5E36brjdIfgxWLv3"
+    "link": "https://www.youtube.com/embed/gNQAhyznpx0?si=5E36brjdIfgxWLv3",
+    "team": "CAR",
+    "goalie": "Cam Ward",
+    "month": 11,
+    "day": 30,
+    "year": 2007
   },
   {
     "goal": 117,
-    "link": "https://www.youtube.com/embed/eN7WgMyjwyI?si=m_HNC8lZgt0BeUzR"
+    "link": "https://www.youtube.com/embed/eN7WgMyjwyI?si=m_HNC8lZgt0BeUzR",
+    "team": "CAR",
+    "goalie": "Cam Ward",
+    "month": 11,
+    "day": 30,
+    "year": 2007
   },
   {
     "goal": 118,
     "link": "https://www.youtube.com/embed/5GgsTFW6lMQ?si=dzrPxBKvcwIljiEB",
     "highlight": "twenty",
-    "text": "3rd 20 Goal Season"
+    "text": "3rd 20 Goal Season",
+    "team": "FLA",
+    "goalie": "Tomáš Vokoun",
+    "month": 12,
+    "day": 1,
+    "year": 2007
   },
   {
     "goal": 119,
-    "link": "https://www.youtube.com/embed/to01en9YBFE?si=mg9FDUDI76hY9JRh"
+    "link": "https://www.youtube.com/embed/to01en9YBFE?si=mg9FDUDI76hY9JRh",
+    "team": "ATL",
+    "goalie": "Kari Lehtonen",
+    "month": 12,
+    "day": 8,
+    "year": 2007
   },
   {
     "goal": 120,
-    "link": "https://www.youtube.com/embed/9ihLpcyqo5s?si=XzdCDj2_apd2UNdO"
+    "link": "https://www.youtube.com/embed/9ihLpcyqo5s?si=XzdCDj2_apd2UNdO",
+    "team": "NYR",
+    "goalie": "Henrik Lundqvist",
+    "month": 12,
+    "day": 12,
+    "year": 2007
   },
   {
     "goal": 121,
-    "link": "https://www.youtube.com/embed/YHmiuw0hf6g?si=fuu0gFq-Js8xcyHz"
+    "link": "https://www.youtube.com/embed/YHmiuw0hf6g?si=fuu0gFq-Js8xcyHz",
+    "team": "BUF",
+    "goalie": "Ryan Miller",
+    "month": 12,
+    "day": 14,
+    "year": 2007
   },
   {
     "goal": 122,
-    "link": "https://www.youtube.com/embed/HUUoHH1VnhQ?si=VWxIsYdak0AqvU6D"
+    "link": "https://www.youtube.com/embed/HUUoHH1VnhQ?si=VWxIsYdak0AqvU6D",
+    "team": "DET",
+    "goalie": "Dominik Hasek",
+    "month": 12,
+    "day": 17,
+    "year": 2007
   },
   {
     "goal": 123,
-    "link": "https://www.youtube.com/embed/72UFOOD_RBI?si=42gLCw61Sf-4Nq-K"
+    "link": "https://www.youtube.com/embed/72UFOOD_RBI?si=42gLCw61Sf-4Nq-K",
+    "team": "NYI",
+    "goalie": "Rick DiPietro",
+    "month": 12,
+    "day": 22,
+    "year": 2007
   },
   {
     "goal": 124,
-    "link": "https://www.youtube.com/embed/ZXF-RTzw_Q8?si=Vx6AkCe-F8Jf87fC"
+    "link": "https://www.youtube.com/embed/ZXF-RTzw_Q8?si=Vx6AkCe-F8Jf87fC",
+    "team": "PIT",
+    "goalie": "Ty Conklin",
+    "month": 12,
+    "day": 27,
+    "year": 2007
   },
   {
     "goal": 125,
-    "link": "https://www.youtube.com/embed/STb34ISd2Ic?si=ounonD-iQxILAX2p"
+    "link": "https://www.youtube.com/embed/STb34ISd2Ic?si=ounonD-iQxILAX2p",
+    "team": "OTT",
+    "goalie": "Martin Gerber",
+    "month": 12,
+    "day": 29,
+    "year": 2007
   },
   {
     "goal": 126,
-    "link": "https://www.youtube.com/embed/_lf_eAI_SSU?si=yZSRlkVQA6AgAny0"
+    "link": "https://www.youtube.com/embed/_lf_eAI_SSU?si=yZSRlkVQA6AgAny0",
+    "team": "OTT",
+    "goalie": "Martin Gerber",
+    "month": 12,
+    "day": 29,
+    "year": 2007
   },
   {
     "goal": 127,
     "link": "https://www.youtube.com/embed/58fbvKXDm7k?si=focnYiPVvfPN699l",
     "highlight": "hat",
-    "text": "3rd Hat Trick"
+    "text": "3rd Hat Trick",
+    "team": "OTT",
+    "goalie": "Martin Gerber",
+    "month": 12,
+    "day": 29,
+    "year": 2007
   },
   {
     "goal": 128,
     "link": "https://www.youtube.com/embed/tTinu1k8INg?si=p68Dr-drk4_P1jpP",
     "highlight": "four",
-    "text": "1st Four Goal Game"
+    "text": "1st Four Goal Game",
+    "team": "OTT",
+    "goalie": null,
+    "month": 12,
+    "day": 29,
+    "year": 2007
   },
   {
     "goal": 129,
-    "link": "https://www.youtube.com/embed/rhooasuOLIE?si=dn-xsziMYrZBRqcJ"
+    "link": "https://www.youtube.com/embed/rhooasuOLIE?si=dn-xsziMYrZBRqcJ",
+    "team": "MTL",
+    "goalie": "Carey Price",
+    "month": 1,
+    "day": 5,
+    "year": 2008
   },
   {
     "goal": 130,
-    "link": "https://www.youtube.com/embed/7t0j8VUCuOQ?si=69HpeTPVOGaSnIev"
+    "link": "https://www.youtube.com/embed/7t0j8VUCuOQ?si=69HpeTPVOGaSnIev",
+    "team": "MTL",
+    "goalie": "Carey Price",
+    "month": 1,
+    "day": 5,
+    "year": 2008
   },
   {
     "goal": 131,
-    "link": "https://www.youtube.com/embed/QvYwntg4Nvc?si=tOSmXA2LGPgDm7wf"
+    "link": "https://www.youtube.com/embed/QvYwntg4Nvc?si=tOSmXA2LGPgDm7wf",
+    "team": "PHI",
+    "goalie": "Martin Biron",
+    "month": 1,
+    "day": 13,
+    "year": 2008
   },
   {
     "goal": 132,
-    "link": "https://www.youtube.com/embed/AstJhjeBaUc?si=Y0wy3WKEYgdGeOOb"
+    "link": "https://www.youtube.com/embed/AstJhjeBaUc?si=Y0wy3WKEYgdGeOOb",
+    "team": "OTT",
+    "goalie": "Ray Emery",
+    "month": 1,
+    "day": 15,
+    "year": 2008
   },
   {
     "goal": 133,
-    "link": "https://www.youtube.com/embed/3SlCl3m4JoI?si=anRsSt7ZObMf0Mik"
+    "link": "https://www.youtube.com/embed/3SlCl3m4JoI?si=anRsSt7ZObMf0Mik",
+    "team": "EDM",
+    "goalie": "Dwayne Roloson",
+    "month": 1,
+    "day": 17,
+    "year": 2008
   },
   {
     "goal": 134,
-    "link": "https://www.youtube.com/embed/uLXzpR3IaJs?si=qIr1kcv2duJSDEPw"
+    "link": "https://www.youtube.com/embed/uLXzpR3IaJs?si=qIr1kcv2duJSDEPw",
+    "team": "FLA",
+    "goalie": "Tomáš Vokoun",
+    "month": 1,
+    "day": 19,
+    "year": 2008
   },
   {
     "goal": 135,
-    "link": "https://www.youtube.com/embed/tjiMXT7YYZE?si=tQDLjIgYauBxPjkw"
+    "link": "https://www.youtube.com/embed/tjiMXT7YYZE?si=tQDLjIgYauBxPjkw",
+    "team": "PIT",
+    "goalie": "Dany Sabourin",
+    "month": 1,
+    "day": 21,
+    "year": 2008
   },
   {
     "goal": 136,
-    "link": "https://www.youtube.com/embed/6CbzjZphYWs?si=joyjYeogmZ2_Xwvp"
+    "link": "https://www.youtube.com/embed/6CbzjZphYWs?si=joyjYeogmZ2_Xwvp",
+    "team": "PIT",
+    "goalie": "Dany Sabourin",
+    "month": 1,
+    "day": 21,
+    "year": 2008
   },
   {
     "goal": 137,
-    "link": "https://www.youtube.com/embed/16lhktCfw6o?si=O9EwFS4lJ4vja16J"
+    "link": "https://www.youtube.com/embed/16lhktCfw6o?si=O9EwFS4lJ4vja16J",
+    "team": "TOR",
+    "goalie": "Vesa Toskala",
+    "month": 1,
+    "day": 23,
+    "year": 2008
   },
   {
     "goal": 138,
     "link": "https://www.youtube.com/embed/evTZ7yOLgVs?si=8oSeqQVlzQDLEVb_",
     "highlight": "forty",
-    "text": "3rd 40 Goal Season"
+    "text": "3rd 40 Goal Season",
+    "team": "MTL",
+    "goalie": "Cristobal Huet",
+    "month": 1,
+    "day": 28,
+    "year": 2008
   },
   {
     "goal": 139,
-    "link": "https://www.youtube.com/embed/Tkj8DVIDBxg?si=HC3aoRhob4SXck_i"
+    "link": "https://www.youtube.com/embed/Tkj8DVIDBxg?si=HC3aoRhob4SXck_i",
+    "team": "MTL",
+    "goalie": "Cristobal Huet",
+    "month": 1,
+    "day": 28,
+    "year": 2008
   },
   {
     "goal": 140,
     "link": "https://www.youtube.com/embed/sQ9an3LItfM?si=aRyHioySLmYc0fdW",
     "highlight": "hat",
-    "text": "4th Hat Trick"
+    "text": "4th Hat Trick",
+    "team": "MTL",
+    "goalie": "Cristobal Huet",
+    "month": 1,
+    "day": 28,
+    "year": 2008
   },
   {
     "goal": 141,
     "link": "https://www.youtube.com/embed/8h4SRDJU-Fo?si=eFlyw_1x2xZrVCI6",
     "highlight": "four",
-    "text": "2nd Four Goal Game"
+    "text": "2nd Four Goal Game",
+    "team": "MTL",
+    "goalie": "Cristobal Huet",
+    "month": 1,
+    "day": 28,
+    "year": 2008
   },
   {
     "goal": 142,
-    "link": "https://www.youtube.com/embed/8UJYTab89TM?si=5ls78GvbIMGHD_-w"
+    "link": "https://www.youtube.com/embed/8UJYTab89TM?si=5ls78GvbIMGHD_-w",
+    "team": "CBJ",
+    "goalie": "Pascal Leclaire",
+    "month": 2,
+    "day": 5,
+    "year": 2008
   },
   {
     "goal": 143,
-    "link": "https://www.youtube.com/embed/wcYiI7_eNVA?si=55H8LUte2rywzW6U"
+    "link": "https://www.youtube.com/embed/wcYiI7_eNVA?si=55H8LUte2rywzW6U",
+    "team": "CBJ",
+    "goalie": "Fredrik Norrena",
+    "month": 2,
+    "day": 5,
+    "year": 2008
   },
   {
     "goal": 144,
-    "link": "https://www.youtube.com/embed/2DZzaMiaCVM?si=xCqoFFOp3pDUceVr"
+    "link": "https://www.youtube.com/embed/2DZzaMiaCVM?si=xCqoFFOp3pDUceVr",
+    "team": "PHI",
+    "goalie": "Martin Biron",
+    "month": 2,
+    "day": 6,
+    "year": 2008
   },
   {
     "goal": 145,
-    "link": "https://www.youtube.com/embed/XqHFTQuFPJs?si=i-fJxIU-IV_ATkwJ"
+    "link": "https://www.youtube.com/embed/XqHFTQuFPJs?si=i-fJxIU-IV_ATkwJ",
+    "team": "NYR",
+    "goalie": "Stephen Valiquette",
+    "month": 2,
+    "day": 10,
+    "year": 2008
   },
   {
     "goal": 146,
-    "link": "https://www.youtube.com/embed/id-gLKGZNOU?si=faCcSt45ao9V5dMA"
+    "link": "https://www.youtube.com/embed/id-gLKGZNOU?si=faCcSt45ao9V5dMA",
+    "team": "ATL",
+    "goalie": "Kari Lehtonen",
+    "month": 2,
+    "day": 13,
+    "year": 2008
   },
   {
     "goal": 147,
-    "link": "https://www.youtube.com/embed/BIIFZuttm2w?si=b9slj1G-9ihFYy7O"
+    "link": "https://www.youtube.com/embed/BIIFZuttm2w?si=b9slj1G-9ihFYy7O",
+    "team": "TOR",
+    "goalie": "Vesa Toskala",
+    "month": 3,
+    "day": 1,
+    "year": 2008
   },
   {
     "goal": 148,
     "link": "https://www.youtube.com/embed/CjszjUgvFNQ?si=KqTwmLFlEwaSeJJK",
     "highlight": "fifty",
-    "text": "2nd 50 Goal Season"
+    "text": "2nd 50 Goal Season",
+    "team": "BOS",
+    "goalie": "Tim Thomas",
+    "month": 3,
+    "day": 3,
+    "year": 2008
   },
   {
     "goal": 149,
-    "link": "https://www.youtube.com/embed/7Jk-nSHmW5s?si=c6Dh-G1Upt-3-EwW"
+    "link": "https://www.youtube.com/embed/7Jk-nSHmW5s?si=c6Dh-G1Upt-3-EwW",
+    "team": "BOS",
+    "goalie": "Tim Thomas",
+    "month": 3,
+    "day": 3,
+    "year": 2008
   },
   {
     "goal": 150,
     "link": "https://www.youtube.com/embed/hkUTlg9lKWE?si=5rUjB4hNdEAXduWm",
     "highlight": "hat",
-    "text": "5th Hat Trick"
+    "text": "5th Hat Trick",
+    "team": "BOS",
+    "goalie": "Tim Thomas",
+    "month": 3,
+    "day": 3,
+    "year": 2008
   },
   {
     "goal": 151,
-    "link": "https://www.youtube.com/embed/GhGs7WJv5tc?si=8-xSAWyimO6Gf-qc"
+    "link": "https://www.youtube.com/embed/GhGs7WJv5tc?si=8-xSAWyimO6Gf-qc",
+    "team": "BUF",
+    "goalie": "Ryan Miller",
+    "month": 3,
+    "day": 8,
+    "year": 2008
   },
   {
     "goal": 152,
-    "link": "https://www.youtube.com/embed/0sS1gvlNf44?si=k1ovKOvCwoOCEmA-"
+    "link": "https://www.youtube.com/embed/0sS1gvlNf44?si=k1ovKOvCwoOCEmA-",
+    "team": "BUF",
+    "goalie": "Ryan Miller",
+    "month": 3,
+    "day": 8,
+    "year": 2008
   },
   {
     "goal": 153,
-    "link": "https://www.youtube.com/embed/oC4PJsRHMbo?si=1p_Hvwl0CTx-7kpB"
+    "link": "https://www.youtube.com/embed/oC4PJsRHMbo?si=1p_Hvwl0CTx-7kpB",
+    "team": "CGY",
+    "goalie": "Miikka Kiprusoff",
+    "month": 3,
+    "day": 12,
+    "year": 2008
   },
   {
     "goal": 154,
-    "link": "https://www.youtube.com/embed/h4lXRMwj4Ns?si=mdMx2VLd2QRy2A8m"
+    "link": "https://www.youtube.com/embed/h4lXRMwj4Ns?si=mdMx2VLd2QRy2A8m",
+    "team": "CGY",
+    "goalie": "Miikka Kiprusoff",
+    "month": 3,
+    "day": 12,
+    "year": 2008
   },
   {
     "goal": 155,
-    "link": "https://www.youtube.com/embed/JD7OPklpouo?si=Di_XL71i8UFDx24d"
+    "link": "https://www.youtube.com/embed/JD7OPklpouo?si=Di_XL71i8UFDx24d",
+    "team": "ATL",
+    "goalie": "Kari Lehtonen",
+    "month": 3,
+    "day": 14,
+    "year": 2008
   },
   {
     "goal": 156,
-    "link": "https://www.youtube.com/embed/uBcoc6YxfAE?si=e0CSm8FzobVY-r6X"
+    "link": "https://www.youtube.com/embed/uBcoc6YxfAE?si=e0CSm8FzobVY-r6X",
+    "team": "NSH",
+    "goalie": null,
+    "month": 3,
+    "day": 18,
+    "year": 2008
   },
   {
     "goal": 157,
-    "link": "https://www.youtube.com/embed/iOiF0ndyFQE?si=vkevHb2gLVPKUjHf"
+    "link": "https://www.youtube.com/embed/iOiF0ndyFQE?si=vkevHb2gLVPKUjHf",
+    "team": "ATL",
+    "goalie": "Kari Lehtonen",
+    "month": 3,
+    "day": 21,
+    "year": 2008
   },
   {
     "goal": 158,
     "link": "https://www.youtube.com/embed/ZU30LDf1bMQ?si=hYh147x4675c5CgU",
     "highlight": "sixty",
-    "text": "1st 60 Goal Season"
+    "text": "1st 60 Goal Season",
+    "team": "ATL",
+    "goalie": "Kari Lehtonen",
+    "month": 3,
+    "day": 21,
+    "year": 2008
   },
   {
     "goal": 159,
-    "link": "https://www.youtube.com/embed/E5rU1A5WTAM?si=NSMpEUsiwK4aWDQ7"
+    "link": "https://www.youtube.com/embed/E5rU1A5WTAM?si=NSMpEUsiwK4aWDQ7",
+    "team": "CAR",
+    "goalie": "Cam Ward",
+    "month": 3,
+    "day": 25,
+    "year": 2008
   },
   {
     "goal": 160,
-    "link": "https://www.youtube.com/embed/uWNuth45QE8?si=HsO0YX8SheOd36Hz"
+    "link": "https://www.youtube.com/embed/uWNuth45QE8?si=HsO0YX8SheOd36Hz",
+    "team": "FLA",
+    "goalie": "Tomáš Vokoun",
+    "month": 3,
+    "day": 29,
+    "year": 2008
   },
   {
     "goal": 161,
-    "link": "https://www.youtube.com/embed/w5ACXFSJBUw?si=86NpvwbBuUrZ22o_"
+    "link": "https://www.youtube.com/embed/w5ACXFSJBUw?si=86NpvwbBuUrZ22o_",
+    "team": "CAR",
+    "goalie": "Cam Ward",
+    "month": 4,
+    "day": 1,
+    "year": 2008
   },
   {
     "goal": 162,
-    "link": "https://www.youtube.com/embed/q1PObP2yTPo?si=c1te7fLvwUf7Lz-D"
+    "link": "https://www.youtube.com/embed/q1PObP2yTPo?si=c1te7fLvwUf7Lz-D",
+    "team": "TBL",
+    "goalie": "Karri Rämö",
+    "month": 4,
+    "day": 3,
+    "year": 2008
   },
   {
     "goal": 163,
     "link": "https://www.youtube.com/embed/vXoCndfMGGQ?si=giMF12NfWBSpD92s",
     "highlight": "bookmark",
-    "text": "Last of Season 3"
+    "text": "Last of Season 3",
+    "team": "TBL",
+    "goalie": "Karri Rämö",
+    "month": 4,
+    "day": 3,
+    "year": 2008
   },
   {
     "goal": 164,
     "link": "https://www.youtube.com/embed/YNNYzF6GAdI?si=8lCiTXUQRlReDg-h",
     "highlight": "bookmark",
-    "text": "First of Season 4"
+    "text": "First of Season 4",
+    "team": "CHI",
+    "goalie": "Nikolai Khabibulin",
+    "month": 10,
+    "day": 11,
+    "year": 2008
   },
   {
     "goal": 165,
-    "link": "https://www.youtube.com/embed/15I5ek-ZSJQ?si=nHDHCvltjoqQRoB7"
+    "link": "https://www.youtube.com/embed/15I5ek-ZSJQ?si=nHDHCvltjoqQRoB7",
+    "team": "CHI",
+    "goalie": "Nikolai Khabibulin",
+    "month": 10,
+    "day": 11,
+    "year": 2008
   },
   {
     "goal": 166,
-    "link": "https://www.youtube.com/embed/qovG_boAaMg?si=DNb8awuXjQznIplo"
+    "link": "https://www.youtube.com/embed/qovG_boAaMg?si=DNb8awuXjQznIplo",
+    "team": "TBL",
+    "goalie": "Olaf Kolzig",
+    "month": 11,
+    "day": 10,
+    "year": 2008
   },
   {
     "goal": 167,
-    "link": "https://www.youtube.com/embed/1xNSJo4WJBI?si=zFDhBfmuUG5YrZJ-"
+    "link": "https://www.youtube.com/embed/1xNSJo4WJBI?si=zFDhBfmuUG5YrZJ-",
+    "team": "CAR",
+    "goalie": "Michael Leighton",
+    "month": 11,
+    "day": 12,
+    "year": 2008
   },
   {
     "goal": 168,
-    "link": "https://www.youtube.com/embed/w2QD_gCB0rY?si=nYErd6DNccl48Kmu"
+    "link": "https://www.youtube.com/embed/w2QD_gCB0rY?si=nYErd6DNccl48Kmu",
+    "team": "NJD",
+    "goalie": null,
+    "month": 11,
+    "day": 14,
+    "year": 2008
   },
   {
     "goal": 169,
-    "link": "https://www.youtube.com/embed/Bl409Uhpw3E?si=BD3c0x4SO01Gptns"
+    "link": "https://www.youtube.com/embed/Bl409Uhpw3E?si=BD3c0x4SO01Gptns",
+    "team": "NJD",
+    "goalie": "Scott Clemmensen",
+    "month": 11,
+    "day": 15,
+    "year": 2008
   },
   {
     "goal": 170,
-    "link": "https://www.youtube.com/embed/H5ifGdZ2kpw?si=KJ8pHmvzNon6vcue"
+    "link": "https://www.youtube.com/embed/H5ifGdZ2kpw?si=KJ8pHmvzNon6vcue",
+    "team": "NJD",
+    "goalie": "Scott Clemmensen",
+    "month": 11,
+    "day": 15,
+    "year": 2008
   },
   {
     "goal": 171,
-    "link": "https://www.youtube.com/embed/ZCY93spiCDE?si=nNpVRq830U0EAQ3x"
+    "link": "https://www.youtube.com/embed/ZCY93spiCDE?si=nNpVRq830U0EAQ3x",
+    "team": "ANA",
+    "goalie": "Jean-Sébastien Giguère",
+    "month": 11,
+    "day": 19,
+    "year": 2008
   },
   {
     "goal": 172,
-    "link": "https://www.youtube.com/embed/JvDQnKxamZs?si=4O1ur6KvPyZwO22t"
+    "link": "https://www.youtube.com/embed/JvDQnKxamZs?si=4O1ur6KvPyZwO22t",
+    "team": "MIN",
+    "goalie": "Niklas Bäckström",
+    "month": 11,
+    "day": 24,
+    "year": 2008
   },
   {
     "goal": 173,
-    "link": "https://www.youtube.com/embed/VCg0Hbiiu_o?si=BjwMHximX6SHVEuf"
+    "link": "https://www.youtube.com/embed/VCg0Hbiiu_o?si=BjwMHximX6SHVEuf",
+    "team": "ATL",
+    "goalie": "Ondřej Pavelec",
+    "month": 11,
+    "day": 26,
+    "year": 2008
   },
   {
     "goal": 174,
-    "link": "https://www.youtube.com/embed/3qZfBvfg8E8?si=lFrcjuFTcVH9Sr1h"
+    "link": "https://www.youtube.com/embed/3qZfBvfg8E8?si=lFrcjuFTcVH9Sr1h",
+    "team": "ATL",
+    "goalie": "Ondřej Pavelec",
+    "month": 11,
+    "day": 26,
+    "year": 2008
   },
   {
     "goal": 175,
     "link": "https://www.youtube.com/embed/kmwnfuj0cXY?si=PSY2pqEzogy5-qb-",
     "highlight": "hat",
-    "text": "6th Hat Trick"
+    "text": "6th Hat Trick",
+    "team": "ATL",
+    "goalie": "Ondřej Pavelec",
+    "month": 11,
+    "day": 26,
+    "year": 2008
   },
   {
     "goal": 176,
-    "link": "https://www.youtube.com/embed/tgHgI9-XOlM?si=XFUPixCyHoZYy2TU"
+    "link": "https://www.youtube.com/embed/tgHgI9-XOlM?si=XFUPixCyHoZYy2TU",
+    "team": "MTL",
+    "goalie": "Jaroslav Halák",
+    "month": 11,
+    "day": 28,
+    "year": 2008
   },
   {
     "goal": 177,
-    "link": "https://www.youtube.com/embed/NPWbEtQC9oM?si=BumXG6HlunpGefrL"
+    "link": "https://www.youtube.com/embed/NPWbEtQC9oM?si=BumXG6HlunpGefrL",
+    "team": "NYI",
+    "goalie": "Joey MacDonald",
+    "month": 12,
+    "day": 4,
+    "year": 2008
   },
   {
     "goal": 178,
-    "link": "https://www.youtube.com/embed/O3Iqse2i-VY?si=2HRhLZBGykUOsoke"
+    "link": "https://www.youtube.com/embed/O3Iqse2i-VY?si=2HRhLZBGykUOsoke",
+    "team": "BOS",
+    "goalie": null,
+    "month": 12,
+    "day": 10,
+    "year": 2008
   },
   {
     "goal": 179,
-    "link": "https://www.youtube.com/embed/10VC3MieAis?si=2C02wspWtGbC12vG"
+    "link": "https://www.youtube.com/embed/10VC3MieAis?si=2C02wspWtGbC12vG",
+    "team": "OTT",
+    "goalie": "Alex Auld",
+    "month": 12,
+    "day": 12,
+    "year": 2008
   },
   {
     "goal": 180,
-    "link": "https://www.youtube.com/embed/IK3YUlN4GrE?si=QourZ6ZFhu36l4N_"
+    "link": "https://www.youtube.com/embed/IK3YUlN4GrE?si=QourZ6ZFhu36l4N_",
+    "team": "OTT",
+    "goalie": "Alex Auld",
+    "month": 12,
+    "day": 12,
+    "year": 2008
   },
   {
     "goal": 181,
-    "link": "https://www.youtube.com/embed/0zFTWmbeRlk?si=PxHxywRTssUTmKaS"
+    "link": "https://www.youtube.com/embed/0zFTWmbeRlk?si=PxHxywRTssUTmKaS",
+    "team": "NYI",
+    "goalie": "Joey MacDonald",
+    "month": 12,
+    "day": 16,
+    "year": 2008
   },
   {
     "goal": 182,
-    "link": "https://www.youtube.com/embed/3fSZljLDNbo?si=MgWiinqmqVdPEai8"
+    "link": "https://www.youtube.com/embed/3fSZljLDNbo?si=MgWiinqmqVdPEai8",
+    "team": "NYI",
+    "goalie": "Joey MacDonald",
+    "month": 12,
+    "day": 16,
+    "year": 2008
   },
   {
     "goal": 183,
     "link": "https://www.youtube.com/embed/jgkr1_VlNd4?si=NZcmVmgNTD_eliUM",
     "highlight": "twenty",
-    "text": "4th 20 Goal Season"
+    "text": "4th 20 Goal Season",
+    "team": "STL",
+    "goalie": "Ben Bishop",
+    "month": 12,
+    "day": 18,
+    "year": 2008
   },
   {
     "goal": 184,
-    "link": "https://www.youtube.com/embed/l3enhc_0MIM?si=byp1NdxG4A2s28T1"
+    "link": "https://www.youtube.com/embed/l3enhc_0MIM?si=byp1NdxG4A2s28T1",
+    "team": "NYR",
+    "goalie": "Henrik Lundqvist",
+    "month": 12,
+    "day": 23,
+    "year": 2008
   },
   {
     "goal": 185,
-    "link": "https://www.youtube.com/embed/5qjp91MeaKA?si=Y8QNx7crNRCBjvom"
+    "link": "https://www.youtube.com/embed/5qjp91MeaKA?si=Y8QNx7crNRCBjvom",
+    "team": "NYR",
+    "goalie": "Henrik Lundqvist",
+    "month": 12,
+    "day": 23,
+    "year": 2008
   },
   {
     "goal": 186,
-    "link": "https://www.youtube.com/embed/ONEXzPMe88U?si=SEpTie6-B-fmY1Ig"
+    "link": "https://www.youtube.com/embed/ONEXzPMe88U?si=SEpTie6-B-fmY1Ig",
+    "team": "BUF",
+    "goalie": "Patrick Lalime",
+    "month": 12,
+    "day": 26,
+    "year": 2008
   },
   {
     "goal": 187,
-    "link": "https://www.youtube.com/embed/LbIe6vXf-W4?si=25UMvDMRO8fvYmTn"
+    "link": "https://www.youtube.com/embed/LbIe6vXf-W4?si=25UMvDMRO8fvYmTn",
+    "team": "TOR",
+    "goalie": "Vesa Toskala",
+    "month": 12,
+    "day": 28,
+    "year": 2008
   },
   {
     "goal": 188,
-    "link": "https://www.youtube.com/embed/bqm_gzwDc9o?si=ZTMPt6ifuoKTXhpl"
+    "link": "https://www.youtube.com/embed/bqm_gzwDc9o?si=ZTMPt6ifuoKTXhpl",
+    "team": "TOR",
+    "goalie": null,
+    "month": 12,
+    "day": 28,
+    "year": 2008
   },
   {
     "goal": 189,
-    "link": "https://www.youtube.com/embed/RfGHn_xHcE0?si=BBW06JT5ljS19KRz"
+    "link": "https://www.youtube.com/embed/RfGHn_xHcE0?si=BBW06JT5ljS19KRz",
+    "team": "TBL",
+    "goalie": "Mike Smith",
+    "month": 1,
+    "day": 1,
+    "year": 2009
   },
   {
     "goal": 190,
-    "link": "https://www.youtube.com/embed/WqF2KwPSa4A?si=SCbcTIWBw0jCj1qr"
+    "link": "https://www.youtube.com/embed/WqF2KwPSa4A?si=SCbcTIWBw0jCj1qr",
+    "team": "NYR",
+    "goalie": "Stephen Valiquette",
+    "month": 1,
+    "day": 3,
+    "year": 2009
   },
   {
     "goal": 191,
-    "link": "https://www.youtube.com/embed/SRC6lE_6U8Q?si=HcHYJeGpi6_6Kruy"
+    "link": "https://www.youtube.com/embed/SRC6lE_6U8Q?si=HcHYJeGpi6_6Kruy",
+    "team": "PIT",
+    "goalie": "Marc-André Fleury",
+    "month": 1,
+    "day": 14,
+    "year": 2009
   },
   {
     "goal": 192,
-    "link": "https://www.youtube.com/embed/exR4M-vszVU?si=_GVOpptj6PgdvWQk"
+    "link": "https://www.youtube.com/embed/exR4M-vszVU?si=_GVOpptj6PgdvWQk",
+    "team": "PIT",
+    "goalie": "Marc-André Fleury",
+    "month": 1,
+    "day": 14,
+    "year": 2009
   },
   {
     "goal": 193,
     "link": "https://www.youtube.com/embed/WUm8a_8J6hU?si=lOlD58p2Rs2mOqsT",
     "highlight": "thirty",
-    "text": "4th 30 Goal Season"
+    "text": "4th 30 Goal Season",
+    "team": "NYI",
+    "goalie": "Yann Danis",
+    "month": 1,
+    "day": 19,
+    "year": 2009
   },
   {
     "goal": 194,
-    "link": "https://www.youtube.com/embed/UxKG5fFKris?si=fauNlvdIaQu-vB8z"
+    "link": "https://www.youtube.com/embed/UxKG5fFKris?si=fauNlvdIaQu-vB8z",
+    "team": "NYI",
+    "goalie": "Yann Danis",
+    "month": 1,
+    "day": 19,
+    "year": 2009
   },
   {
     "goal": 195,
-    "link": "https://www.youtube.com/embed/Ih670_O9l58?si=OPF6R1o8ZJ6O9AgR"
+    "link": "https://www.youtube.com/embed/Ih670_O9l58?si=OPF6R1o8ZJ6O9AgR",
+    "team": "DET",
+    "goalie": "Ty Conklin",
+    "month": 1,
+    "day": 31,
+    "year": 2009
   },
   {
     "goal": 196,
-    "link": "https://www.youtube.com/embed/-LqOFn5n_1Q?si=Q28o9gwwEw8atYwD"
+    "link": "https://www.youtube.com/embed/-LqOFn5n_1Q?si=Q28o9gwwEw8atYwD",
+    "team": "DET",
+    "goalie": "Ty Conklin",
+    "month": 1,
+    "day": 31,
+    "year": 2009
   },
   {
     "goal": 197,
-    "link": "https://www.youtube.com/embed/mcWgEqgyukg?si=ZRO9XBWQ89uKJkTj"
+    "link": "https://www.youtube.com/embed/mcWgEqgyukg?si=ZRO9XBWQ89uKJkTj",
+    "team": "OTT",
+    "goalie": "Brian Elliott",
+    "month": 2,
+    "day": 1,
+    "year": 2009
   },
   {
     "goal": 198,
-    "link": "https://www.youtube.com/embed/dDsRVVmUVBI?si=6e_l6ZAzgaaVedXN"
+    "link": "https://www.youtube.com/embed/dDsRVVmUVBI?si=6e_l6ZAzgaaVedXN",
+    "team": "OTT",
+    "goalie": "Brian Elliott",
+    "month": 2,
+    "day": 1,
+    "year": 2009
   },
   {
     "goal": 199,
     "link": "https://www.youtube.com/embed/AoOpMajgq_M?si=e1OIw0RHKsffJxwG",
     "highlight": "hat",
-    "text": "7th Hat Trick"
+    "text": "7th Hat Trick",
+    "team": "OTT",
+    "goalie": "Alex Auld",
+    "month": 2,
+    "day": 1,
+    "year": 2009
   },
   {
     "goal": 200,
     "link": "https://www.youtube.com/embed/k2_BOouSyMA?si=qMoQ4yhtE14x17Sw",
     "highlight": "trophy",
-    "text": "200th Career Goal"
+    "text": "200th Career Goal",
+    "team": "LAK",
+    "goalie": "Jonathan Quick",
+    "month": 2,
+    "day": 5,
+    "year": 2009
   },
   {
     "goal": 201,
-    "link": "https://www.youtube.com/embed/7joCxgzMJPI?si=bDfbgpu60FXwn0yv"
+    "link": "https://www.youtube.com/embed/7joCxgzMJPI?si=bDfbgpu60FXwn0yv",
+    "team": "TBL",
+    "goalie": "Mike McKenna",
+    "month": 2,
+    "day": 14,
+    "year": 2009
   },
   {
     "goal": 202,
-    "link": "https://www.youtube.com/embed/Tj6XnVWsjro?si=NXOmzpEhoB1X3oO8"
+    "link": "https://www.youtube.com/embed/Tj6XnVWsjro?si=NXOmzpEhoB1X3oO8",
+    "team": "FLA",
+    "goalie": "Tomáš Vokoun",
+    "month": 2,
+    "day": 15,
+    "year": 2009
   },
   {
     "goal": 203,
     "link": "https://www.youtube.com/embed/_ej5rTGLZBQ?si=loNTiu68GZ48ipVx",
     "highlight": "forty",
-    "text": "4th 40 Goal Season"
+    "text": "4th 40 Goal Season",
+    "team": "FLA",
+    "goalie": "Tomáš Vokoun",
+    "month": 2,
+    "day": 15,
+    "year": 2009
   },
   {
     "goal": 204,
     "link": "https://www.youtube.com/embed/3lqUJ7MxJgM?si=cUVzC_X20W1Sgr4F",
     "highlight": "hat",
-    "text": "8th Hat Trick"
+    "text": "8th Hat Trick",
+    "team": "FLA",
+    "goalie": null,
+    "month": 2,
+    "day": 15,
+    "year": 2009
   },
   {
     "goal": 205,
     "link": "https://www.youtube.com/embed/_PQwsvFWaXk?si=GnBNFcEqOPwyEumS",
     "highlight": "mega",
-    "text": "\"All Alex All the Time\""
+    "text": "\"All Alex All the Time\"",
+    "team": "MTL",
+    "goalie": "Carey Price",
+    "month": 2,
+    "day": 18,
+    "year": 2009
   },
   {
     "goal": 206,
-    "link": "https://www.youtube.com/embed/Klqrm3gLMOI?si=8ke0weai9F4R4Crc"
+    "link": "https://www.youtube.com/embed/Klqrm3gLMOI?si=8ke0weai9F4R4Crc",
+    "team": "PIT",
+    "goalie": "Marc-André Fleury",
+    "month": 2,
+    "day": 22,
+    "year": 2009
   },
   {
     "goal": 207,
-    "link": "https://www.youtube.com/embed/DQm3x4alk7Q?si=4iSbfgCyyI3XuFBa"
+    "link": "https://www.youtube.com/embed/DQm3x4alk7Q?si=4iSbfgCyyI3XuFBa",
+    "team": "PHI",
+    "goalie": "Antero Niittymäki",
+    "month": 2,
+    "day": 24,
+    "year": 2009
   },
   {
     "goal": 208,
-    "link": "https://www.youtube.com/embed/paS5dBZDDR4?si=vAs32NqfCF6sOip0"
+    "link": "https://www.youtube.com/embed/paS5dBZDDR4?si=vAs32NqfCF6sOip0",
+    "team": "BOS",
+    "goalie": "Tim Thomas",
+    "month": 2,
+    "day": 28,
+    "year": 2009
   },
   {
     "goal": 209,
-    "link": "https://www.youtube.com/embed/r8jSQDlcxig?si=z4XnA2Nyw1r5pifJ"
+    "link": "https://www.youtube.com/embed/r8jSQDlcxig?si=z4XnA2Nyw1r5pifJ",
+    "team": "FLA",
+    "goalie": "Craig Anderson",
+    "month": 3,
+    "day": 1,
+    "year": 2009
   },
   {
     "goal": 210,
-    "link": "https://www.youtube.com/embed/SSfIin4eP6Y?si=0wQ-R7tHbfPVdtjn"
+    "link": "https://www.youtube.com/embed/SSfIin4eP6Y?si=0wQ-R7tHbfPVdtjn",
+    "team": "PIT",
+    "goalie": "Marc-André Fleury",
+    "month": 3,
+    "day": 8,
+    "year": 2009
   },
   {
     "goal": 211,
-    "link": "https://www.youtube.com/embed/5UrIOjK_zec?si=_etlM24DbLriVKFT"
+    "link": "https://www.youtube.com/embed/5UrIOjK_zec?si=_etlM24DbLriVKFT",
+    "team": "PHI",
+    "goalie": "Martin Biron",
+    "month": 3,
+    "day": 12,
+    "year": 2009
   },
   {
     "goal": 212,
-    "link": "https://www.youtube.com/embed/exC2-AU9hfo?si=tLk6YEZDe5exe6NP"
+    "link": "https://www.youtube.com/embed/exC2-AU9hfo?si=tLk6YEZDe5exe6NP",
+    "team": "CAR",
+    "goalie": "Cam Ward",
+    "month": 3,
+    "day": 14,
+    "year": 2009
   },
   {
     "goal": 213,
     "link": "https://www.youtube.com/embed/pEfdUqLWeYs?si=bujcblkwUFi6YDuE",
     "fallback": "https://www.youtube.com/embed/XApANGDaTE4?si=3ex6qRjJISPc7Y9u",
     "highlight": "fifty",
-    "text": "3rd 50 Goal Season"
+    "text": "3rd 50 Goal Season",
+    "team": "TBL",
+    "goalie": "Mike McKenna",
+    "month": 3,
+    "day": 19,
+    "year": 2009
   },
   {
     "goal": 214,
-    "link": "https://www.youtube.com/embed/5cwLbKzh3z4?si=xPv_MK899WjoHJbT"
+    "link": "https://www.youtube.com/embed/5cwLbKzh3z4?si=xPv_MK899WjoHJbT",
+    "team": "TOR",
+    "goalie": "Martin Gerber",
+    "month": 3,
+    "day": 24,
+    "year": 2009
   },
   {
     "goal": 215,
-    "link": "https://www.youtube.com/embed/-k4TgVR2vog?si=oHWz-PZCmp9Jp2ed"
+    "link": "https://www.youtube.com/embed/-k4TgVR2vog?si=oHWz-PZCmp9Jp2ed",
+    "team": "TBL",
+    "goalie": "Mike McKenna",
+    "month": 3,
+    "day": 27,
+    "year": 2009
   },
   {
     "goal": 216,
-    "link": "https://www.youtube.com/embed/njChaQOWTgM?si=6a_e2BFR8lXydj8M"
+    "link": "https://www.youtube.com/embed/njChaQOWTgM?si=6a_e2BFR8lXydj8M",
+    "team": "TBL",
+    "goalie": null,
+    "month": 3,
+    "day": 27,
+    "year": 2009
   },
   {
     "goal": 217,
-    "link": "https://www.youtube.com/embed/R8ByjXeztdQ?si=mClOyQa2hinb2vQB"
+    "link": "https://www.youtube.com/embed/R8ByjXeztdQ?si=mClOyQa2hinb2vQB",
+    "team": "NYI",
+    "goalie": "Joey MacDonald",
+    "month": 4,
+    "day": 1,
+    "year": 2009
   },
   {
     "goal": 218,
-    "link": "https://www.youtube.com/embed/qo7iB6BUPNc?si=b_d7YOZM1IwgiNcG"
+    "link": "https://www.youtube.com/embed/qo7iB6BUPNc?si=b_d7YOZM1IwgiNcG",
+    "team": "BUF",
+    "goalie": "Ryan Miller",
+    "month": 4,
+    "day": 3,
+    "year": 2009
   },
   {
     "goal": 219,
     "link": "https://www.youtube.com/embed/mtbCDO4vPuI?si=1yq22Z_IAnfZfiIa",
     "highlight": "bookmark",
-    "text": "Last of Season 4"
+    "text": "Last of Season 4",
+    "team": "FLA",
+    "goalie": "Tomáš Vokoun",
+    "month": 4,
+    "day": 11,
+    "year": 2009
   },
   {
     "goal": 220,
