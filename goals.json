@@ -4924,379 +4924,789 @@
     "goal": 526,
     "link": "https://www.youtube.com/embed/SjdsOuKg7kY?si=jfPLPHySeB4GF9Bs",
     "highlight": "bookmark",
-    "text": "First of Season 12"
+    "text": "First of Season 12",
+    "team": "COL",
+    "goalie": "Semyon Varlamov",
+    "month": 10,
+    "day": 18,
+    "year": 2016
   },
   {
     "goal": 527,
-    "link": "https://www.youtube.com/embed/h8yP5tx0ScY?si=nRh4wlw-SQ_ffnRD"
+    "link": "https://www.youtube.com/embed/h8yP5tx0ScY?si=nRh4wlw-SQ_ffnRD",
+    "team": "FLA",
+    "goalie": "Roberto Luongo",
+    "month": 10,
+    "day": 20,
+    "year": 2016
   },
   {
     "goal": 528,
-    "link": "https://www.youtube.com/embed/9k--wdYNI5o?si=csm4oImm4McXoLLX"
+    "link": "https://www.youtube.com/embed/9k--wdYNI5o?si=csm4oImm4McXoLLX",
+    "team": "NYR",
+    "goalie": "Henrik Lundqvist",
+    "month": 10,
+    "day": 22,
+    "year": 2016
   },
   {
     "goal": 529,
-    "link": "https://www.youtube.com/embed/RxxNlpo9XoA?si=nd7T-8AvtoOfiqXu"
+    "link": "https://www.youtube.com/embed/RxxNlpo9XoA?si=nd7T-8AvtoOfiqXu",
+    "team": "EDM",
+    "goalie": "Cam Talbot",
+    "month": 10,
+    "day": 26,
+    "year": 2016
   },
   {
     "goal": 530,
-    "link": "https://www.youtube.com/embed/wYOQziKXKjE?si=n8p86lubQ5tm1T1l"
+    "link": "https://www.youtube.com/embed/wYOQziKXKjE?si=n8p86lubQ5tm1T1l",
+    "team": "WPG",
+    "goalie": "Michael Hutchinson",
+    "month": 11,
+    "day": 3,
+    "year": 2016
   },
   {
     "goal": 531,
-    "link": "https://www.youtube.com/embed/Z7DMogPSDyg?si=OZ14u6u6An_Mq8xC"
+    "link": "https://www.youtube.com/embed/Z7DMogPSDyg?si=OZ14u6u6An_Mq8xC",
+    "team": "WPG",
+    "goalie": "Michael Hutchinson",
+    "month": 11,
+    "day": 3,
+    "year": 2016
   },
   {
     "goal": 532,
-    "link": "https://www.youtube.com/embed/8q87r2oTdOQ?si=zbf56Z8EjzTci03y"
+    "link": "https://www.youtube.com/embed/8q87r2oTdOQ?si=zbf56Z8EjzTci03y",
+    "team": "FLA",
+    "goalie": "Roberto Luongo",
+    "month": 11,
+    "day": 5,
+    "year": 2016
   },
   {
     "goal": 533,
-    "link": "https://www.youtube.com/embed/b0S9DNVX4mI?si=7HIFgc8YWf50TB2S"
+    "link": "https://www.youtube.com/embed/b0S9DNVX4mI?si=7HIFgc8YWf50TB2S",
+    "team": "PIT",
+    "goalie": "Marc-André Fleury",
+    "month": 11,
+    "day": 16,
+    "year": 2016
   },
   {
     "goal": 534,
-    "link": "https://www.youtube.com/embed/1o8Q0MUJqqk?si=iqBJr0C7MEM54385"
+    "link": "https://www.youtube.com/embed/1o8Q0MUJqqk?si=iqBJr0C7MEM54385",
+    "team": "CBJ",
+    "goalie": "Sergei Bobrovsky",
+    "month": 11,
+    "day": 20,
+    "year": 2016
   },
   {
     "goal": 535,
-    "link": "https://www.youtube.com/embed/xzW0j-wFvAw?si=xEPenvvgib8nX_T1"
+    "link": "https://www.youtube.com/embed/xzW0j-wFvAw?si=xEPenvvgib8nX_T1",
+    "team": "STL",
+    "goalie": "Carter Hutton",
+    "month": 11,
+    "day": 23,
+    "year": 2016
   },
   {
     "goal": 536,
-    "link": "https://www.youtube.com/embed/M0StyRKy8e4?si=RSLlW4w6D2Fc-KDd"
+    "link": "https://www.youtube.com/embed/M0StyRKy8e4?si=RSLlW4w6D2Fc-KDd",
+    "team": "STL",
+    "goalie": "Carter Hutton",
+    "month": 11,
+    "day": 23,
+    "year": 2016
   },
   {
     "goal": 537,
     "link": "https://www.youtube.com/embed/jSqZ29H-Wck?si=TNdBjrNC4mmlpeoT",
     "highlight": "hat",
-    "text": "16th Hat Trick"
+    "text": "16th Hat Trick",
+    "team": "STL",
+    "goalie": "Carter Hutton",
+    "month": 11,
+    "day": 23,
+    "year": 2016
   },
   {
     "goal": 538,
     "link": "https://www.youtube.com/embed/iGQ_kopx1-k?si=bdqj32H6LCMApVVa",
     "highlight": "bullseye",
-    "text": "Keith Tkachuk"
+    "text": "Keith Tkachuk",
+    "team": "VAN",
+    "goalie": "Jacob Markström",
+    "month": 12,
+    "day": 11,
+    "year": 2016
   },
   {
     "goal": 539,
-    "link": "https://www.youtube.com/embed/JZaSFCvEA40?si=0kuhtbmfMLtWfO_j"
+    "link": "https://www.youtube.com/embed/JZaSFCvEA40?si=0kuhtbmfMLtWfO_j",
+    "team": "CAR",
+    "goalie": "Cam Ward",
+    "month": 12,
+    "day": 16,
+    "year": 2016
   },
   {
     "goal": 540,
-    "link": "https://www.youtube.com/embed/lvdR4FhM__g?si=hbGKNEHoQxT3RB_7"
+    "link": "https://www.youtube.com/embed/lvdR4FhM__g?si=hbGKNEHoQxT3RB_7",
+    "team": "TBL",
+    "goalie": "Andrei Vasilevskiy",
+    "month": 12,
+    "day": 23,
+    "year": 2016
   },
   {
     "goal": 541,
     "link": "https://www.youtube.com/embed/G7l0i3XKhIo?si=jbIRfV8j3abQTBfk",
     "highlight": "bullseye",
-    "text": "Stan Makita"
+    "text": "Stan Makita",
+    "team": "NYI",
+    "goalie": "Jaroslav Halák",
+    "month": 12,
+    "day": 27,
+    "year": 2016
   },
   {
     "goal": 542,
-    "link": "https://www.youtube.com/embed/Z2KSmpyEcQA?si=H8FTG1a1FA1V5zws"
+    "link": "https://www.youtube.com/embed/Z2KSmpyEcQA?si=H8FTG1a1FA1V5zws",
+    "team": "NJD",
+    "goalie": "Keith Kinkaid",
+    "month": 12,
+    "day": 31,
+    "year": 2016
   },
   {
     "goal": 543,
-    "link": "https://www.youtube.com/embed/CFeG02UTZSQ?si=5cClUb1WuvpPsa8h"
+    "link": "https://www.youtube.com/embed/CFeG02UTZSQ?si=5cClUb1WuvpPsa8h",
+    "team": "TOR",
+    "goalie": "Frederik Andersen",
+    "month": 1,
+    "day": 3,
+    "year": 2017
   },
   {
     "goal": 544,
     "link": "https://www.youtube.com/embed/i6fuPlv1REI?si=5aLhTt41UnwMKIuG",
     "highlight": "bullseye",
-    "text": "Maurice Richard"
+    "text": "Maurice Richard",
+    "team": "MTL",
+    "goalie": "Carey Price",
+    "month": 1,
+    "day": 9,
+    "year": 2017
   },
   {
     "goal": 545,
     "link": "https://www.youtube.com/embed/RCnqzUOx-Iw?si=92PwFDhz9Rqqr0vO",
     "highlight": "trophy",
-    "text": "1000th Career Point"
+    "text": "1000th Career Point",
+    "team": "PIT",
+    "goalie": "Marc-André Fleury",
+    "month": 1,
+    "day": 11,
+    "year": 2017
   },
   {
     "goal": 546,
-    "link": "https://www.youtube.com/embed/c7ZNvVYBbg4?si=1wqtXJRnAU7dLy44"
+    "link": "https://www.youtube.com/embed/c7ZNvVYBbg4?si=1wqtXJRnAU7dLy44",
+    "team": "PIT",
+    "goalie": "Marc-André Fleury",
+    "month": 1,
+    "day": 11,
+    "year": 2017
   },
   {
     "goal": 547,
-    "link": "https://www.youtube.com/embed/k7UHPNKF3hY?si=ybuVMQDleldSl7j_"
+    "link": "https://www.youtube.com/embed/k7UHPNKF3hY?si=ybuVMQDleldSl7j_",
+    "team": "DAL",
+    "goalie": "Kari Lehtonen",
+    "month": 1,
+    "day": 21,
+    "year": 2017
   },
   {
     "goal": 548,
-    "link": "https://www.youtube.com/embed/o7rnT7H5tSs?si=N-wGIRXaaLbszjXp"
+    "link": "https://www.youtube.com/embed/o7rnT7H5tSs?si=N-wGIRXaaLbszjXp",
+    "team": "NJD",
+    "goalie": "Keith Kinkaid",
+    "month": 1,
+    "day": 26,
+    "year": 2017
   },
   {
     "goal": 549,
-    "link": "https://www.youtube.com/embed/g295QSV5kok?si=DudwPwq5OgM4JbkK"
+    "link": "https://www.youtube.com/embed/g295QSV5kok?si=DudwPwq5OgM4JbkK",
+    "team": "NYI",
+    "goalie": "Thomas Greiss",
+    "month": 1,
+    "day": 31,
+    "year": 2017
   },
   {
     "goal": 550,
-    "link": "https://www.youtube.com/embed/Pxuxe47uO6k?si=Apd0jvtcb3VPU4IR"
+    "link": "https://www.youtube.com/embed/Pxuxe47uO6k?si=Apd0jvtcb3VPU4IR",
+    "team": "BOS",
+    "goalie": "Tuukka Rask",
+    "month": 2,
+    "day": 1,
+    "year": 2017
   },
   {
     "goal": 551,
-    "link": "https://www.youtube.com/embed/WmszP1ETTGg?si=8agq6aB0amcYpRWD"
+    "link": "https://www.youtube.com/embed/WmszP1ETTGg?si=8agq6aB0amcYpRWD",
+    "team": "CAR",
+    "goalie": "Eddie Läck",
+    "month": 2,
+    "day": 7,
+    "year": 2017
   },
   {
     "goal": 552,
-    "link": "https://www.youtube.com/embed/a2JsMXTedoo?si=RRpVFcjY7fRSQn3w"
+    "link": "https://www.youtube.com/embed/a2JsMXTedoo?si=RRpVFcjY7fRSQn3w",
+    "team": "NYR",
+    "goalie": "Henrik Lundqvist",
+    "month": 2,
+    "day": 19,
+    "year": 2017
   },
   {
     "goal": 553,
-    "link": "https://www.youtube.com/embed/70yl_Yer2yU?si=8Xv4_A3TwXAG1cC4"
+    "link": "https://www.youtube.com/embed/70yl_Yer2yU?si=8Xv4_A3TwXAG1cC4",
+    "team": "MIN",
+    "goalie": "Devan Dubnyk",
+    "month": 3,
+    "day": 14,
+    "year": 2017
   },
   {
     "goal": 554,
-    "link": "https://www.youtube.com/embed/LBYH0Df6hKk?si=rpVVALez-5SfmEjH"
+    "link": "https://www.youtube.com/embed/LBYH0Df6hKk?si=rpVVALez-5SfmEjH",
+    "team": "CGY",
+    "goalie": "Brian Elliott",
+    "month": 3,
+    "day": 21,
+    "year": 2017
   },
   {
     "goal": 555,
     "link": "https://www.youtube.com/embed/H4nqdkgGd6s?si=Mqxnb1ivFXi_-Mpt",
     "fallback": "https://www.youtube.com/embed/bZ01Ej0D6Xc?si=LkHoHUUCZIZUjFs9",
     "highlight": "thirty",
-    "text": "12th 30 Goal Season"
+    "text": "12th 30 Goal Season",
+    "team": "ARI",
+    "goalie": "Mike Smith",
+    "month": 3,
+    "day": 25,
+    "year": 2017
   },
   {
     "goal": 556,
     "link": "https://www.youtube.com/embed/ZCG6IwPlG5w?si=SMjJthXqwtZn3URv",
     "highlight": "bullseye",
-    "text": "Johnny Bucyk"
+    "text": "Johnny Bucyk",
+    "team": "MIN",
+    "goalie": "Devan Dubnyk",
+    "month": 3,
+    "day": 28,
+    "year": 2017
   },
   {
     "goal": 557,
-    "link": "https://www.youtube.com/embed/R15ix9wUPYY?si=o1216PZqrVe_lXVH"
+    "link": "https://www.youtube.com/embed/R15ix9wUPYY?si=o1216PZqrVe_lXVH",
+    "team": "MIN",
+    "goalie": "Devan Dubnyk",
+    "month": 3,
+    "day": 28,
+    "year": 2017
   },
   {
     "goal": 558,
     "link": "https://www.youtube.com/embed/p-lcPHYHPVk?si=hlZtTIr4QXXltqlr",
     "highlight": "hat",
-    "text": "17th Hat Trick"
+    "text": "17th Hat Trick",
+    "team": "MIN",
+    "goalie": "Devan Dubnyk",
+    "month": 3,
+    "day": 28,
+    "year": 2017
   },
   {
     "goal": 559,
     "link": "https://www.youtube.com/embed/CNt_HOWbj3I?si=WO76snGuZ8VcaGJ0",
     "highlight": "bookmark",
-    "text": "First of Season 13"
+    "text": "First of Season 13",
+    "team": "OTT",
+    "goalie": "Craig Anderson",
+    "month": 10,
+    "day": 5,
+    "year": 2017
   },
   {
     "goal": 560,
     "link": "https://www.youtube.com/embed/6xinVXeHth8?si=8OUEoe0osyOk6SDz",
     "highlight": "bullseye",
-    "text": "Guy Lafleur"
+    "text": "Guy Lafleur",
+    "team": "OTT",
+    "goalie": "Craig Anderson",
+    "month": 10,
+    "day": 5,
+    "year": 2017
   },
   {
     "goal": 561,
     "link": "https://www.youtube.com/embed/Ozq8QpQtmjI?si=TNqBAQP2EOu39TLv",
     "highlight": "hat",
-    "text": "18th Hat Trick"
+    "text": "18th Hat Trick",
+    "team": "OTT",
+    "goalie": "Craig Anderson",
+    "month": 10,
+    "day": 5,
+    "year": 2017
   },
   {
     "goal": 562,
-    "link": "https://www.youtube.com/embed/O6cAYhr9s1A?si=KkbOU_sPW-IpENUF"
+    "link": "https://www.youtube.com/embed/O6cAYhr9s1A?si=KkbOU_sPW-IpENUF",
+    "team": "MTL",
+    "goalie": "Carey Price",
+    "month": 10,
+    "day": 7,
+    "year": 2017
   },
   {
     "goal": 563,
-    "link": "https://www.youtube.com/embed/dgAGmonrqB0?si=LTEfWVpp74-YGZuW"
+    "link": "https://www.youtube.com/embed/dgAGmonrqB0?si=LTEfWVpp74-YGZuW",
+    "team": "MTL",
+    "goalie": "Carey Price",
+    "month": 10,
+    "day": 7,
+    "year": 2017
   },
   {
     "goal": 564,
     "link": "https://www.youtube.com/embed/nJa-7Om_on4?si=9qHa7EBowI2jyEMS",
     "highlight": "hat",
-    "text": "19th Hat Trick"
+    "text": "19th Hat Trick",
+    "team": "MTL",
+    "goalie": "Carey Price",
+    "month": 10,
+    "day": 7,
+    "year": 2017
   },
   {
     "goal": 565,
     "link": "https://www.youtube.com/embed/F46JbM9mAgI?si=KGFqWoSFx0DiJ86L",
     "highlight": "four",
-    "text": "4th Four Goal Game"
+    "text": "4th Four Goal Game",
+    "team": "MTL",
+    "goalie": "Al Montoya",
+    "month": 10,
+    "day": 7,
+    "year": 2017
   },
   {
     "goal": 566,
     "link": "https://www.youtube.com/embed/SGlkHy9qLkI?si=wlihCKZK39wkHhmz",
     "highlight": "bullseye",
-    "text": "Patrick Marleau"
+    "text": "Patrick Marleau",
+    "team": "PIT",
+    "goalie": "Matt Murray",
+    "month": 10,
+    "day": 11,
+    "year": 2017
   },
   {
     "goal": 567,
-    "link": "https://www.youtube.com/embed/E2o6k6I7mGM?si=otmunndOuac8vKMr"
+    "link": "https://www.youtube.com/embed/E2o6k6I7mGM?si=otmunndOuac8vKMr",
+    "team": "NJD",
+    "goalie": "Cory Schneider",
+    "month": 10,
+    "day": 13,
+    "year": 2017
   },
   {
     "goal": 568,
-    "link": "https://www.youtube.com/embed/2cNS6ClmBeI?si=wo9OUvULS1fwFnFp"
+    "link": "https://www.youtube.com/embed/2cNS6ClmBeI?si=wo9OUvULS1fwFnFp",
+    "team": "DET",
+    "goalie": "Petr Mrázek",
+    "month": 10,
+    "day": 20,
+    "year": 2017
   },
   {
     "goal": 569,
-    "link": "https://www.youtube.com/embed/yYu5cDvvgmA?si=W7YOcRhgwcw3b9Dj"
+    "link": "https://www.youtube.com/embed/yYu5cDvvgmA?si=W7YOcRhgwcw3b9Dj",
+    "team": "BOS",
+    "goalie": "Tuukka Rask",
+    "month": 11,
+    "day": 4,
+    "year": 2017
   },
   {
     "goal": 570,
-    "link": "https://www.youtube.com/embed/bwMzc6Ekkv4?si=a3BSrhIZnSYGs1rZ"
+    "link": "https://www.youtube.com/embed/bwMzc6Ekkv4?si=a3BSrhIZnSYGs1rZ",
+    "team": "ARI",
+    "goalie": "Scott Wedgewood",
+    "month": 11,
+    "day": 6,
+    "year": 2017
   },
   {
     "goal": 571,
-    "link": "https://www.youtube.com/embed/byjt6I5YfaA?si=76K0PuvnO_CjQpi1"
+    "link": "https://www.youtube.com/embed/byjt6I5YfaA?si=76K0PuvnO_CjQpi1",
+    "team": "BUF",
+    "goalie": "Robin Lehner",
+    "month": 11,
+    "day": 7,
+    "year": 2017
   },
   {
     "goal": 572,
-    "link": "https://www.youtube.com/embed/CEbYemK1ob0?si=blB5rVyTTKtVbFQs"
+    "link": "https://www.youtube.com/embed/CEbYemK1ob0?si=blB5rVyTTKtVbFQs",
+    "team": "OTT",
+    "goalie": "Craig Anderson",
+    "month": 11,
+    "day": 22,
+    "year": 2017
   },
   {
     "goal": 573,
     "link": "https://www.youtube.com/embed/U3LFeAj6Zw8?si=DN1Wl3dtG7lfboxi",
     "highlight": "bullseye",
-    "text": "Mike Bossy"
+    "text": "Mike Bossy",
+    "team": "TBL",
+    "goalie": "Andrei Vasilevskiy",
+    "month": 11,
+    "day": 24,
+    "year": 2017
   },
   {
     "goal": 574,
-    "link": "https://www.youtube.com/embed/ZI72CHZFrnY?si=jg0MtIsBgrh6Bndg"
+    "link": "https://www.youtube.com/embed/ZI72CHZFrnY?si=jg0MtIsBgrh6Bndg",
+    "team": "TOR",
+    "goalie": "Curtis McElhinney",
+    "month": 11,
+    "day": 30,
+    "year": 2017
   },
   {
     "goal": 575,
-    "link": "https://www.youtube.com/embed/ZTtsXaDBSaM?si=SEAOl3R3PUgdxPDd"
+    "link": "https://www.youtube.com/embed/ZTtsXaDBSaM?si=SEAOl3R3PUgdxPDd",
+    "team": "TOR",
+    "goalie": "Curtis McElhinney",
+    "month": 11,
+    "day": 30,
+    "year": 2017
   },
   {
     "goal": 576,
     "link": "https://www.youtube.com/embed/zm0nd76X2aY?si=xpxQVYXWdF2NyYhC",
     "highlight": "hat",
-    "text": "20th Hat Trick"
+    "text": "20th Hat Trick",
+    "team": "TOR",
+    "goalie": null,
+    "month": 11,
+    "day": 30,
+    "year": 2017
   },
   {
     "goal": 577,
     "link": "https://www.youtube.com/embed/nzI31E5XoQg?si=qjnXN4FC-UTnmQty",
     "highlight": "bullseye",
-    "text": "Mark Recchi"
+    "text": "Mark Recchi",
+    "team": "CBJ",
+    "goalie": "Sergei Bobrovsky",
+    "month": 12,
+    "day": 2,
+    "year": 2017
   },
   {
     "goal": 578,
     "link": "https://www.youtube.com/embed/MYsxXrWaIfg?si=xl4jnEEbBH6_tlhH",
     "highlight": "twenty",
-    "text": "13th 20 Goal Season"
+    "text": "13th 20 Goal Season",
+    "team": "SJS",
+    "goalie": "Martin Jones",
+    "month": 12,
+    "day": 4,
+    "year": 2017
   },
   {
     "goal": 579,
-    "link": "https://www.youtube.com/embed/UlI7q5eyw_w?si=XlK_63Qot9tQlREU"
+    "link": "https://www.youtube.com/embed/UlI7q5eyw_w?si=XlK_63Qot9tQlREU",
+    "team": "CHI",
+    "goalie": "Anton Forsberg",
+    "month": 12,
+    "day": 6,
+    "year": 2017
   },
   {
     "goal": 580,
-    "link": "https://www.youtube.com/embed/Ka0oBWwmQbg?si=e4xnbZMacFFxrmC1"
+    "link": "https://www.youtube.com/embed/Ka0oBWwmQbg?si=e4xnbZMacFFxrmC1",
+    "team": "BOS",
+    "goalie": null,
+    "month": 12,
+    "day": 14,
+    "year": 2017
   },
   {
     "goal": 581,
-    "link": "https://www.youtube.com/embed/Gki4v3EmC0s?si=rUPkMipnOxHlm2eG"
+    "link": "https://www.youtube.com/embed/Gki4v3EmC0s?si=rUPkMipnOxHlm2eG",
+    "team": "ANA",
+    "goalie": "John Gibson",
+    "month": 12,
+    "day": 16,
+    "year": 2017
   },
   {
     "goal": 582,
-    "link": "https://www.youtube.com/embed/d5VaTFPveRk?si=SdckLma1aFTavsyt"
+    "link": "https://www.youtube.com/embed/d5VaTFPveRk?si=SdckLma1aFTavsyt",
+    "team": "BOS",
+    "goalie": "Anton Khudobin",
+    "month": 12,
+    "day": 28,
+    "year": 2017
   },
   {
     "goal": 583,
-    "link": "https://www.youtube.com/embed/Z7JZ6W5s9ZM?si=5RpuwK7YNsSv769f"
+    "link": "https://www.youtube.com/embed/Z7JZ6W5s9ZM?si=5RpuwK7YNsSv769f",
+    "team": "CAR",
+    "goalie": "Cam Ward",
+    "month": 1,
+    "day": 2,
+    "year": 2018
   },
   {
     "goal": 584,
-    "link": "https://www.youtube.com/embed/upUOmD9uLEM?si=C9jfikDuUCnEKhK8"
+    "link": "https://www.youtube.com/embed/upUOmD9uLEM?si=C9jfikDuUCnEKhK8",
+    "team": "CAR",
+    "goalie": "Cam Ward",
+    "month": 1,
+    "day": 2,
+    "year": 2018
   },
   {
     "goal": 585,
-    "link": "https://www.youtube.com/embed/CtiOFYKBVQs?si=jmRN3bKjYY_gPg4t"
+    "link": "https://www.youtube.com/embed/CtiOFYKBVQs?si=jmRN3bKjYY_gPg4t",
+    "team": "STL",
+    "goalie": "Carter Hutton",
+    "month": 1,
+    "day": 7,
+    "year": 2018
   },
   {
     "goal": 586,
-    "link": "https://www.youtube.com/embed/k-qfgOwKV7s?si=1Jx7JIQtYAQj2Aka"
+    "link": "https://www.youtube.com/embed/k-qfgOwKV7s?si=1Jx7JIQtYAQj2Aka",
+    "team": "CAR",
+    "goalie": "Cam Ward",
+    "month": 1,
+    "day": 12,
+    "year": 2018
   },
   {
     "goal": 587,
-    "link": "https://www.youtube.com/embed/blAd3b58xDQ?si=DQuaTQGEIeRJSpV-"
+    "link": "https://www.youtube.com/embed/blAd3b58xDQ?si=DQuaTQGEIeRJSpV-",
+    "team": "PHI",
+    "goalie": "Brian Elliott",
+    "month": 1,
+    "day": 21,
+    "year": 2018
   },
   {
     "goal": 588,
     "link": "https://www.youtube.com/embed/BHh2RLW38eY?si=CgBgoqbV81x2Q0TJ",
     "highlight": "thirty",
-    "text": "13th 30 Goal Season"
+    "text": "13th 30 Goal Season",
+    "team": "FLA",
+    "goalie": "Harri Säteri",
+    "month": 1,
+    "day": 25,
+    "year": 2018
   },
   {
     "goal": 589,
-    "link": "https://www.youtube.com/embed/G5L3f_EYWQc?si=DJZWBR30MvPy9T4e"
+    "link": "https://www.youtube.com/embed/G5L3f_EYWQc?si=DJZWBR30MvPy9T4e",
+    "team": "PIT",
+    "goalie": "Matt Murray",
+    "month": 2,
+    "day": 2,
+    "year": 2018
   },
   {
     "goal": 590,
-    "link": "https://www.youtube.com/embed/pbJYVXUKPIQ?si=fj4aXE1RqoVRjsk3"
+    "link": "https://www.youtube.com/embed/pbJYVXUKPIQ?si=fj4aXE1RqoVRjsk3",
+    "team": "PIT",
+    "goalie": "Matt Murray",
+    "month": 2,
+    "day": 2,
+    "year": 2018
   },
   {
     "goal": 591,
-    "link": "https://www.youtube.com/embed/IFfFkVWHajM?si=K_qIrEg9kuab4H2I"
+    "link": "https://www.youtube.com/embed/IFfFkVWHajM?si=K_qIrEg9kuab4H2I",
+    "team": "DET",
+    "goalie": "Jimmy Howard",
+    "month": 2,
+    "day": 11,
+    "year": 2018
   },
   {
     "goal": 592,
-    "link": "https://www.youtube.com/embed/IQDxRIlWjd0?si=gHSU6xvUuJrYiWNG"
+    "link": "https://www.youtube.com/embed/IQDxRIlWjd0?si=gHSU6xvUuJrYiWNG",
+    "team": "MIN",
+    "goalie": "Devan Dubnyk",
+    "month": 2,
+    "day": 15,
+    "year": 2018
   },
   {
     "goal": 593,
-    "link": "https://www.youtube.com/embed/_sbJ-Rqq-zk?si=19MZ42bINLGOhy45"
+    "link": "https://www.youtube.com/embed/_sbJ-Rqq-zk?si=19MZ42bINLGOhy45",
+    "team": "BUF",
+    "goalie": "Chad Johnson",
+    "month": 2,
+    "day": 19,
+    "year": 2018
   },
   {
     "goal": 594,
-    "link": "https://www.youtube.com/embed/PiG0WDG8_yM?si=mmsdT0ygE3zqTSdz"
+    "link": "https://www.youtube.com/embed/PiG0WDG8_yM?si=mmsdT0ygE3zqTSdz",
+    "team": "TBL",
+    "goalie": "Andrei Vasilevskiy",
+    "month": 2,
+    "day": 20,
+    "year": 2018
   },
   {
     "goal": 595,
-    "link": "https://www.youtube.com/embed/30UbzQh-JPM?si=Wdr0AWpT6saTa0-3"
+    "link": "https://www.youtube.com/embed/30UbzQh-JPM?si=Wdr0AWpT6saTa0-3",
+    "team": "BUF",
+    "goalie": "Robin Lehner",
+    "month": 2,
+    "day": 24,
+    "year": 2018
   },
   {
     "goal": 596,
-    "link": "https://www.youtube.com/embed/lKvX6PG-9uk?si=sth7RdOmm7OLlsXR"
+    "link": "https://www.youtube.com/embed/lKvX6PG-9uk?si=sth7RdOmm7OLlsXR",
+    "team": "BUF",
+    "goalie": "Robin Lehner",
+    "month": 2,
+    "day": 24,
+    "year": 2018
   },
   {
     "goal": 597,
-    "link": "https://www.youtube.com/embed/P6_bqQVS_uk?si=zWxAZ7xZ-fDd0R0w"
+    "link": "https://www.youtube.com/embed/P6_bqQVS_uk?si=zWxAZ7xZ-fDd0R0w",
+    "team": "CBJ",
+    "goalie": "Sergei Bobrovsky",
+    "month": 2,
+    "day": 26,
+    "year": 2018
   },
   {
     "goal": 598,
     "link": "https://www.youtube.com/embed/t7JT4gyWOSw?si=vlppIajiZdNJ9PZh",
     "fallback": "https://www.youtube.com/embed/SWLrHe4NkBQ?si=NVcThyklwmpth8BS",
     "highlight": "moon",
-    "text": "Outdoor Goal"
+    "text": "Outdoor Goal",
+    "team": "TOR",
+    "goalie": "Frederik Andersen",
+    "month": 3,
+    "day": 3,
+    "year": 2018
   },
   {
     "goal": 599,
-    "link": "https://www.youtube.com/embed/4Az8UX8awA8?si=AihXM39XxEIjhZ_s"
+    "link": "https://www.youtube.com/embed/4Az8UX8awA8?si=AihXM39XxEIjhZ_s",
+    "team": "WPG",
+    "goalie": "Connor Hellebuyck",
+    "month": 3,
+    "day": 12,
+    "year": 2018
   },
   {
     "goal": 600,
     "link": "https://www.youtube.com/embed/sM2vVyx0oa8?si=1B-YAbfTXe0hmePL",
     "highlight": "trophy",
-    "text": "600th Career Goal"
+    "text": "600th Career Goal",
+    "team": "WPG",
+    "goalie": "Connor Hellebuyck",
+    "month": 3,
+    "day": 12,
+    "year": 2018
   },
   {
     "goal": 601,
     "link": "https://www.youtube.com/embed/B9cEiMpdpaQ?si=nmGLJ5bTmfpwHpJ2",
     "highlight": "bullseye",
-    "text": "Jari Kurri"
+    "text": "Jari Kurri",
+    "team": "PHI",
+    "goalie": "Petr Mrázek",
+    "month": 3,
+    "day": 18,
+    "year": 2018
   },
   {
     "goal": 602,
-    "link": "https://www.youtube.com/embed/Mg2Qr9xvB-Y?si=X0ufcRlhCy1zqOv4"
+    "link": "https://www.youtube.com/embed/Mg2Qr9xvB-Y?si=X0ufcRlhCy1zqOv4",
+    "team": "DAL",
+    "goalie": "Kari Lehtonen",
+    "month": 3,
+    "day": 20,
+    "year": 2018
   },
   {
     "goal": 603,
-    "link": "https://www.youtube.com/embed/apx1wpljroc?si=6IGrjuSXMa3na6Kh"
+    "link": "https://www.youtube.com/embed/apx1wpljroc?si=6IGrjuSXMa3na6Kh",
+    "team": "NYR",
+    "goalie": "Alexandar Georgiev",
+    "month": 3,
+    "day": 26,
+    "year": 2018
   },
   {
     "goal": 604,
-    "link": "https://www.youtube.com/embed/pgT5s6OuESk?si=MXk4ghC20bAwZVCZ"
+    "link": "https://www.youtube.com/embed/pgT5s6OuESk?si=MXk4ghC20bAwZVCZ",
+    "team": "STL",
+    "goalie": null,
+    "month": 4,
+    "day": 2,
+    "year": 2018
   },
   {
     "goal": 605,
-    "link": "https://www.youtube.com/embed/Gq-uWfyIHpo?si=_5vGfbG0JTbL_uDy"
+    "link": "https://www.youtube.com/embed/Gq-uWfyIHpo?si=_5vGfbG0JTbL_uDy",
+    "team": "NSH",
+    "goalie": "Juuse Saros",
+    "month": 4,
+    "day": 5,
+    "year": 2018
   },
   {
     "goal": 606,
-    "link": "https://www.youtube.com/embed/LYDC1VrsDFs?si=izHjMD_QJ4tLgYRi"
+    "link": "https://www.youtube.com/embed/LYDC1VrsDFs?si=izHjMD_QJ4tLgYRi",
+    "team": "NJD",
+    "goalie": "Cory Schneider",
+    "month": 4,
+    "day": 7,
+    "year": 2018
   },
   {
     "goal": 607,
     "link": "https://www.youtube.com/embed/CAyfV6I9_ow?si=hXKZ_y8pp_I9_MPs",
     "highlight": "bookmark",
-    "text": "Last of Season 13"
+    "text": "Last of Season 13",
+    "team": "NJD",
+    "goalie": "Cory Schneider",
+    "month": 4,
+    "day": 7,
+    "year": 2018
   },
   {
     "goal": 608,
