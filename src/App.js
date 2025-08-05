@@ -162,7 +162,9 @@ function SearchForm({jsonData}) {
             {searchResults.map((result, index) => (
                 <div className="frame" key={index}>
                     <div id="note" className={result.highlight}>
-                        <span><span id="icon"></span></span>
+                        <strong>{result.month}/{result.day}/{result.year}</strong>
+                        <strong>{result.goalie}</strong>
+                        <span id="icon"></span>
                         <strong>{result.text}</strong>
                     </div>
                     <div id="shadow">
