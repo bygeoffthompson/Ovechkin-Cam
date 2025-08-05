@@ -7747,133 +7747,288 @@
     "goal": 823,
     "link": "https://www.youtube.com/embed/cwdzuUfeDPM?si=7ZLpohGLiWaY8jpe",
     "highlight": "bookmark",
-    "text": "First of Season 19"
+    "text": "First of Season 19",
+    "team": "TOR",
+    "goalie": "Joseph Woll",
+    "month": 10,
+    "day": 24,
+    "year": 2023
   },
   {
     "goal": 824,
-    "link": "https://www.youtube.com/embed/dLEsVFybQ8M?si=5CEfn8CpCMpoz_oI"
+    "link": "https://www.youtube.com/embed/dLEsVFybQ8M?si=5CEfn8CpCMpoz_oI",
+    "team": "NJD",
+    "goalie": null,
+    "month": 10,
+    "day": 25,
+    "year": 2023
   },
   {
     "goal": 825,
-    "link": "https://www.youtube.com/embed/MPGGT7MGI60?si=5kWDM7cqolvSKnaI"
+    "link": "https://www.youtube.com/embed/MPGGT7MGI60?si=5kWDM7cqolvSKnaI",
+    "team": "NYI",
+    "goalie": "Semyon Varlamov",
+    "month": 11,
+    "day": 11,
+    "year": 2023
   },
   {
     "goal": 826,
-    "link": "https://www.youtube.com/embed/4dBIhMj9OMs?si=-IybZib9h94TUreE"
+    "link": "https://www.youtube.com/embed/4dBIhMj9OMs?si=-IybZib9h94TUreE",
+    "team": "NYI",
+    "goalie": null,
+    "month": 11,
+    "day": 11,
+    "year": 2023
   },
   {
     "goal": 827,
-    "link": "https://www.youtube.com/embed/wgv8AgUDZqY?si=AEbq2cC58KTYoj1o"
+    "link": "https://www.youtube.com/embed/wgv8AgUDZqY?si=AEbq2cC58KTYoj1o",
+    "team": "CBJ",
+    "goalie": "Elvis Merzlikins",
+    "month": 11,
+    "day": 18,
+    "year": 2023
   },
   {
     "goal": 828,
-    "link": "https://www.youtube.com/embed/3FK6xIJT9cE?si=grmfqc4hW0RoSsEg"
+    "link": "https://www.youtube.com/embed/3FK6xIJT9cE?si=grmfqc4hW0RoSsEg",
+    "team": "CBJ",
+    "goalie": "Elvis Merzlikins",
+    "month": 12,
+    "day": 21,
+    "year": 2023
   },
   {
     "goal": 829,
-    "link": "https://www.youtube.com/embed/NzKg4sF0IOc?si=UCPd0OdNyS0fdihk"
+    "link": "https://www.youtube.com/embed/NzKg4sF0IOc?si=UCPd0OdNyS0fdihk",
+    "team": "NSH",
+    "goalie": "Yaroslav Askarov",
+    "month": 12,
+    "day": 30,
+    "year": 2023
   },
   {
     "goal": 830,
-    "link": "https://www.youtube.com/embed/jEpjOF3S6Hg?si=6pG3xDiVia4dn8VO"
+    "link": "https://www.youtube.com/embed/jEpjOF3S6Hg?si=6pG3xDiVia4dn8VO",
+    "team": "PIT",
+    "goalie": "Alex Nedeljkovic",
+    "month": 1,
+    "day": 2,
+    "year": 2024
   },
   {
     "goal": 831,
-    "link": "https://www.youtube.com/embed/yZeDfm2cbcM?si=LBDYLoxDBo1-dw-K"
+    "link": "https://www.youtube.com/embed/yZeDfm2cbcM?si=LBDYLoxDBo1-dw-K",
+    "team": "DAL",
+    "goalie": "Jake Oettinger",
+    "month": 1,
+    "day": 27,
+    "year": 2024
   },
   {
     "goal": 832,
-    "link": "https://www.youtube.com/embed/6exrK1bBL5g?si=nIfoGgEhrnoohEU6"
+    "link": "https://www.youtube.com/embed/6exrK1bBL5g?si=nIfoGgEhrnoohEU6",
+    "team": "MTL",
+    "goalie": "Sam Montembeault",
+    "month": 2,
+    "day": 6,
+    "year": 2024
   },
   {
     "goal": 833,
-    "link": "https://www.youtube.com/embed/ZHz74f-M2lk?si=zhgtRO2kYrL9hqLU"
+    "link": "https://www.youtube.com/embed/ZHz74f-M2lk?si=zhgtRO2kYrL9hqLU",
+    "team": "FLA",
+    "goalie": "Sergei Bobrovsky",
+    "month": 2,
+    "day": 8,
+    "year": 2024
   },
   {
     "goal": 834,
-    "link": "https://www.youtube.com/embed/Q1u-E8kSQ4U?si=pq2xqQzUyk7PPP3R"
+    "link": "https://www.youtube.com/embed/Q1u-E8kSQ4U?si=pq2xqQzUyk7PPP3R",
+    "team": "BOS",
+    "goalie": null,
+    "month": 2,
+    "day": 10,
+    "year": 2024
   },
   {
     "goal": 835,
-    "link": "https://www.youtube.com/embed/TgBlMItXrMI?si=5sBriAOlEAu_cWAw"
+    "link": "https://www.youtube.com/embed/TgBlMItXrMI?si=5sBriAOlEAu_cWAw",
+    "team": "VAN",
+    "goalie": "Thatcher Demko",
+    "month": 2,
+    "day": 11,
+    "year": 2024
   },
   {
     "goal": 836,
-    "link": "https://www.youtube.com/embed/F-65CU6-hpw?si=VkPNumad1XM5Fl7U"
+    "link": "https://www.youtube.com/embed/F-65CU6-hpw?si=VkPNumad1XM5Fl7U",
+    "team": "COL",
+    "goalie": "Alexandar Georgiev",
+    "month": 2,
+    "day": 13,
+    "year": 2024
   },
   {
     "goal": 837,
-    "link": "https://www.youtube.com/embed/baq0sbQoPKI?si=LtUVOKo3bJ2xyIHy"
+    "link": "https://www.youtube.com/embed/baq0sbQoPKI?si=LtUVOKo3bJ2xyIHy",
+    "team": "NJD",
+    "goalie": "Nico Daws",
+    "month": 2,
+    "day": 20,
+    "year": 2024
   },
   {
     "goal": 838,
-    "link": "https://www.youtube.com/embed/w4sQGqpAT-s?si=YjTfMDOhf6M2AqBi"
+    "link": "https://www.youtube.com/embed/w4sQGqpAT-s?si=YjTfMDOhf6M2AqBi",
+    "team": "NJD",
+    "goalie": "Nico Daws",
+    "month": 2,
+    "day": 20,
+    "year": 2024
   },
   {
     "goal": 839,
-    "link": "https://www.youtube.com/embed/6NSXmMXt4MQ?si=Q9c8E4RlDJPXffad"
+    "link": "https://www.youtube.com/embed/6NSXmMXt4MQ?si=Q9c8E4RlDJPXffad",
+    "team": "PHI",
+    "goalie": "Samuel Ersson",
+    "month": 3,
+    "day": 1,
+    "year": 2024
   },
   {
     "goal": 840,
-    "link": "https://www.youtube.com/embed/_39sqTbjWxo?si=nRl9BlMmDHLL_oIk"
+    "link": "https://www.youtube.com/embed/_39sqTbjWxo?si=nRl9BlMmDHLL_oIk",
+    "team": "PIT",
+    "goalie": "Tristan Jarry",
+    "month": 3,
+    "day": 7,
+    "year": 2024
   },
   {
     "goal": 841,
-    "link": "https://www.youtube.com/embed/wSz0SH-o2YM?si=TkNMBom3e4dZhl77"
+    "link": "https://www.youtube.com/embed/wSz0SH-o2YM?si=TkNMBom3e4dZhl77",
+    "team": "VAN",
+    "goalie": "Casey DeSmith",
+    "month": 3,
+    "day": 16,
+    "year": 2024
   },
   {
     "goal": 842,
     "link": "https://www.youtube.com/embed/BLvoWWPVNfQ?si=o3mceOxVwbJVa7Hi",
     "highlight": "twenty",
-    "text": "19th 20 Goal Season"
+    "text": "19th 20 Goal Season",
+    "team": "CGY",
+    "goalie": "Dustin Wolf",
+    "month": 3,
+    "day": 18,
+    "year": 2024
   },
   {
     "goal": 843,
-    "link": "https://www.youtube.com/embed/XL1fRZ5suzg?si=FPRiDh27_M9XmIms"
+    "link": "https://www.youtube.com/embed/XL1fRZ5suzg?si=FPRiDh27_M9XmIms",
+    "team": "CGY",
+    "goalie": "Dustin Wolf",
+    "month": 3,
+    "day": 18,
+    "year": 2024
   },
   {
     "goal": 844,
-    "link": "https://www.youtube.com/embed/CJTFNttVzBU?si=nqOOsfneRo5JuO0W"
+    "link": "https://www.youtube.com/embed/CJTFNttVzBU?si=nqOOsfneRo5JuO0W",
+    "team": "TOR",
+    "goalie": "Joseph Woll",
+    "month": 3,
+    "day": 20,
+    "year": 2024
   },
   {
     "goal": 845,
-    "link": "https://www.youtube.com/embed/s37v1a2NPxw?si=PrTPKHWfI_UBTXdI"
+    "link": "https://www.youtube.com/embed/s37v1a2NPxw?si=PrTPKHWfI_UBTXdI",
+    "team": "TOR",
+    "goalie": "Joseph Woll",
+    "month": 3,
+    "day": 20,
+    "year": 2024
   },
   {
     "goal": 846,
-    "link": "https://www.youtube.com/embed/FZaInvJxAd0?si=86t3SpW4s-9zs96Y"
+    "link": "https://www.youtube.com/embed/FZaInvJxAd0?si=86t3SpW4s-9zs96Y",
+    "team": "CAR",
+    "goalie": "Pyotr Kochetkov",
+    "month": 3,
+    "day": 22,
+    "year": 2024
   },
   {
     "goal": 847,
-    "link": "https://www.youtube.com/embed/WbYpIYAQ7yc?si=RwbxnyTQ2h7FG3ZP"
+    "link": "https://www.youtube.com/embed/WbYpIYAQ7yc?si=RwbxnyTQ2h7FG3ZP",
+    "team": "WPG",
+    "goalie": "Connor Hellebuyck",
+    "month": 3,
+    "day": 24,
+    "year": 2024
   },
   {
     "goal": 848,
-    "link": "https://www.youtube.com/embed/mOXSqq3r4M0?si=comA3nlKouVo0nZq"
+    "link": "https://www.youtube.com/embed/mOXSqq3r4M0?si=comA3nlKouVo0nZq",
+    "team": "WPG",
+    "goalie": "Connor Hellebuyck",
+    "month": 3,
+    "day": 24,
+    "year": 2024
   },
   {
     "goal": 849,
-    "link": "https://www.youtube.com/embed/GQ3NMks3sDo?si=bkg_gamWZVoBKYde"
+    "link": "https://www.youtube.com/embed/GQ3NMks3sDo?si=bkg_gamWZVoBKYde",
+    "team": "PIT",
+    "goalie": "Alex Nedeljkovic",
+    "month": 4,
+    "day": 4,
+    "year": 2024
   },
   {
     "goal": 850,
-    "link": "https://www.youtube.com/embed/c5qzj_cmD7k?si=SQEOrndkLNO0HumG"
+    "link": "https://www.youtube.com/embed/c5qzj_cmD7k?si=SQEOrndkLNO0HumG",
+    "team": "CAR",
+    "goalie": "Pyotr Kochetkov",
+    "month": 4,
+    "day": 5,
+    "year": 2024
   },
   {
     "goal": 851,
-    "link": "https://www.youtube.com/embed/WxSVcPFegWM?si=xUJdvPto2Cu6tEMF"
+    "link": "https://www.youtube.com/embed/WxSVcPFegWM?si=xUJdvPto2Cu6tEMF",
+    "team": "CAR",
+    "goalie": "Pyotr Kochetkov",
+    "month": 4,
+    "day": 5,
+    "year": 2024
   },
   {
     "goal": 852,
     "link": "https://www.youtube.com/embed/wqaDEXKGsgA?si=TpksfFJoyubZXNp8",
     "highlight": "thirty",
-    "text": "18th 30 Goal Season"
+    "text": "18th 30 Goal Season",
+    "team": "DET",
+    "goalie": "Alex Lyon",
+    "month": 4,
+    "day": 9,
+    "year": 2024
   },
   {
     "goal": 853,
     "link": "https://www.youtube.com/embed/t8bXuJ47Ysk?si=udRrjv0X2MEXihhW",
     "highlight": "bookmark",
-    "text": "Last of Season 19"
+    "text": "Last of Season 19",
+    "team": "PHI",
+    "goalie": "Samuel Ersson",
+    "month": 4,
+    "day": 16,
+    "year": 2024
   },
   {
     "goal": 854,
