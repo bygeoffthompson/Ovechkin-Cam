@@ -254,7 +254,7 @@ input[type="number"] {
   font-weight: bold;
   max-width: 75px;
   text-align: center;
-  text-indent: -2px;
+  text-indent: 12px;
 }
 
 input[type="text"] {
@@ -264,6 +264,7 @@ input[type="text"] {
   margin-top: 1px;
   max-width: 250px;
   padding: 3px 8px;
+  text-transform: uppercase;
 }
 
 input[type="number"]:focus-visible {
@@ -278,6 +279,10 @@ input[type="number"]::placeholder {
   color: #000;
   font-weight: normal;
   opacity: .5;
+}
+
+input[type="text"]::placeholder {
+  text-transform: none;
 }
 
 label[for="search-goal"]:before {

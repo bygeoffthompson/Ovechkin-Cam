@@ -50,6 +50,7 @@ function SearchForm({jsonData}) {
             const results = jsonData.filter((item) => {
                 return (
                     item.goalie.toLowerCase().includes(searchText) ||
+                    item.month.toLowerCase().includes(searchText) ||
                     item.tags.toLowerCase().includes(searchText) ||
                     item.team.toLowerCase().includes(searchText)
                 );
@@ -59,9 +60,12 @@ function SearchForm({jsonData}) {
     }, [searchGoal, searchText, jsonData]);
 
     useEffect(() => {
-        const query = parseInt(window.location.search.slice(1));
-        if (query >= 1 && query <= 897) {
-            setSearchGoal(query);
+        const query = window.location.search.slice(1);
+        const queryInteger = parseInt(query);
+        if (queryInteger >= 1 && queryInteger <= 897) {
+            setSearchGoal(queryInteger);
+        } else {
+            setSearchText(query);
         }
     },[]);
 
@@ -77,9 +81,8 @@ function SearchForm({jsonData}) {
     const handleTextChange = (event) => {
         setSearchText(event.target.value);
     };
-    const handleTextClick = () => {
+    const handleTextInput = () => {
         setSearchGoal('');
-        setSearchResults([]);
     };
 
     const highlightGoal = () => {
@@ -152,7 +155,7 @@ function SearchForm({jsonData}) {
                     <label htmlFor="search-goal">Goal</label>
                     <input min="1" max="897" id="search-goal" type="number" placeholder="#" value={searchGoal} onChange={handleGoalChange}/>
                     <label htmlFor="search-text">Text</label>
-                    <input id="search-text" type="text" placeholder="Goalie, Milestone, Team" value={searchText} onChange={handleTextChange} onClick={handleTextClick}/>
+                    <input id="search-text" type="text" placeholder="Information" value={searchText} onChange={handleTextChange} onKeyDown={handleTextInput}/>
                 </div>
                 <div>
                     <button onClick={randomGoal} name="Random Goal" type="button">Random Goal</button>/
@@ -169,7 +172,7 @@ function SearchForm({jsonData}) {
                             <h3>{result.goal}</h3>
                         </div>
                         <img alt={result.team + ' logo'} className="logo" src={'/team/' + result.team + '.svgz'} />
-                        <strong>{result.month}/{result.day}/{result.year}</strong>
+                        <strong>{result.month} {result.day}, {result.year}</strong>
                         <strong>{result.goalie}</strong>
                         <span className="icon"></span>
                         <strong>{result.text}</strong>
