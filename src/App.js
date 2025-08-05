@@ -11,6 +11,7 @@ function SearchForm({jsonData}) {
     useEffect(() => {
         if (searchGoal) {
             setSearchText('');
+            resultsHide();
             const goalQuery = parseInt(searchGoal);
             function suffix(goal) {
                 const j = goal % 10;
@@ -55,6 +56,14 @@ function SearchForm({jsonData}) {
                     item.team.toLowerCase().includes(searchText)
                 );
             });
+            if (results.length > 0) {
+                document.querySelector('#count').classList.add('show');
+            }
+            if (results.length === 1) {
+                document.querySelector('#count').innerHTML = results.length + ' Result';
+            } else {
+                document.querySelector('#count').innerHTML = results.length + ' Results';
+            }
             setSearchResults(results);
         }
     }, [searchGoal, searchText, jsonData]);
@@ -87,6 +96,7 @@ function SearchForm({jsonData}) {
 
     const highlightGoal = () => {
         setSearchText('');
+        resultsHide();
         const highlights = ['four', 'fifty', 'hat', 'mega', 'moon', 'penalty', 'sixty', 'sun', 'trophy'];
 
         const result = jsonData.filter(item =>
@@ -117,8 +127,13 @@ function SearchForm({jsonData}) {
         return Math.floor(Math.random() * (max - min + 1)) + min;
     }
 
+    function resultsHide() {
+        document.querySelector('#count').classList.remove('show');
+    }
+
     const randomGoal = () => {
         setSearchText('');
+        resultsHide();
         const randomGoal = random(1, 897);
         setSearchGoal(randomGoal);
 
@@ -133,6 +148,7 @@ function SearchForm({jsonData}) {
 
     const todayGoal = () => {
         setSearchText('');
+        resultsHide();
         const date = new Date();
         const hash = (date.getMonth() + 1) * date.getDate();
         const goal = hash * 2.41129;
@@ -163,6 +179,8 @@ function SearchForm({jsonData}) {
                     <button onClick={todayGoal} name="Today's Goal" type="button">Today's Goal</button>
                 </div>
             </form>
+
+            <strong id="count"></strong>
 
             {searchResults.map((result, index) => (
                 <div className="frame" key={index}>
