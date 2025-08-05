@@ -146,9 +146,11 @@ function SearchForm({jsonData}) {
         <div>
             <form onSubmit={preventSubmit}>
                 <div>
-                    <label for="search">Goal</label>
-                    <input min="1" max="897" id="search-goal" type="number" placeholder="#" value={searchGoal} onChange={handleGoalChange}/>&nbsp;&nbsp;or&nbsp;&nbsp;
-                    <input id="search-text" type="text" placeholder="Text Search" value={searchText} onChange={handleTextChange} onClick={handleTextClick} />
+                    <h2>Search</h2>
+                    <label htmlFor="search-goal">Goal</label>
+                    <input min="1" max="897" id="search-goal" type="number" placeholder="#" value={searchGoal} onChange={handleGoalChange}/>
+                    <label htmlFor="search-text">Text</label>
+                    <input id="search-text" type="text" placeholder="Goalie, Opponent" value={searchText} onChange={handleTextChange} onClick={handleTextClick}/>
                 </div>
                 <div>
                     <button onClick={randomGoal} name="Random Goal" type="button">Random Goal</button>/
