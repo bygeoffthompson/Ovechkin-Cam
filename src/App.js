@@ -43,7 +43,7 @@ function SearchForm({jsonData}) {
             }
 
             document.querySelector('h1').innerHTML = 'Alex Ovechkin\'s ' + suffix(goalQuery) + ' Goal';
-            document.querySelector('title').innerHTML = suffix(goalQuery) + ' Goal | Ovechkin Cam';
+            document.querySelector('title').innerHTML = goalQuery + ' | Ovechkin Cam';
             document.querySelector('meta[name="description"]').setAttribute('content', 'Watch broadcast footage of Alex Ovechkin\'s ' + suffix(goalQuery) + ' career NHL goal.');
         }
         if (searchText) {
