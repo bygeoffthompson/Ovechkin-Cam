@@ -8,7 +8,8 @@
     "goalie": "Pascal Leclaire",
     "month": 10,
     "day": 5,
-    "year": 2005
+    "year": 2005,
+    "tags": ""
   },
   {
     "goal": 2,
@@ -17,7 +18,8 @@
     "goalie": "Pascal Leclaire",
     "month": 10,
     "day": 5,
-    "year": 2005
+    "year": 2005,
+    "tags": ""
   },
   {
     "goal": 3,
@@ -26,7 +28,8 @@
     "goalie": "Kevin Weekes",
     "month": 10,
     "day": 10,
-    "year": 2005
+    "year": 2005,
+    "tags": ""
   },
   {
     "goal": 4,
@@ -35,7 +38,8 @@
     "goalie": "Cam Ward",
     "month": 10,
     "day": 12,
-    "year": 2005
+    "year": 2005,
+    "tags": ""
   },
   {
     "goal": 5,
@@ -44,7 +48,8 @@
     "goalie": "Roberto Luongo",
     "month": 10,
     "day": 20,
-    "year": 2005
+    "year": 2005,
+    "tags": ""
   },
   {
     "goal": 6,
@@ -53,7 +58,8 @@
     "goalie": "Roberto Luongo",
     "month": 10,
     "day": 20,
-    "year": 2005
+    "year": 2005,
+    "tags": ""
   },
   {
     "goal": 7,
@@ -62,7 +68,8 @@
     "goalie": "Sean Burke",
     "month": 10,
     "day": 28,
-    "year": 2005
+    "year": 2005,
+    "tags": ""
   },
   {
     "goal": 8,
@@ -71,7 +78,8 @@
     "goalie": "Sean Burke",
     "month": 10,
     "day": 28,
-    "year": 2005
+    "year": 2005,
+    "tags": ""
   },
   {
     "goal": 9,
@@ -80,7 +88,8 @@
     "goalie": "Mikael Tellqvist",
     "month": 11,
     "day": 6,
-    "year": 2005
+    "year": 2005,
+    "tags": ""
   },
   {
     "goal": 10,
@@ -89,7 +98,8 @@
     "goalie": "Mikael Tellqvist",
     "month": 11,
     "day": 6,
-    "year": 2005
+    "year": 2005,
+    "tags": ""
   },
   {
     "goal": 11,
@@ -98,7 +108,8 @@
     "goalie": "Ed Belfour",
     "month": 11,
     "day": 8,
-    "year": 2005
+    "year": 2005,
+    "tags": ""
   },
   {
     "goal": 12,
@@ -107,7 +118,8 @@
     "goalie": "Ed Belfour",
     "month": 11,
     "day": 8,
-    "year": 2005
+    "year": 2005,
+    "tags": ""
   },
   {
     "goal": 13,
@@ -116,7 +128,8 @@
     "goalie": "Martin Brodeur",
     "month": 11,
     "day": 11,
-    "year": 2005
+    "year": 2005,
+    "tags": ""
   },
   {
     "goal": 14,
@@ -125,7 +138,8 @@
     "goalie": "Sean Burke",
     "month": 11,
     "day": 15,
-    "year": 2005
+    "year": 2005,
+    "tags": ""
   },
   {
     "goal": 15,
@@ -134,7 +148,8 @@
     "goalie": "Martin Biron",
     "month": 11,
     "day": 17,
-    "year": 2005
+    "year": 2005,
+    "tags": ""
   },
   {
     "goal": 16,
@@ -143,7 +158,8 @@
     "goalie": "Henrik Lundqvist",
     "month": 12,
     "day": 3,
-    "year": 2005
+    "year": 2005,
+    "tags": ""
   },
   {
     "goal": 17,
@@ -152,7 +168,8 @@
     "goalie": "Chris Mason",
     "month": 12,
     "day": 7,
-    "year": 2005
+    "year": 2005,
+    "tags": ""
   },
   {
     "goal": 18,
@@ -161,7 +178,8 @@
     "goalie": "Chris Osgood",
     "month": 12,
     "day": 9,
-    "year": 2005
+    "year": 2005,
+    "tags": ""
   },
   {
     "goal": 19,
@@ -170,7 +188,8 @@
     "goalie": "Michael Garnett",
     "month": 12,
     "day": 22,
-    "year": 2005
+    "year": 2005,
+    "tags": ""
   },
   {
     "goal": 20,
@@ -181,7 +200,8 @@
     "goalie": "Cristobal Huet",
     "month": 12,
     "day": 23,
-    "year": 2005
+    "year": 2005,
+    "tags": ""
   },
   {
     "goal": 21,
@@ -190,7 +210,8 @@
     "goalie": "Hannu Toivonen",
     "month": 12,
     "day": 27,
-    "year": 2005
+    "year": 2005,
+    "tags": ""
   },
   {
     "goal": 22,
@@ -199,7 +220,8 @@
     "goalie": "Martin Brodeur",
     "month": 12,
     "day": 28,
-    "year": 2005
+    "year": 2005,
+    "tags": ""
   },
   {
     "goal": 23,
@@ -208,7 +230,8 @@
     "goalie": "Antero Niittymäki",
     "month": 12,
     "day": 31,
-    "year": 2005
+    "year": 2005,
+    "tags": ""
   },
   {
     "goal": 24,
@@ -217,7 +240,8 @@
     "goalie": "Kari Lehtonen",
     "month": 1,
     "day": 1,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 25,
@@ -226,7 +250,8 @@
     "goalie": "Antero Niittymäki",
     "month": 1,
     "day": 6,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 26,
@@ -235,7 +260,8 @@
     "goalie": "Adam Munro",
     "month": 1,
     "day": 10,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 27,
@@ -244,7 +270,8 @@
     "goalie": "Matry Turco",
     "month": 1,
     "day": 12,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 28,
@@ -253,7 +280,8 @@
     "goalie": "Jean-Sébastien Giguère",
     "month": 1,
     "day": 13,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 29,
@@ -262,7 +290,8 @@
     "goalie": "Jean-Sébastien Giguère",
     "month": 1,
     "day": 13,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 30,
@@ -273,7 +302,8 @@
     "goalie": "Jean-Sébastien Giguère",
     "month": 1,
     "day": 13,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 31,
@@ -282,7 +312,8 @@
     "goalie": "Brian Boucher",
     "month": 1,
     "day": 16,
-    "year": 2006
+    "year": 2006,
+    "tags": "Arizona"
   },
   {
     "goal": 32,
@@ -293,7 +324,8 @@
     "goalie": "Brian Boucher",
     "month": 1,
     "day": 16,
-    "year": 2006
+    "year": 2006,
+    "tags": "Arizona"
   },
   {
     "goal": 33,
@@ -302,7 +334,8 @@
     "goalie": "Curtis Sanford",
     "month": 1,
     "day": 19,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 34,
@@ -311,7 +344,8 @@
     "goalie": "Marc-André Fleury",
     "month": 1,
     "day": 25,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 35,
@@ -320,7 +354,8 @@
     "goalie": "Robert Esche",
     "month": 2,
     "day": 10,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 36,
@@ -329,7 +364,8 @@
     "goalie": "Marc-André Fleury",
     "month": 2,
     "day": 11,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 37,
@@ -338,7 +374,8 @@
     "goalie": "Ed Belfour",
     "month": 2,
     "day": 28,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 38,
@@ -347,7 +384,8 @@
     "goalie": "Ray Emery",
     "month": 3,
     "day": 2,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 39,
@@ -356,7 +394,8 @@
     "goalie": "Kari Lehtonen",
     "month": 3,
     "day": 4,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 40,
@@ -367,7 +406,8 @@
     "goalie": "Garth Snow",
     "month": 3,
     "day": 6,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 41,
@@ -376,7 +416,8 @@
     "goalie": "Garth Snow",
     "month": 3,
     "day": 6,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 42,
@@ -385,7 +426,8 @@
     "goalie": "Sébastien Caron",
     "month": 3,
     "day": 8,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 43,
@@ -394,7 +436,8 @@
     "goalie": "Ryan Miller",
     "month": 3,
     "day": 14,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 44,
@@ -403,7 +446,8 @@
     "goalie": "Cristobal Huet",
     "month": 3,
     "day": 20,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 45,
@@ -412,7 +456,8 @@
     "goalie": "John Grahame",
     "month": 3,
     "day": 23,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 46,
@@ -421,7 +466,8 @@
     "goalie": "John Grahame",
     "month": 3,
     "day": 23,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 47,
@@ -430,7 +476,8 @@
     "goalie": "Martin Gerber",
     "month": 3,
     "day": 25,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 48,
@@ -439,7 +486,8 @@
     "goalie": "Cam Ward",
     "month": 3,
     "day": 29,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 49,
@@ -450,7 +498,8 @@
     "goalie": "Tim Thomas",
     "month": 4,
     "day": 10,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 50,
@@ -461,7 +510,8 @@
     "goalie": "Mike Dunham",
     "month": 4,
     "day": 13,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 51,
@@ -470,7 +520,8 @@
     "goalie": "Jamie McLennan",
     "month": 4,
     "day": 15,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 52,
@@ -481,7 +532,8 @@
     "goalie": "Mike Dunham",
     "month": 4,
     "day": 17,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 53,
@@ -492,7 +544,8 @@
     "goalie": "Cam Ward",
     "month": 10,
     "day": 7,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 54,
@@ -501,7 +554,8 @@
     "goalie": "Cam Ward",
     "month": 10,
     "day": 7,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 55,
@@ -510,7 +564,8 @@
     "goalie": "Kari Lehtonen",
     "month": 10,
     "day": 19,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 56,
@@ -519,7 +574,8 @@
     "goalie": "Marc Denis",
     "month": 10,
     "day": 21,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 57,
@@ -528,7 +584,8 @@
     "goalie": "Peter Budaj",
     "month": 10,
     "day": 25,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 58,
@@ -537,7 +594,8 @@
     "goalie": "Roberto Luongo",
     "month": 10,
     "day": 27,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 59,
@@ -546,7 +604,8 @@
     "goalie": "Robert Esche",
     "month": 11,
     "day": 4,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 60,
@@ -555,7 +614,8 @@
     "goalie": "Robert Esche",
     "month": 11,
     "day": 4,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 61,
@@ -564,7 +624,8 @@
     "goalie": "Martin Gerber",
     "month": 11,
     "day": 6,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 62,
@@ -573,7 +634,8 @@
     "goalie": "Martin Gerber",
     "month": 11,
     "day": 6,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 63,
@@ -582,7 +644,8 @@
     "goalie": "Henrik Lundqvist",
     "month": 11,
     "day": 11,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 64,
@@ -591,7 +654,8 @@
     "goalie": "Alex Auld",
     "month": 11,
     "day": 13,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 65,
@@ -600,7 +664,8 @@
     "goalie": "Tim Thomas",
     "month": 11,
     "day": 18,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 66,
@@ -609,7 +674,8 @@
     "goalie": "Andrew Raycroft",
     "month": 11,
     "day": 24,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 67,
@@ -618,7 +684,8 @@
     "goalie": "Rick DiPietro",
     "month": 11,
     "day": 25,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 68,
@@ -627,7 +694,8 @@
     "goalie": "Empty Net",
     "month": 11,
     "day": 28,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 69,
@@ -636,7 +704,8 @@
     "goalie": "Ryan Miller",
     "month": 12,
     "day": 2,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 70,
@@ -645,7 +714,8 @@
     "goalie": "Antero Niittymäki",
     "month": 12,
     "day": 9,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 71,
@@ -654,7 +724,8 @@
     "goalie": "Kari Lehtonen",
     "month": 12,
     "day": 15,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 72,
@@ -665,7 +736,8 @@
     "goalie": "Kari Lehtonen",
     "month": 12,
     "day": 15,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 73,
@@ -676,7 +748,8 @@
     "goalie": "Kari Lehtonen",
     "month": 12,
     "day": 15,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 74,
@@ -685,7 +758,8 @@
     "goalie": "Antero Niittymäki",
     "month": 12,
     "day": 16,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 75,
@@ -694,7 +768,8 @@
     "goalie": "Marc Denis",
     "month": 12,
     "day": 19,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 76,
@@ -703,7 +778,8 @@
     "goalie": "Andrew Raycroft",
     "month": 12,
     "day": 23,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 77,
@@ -712,7 +788,8 @@
     "goalie": "Ryan Miller",
     "month": 12,
     "day": 26,
-    "year": 2006
+    "year": 2006,
+    "tags": ""
   },
   {
     "goal": 78,
@@ -721,7 +798,8 @@
     "goalie": "Kari Lehtonen",
     "month": 1,
     "day": 6,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 79,
@@ -730,7 +808,8 @@
     "goalie": "Robert Esche",
     "month": 1,
     "day": 9,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 80,
@@ -739,7 +818,8 @@
     "goalie": "Robert Esche",
     "month": 1,
     "day": 9,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 81,
@@ -748,7 +828,8 @@
     "goalie": "Empty Net",
     "month": 1,
     "day": 18,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 82,
@@ -759,7 +840,8 @@
     "goalie": "Cam Ward",
     "month": 1,
     "day": 26,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 83,
@@ -768,7 +850,8 @@
     "goalie": "Cam Ward",
     "month": 1,
     "day": 27,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 84,
@@ -777,7 +860,8 @@
     "goalie": "Martin Gerber",
     "month": 1,
     "day": 30,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 85,
@@ -786,7 +870,8 @@
     "goalie": "Ed Belfour",
     "month": 2,
     "day": 1,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 86,
@@ -795,7 +880,8 @@
     "goalie": "Henrik Lundqvist",
     "month": 2,
     "day": 10,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 87,
@@ -804,7 +890,8 @@
     "goalie": "Scott Clemmensen",
     "month": 2,
     "day": 25,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 88,
@@ -813,7 +900,8 @@
     "goalie": "Ed Belfour",
     "month": 2,
     "day": 27,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 89,
@@ -822,7 +910,8 @@
     "goalie": "Ed Belfour",
     "month": 2,
     "day": 27,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 90,
@@ -831,7 +920,8 @@
     "goalie": "Johan Holmqvist",
     "month": 3,
     "day": 1,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 91,
@@ -840,7 +930,8 @@
     "goalie": "Rick DiPietro",
     "month": 3,
     "day": 10,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 92,
@@ -851,7 +942,8 @@
     "goalie": "Kari Lehtonen",
     "month": 3,
     "day": 12,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 93,
@@ -860,7 +952,8 @@
     "goalie": "Kari Lehtonen",
     "month": 3,
     "day": 12,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 94,
@@ -869,7 +962,8 @@
     "goalie": "John Grahame",
     "month": 3,
     "day": 22,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 95,
@@ -878,7 +972,8 @@
     "goalie": "John Grahame",
     "month": 3,
     "day": 22,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 96,
@@ -887,7 +982,8 @@
     "goalie": "Craig Anderson",
     "month": 4,
     "day": 3,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 97,
@@ -896,7 +992,8 @@
     "goalie": "Kari Lehtonen",
     "month": 4,
     "day": 4,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 98,
@@ -907,7 +1004,8 @@
     "goalie": "Kari Lehtonen",
     "month": 4,
     "day": 4,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 99,
@@ -918,7 +1016,8 @@
     "goalie": "John Grahame",
     "month": 10,
     "day": 6,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 100,
@@ -929,7 +1028,8 @@
     "goalie": "Henrik Lundqvist",
     "month": 10,
     "day": 12,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 101,
@@ -938,7 +1038,8 @@
     "goalie": "Ryan Miller",
     "month": 10,
     "day": 13,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 102,
@@ -947,7 +1048,8 @@
     "goalie": "Rick DiPietro",
     "month": 10,
     "day": 18,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 103,
@@ -956,7 +1058,8 @@
     "goalie": "Empty Net",
     "month": 10,
     "day": 24,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 104,
@@ -965,7 +1068,8 @@
     "goalie": "Roberto Luongo",
     "month": 10,
     "day": 26,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 105,
@@ -974,7 +1078,8 @@
     "goalie": "Vesa Toskala",
     "month": 10,
     "day": 29,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 106,
@@ -983,7 +1088,8 @@
     "goalie": "Andrew Raycroft",
     "month": 10,
     "day": 29,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 107,
@@ -992,7 +1098,8 @@
     "goalie": "Antero Niittymäki",
     "month": 11,
     "day": 2,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 108,
@@ -1001,7 +1108,8 @@
     "goalie": "Ray Emery",
     "month": 11,
     "day": 8,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 109,
@@ -1010,7 +1118,8 @@
     "goalie": "Johan Holmqvist",
     "month": 11,
     "day": 10,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 110,
@@ -1019,7 +1128,8 @@
     "goalie": "Tomáš Vokoun",
     "month": 11,
     "day": 15,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 111,
@@ -1028,7 +1138,8 @@
     "goalie": "Johan Holmqvist",
     "month": 11,
     "day": 16,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 112,
@@ -1037,7 +1148,8 @@
     "goalie": "Johan Hedberg",
     "month": 11,
     "day": 21,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 113,
@@ -1046,7 +1158,8 @@
     "goalie": "John Grahame",
     "month": 11,
     "day": 24,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 114,
@@ -1055,7 +1168,8 @@
     "goalie": "John Grahame",
     "month": 11,
     "day": 24,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 115,
@@ -1064,7 +1178,8 @@
     "goalie": "Ryan Miller",
     "month": 11,
     "day": 26,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 116,
@@ -1073,7 +1188,8 @@
     "goalie": "Cam Ward",
     "month": 11,
     "day": 30,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 117,
@@ -1082,7 +1198,8 @@
     "goalie": "Cam Ward",
     "month": 11,
     "day": 30,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 118,
@@ -1093,7 +1210,8 @@
     "goalie": "Tomáš Vokoun",
     "month": 12,
     "day": 1,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 119,
@@ -1102,7 +1220,8 @@
     "goalie": "Kari Lehtonen",
     "month": 12,
     "day": 8,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 120,
@@ -1111,7 +1230,8 @@
     "goalie": "Henrik Lundqvist",
     "month": 12,
     "day": 12,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 121,
@@ -1120,7 +1240,8 @@
     "goalie": "Ryan Miller",
     "month": 12,
     "day": 14,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 122,
@@ -1129,7 +1250,8 @@
     "goalie": "Dominik Hasek",
     "month": 12,
     "day": 17,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 123,
@@ -1138,7 +1260,8 @@
     "goalie": "Rick DiPietro",
     "month": 12,
     "day": 22,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 124,
@@ -1147,7 +1270,8 @@
     "goalie": "Ty Conklin",
     "month": 12,
     "day": 27,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 125,
@@ -1156,7 +1280,8 @@
     "goalie": "Martin Gerber",
     "month": 12,
     "day": 29,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 126,
@@ -1165,7 +1290,8 @@
     "goalie": "Martin Gerber",
     "month": 12,
     "day": 29,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 127,
@@ -1176,7 +1302,8 @@
     "goalie": "Martin Gerber",
     "month": 12,
     "day": 29,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 128,
@@ -1187,7 +1314,8 @@
     "goalie": "Empty Net",
     "month": 12,
     "day": 29,
-    "year": 2007
+    "year": 2007,
+    "tags": ""
   },
   {
     "goal": 129,
@@ -1196,7 +1324,8 @@
     "goalie": "Carey Price",
     "month": 1,
     "day": 5,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 130,
@@ -1205,7 +1334,8 @@
     "goalie": "Carey Price",
     "month": 1,
     "day": 5,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 131,
@@ -1214,7 +1344,8 @@
     "goalie": "Martin Biron",
     "month": 1,
     "day": 13,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 132,
@@ -1223,7 +1354,8 @@
     "goalie": "Ray Emery",
     "month": 1,
     "day": 15,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 133,
@@ -1232,7 +1364,8 @@
     "goalie": "Dwayne Roloson",
     "month": 1,
     "day": 17,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 134,
@@ -1241,7 +1374,8 @@
     "goalie": "Tomáš Vokoun",
     "month": 1,
     "day": 19,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 135,
@@ -1250,7 +1384,8 @@
     "goalie": "Dany Sabourin",
     "month": 1,
     "day": 21,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 136,
@@ -1259,7 +1394,8 @@
     "goalie": "Dany Sabourin",
     "month": 1,
     "day": 21,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 137,
@@ -1268,7 +1404,8 @@
     "goalie": "Vesa Toskala",
     "month": 1,
     "day": 23,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 138,
@@ -1279,7 +1416,8 @@
     "goalie": "Cristobal Huet",
     "month": 1,
     "day": 28,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 139,
@@ -1288,7 +1426,8 @@
     "goalie": "Cristobal Huet",
     "month": 1,
     "day": 28,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 140,
@@ -1299,7 +1438,8 @@
     "goalie": "Cristobal Huet",
     "month": 1,
     "day": 28,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 141,
@@ -1310,7 +1450,8 @@
     "goalie": "Cristobal Huet",
     "month": 1,
     "day": 28,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 142,
@@ -1319,7 +1460,8 @@
     "goalie": "Pascal Leclaire",
     "month": 2,
     "day": 5,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 143,
@@ -1328,7 +1470,8 @@
     "goalie": "Fredrik Norrena",
     "month": 2,
     "day": 5,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 144,
@@ -1337,7 +1480,8 @@
     "goalie": "Martin Biron",
     "month": 2,
     "day": 6,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 145,
@@ -1346,7 +1490,8 @@
     "goalie": "Stephen Valiquette",
     "month": 2,
     "day": 10,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 146,
@@ -1355,7 +1500,8 @@
     "goalie": "Kari Lehtonen",
     "month": 2,
     "day": 13,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 147,
@@ -1364,7 +1510,8 @@
     "goalie": "Vesa Toskala",
     "month": 3,
     "day": 1,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 148,
@@ -1375,7 +1522,8 @@
     "goalie": "Tim Thomas",
     "month": 3,
     "day": 3,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 149,
@@ -1384,7 +1532,8 @@
     "goalie": "Tim Thomas",
     "month": 3,
     "day": 3,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 150,
@@ -1395,7 +1544,8 @@
     "goalie": "Tim Thomas",
     "month": 3,
     "day": 3,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 151,
@@ -1404,7 +1554,8 @@
     "goalie": "Ryan Miller",
     "month": 3,
     "day": 8,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 152,
@@ -1413,7 +1564,8 @@
     "goalie": "Ryan Miller",
     "month": 3,
     "day": 8,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 153,
@@ -1422,7 +1574,8 @@
     "goalie": "Miikka Kiprusoff",
     "month": 3,
     "day": 12,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 154,
@@ -1431,7 +1584,8 @@
     "goalie": "Miikka Kiprusoff",
     "month": 3,
     "day": 12,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 155,
@@ -1440,7 +1594,8 @@
     "goalie": "Kari Lehtonen",
     "month": 3,
     "day": 14,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 156,
@@ -1449,7 +1604,8 @@
     "goalie": "Empty Net",
     "month": 3,
     "day": 18,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 157,
@@ -1458,7 +1614,8 @@
     "goalie": "Kari Lehtonen",
     "month": 3,
     "day": 21,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 158,
@@ -1469,7 +1626,8 @@
     "goalie": "Kari Lehtonen",
     "month": 3,
     "day": 21,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 159,
@@ -1478,7 +1636,8 @@
     "goalie": "Cam Ward",
     "month": 3,
     "day": 25,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 160,
@@ -1487,7 +1646,8 @@
     "goalie": "Tomáš Vokoun",
     "month": 3,
     "day": 29,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 161,
@@ -1496,7 +1656,8 @@
     "goalie": "Cam Ward",
     "month": 4,
     "day": 1,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 162,
@@ -1505,7 +1666,8 @@
     "goalie": "Karri Rämö",
     "month": 4,
     "day": 3,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 163,
@@ -1516,7 +1678,8 @@
     "goalie": "Karri Rämö",
     "month": 4,
     "day": 3,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 164,
@@ -1527,7 +1690,8 @@
     "goalie": "Nikolai Khabibulin",
     "month": 10,
     "day": 11,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 165,
@@ -1536,7 +1700,8 @@
     "goalie": "Nikolai Khabibulin",
     "month": 10,
     "day": 11,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 166,
@@ -1545,7 +1710,8 @@
     "goalie": "Olaf Kolzig",
     "month": 11,
     "day": 10,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 167,
@@ -1554,7 +1720,8 @@
     "goalie": "Michael Leighton",
     "month": 11,
     "day": 12,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 168,
@@ -1563,7 +1730,8 @@
     "goalie": "Empty Net",
     "month": 11,
     "day": 14,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 169,
@@ -1572,7 +1740,8 @@
     "goalie": "Scott Clemmensen",
     "month": 11,
     "day": 15,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 170,
@@ -1581,7 +1750,8 @@
     "goalie": "Scott Clemmensen",
     "month": 11,
     "day": 15,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 171,
@@ -1590,7 +1760,8 @@
     "goalie": "Jean-Sébastien Giguère",
     "month": 11,
     "day": 19,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 172,
@@ -1599,7 +1770,8 @@
     "goalie": "Niklas Bäckström",
     "month": 11,
     "day": 24,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 173,
@@ -1608,7 +1780,8 @@
     "goalie": "Ondřej Pavelec",
     "month": 11,
     "day": 26,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 174,
@@ -1617,7 +1790,8 @@
     "goalie": "Ondřej Pavelec",
     "month": 11,
     "day": 26,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 175,
@@ -1628,7 +1802,8 @@
     "goalie": "Ondřej Pavelec",
     "month": 11,
     "day": 26,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 176,
@@ -1637,7 +1812,8 @@
     "goalie": "Jaroslav Halák",
     "month": 11,
     "day": 28,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 177,
@@ -1646,7 +1822,8 @@
     "goalie": "Joey MacDonald",
     "month": 12,
     "day": 4,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 178,
@@ -1655,7 +1832,8 @@
     "goalie": "Empty Net",
     "month": 12,
     "day": 10,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 179,
@@ -1664,7 +1842,8 @@
     "goalie": "Alex Auld",
     "month": 12,
     "day": 12,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 180,
@@ -1673,7 +1852,8 @@
     "goalie": "Alex Auld",
     "month": 12,
     "day": 12,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 181,
@@ -1682,7 +1862,8 @@
     "goalie": "Joey MacDonald",
     "month": 12,
     "day": 16,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 182,
@@ -1691,7 +1872,8 @@
     "goalie": "Joey MacDonald",
     "month": 12,
     "day": 16,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 183,
@@ -1702,7 +1884,8 @@
     "goalie": "Ben Bishop",
     "month": 12,
     "day": 18,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 184,
@@ -1711,7 +1894,8 @@
     "goalie": "Henrik Lundqvist",
     "month": 12,
     "day": 23,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 185,
@@ -1720,7 +1904,8 @@
     "goalie": "Henrik Lundqvist",
     "month": 12,
     "day": 23,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 186,
@@ -1729,7 +1914,8 @@
     "goalie": "Patrick Lalime",
     "month": 12,
     "day": 26,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 187,
@@ -1738,7 +1924,8 @@
     "goalie": "Vesa Toskala",
     "month": 12,
     "day": 28,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 188,
@@ -1747,7 +1934,8 @@
     "goalie": "Empty Net",
     "month": 12,
     "day": 28,
-    "year": 2008
+    "year": 2008,
+    "tags": ""
   },
   {
     "goal": 189,
@@ -1756,7 +1944,8 @@
     "goalie": "Mike Smith",
     "month": 1,
     "day": 1,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 190,
@@ -1765,7 +1954,8 @@
     "goalie": "Stephen Valiquette",
     "month": 1,
     "day": 3,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 191,
@@ -1774,7 +1964,8 @@
     "goalie": "Marc-André Fleury",
     "month": 1,
     "day": 14,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 192,
@@ -1783,7 +1974,8 @@
     "goalie": "Marc-André Fleury",
     "month": 1,
     "day": 14,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 193,
@@ -1794,7 +1986,8 @@
     "goalie": "Yann Danis",
     "month": 1,
     "day": 19,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 194,
@@ -1803,7 +1996,8 @@
     "goalie": "Yann Danis",
     "month": 1,
     "day": 19,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 195,
@@ -1812,7 +2006,8 @@
     "goalie": "Ty Conklin",
     "month": 1,
     "day": 31,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 196,
@@ -1821,7 +2016,8 @@
     "goalie": "Ty Conklin",
     "month": 1,
     "day": 31,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 197,
@@ -1830,7 +2026,8 @@
     "goalie": "Brian Elliott",
     "month": 2,
     "day": 1,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 198,
@@ -1839,7 +2036,8 @@
     "goalie": "Brian Elliott",
     "month": 2,
     "day": 1,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 199,
@@ -1850,7 +2048,8 @@
     "goalie": "Alex Auld",
     "month": 2,
     "day": 1,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 200,
@@ -1861,7 +2060,8 @@
     "goalie": "Jonathan Quick",
     "month": 2,
     "day": 5,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 201,
@@ -1870,7 +2070,8 @@
     "goalie": "Mike McKenna",
     "month": 2,
     "day": 14,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 202,
@@ -1879,7 +2080,8 @@
     "goalie": "Tomáš Vokoun",
     "month": 2,
     "day": 15,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 203,
@@ -1890,7 +2092,8 @@
     "goalie": "Tomáš Vokoun",
     "month": 2,
     "day": 15,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 204,
@@ -1901,7 +2104,8 @@
     "goalie": "Empty Net",
     "month": 2,
     "day": 15,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 205,
@@ -1912,7 +2116,8 @@
     "goalie": "Carey Price",
     "month": 2,
     "day": 18,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 206,
@@ -1921,7 +2126,8 @@
     "goalie": "Marc-André Fleury",
     "month": 2,
     "day": 22,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 207,
@@ -1930,7 +2136,8 @@
     "goalie": "Antero Niittymäki",
     "month": 2,
     "day": 24,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 208,
@@ -1939,7 +2146,8 @@
     "goalie": "Tim Thomas",
     "month": 2,
     "day": 28,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 209,
@@ -1948,7 +2156,8 @@
     "goalie": "Craig Anderson",
     "month": 3,
     "day": 1,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 210,
@@ -1957,7 +2166,8 @@
     "goalie": "Marc-André Fleury",
     "month": 3,
     "day": 8,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 211,
@@ -1966,7 +2176,8 @@
     "goalie": "Martin Biron",
     "month": 3,
     "day": 12,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 212,
@@ -1975,7 +2186,8 @@
     "goalie": "Cam Ward",
     "month": 3,
     "day": 14,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 213,
@@ -1986,7 +2198,8 @@
     "goalie": "Mike McKenna",
     "month": 3,
     "day": 19,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 214,
@@ -1995,7 +2208,8 @@
     "goalie": "Martin Gerber",
     "month": 3,
     "day": 24,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 215,
@@ -2004,7 +2218,8 @@
     "goalie": "Mike McKenna",
     "month": 3,
     "day": 27,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 216,
@@ -2013,7 +2228,8 @@
     "goalie": "Empty Net",
     "month": 3,
     "day": 27,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 217,
@@ -2022,7 +2238,8 @@
     "goalie": "Joey MacDonald",
     "month": 4,
     "day": 1,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 218,
@@ -2031,7 +2248,8 @@
     "goalie": "Ryan Miller",
     "month": 4,
     "day": 3,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 219,
@@ -2042,7 +2260,8 @@
     "goalie": "Tomáš Vokoun",
     "month": 4,
     "day": 11,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 220,
@@ -2053,7 +2272,8 @@
     "goalie": "Tim Thomas",
     "month": 10,
     "day": 1,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 221,
@@ -2062,7 +2282,8 @@
     "goalie": "Tim Thomas",
     "month": 10,
     "day": 1,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 222,
@@ -2071,7 +2292,8 @@
     "goalie": "Vesa Toskala",
     "month": 10,
     "day": 3,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 223,
@@ -2080,7 +2302,8 @@
     "goalie": "Ray Emery",
     "month": 10,
     "day": 6,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 224,
@@ -2089,7 +2312,8 @@
     "goalie": "Ray Emery",
     "month": 10,
     "day": 6,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 225,
@@ -2098,7 +2322,8 @@
     "goalie": "Evgeni Nabokov",
     "month": 10,
     "day": 15,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 226,
@@ -2107,7 +2332,8 @@
     "goalie": "Evgeni Nabokov",
     "month": 10,
     "day": 15,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 227,
@@ -2116,7 +2342,8 @@
     "goalie": "Dan Ellis",
     "month": 10,
     "day": 17,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 228,
@@ -2125,7 +2352,8 @@
     "goalie": "Dan Ellis",
     "month": 10,
     "day": 17,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 229,
@@ -2134,7 +2362,8 @@
     "goalie": "Ray Emery",
     "month": 10,
     "day": 27,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 230,
@@ -2143,7 +2372,8 @@
     "goalie": "Empty Net",
     "month": 10,
     "day": 27,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 231,
@@ -2152,7 +2382,8 @@
     "goalie": "Ondřej Pavelec",
     "month": 10,
     "day": 29,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 232,
@@ -2161,7 +2392,8 @@
     "goalie": "Ondřej Pavelec",
     "month": 10,
     "day": 29,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 233,
@@ -2170,7 +2402,8 @@
     "goalie": "Dwayne Roloson",
     "month": 10,
     "day": 30,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 234,
@@ -2179,7 +2412,8 @@
     "goalie": "Henrik Lundqvist",
     "month": 11,
     "day": 17,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 235,
@@ -2188,7 +2422,8 @@
     "goalie": "Vesa Toskala",
     "month": 11,
     "day": 21,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 236,
@@ -2197,7 +2432,8 @@
     "goalie": "Ryan Miller",
     "month": 11,
     "day": 25,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 237,
@@ -2206,7 +2442,8 @@
     "goalie": "Carey Price",
     "month": 11,
     "day": 28,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 238,
@@ -2215,7 +2452,8 @@
     "goalie": "Mike Smith",
     "month": 12,
     "day": 7,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 239,
@@ -2226,7 +2464,8 @@
     "goalie": "Mike Smith",
     "month": 12,
     "day": 7,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 240,
@@ -2235,7 +2474,8 @@
     "goalie": "Vesa Toskala",
     "month": 12,
     "day": 12,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 241,
@@ -2244,7 +2484,8 @@
     "goalie": "Jeff Deslauriers",
     "month": 12,
     "day": 19,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 242,
@@ -2253,7 +2494,8 @@
     "goalie": "Jeff Deslauriers",
     "month": 12,
     "day": 19,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 243,
@@ -2262,7 +2504,8 @@
     "goalie": "Ryan Miller",
     "month": 12,
     "day": 23,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 244,
@@ -2271,7 +2514,8 @@
     "goalie": "Martin Brodeur",
     "month": 12,
     "day": 26,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 245,
@@ -2280,7 +2524,8 @@
     "goalie": "Evgeni Nabokov",
     "month": 12,
     "day": 30,
-    "year": 2009
+    "year": 2009,
+    "tags": ""
   },
   {
     "goal": 246,
@@ -2289,7 +2534,8 @@
     "goalie": "Pascal Leclaire",
     "month": 1,
     "day": 7,
-    "year": 2010
+    "year": 2010,
+    "tags": ""
   },
   {
     "goal": 247,
@@ -2298,7 +2544,8 @@
     "goalie": "Tomáš Vokoun",
     "month": 1,
     "day": 13,
-    "year": 2010
+    "year": 2010,
+    "tags": ""
   },
   {
     "goal": 248,
@@ -2307,7 +2554,8 @@
     "goalie": "Vesa Toskala",
     "month": 1,
     "day": 15,
-    "year": 2010
+    "year": 2010,
+    "tags": ""
   },
   {
     "goal": 249,
@@ -2318,7 +2566,8 @@
     "goalie": "Ray Emery",
     "month": 1,
     "day": 17,
-    "year": 2010
+    "year": 2010,
+    "tags": ""
   },
   {
     "goal": 250,
@@ -2327,7 +2576,8 @@
     "goalie": "Brent Johnson",
     "month": 1,
     "day": 21,
-    "year": 2010
+    "year": 2010,
+    "tags": ""
   },
   {
     "goal": 251,
@@ -2336,7 +2586,8 @@
     "goalie": "Empty Net",
     "month": 1,
     "day": 21,
-    "year": 2010
+    "year": 2010,
+    "tags": ""
   },
   {
     "goal": 252,
@@ -2345,7 +2596,8 @@
     "goalie": "Empty Net",
     "month": 1,
     "day": 23,
-    "year": 2010
+    "year": 2010,
+    "tags": "Arizona"
   },
   {
     "goal": 253,
@@ -2354,7 +2606,8 @@
     "goalie": "Jean-Sébastien Giguère",
     "month": 1,
     "day": 27,
-    "year": 2010
+    "year": 2010,
+    "tags": ""
   },
   {
     "goal": 254,
@@ -2363,7 +2616,8 @@
     "goalie": "Mike Smith",
     "month": 1,
     "day": 31,
-    "year": 2010
+    "year": 2010,
+    "tags": ""
   },
   {
     "goal": 255,
@@ -2372,7 +2626,8 @@
     "goalie": "Empty Net",
     "month": 2,
     "day": 2,
-    "year": 2010
+    "year": 2010,
+    "tags": ""
   },
   {
     "goal": 256,
@@ -2381,7 +2636,8 @@
     "goalie": "Henrik Lundqvist",
     "month": 2,
     "day": 4,
-    "year": 2010
+    "year": 2010,
+    "tags": ""
   },
   {
     "goal": 257,
@@ -2392,7 +2648,8 @@
     "goalie": "Henrik Lundqvist",
     "month": 2,
     "day": 4,
-    "year": 2010
+    "year": 2010,
+    "tags": ""
   },
   {
     "goal": 258,
@@ -2401,7 +2658,8 @@
     "goalie": "Ondřej Pavelec",
     "month": 2,
     "day": 5,
-    "year": 2010
+    "year": 2010,
+    "tags": ""
   },
   {
     "goal": 259,
@@ -2412,7 +2670,8 @@
     "goalie": "Marc-André Fleury",
     "month": 2,
     "day": 7,
-    "year": 2010
+    "year": 2010,
+    "tags": ""
   },
   {
     "goal": 260,
@@ -2421,7 +2680,8 @@
     "goalie": "Marc-André Fleury",
     "month": 2,
     "day": 7,
-    "year": 2010
+    "year": 2010,
+    "tags": ""
   },
   {
     "goal": 261,
@@ -2432,7 +2692,8 @@
     "goalie": "Marc-André Fleury",
     "month": 2,
     "day": 7,
-    "year": 2010
+    "year": 2010,
+    "tags": ""
   },
   {
     "goal": 262,
@@ -2441,7 +2702,8 @@
     "goalie": "Marty Turco",
     "month": 3,
     "day": 8,
-    "year": 2010
+    "year": 2010,
+    "tags": ""
   },
   {
     "goal": 263,
@@ -2450,7 +2712,8 @@
     "goalie": "Marty Turco",
     "month": 3,
     "day": 8,
-    "year": 2010
+    "year": 2010,
+    "tags": ""
   },
   {
     "goal": 264,
@@ -2459,7 +2722,8 @@
     "goalie": "Antero Niittymäki",
     "month": 3,
     "day": 20,
-    "year": 2010
+    "year": 2010,
+    "tags": ""
   },
   {
     "goal": 265,
@@ -2468,7 +2732,8 @@
     "goalie": "Miikka Kiprusoff",
     "month": 3,
     "day": 28,
-    "year": 2010
+    "year": 2010,
+    "tags": ""
   },
   {
     "goal": 266,
@@ -2477,7 +2742,8 @@
     "goalie": "Brent Johnson",
     "month": 4,
     "day": 6,
-    "year": 2010
+    "year": 2010,
+    "tags": ""
   },
   {
     "goal": 267,
@@ -2486,7 +2752,8 @@
     "goalie": "Empty Net",
     "month": 4,
     "day": 6,
-    "year": 2010
+    "year": 2010,
+    "tags": ""
   },
   {
     "goal": 268,
@@ -2495,7 +2762,8 @@
     "goalie": "Ondřej Pavelec",
     "month": 4,
     "day": 9,
-    "year": 2010
+    "year": 2010,
+    "tags": ""
   },
   {
     "goal": 269,
@@ -2506,7 +2774,8 @@
     "goalie": "Ondřej Pavelec",
     "month": 4,
     "day": 9,
-    "year": 2010
+    "year": 2010,
+    "tags": ""
   },
   {
     "goal": 270,
@@ -2517,7 +2786,8 @@
     "goalie": "Martin Brodeur",
     "month": 10,
     "day": 9,
-    "year": 2010
+    "year": 2010,
+    "tags": ""
   },
   {
     "goal": 271,
@@ -2528,7 +2798,8 @@
     "goalie": "Martin Brodeur",
     "month": 10,
     "day": 9,
-    "year": 2010
+    "year": 2010,
+    "tags": ""
   },
   {
     "goal": 272,
@@ -2537,7 +2808,8 @@
     "goalie": "Pascal Leclaire",
     "month": 10,
     "day": 11,
-    "year": 2010
+    "year": 2010,
+    "tags": ""
   },
   {
     "goal": 273,
@@ -2546,7 +2818,8 @@
     "goalie": "Dwayne Roloson",
     "month": 10,
     "day": 13,
-    "year": 2010
+    "year": 2010,
+    "tags": ""
   },
   {
     "goal": 274,
@@ -2555,7 +2828,8 @@
     "goalie": "Niklas Bäckström",
     "month": 10,
     "day": 28,
-    "year": 2010
+    "year": 2010,
+    "tags": ""
   },
   {
     "goal": 275,
@@ -2564,7 +2838,8 @@
     "goalie": "Miikka Kiprusoff",
     "month": 10,
     "day": 30,
-    "year": 2010
+    "year": 2010,
+    "tags": ""
   },
   {
     "goal": 276,
@@ -2573,7 +2848,8 @@
     "goalie": "Miikka Kiprusoff",
     "month": 10,
     "day": 30,
-    "year": 2010
+    "year": 2010,
+    "tags": ""
   },
   {
     "goal": 277,
@@ -2582,7 +2858,8 @@
     "goalie": "Empty Net",
     "month": 11,
     "day": 5,
-    "year": 2010
+    "year": 2010,
+    "tags": ""
   },
   {
     "goal": 278,
@@ -2591,7 +2868,8 @@
     "goalie": "Dan Ellis",
     "month": 11,
     "day": 11,
-    "year": 2010
+    "year": 2010,
+    "tags": ""
   },
   {
     "goal": 279,
@@ -2600,7 +2878,8 @@
     "goalie": "Chris Mason",
     "month": 11,
     "day": 14,
-    "year": 2010
+    "year": 2010,
+    "tags": ""
   },
   {
     "goal": 280,
@@ -2609,7 +2888,8 @@
     "goalie": "Ondřej Pavelec",
     "month": 12,
     "day": 4,
-    "year": 2010
+    "year": 2010,
+    "tags": ""
   },
   {
     "goal": 281,
@@ -2618,7 +2898,8 @@
     "goalie": "Jonas Gustavsson",
     "month": 12,
     "day": 6,
-    "year": 2010
+    "year": 2010,
+    "tags": ""
   },
   {
     "goal": 282,
@@ -2627,7 +2908,8 @@
     "goalie": "Cam Ward",
     "month": 12,
     "day": 26,
-    "year": 2010
+    "year": 2010,
+    "tags": ""
   },
   {
     "goal": 283,
@@ -2636,7 +2918,8 @@
     "goalie": "Empty Net",
     "month": 12,
     "day": 28,
-    "year": 2010
+    "year": 2010,
+    "tags": ""
   },
   {
     "goal": 284,
@@ -2645,7 +2928,8 @@
     "goalie": "Scott Clemmensen",
     "month": 1,
     "day": 8,
-    "year": 2011
+    "year": 2011,
+    "tags": ""
   },
   {
     "goal": 285,
@@ -2654,7 +2938,8 @@
     "goalie": "Sergei Bobrovsky",
     "month": 1,
     "day": 18,
-    "year": 2011
+    "year": 2011,
+    "tags": ""
   },
   {
     "goal": 286,
@@ -2663,7 +2948,8 @@
     "goalie": "Jean-Sébastien Giguère",
     "month": 1,
     "day": 22,
-    "year": 2011
+    "year": 2011,
+    "tags": ""
   },
   {
     "goal": 287,
@@ -2672,7 +2958,8 @@
     "goalie": "Jean-Sébastien Giguère",
     "month": 1,
     "day": 22,
-    "year": 2011
+    "year": 2011,
+    "tags": ""
   },
   {
     "goal": 288,
@@ -2683,7 +2970,8 @@
     "goalie": "Empty Net",
     "month": 1,
     "day": 22,
-    "year": 2011
+    "year": 2011,
+    "tags": ""
   },
   {
     "goal": 289,
@@ -2694,7 +2982,8 @@
     "goalie": "Dwayne Roloson",
     "month": 2,
     "day": 4,
-    "year": 2011
+    "year": 2011,
+    "tags": ""
   },
   {
     "goal": 290,
@@ -2703,7 +2992,8 @@
     "goalie": "Jonathan Bernier",
     "month": 2,
     "day": 12,
-    "year": 2011
+    "year": 2011,
+    "tags": ""
   },
   {
     "goal": 291,
@@ -2712,7 +3002,8 @@
     "goalie": "Curtis McElhinney",
     "month": 2,
     "day": 16,
-    "year": 2011
+    "year": 2011,
+    "tags": ""
   },
   {
     "goal": 292,
@@ -2721,7 +3012,8 @@
     "goalie": "Antti Niemi",
     "month": 2,
     "day": 17,
-    "year": 2011
+    "year": 2011,
+    "tags": ""
   },
   {
     "goal": 293,
@@ -2730,7 +3022,8 @@
     "goalie": "Marc-André Fleury",
     "month": 2,
     "day": 21,
-    "year": 2011
+    "year": 2011,
+    "tags": ""
   },
   {
     "goal": 294,
@@ -2739,7 +3032,8 @@
     "goalie": "Nathan Lawson",
     "month": 3,
     "day": 1,
-    "year": 2011
+    "year": 2011,
+    "tags": ""
   },
   {
     "goal": 295,
@@ -2748,7 +3042,8 @@
     "goalie": "Nikolai Khabibulin",
     "month": 3,
     "day": 9,
-    "year": 2011
+    "year": 2011,
+    "tags": ""
   },
   {
     "goal": 296,
@@ -2757,7 +3052,8 @@
     "goalie": "Nikolai Khabibulin",
     "month": 3,
     "day": 9,
-    "year": 2011
+    "year": 2011,
+    "tags": ""
   },
   {
     "goal": 297,
@@ -2766,7 +3062,8 @@
     "goalie": "Cam Ward",
     "month": 3,
     "day": 11,
-    "year": 2011
+    "year": 2011,
+    "tags": ""
   },
   {
     "goal": 298,
@@ -2775,7 +3072,8 @@
     "goalie": "Jimmy Howard",
     "month": 3,
     "day": 16,
-    "year": 2011
+    "year": 2011,
+    "tags": ""
   },
   {
     "goal": 299,
@@ -2786,7 +3084,8 @@
     "goalie": "Jhonas Enroth",
     "month": 4,
     "day": 2,
-    "year": 2011
+    "year": 2011,
+    "tags": ""
   },
   {
     "goal": 300,
@@ -2797,7 +3096,8 @@
     "goalie": "James Reimer",
     "month": 4,
     "day": 5,
-    "year": 2011
+    "year": 2011,
+    "tags": ""
   },
   {
     "goal": 301,
@@ -2808,7 +3108,8 @@
     "goalie": "Empty Net",
     "month": 4,
     "day": 6,
-    "year": 2011
+    "year": 2011,
+    "tags": ""
   },
   {
     "goal": 302,
@@ -2819,7 +3120,8 @@
     "goalie": "Brent Johnson",
     "month": 10,
     "day": 13,
-    "year": 2011
+    "year": 2011,
+    "tags": ""
   },
   {
     "goal": 303,
@@ -2828,7 +3130,8 @@
     "goalie": "Ilya Bryzgalov",
     "month": 10,
     "day": 20,
-    "year": 2011
+    "year": 2011,
+    "tags": ""
   },
   {
     "goal": 304,
@@ -2837,7 +3140,8 @@
     "goalie": "Ilya Bryzgalov",
     "month": 10,
     "day": 20,
-    "year": 2011
+    "year": 2011,
+    "tags": ""
   },
   {
     "goal": 305,
@@ -2846,7 +3150,8 @@
     "goalie": "Roberto Luongo",
     "month": 10,
     "day": 29,
-    "year": 2011
+    "year": 2011,
+    "tags": ""
   },
   {
     "goal": 306,
@@ -2855,7 +3160,8 @@
     "goalie": "Roberto Luongo",
     "month": 10,
     "day": 29,
-    "year": 2011
+    "year": 2011,
+    "tags": ""
   },
   {
     "goal": 307,
@@ -2864,7 +3170,8 @@
     "goalie": "Rick DiPietro",
     "month": 11,
     "day": 5,
-    "year": 2011
+    "year": 2011,
+    "tags": ""
   },
   {
     "goal": 308,
@@ -2873,7 +3180,8 @@
     "goalie": "Martin Brodeur",
     "month": 11,
     "day": 11,
-    "year": 2011
+    "year": 2011,
+    "tags": ""
   },
   {
     "goal": 309,
@@ -2882,7 +3190,8 @@
     "goalie": "Henrik Lundqvist",
     "month": 11,
     "day": 25,
-    "year": 2011
+    "year": 2011,
+    "tags": ""
   },
   {
     "goal": 310,
@@ -2891,7 +3200,8 @@
     "goalie": "Craig Anderson",
     "month": 12,
     "day": 7,
-    "year": 2011
+    "year": 2011,
+    "tags": ""
   },
   {
     "goal": 311,
@@ -2900,7 +3210,8 @@
     "goalie": "Ondřej Pavelec",
     "month": 12,
     "day": 15,
-    "year": 2011
+    "year": 2011,
+    "tags": ""
   },
   {
     "goal": 312,
@@ -2909,7 +3220,8 @@
     "goalie": "Anders Lindbäck",
     "month": 12,
     "day": 20,
-    "year": 2011
+    "year": 2011,
+    "tags": ""
   },
   {
     "goal": 313,
@@ -2918,7 +3230,8 @@
     "goalie": "Ryan Miller",
     "month": 12,
     "day": 26,
-    "year": 2011
+    "year": 2011,
+    "tags": ""
   },
   {
     "goal": 314,
@@ -2927,7 +3240,8 @@
     "goalie": "Ryan Miller",
     "month": 12,
     "day": 30,
-    "year": 2011
+    "year": 2011,
+    "tags": ""
   },
   {
     "goal": 315,
@@ -2936,7 +3250,8 @@
     "goalie": "Ryan Miller",
     "month": 12,
     "day": 30,
-    "year": 2011
+    "year": 2011,
+    "tags": ""
   },
   {
     "goal": 316,
@@ -2945,7 +3260,8 @@
     "goalie": "Steve Mason",
     "month": 12,
     "day": 31,
-    "year": 2011
+    "year": 2011,
+    "tags": ""
   },
   {
     "goal": 317,
@@ -2954,7 +3270,8 @@
     "goalie": "Steve Mason",
     "month": 12,
     "day": 31,
-    "year": 2011
+    "year": 2011,
+    "tags": ""
   },
   {
     "goal": 318,
@@ -2963,7 +3280,8 @@
     "goalie": "Miikka Kiprusoff",
     "month": 1,
     "day": 3,
-    "year": 2012
+    "year": 2012,
+    "tags": ""
   },
   {
     "goal": 319,
@@ -2972,7 +3290,8 @@
     "goalie": "Ben Bishop",
     "month": 1,
     "day": 13,
-    "year": 2012
+    "year": 2012,
+    "tags": ""
   },
   {
     "goal": 320,
@@ -2981,7 +3300,8 @@
     "goalie": "Carey Price",
     "month": 1,
     "day": 18,
-    "year": 2012
+    "year": 2012,
+    "tags": ""
   },
   {
     "goal": 321,
@@ -2992,7 +3312,8 @@
     "goalie": "Marc-André Fleury",
     "month": 1,
     "day": 22,
-    "year": 2012
+    "year": 2012,
+    "tags": ""
   },
   {
     "goal": 322,
@@ -3001,7 +3322,8 @@
     "goalie": "Scott Clemmensen",
     "month": 2,
     "day": 7,
-    "year": 2012
+    "year": 2012,
+    "tags": ""
   },
   {
     "goal": 323,
@@ -3010,7 +3332,8 @@
     "goalie": "Scott Clemmensen",
     "month": 2,
     "day": 7,
-    "year": 2012
+    "year": 2012,
+    "tags": ""
   },
   {
     "goal": 324,
@@ -3019,7 +3342,8 @@
     "goalie": "Ondřej Pavelec",
     "month": 2,
     "day": 9,
-    "year": 2012
+    "year": 2012,
+    "tags": ""
   },
   {
     "goal": 325,
@@ -3028,7 +3352,8 @@
     "goalie": "José Théodore",
     "month": 2,
     "day": 17,
-    "year": 2012
+    "year": 2012,
+    "tags": ""
   },
   {
     "goal": 326,
@@ -3037,7 +3362,8 @@
     "goalie": "Carey Price",
     "month": 2,
     "day": 24,
-    "year": 2012
+    "year": 2012,
+    "tags": ""
   },
   {
     "goal": 327,
@@ -3046,7 +3372,8 @@
     "goalie": "Evgeni Nabokov",
     "month": 2,
     "day": 28,
-    "year": 2012
+    "year": 2012,
+    "tags": ""
   },
   {
     "goal": 328,
@@ -3055,7 +3382,8 @@
     "goalie": "Dustin Tokarski",
     "month": 3,
     "day": 8,
-    "year": 2012
+    "year": 2012,
+    "tags": ""
   },
   {
     "goal": 329,
@@ -3064,7 +3392,8 @@
     "goalie": "Evgeni Nabokov",
     "month": 3,
     "day": 13,
-    "year": 2012
+    "year": 2012,
+    "tags": ""
   },
   {
     "goal": 330,
@@ -3073,7 +3402,8 @@
     "goalie": "Evgeni Nabokov",
     "month": 3,
     "day": 13,
-    "year": 2012
+    "year": 2012,
+    "tags": ""
   },
   {
     "goal": 331,
@@ -3083,7 +3413,8 @@
     "goalie": "Corey Crawford",
     "month": 3,
     "day": 18,
-    "year": 2012
+    "year": 2012,
+    "tags": ""
   },
   {
     "goal": 332,
@@ -3092,7 +3423,8 @@
     "goalie": "Jimmy Howard",
     "month": 3,
     "day": 19,
-    "year": 2012
+    "year": 2012,
+    "tags": ""
   },
   {
     "goal": 333,
@@ -3101,7 +3433,8 @@
     "goalie": "Jimmy Howard",
     "month": 3,
     "day": 19,
-    "year": 2012
+    "year": 2012,
+    "tags": ""
   },
   {
     "goal": 334,
@@ -3110,7 +3443,8 @@
     "goalie": "Sergei Bobrovsky",
     "month": 3,
     "day": 22,
-    "year": 2012
+    "year": 2012,
+    "tags": ""
   },
   {
     "goal": 335,
@@ -3119,7 +3453,8 @@
     "goalie": "Ondřej Pavelec",
     "month": 3,
     "day": 23,
-    "year": 2012
+    "year": 2012,
+    "tags": ""
   },
   {
     "goal": 336,
@@ -3128,7 +3463,8 @@
     "goalie": "Ondřej Pavelec",
     "month": 3,
     "day": 23,
-    "year": 2012
+    "year": 2012,
+    "tags": ""
   },
   {
     "goal": 337,
@@ -3137,7 +3473,8 @@
     "goalie": "Matthew Hackett",
     "month": 3,
     "day": 25,
-    "year": 2012
+    "year": 2012,
+    "tags": ""
   },
   {
     "goal": 338,
@@ -3146,7 +3483,8 @@
     "goalie": "José Théodore",
     "month": 4,
     "day": 5,
-    "year": 2012
+    "year": 2012,
+    "tags": ""
   },
   {
     "goal": 339,
@@ -3157,7 +3495,8 @@
     "goalie": "Henrik Lundqvist",
     "month": 4,
     "day": 7,
-    "year": 2012
+    "year": 2012,
+    "tags": ""
   },
   {
     "goal": 340,
@@ -3168,7 +3507,8 @@
     "goalie": "Ryan Miller",
     "month": 1,
     "day": 27,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 341,
@@ -3177,7 +3517,8 @@
     "goalie": "James Reimer",
     "month": 1,
     "day": 31,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 342,
@@ -3186,7 +3527,8 @@
     "goalie": "Marc-André Fleury",
     "month": 2,
     "day": 7,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 343,
@@ -3195,7 +3537,8 @@
     "goalie": "José Théodore",
     "month": 2,
     "day": 12,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 344,
@@ -3204,7 +3547,8 @@
     "goalie": "Scott Clemmensen",
     "month": 2,
     "day": 13,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 345,
@@ -3213,7 +3557,8 @@
     "goalie": "Johan Hedberg",
     "month": 2,
     "day": 23,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 346,
@@ -3222,7 +3567,8 @@
     "goalie": "Johan Hedberg",
     "month": 2,
     "day": 23,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 347,
@@ -3233,7 +3579,8 @@
     "goalie": "Johan Hedberg",
     "month": 2,
     "day": 23,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 348,
@@ -3242,7 +3589,8 @@
     "goalie": "Scott Clemmensen",
     "month": 3,
     "day": 7,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 349,
@@ -3251,7 +3599,8 @@
     "goalie": "Dan Ellis",
     "month": 3,
     "day": 14,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 350,
@@ -3260,7 +3609,8 @@
     "goalie": "Ryan Miller",
     "month": 3,
     "day": 17,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 351,
@@ -3269,7 +3619,8 @@
     "goalie": "Marc-André Fleury",
     "month": 3,
     "day": 19,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 352,
@@ -3278,7 +3629,8 @@
     "goalie": "Ondřej Pavelec",
     "month": 3,
     "day": 21,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 353,
@@ -3287,7 +3639,8 @@
     "goalie": "Al Montoya",
     "month": 3,
     "day": 22,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 354,
@@ -3296,7 +3649,8 @@
     "goalie": "Al Montoya",
     "month": 3,
     "day": 22,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 355,
@@ -3305,7 +3659,8 @@
     "goalie": "Henrik Lundqvist",
     "month": 3,
     "day": 24,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 356,
@@ -3314,7 +3669,8 @@
     "goalie": "Jhonas Enroth",
     "month": 3,
     "day": 30,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 357,
@@ -3323,7 +3679,8 @@
     "goalie": "Ilya Bryzgalov",
     "month": 3,
     "day": 31,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 358,
@@ -3332,7 +3689,8 @@
     "goalie": "Dan Ellis",
     "month": 4,
     "day": 2,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 359,
@@ -3343,7 +3701,8 @@
     "goalie": "Justin Peters",
     "month": 4,
     "day": 2,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 360,
@@ -3352,7 +3711,8 @@
     "goalie": "Jacob Markström",
     "month": 4,
     "day": 6,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 361,
@@ -3361,7 +3721,8 @@
     "goalie": "Jacob Markström",
     "month": 4,
     "day": 6,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 362,
@@ -3372,7 +3733,8 @@
     "goalie": "Jacob Markström",
     "month": 4,
     "day": 6,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 363,
@@ -3381,7 +3743,8 @@
     "goalie": "Ben Bishop",
     "month": 4,
     "day": 7,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 364,
@@ -3390,7 +3753,8 @@
     "goalie": "Empty Net",
     "month": 4,
     "day": 7,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 365,
@@ -3399,7 +3763,8 @@
     "goalie": "Carey Price",
     "month": 4,
     "day": 9,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 366,
@@ -3408,7 +3773,8 @@
     "goalie": "Ben Bishop",
     "month": 4,
     "day": 13,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 367,
@@ -3417,7 +3783,8 @@
     "goalie": "Ben Scrivens",
     "month": 4,
     "day": 16,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 368,
@@ -3426,7 +3793,8 @@
     "goalie": "Carey Price",
     "month": 4,
     "day": 20,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 369,
@@ -3437,7 +3805,8 @@
     "goalie": "Carey Price",
     "month": 4,
     "day": 20,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 370,
@@ -3446,7 +3815,8 @@
     "goalie": "Empty Net",
     "month": 4,
     "day": 23,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 371,
@@ -3457,7 +3827,8 @@
     "goalie": "Craig Anderson",
     "month": 4,
     "day": 25,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 372,
@@ -3468,7 +3839,8 @@
     "goalie": "Corey Crawford",
     "month": 10,
     "day": 1,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 373,
@@ -3477,7 +3849,8 @@
     "goalie": "Karri Rämö",
     "month": 10,
     "day": 3,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 374,
@@ -3486,7 +3859,8 @@
     "goalie": "Karri Rämö",
     "month": 10,
     "day": 3,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 375,
@@ -3495,7 +3869,8 @@
     "goalie": "Kari Lehtonen",
     "month": 10,
     "day": 5,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 376,
@@ -3504,7 +3879,8 @@
     "goalie": "Anton Khudobin",
     "month": 10,
     "day": 10,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 377,
@@ -3513,7 +3889,8 @@
     "goalie": "Jason LaBarbera",
     "month": 10,
     "day": 14,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 378,
@@ -3522,7 +3899,8 @@
     "goalie": "Sergei Bobrovsky",
     "month": 10,
     "day": 19,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 379,
@@ -3531,7 +3909,8 @@
     "goalie": "Ondřej Pavelec",
     "month": 10,
     "day": 22,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 380,
@@ -3540,7 +3919,8 @@
     "goalie": "Ondřej Pavelec",
     "month": 10,
     "day": 22,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 381,
@@ -3549,7 +3929,8 @@
     "goalie": "Devan Dubnyk",
     "month": 10,
     "day": 24,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 382,
@@ -3558,7 +3939,8 @@
     "goalie": "Evgeni Nabokov",
     "month": 11,
     "day": 5,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 383,
@@ -3567,7 +3949,8 @@
     "goalie": "Evgeni Nabokov",
     "month": 11,
     "day": 5,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 384,
@@ -3576,7 +3959,8 @@
     "goalie": "Josh Harding",
     "month": 11,
     "day": 7,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 385,
@@ -3585,7 +3969,8 @@
     "goalie": "Sergei Bobrovsky",
     "month": 11,
     "day": 12,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 386,
@@ -3594,7 +3979,8 @@
     "goalie": "Jimmy Howard",
     "month": 11,
     "day": 15,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 387,
@@ -3603,7 +3989,8 @@
     "goalie": "Jaroslav Halák",
     "month": 11,
     "day": 17,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 388,
@@ -3612,7 +3999,8 @@
     "goalie": "Jaroslav Halák",
     "month": 11,
     "day": 17,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 389,
@@ -3621,7 +4009,8 @@
     "goalie": "Peter Budaj",
     "month": 11,
     "day": 22,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 390,
@@ -3630,7 +4019,8 @@
     "goalie": "Peter Budaj",
     "month": 11,
     "day": 22,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 391,
@@ -3641,7 +4031,8 @@
     "goalie": "James Reimer",
     "month": 11,
     "day": 23,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 392,
@@ -3650,7 +4041,8 @@
     "goalie": "Anders Nilsson",
     "month": 11,
     "day": 30,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 393,
@@ -3659,7 +4051,8 @@
     "goalie": "Marek Mazanec",
     "month": 12,
     "day": 7,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 394,
@@ -3668,7 +4061,8 @@
     "goalie": "Ben Bishop",
     "month": 12,
     "day": 10,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 395,
@@ -3677,7 +4071,8 @@
     "goalie": "Ben Bishop",
     "month": 12,
     "day": 10,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 396,
@@ -3688,7 +4083,8 @@
     "goalie": "Ben Bishop",
     "month": 12,
     "day": 10,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 397,
@@ -3699,7 +4095,8 @@
     "goalie": "Ben Bishop",
     "month": 12,
     "day": 10,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 398,
@@ -3708,7 +4105,8 @@
     "goalie": "Steve Mason",
     "month": 12,
     "day": 15,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 399,
@@ -3717,7 +4115,8 @@
     "goalie": "Steve Mason",
     "month": 12,
     "day": 17,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 400,
@@ -3728,7 +4127,8 @@
     "goalie": "Empty Net",
     "month": 12,
     "day": 20,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 401,
@@ -3739,7 +4139,8 @@
     "goalie": "Martin Brodeur",
     "month": 12,
     "day": 21,
-    "year": 2013
+    "year": 2013,
+    "tags": ""
   },
   {
     "goal": 402,
@@ -3748,7 +4149,8 @@
     "goalie": "Anton Khudobin",
     "month": 1,
     "day": 2,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 403,
@@ -3757,7 +4159,8 @@
     "goalie": "Jonathan Bernier",
     "month": 1,
     "day": 10,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 404,
@@ -3766,7 +4169,8 @@
     "goalie": "Antti Niemi",
     "month": 1,
     "day": 14,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 405,
@@ -3775,7 +4179,8 @@
     "goalie": "Marc-André Fleury",
     "month": 1,
     "day": 15,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 406,
@@ -3784,7 +4189,8 @@
     "goalie": "Henrik Lundqvist",
     "month": 1,
     "day": 19,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 407,
@@ -3793,7 +4199,8 @@
     "goalie": "Carey Price",
     "month": 1,
     "day": 25,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 408,
@@ -3802,7 +4209,8 @@
     "goalie": "Jhonas Enroth",
     "month": 1,
     "day": 28,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 409,
@@ -3811,7 +4219,8 @@
     "goalie": "Jhonas Enroth",
     "month": 1,
     "day": 28,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 410,
@@ -3820,7 +4229,8 @@
     "goalie": "Jimmy Howard",
     "month": 2,
     "day": 2,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 411,
@@ -3831,7 +4241,8 @@
     "goalie": "Ondřej Pavelec",
     "month": 2,
     "day": 6,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 412,
@@ -3840,7 +4251,8 @@
     "goalie": "Tim Thomas",
     "month": 2,
     "day": 27,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 413,
@@ -3849,7 +4261,8 @@
     "goalie": "Tuukka Rask",
     "month": 3,
     "day": 1,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 414,
@@ -3860,7 +4273,8 @@
     "goalie": "Tuukka Rask",
     "month": 3,
     "day": 1,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 415,
@@ -3869,7 +4283,8 @@
     "goalie": "Steve Mason",
     "month": 3,
     "day": 5,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 416,
@@ -3878,7 +4293,8 @@
     "goalie": "Eddie Läck",
     "month": 3,
     "day": 14,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 417,
@@ -3887,7 +4303,8 @@
     "goalie": "Jonas Hiller",
     "month": 3,
     "day": 18,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 418,
@@ -3896,7 +4313,8 @@
     "goalie": "Jonathan Quick",
     "month": 3,
     "day": 25,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 419,
@@ -3905,7 +4323,8 @@
     "goalie": "Jonathan Quick",
     "month": 3,
     "day": 25,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 420,
@@ -3914,7 +4333,8 @@
     "goalie": "Cory Schneider",
     "month": 4,
     "day": 4,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 421,
@@ -3925,7 +4345,8 @@
     "goalie": "Ryan Miller",
     "month": 4,
     "day": 8,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 422,
@@ -3936,7 +4357,8 @@
     "goalie": "Corey Crawford",
     "month": 4,
     "day": 11,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 423,
@@ -3947,7 +4369,8 @@
     "goalie": "Tuukka Rask",
     "month": 10,
     "day": 11,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 424,
@@ -3956,7 +4379,8 @@
     "goalie": "Tuukka Rask",
     "month": 10,
     "day": 11,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 425,
@@ -3965,7 +4389,8 @@
     "goalie": "Antti Niemi",
     "month": 10,
     "day": 14,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 426,
@@ -3974,7 +4399,8 @@
     "goalie": "Antti Niemi",
     "month": 10,
     "day": 14,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 427,
@@ -3983,7 +4409,8 @@
     "goalie": "Cory Schneider",
     "month": 10,
     "day": 16,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 428,
@@ -3992,7 +4419,8 @@
     "goalie": "Devan Dubnyk",
     "month": 11,
     "day": 2,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 429,
@@ -4001,7 +4429,8 @@
     "goalie": "Curtis McElhinney",
     "month": 11,
     "day": 11,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 430,
@@ -4010,7 +4439,8 @@
     "goalie": "Curtis McElhinney",
     "month": 11,
     "day": 11,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 431,
@@ -4019,7 +4449,8 @@
     "goalie": "Reto Berra",
     "month": 11,
     "day": 20,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 432,
@@ -4028,7 +4459,8 @@
     "goalie": "Jaroslav Halák",
     "month": 11,
     "day": 26,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 433,
@@ -4037,7 +4469,8 @@
     "goalie": "Jaroslav Halák",
     "month": 11,
     "day": 26,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 434,
@@ -4046,7 +4479,8 @@
     "goalie": "Chad Johnson",
     "month": 11,
     "day": 28,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 435,
@@ -4055,7 +4489,8 @@
     "goalie": "Ben Bishop",
     "month": 12,
     "day": 9,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 436,
@@ -4064,7 +4499,8 @@
     "goalie": "Empty Net",
     "month": 12,
     "day": 9,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 437,
@@ -4073,7 +4509,8 @@
     "goalie": "Cory Schneider",
     "month": 12,
     "day": 20,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 438,
@@ -4082,7 +4519,8 @@
     "goalie": "Henrik Lundqvist",
     "month": 12,
     "day": 23,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 439,
@@ -4091,7 +4529,8 @@
     "goalie": "Jaroslav Halák",
     "month": 12,
     "day": 29,
-    "year": 2014
+    "year": 2014,
+    "tags": ""
   },
   {
     "goal": 440,
@@ -4102,7 +4541,8 @@
     "goalie": "Corey Crawford",
     "month": 1,
     "day": 1,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 441,
@@ -4111,7 +4551,8 @@
     "goalie": "Roberto Luongo",
     "month": 1,
     "day": 4,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 442,
@@ -4122,7 +4563,8 @@
     "goalie": "Empty Net",
     "month": 1,
     "day": 7,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 443,
@@ -4131,7 +4573,8 @@
     "goalie": "Steve Mason",
     "month": 1,
     "day": 8,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 444,
@@ -4140,7 +4583,8 @@
     "goalie": "Semyon Varlamov",
     "month": 1,
     "day": 12,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 445,
@@ -4149,7 +4593,8 @@
     "goalie": "Carter Hutton",
     "month": 1,
     "day": 16,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 446,
@@ -4158,7 +4603,8 @@
     "goalie": "Carter Hutton",
     "month": 1,
     "day": 16,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 447,
@@ -4167,7 +4613,8 @@
     "goalie": "Kari Lehtonen",
     "month": 1,
     "day": 17,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 448,
@@ -4176,7 +4623,8 @@
     "goalie": "Viktor Fasth",
     "month": 1,
     "day": 20,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 449,
@@ -4185,7 +4633,8 @@
     "goalie": "Viktor Fasth",
     "month": 1,
     "day": 20,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 450,
@@ -4194,7 +4643,8 @@
     "goalie": "Marc-André Fleury",
     "month": 1,
     "day": 28,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 451,
@@ -4203,7 +4653,8 @@
     "goalie": "Marc-André Fleury",
     "month": 1,
     "day": 28,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 452,
@@ -4214,7 +4665,8 @@
     "goalie": "Brian Elliott",
     "month": 2,
     "day": 1,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 453,
@@ -4223,7 +4675,8 @@
     "goalie": "Brian Elliott",
     "month": 2,
     "day": 1,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 454,
@@ -4232,7 +4685,8 @@
     "goalie": "Robin Lehner",
     "month": 2,
     "day": 5,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 455,
@@ -4241,7 +4695,8 @@
     "goalie": "Ray Emery",
     "month": 2,
     "day": 8,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 456,
@@ -4250,7 +4705,8 @@
     "goalie": "Jonathan Quick",
     "month": 2,
     "day": 14,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 457,
@@ -4259,7 +4715,8 @@
     "goalie": "John Gibson",
     "month": 2,
     "day": 15,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 458,
@@ -4268,7 +4725,8 @@
     "goalie": "John Gibson",
     "month": 2,
     "day": 15,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 459,
@@ -4277,7 +4735,8 @@
     "goalie": "Marc-André Fleury",
     "month": 2,
     "day": 17,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 460,
@@ -4286,7 +4745,8 @@
     "goalie": "Ondřej Pavelec",
     "month": 2,
     "day": 19,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 461,
@@ -4295,7 +4755,8 @@
     "goalie": "Marc-André Fleury",
     "month": 2,
     "day": 25,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 462,
@@ -4306,7 +4767,8 @@
     "goalie": "James Reimer",
     "month": 3,
     "day": 1,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 463,
@@ -4315,7 +4777,8 @@
     "goalie": "James Reimer",
     "month": 3,
     "day": 1,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 464,
@@ -4324,7 +4787,8 @@
     "goalie": "Sergei Bobrovsky",
     "month": 3,
     "day": 3,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 465,
@@ -4333,7 +4797,8 @@
     "goalie": "Sergei Bobrovsky",
     "month": 3,
     "day": 3,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 466,
@@ -4342,7 +4807,8 @@
     "goalie": "Matthew Hackett",
     "month": 3,
     "day": 3,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 467,
@@ -4351,7 +4817,8 @@
     "goalie": "Cam Talbot",
     "month": 3,
     "day": 11,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 468,
@@ -4360,7 +4827,8 @@
     "goalie": "Devan Dubnyk",
     "month": 3,
     "day": 19,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 469,
@@ -4369,7 +4837,8 @@
     "goalie": "Devan Dubnyk",
     "month": 3,
     "day": 19,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 470,
@@ -4378,7 +4847,8 @@
     "goalie": "Cam Talbot",
     "month": 3,
     "day": 29,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 471,
@@ -4387,7 +4857,8 @@
     "goalie": "Cam Talbot",
     "month": 3,
     "day": 29,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 472,
@@ -4398,7 +4869,8 @@
     "goalie": "Cam Ward",
     "month": 3,
     "day": 31,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 473,
@@ -4409,7 +4881,8 @@
     "goalie": "Carey Price",
     "month": 4,
     "day": 2,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 474,
@@ -4418,7 +4891,8 @@
     "goalie": "Carey Price",
     "month": 4,
     "day": 2,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 475,
@@ -4429,7 +4903,8 @@
     "goalie": "Henrik Lundqvist",
     "month": 4,
     "day": 11,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 476,
@@ -4440,7 +4915,8 @@
     "goalie": "Keith Kinkaid",
     "month": 10,
     "day": 10,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 477,
@@ -4449,7 +4925,8 @@
     "goalie": "Scott Darling",
     "month": 10,
     "day": 15,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 478,
@@ -4458,7 +4935,8 @@
     "goalie": "Cam Ward",
     "month": 10,
     "day": 17,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 479,
@@ -4469,7 +4947,8 @@
     "goalie": "Karri Rämö",
     "month": 10,
     "day": 20,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 480,
@@ -4478,7 +4957,8 @@
     "goalie": "Ryan Miller",
     "month": 10,
     "day": 22,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 481,
@@ -4487,7 +4967,8 @@
     "goalie": "Henrik Lundqvist",
     "month": 11,
     "day": 3,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 482,
@@ -4496,7 +4977,8 @@
     "goalie": "Tuukka Rask",
     "month": 11,
     "day": 5,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 483,
@@ -4505,7 +4987,8 @@
     "goalie": "James Reimer",
     "month": 11,
     "day": 7,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 484,
@@ -4514,7 +4997,8 @@
     "goalie": "Kari Lehtonen",
     "month": 11,
     "day": 19,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 485,
@@ -4523,7 +5007,8 @@
     "goalie": "Reto Berra",
     "month": 11,
     "day": 21,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 486,
@@ -4532,7 +5017,8 @@
     "goalie": "Connor Hellebuyck",
     "month": 11,
     "day": 25,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 487,
@@ -4541,7 +5027,8 @@
     "goalie": "Andrei Vasilevskiy",
     "month": 11,
     "day": 27,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 488,
@@ -4550,7 +5037,8 @@
     "goalie": "Jimmy Howard",
     "month": 12,
     "day": 8,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 489,
@@ -4559,7 +5047,8 @@
     "goalie": "Al Montoya",
     "month": 12,
     "day": 10,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 490,
@@ -4568,7 +5057,8 @@
     "goalie": "Ben Bishop",
     "month": 12,
     "day": 18,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 491,
@@ -4577,7 +5067,8 @@
     "goalie": "Ben Bishop",
     "month": 12,
     "day": 18,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 492,
@@ -4586,7 +5077,8 @@
     "goalie": "Henrik Lundqvist",
     "month": 12,
     "day": 20,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 493,
@@ -4595,7 +5087,8 @@
     "goalie": "Linus Ullmark",
     "month": 12,
     "day": 28,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 494,
@@ -4604,7 +5097,8 @@
     "goalie": "Chad Johnson",
     "month": 12,
     "day": 30,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 495,
@@ -4615,7 +5109,8 @@
     "goalie": "Empty Net",
     "month": 12,
     "day": 30,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 496,
@@ -4624,7 +5119,8 @@
     "goalie": "Eddie Läck",
     "month": 12,
     "day": 31,
-    "year": 2015
+    "year": 2015,
+    "tags": ""
   },
   {
     "goal": 497,
@@ -4633,7 +5129,8 @@
     "goalie": "Jaroslav Halák",
     "month": 1,
     "day": 7,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 498,
@@ -4642,7 +5139,8 @@
     "goalie": "Henrik Lundqvist",
     "month": 1,
     "day": 9,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 499,
@@ -4651,7 +5149,8 @@
     "goalie": "Henrik Lundqvist",
     "month": 1,
     "day": 9,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 500,
@@ -4662,7 +5161,8 @@
     "goalie": "Andrew Hammond",
     "month": 1,
     "day": 10,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 501,
@@ -4671,7 +5171,8 @@
     "goalie": "Andrew Hammond",
     "month": 1,
     "day": 10,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 502,
@@ -4680,7 +5181,8 @@
     "goalie": "Antti Raanta",
     "month": 1,
     "day": 17,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 503,
@@ -4691,7 +5193,8 @@
     "goalie": "Sergei Bobrovsky",
     "month": 1,
     "day": 19,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 504,
@@ -4700,7 +5203,8 @@
     "goalie": "Jaroslav Halák",
     "month": 2,
     "day": 4,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 505,
@@ -4711,7 +5215,8 @@
     "goalie": "Steve Mason",
     "month": 2,
     "day": 7,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 506,
@@ -4720,7 +5225,8 @@
     "goalie": "Empty Net",
     "month": 2,
     "day": 9,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 507,
@@ -4731,7 +5237,8 @@
     "goalie": "Devan Dubnyk",
     "month": 2,
     "day": 11,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 508,
@@ -4740,7 +5247,8 @@
     "goalie": "Devan Dubnyk",
     "month": 2,
     "day": 11,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 509,
@@ -4751,7 +5259,8 @@
     "goalie": "Devan Dubnyk",
     "month": 2,
     "day": 11,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 510,
@@ -4760,7 +5269,8 @@
     "goalie": "Kari Lehtonen",
     "month": 2,
     "day": 13,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 511,
@@ -4769,7 +5279,8 @@
     "goalie": "Thomas Greiss",
     "month": 2,
     "day": 18,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 512,
@@ -4780,7 +5291,8 @@
     "goalie": "Thomas Greiss",
     "month": 2,
     "day": 18,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 513,
@@ -4791,7 +5303,8 @@
     "goalie": "Cory Schneider",
     "month": 2,
     "day": 20,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 514,
@@ -4800,7 +5313,8 @@
     "goalie": "Louis Domingue",
     "month": 2,
     "day": 22,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 515,
@@ -4811,7 +5325,8 @@
     "goalie": "Darcy Kuemper",
     "month": 2,
     "day": 26,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 516,
@@ -4820,7 +5335,8 @@
     "goalie": "Jonathan Bernier",
     "month": 3,
     "day": 2,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 517,
@@ -4829,7 +5345,8 @@
     "goalie": "Eddie Läck",
     "month": 3,
     "day": 15,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 518,
@@ -4840,7 +5357,8 @@
     "goalie": "Craig Anderson",
     "month": 3,
     "day": 22,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 519,
@@ -4849,7 +5367,8 @@
     "goalie": "Steve Mason",
     "month": 3,
     "day": 30,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 520,
@@ -4858,7 +5377,8 @@
     "goalie": "Semyon Varlamov",
     "month": 4,
     "day": 1,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 521,
@@ -4867,7 +5387,8 @@
     "goalie": "Christopher Gibson",
     "month": 4,
     "day": 5,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 522,
@@ -4878,7 +5399,8 @@
     "goalie": "Christopher Gibson",
     "month": 4,
     "day": 5,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 523,
@@ -4887,7 +5409,8 @@
     "goalie": "Brian Elliott",
     "month": 4,
     "day": 9,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 524,
@@ -4898,7 +5421,8 @@
     "goalie": "Brian Elliott",
     "month": 4,
     "day": 9,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 525,
@@ -4909,7 +5433,8 @@
     "goalie": "Anders Nilsson",
     "month": 4,
     "day": 9,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 526,
@@ -4920,7 +5445,8 @@
     "goalie": "Semyon Varlamov",
     "month": 10,
     "day": 18,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 527,
@@ -4929,7 +5455,8 @@
     "goalie": "Roberto Luongo",
     "month": 10,
     "day": 20,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 528,
@@ -4938,7 +5465,8 @@
     "goalie": "Henrik Lundqvist",
     "month": 10,
     "day": 22,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 529,
@@ -4947,7 +5475,8 @@
     "goalie": "Cam Talbot",
     "month": 10,
     "day": 26,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 530,
@@ -4956,7 +5485,8 @@
     "goalie": "Michael Hutchinson",
     "month": 11,
     "day": 3,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 531,
@@ -4965,7 +5495,8 @@
     "goalie": "Michael Hutchinson",
     "month": 11,
     "day": 3,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 532,
@@ -4974,7 +5505,8 @@
     "goalie": "Roberto Luongo",
     "month": 11,
     "day": 5,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 533,
@@ -4983,7 +5515,8 @@
     "goalie": "Marc-André Fleury",
     "month": 11,
     "day": 16,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 534,
@@ -4992,7 +5525,8 @@
     "goalie": "Sergei Bobrovsky",
     "month": 11,
     "day": 20,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 535,
@@ -5001,7 +5535,8 @@
     "goalie": "Carter Hutton",
     "month": 11,
     "day": 23,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 536,
@@ -5010,7 +5545,8 @@
     "goalie": "Carter Hutton",
     "month": 11,
     "day": 23,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 537,
@@ -5021,7 +5557,8 @@
     "goalie": "Carter Hutton",
     "month": 11,
     "day": 23,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 538,
@@ -5032,7 +5569,8 @@
     "goalie": "Jacob Markström",
     "month": 12,
     "day": 11,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 539,
@@ -5041,7 +5579,8 @@
     "goalie": "Cam Ward",
     "month": 12,
     "day": 16,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 540,
@@ -5050,7 +5589,8 @@
     "goalie": "Andrei Vasilevskiy",
     "month": 12,
     "day": 23,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 541,
@@ -5061,7 +5601,8 @@
     "goalie": "Jaroslav Halák",
     "month": 12,
     "day": 27,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 542,
@@ -5070,7 +5611,8 @@
     "goalie": "Keith Kinkaid",
     "month": 12,
     "day": 31,
-    "year": 2016
+    "year": 2016,
+    "tags": ""
   },
   {
     "goal": 543,
@@ -5079,7 +5621,8 @@
     "goalie": "Frederik Andersen",
     "month": 1,
     "day": 3,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 544,
@@ -5090,7 +5633,8 @@
     "goalie": "Carey Price",
     "month": 1,
     "day": 9,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 545,
@@ -5101,7 +5645,8 @@
     "goalie": "Marc-André Fleury",
     "month": 1,
     "day": 11,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 546,
@@ -5110,7 +5655,8 @@
     "goalie": "Marc-André Fleury",
     "month": 1,
     "day": 11,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 547,
@@ -5119,7 +5665,8 @@
     "goalie": "Kari Lehtonen",
     "month": 1,
     "day": 21,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 548,
@@ -5128,7 +5675,8 @@
     "goalie": "Keith Kinkaid",
     "month": 1,
     "day": 26,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 549,
@@ -5137,7 +5685,8 @@
     "goalie": "Thomas Greiss",
     "month": 1,
     "day": 31,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 550,
@@ -5146,7 +5695,8 @@
     "goalie": "Tuukka Rask",
     "month": 2,
     "day": 1,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 551,
@@ -5155,7 +5705,8 @@
     "goalie": "Eddie Läck",
     "month": 2,
     "day": 7,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 552,
@@ -5164,7 +5715,8 @@
     "goalie": "Henrik Lundqvist",
     "month": 2,
     "day": 19,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 553,
@@ -5173,7 +5725,8 @@
     "goalie": "Devan Dubnyk",
     "month": 3,
     "day": 14,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 554,
@@ -5182,7 +5735,8 @@
     "goalie": "Brian Elliott",
     "month": 3,
     "day": 21,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 555,
@@ -5193,7 +5747,8 @@
     "goalie": "Mike Smith",
     "month": 3,
     "day": 25,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 556,
@@ -5204,7 +5759,8 @@
     "goalie": "Devan Dubnyk",
     "month": 3,
     "day": 28,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 557,
@@ -5213,7 +5769,8 @@
     "goalie": "Devan Dubnyk",
     "month": 3,
     "day": 28,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 558,
@@ -5224,7 +5781,8 @@
     "goalie": "Devan Dubnyk",
     "month": 3,
     "day": 28,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 559,
@@ -5235,7 +5793,8 @@
     "goalie": "Craig Anderson",
     "month": 10,
     "day": 5,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 560,
@@ -5246,7 +5805,8 @@
     "goalie": "Craig Anderson",
     "month": 10,
     "day": 5,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 561,
@@ -5257,7 +5817,8 @@
     "goalie": "Craig Anderson",
     "month": 10,
     "day": 5,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 562,
@@ -5266,7 +5827,8 @@
     "goalie": "Carey Price",
     "month": 10,
     "day": 7,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 563,
@@ -5275,7 +5837,8 @@
     "goalie": "Carey Price",
     "month": 10,
     "day": 7,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 564,
@@ -5286,7 +5849,8 @@
     "goalie": "Carey Price",
     "month": 10,
     "day": 7,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 565,
@@ -5297,7 +5861,8 @@
     "goalie": "Al Montoya",
     "month": 10,
     "day": 7,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 566,
@@ -5308,7 +5873,8 @@
     "goalie": "Matt Murray",
     "month": 10,
     "day": 11,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 567,
@@ -5317,7 +5883,8 @@
     "goalie": "Cory Schneider",
     "month": 10,
     "day": 13,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 568,
@@ -5326,7 +5893,8 @@
     "goalie": "Petr Mrázek",
     "month": 10,
     "day": 20,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 569,
@@ -5335,7 +5903,8 @@
     "goalie": "Tuukka Rask",
     "month": 11,
     "day": 4,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 570,
@@ -5344,7 +5913,8 @@
     "goalie": "Scott Wedgewood",
     "month": 11,
     "day": 6,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 571,
@@ -5353,7 +5923,8 @@
     "goalie": "Robin Lehner",
     "month": 11,
     "day": 7,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 572,
@@ -5362,7 +5933,8 @@
     "goalie": "Craig Anderson",
     "month": 11,
     "day": 22,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 573,
@@ -5373,7 +5945,8 @@
     "goalie": "Andrei Vasilevskiy",
     "month": 11,
     "day": 24,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 574,
@@ -5382,7 +5955,8 @@
     "goalie": "Curtis McElhinney",
     "month": 11,
     "day": 30,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 575,
@@ -5391,7 +5965,8 @@
     "goalie": "Curtis McElhinney",
     "month": 11,
     "day": 30,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 576,
@@ -5402,7 +5977,8 @@
     "goalie": "Empty Net",
     "month": 11,
     "day": 30,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 577,
@@ -5413,7 +5989,8 @@
     "goalie": "Sergei Bobrovsky",
     "month": 12,
     "day": 2,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 578,
@@ -5424,7 +6001,8 @@
     "goalie": "Martin Jones",
     "month": 12,
     "day": 4,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 579,
@@ -5433,7 +6011,8 @@
     "goalie": "Anton Forsberg",
     "month": 12,
     "day": 6,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 580,
@@ -5442,7 +6021,8 @@
     "goalie": "Empty Net",
     "month": 12,
     "day": 14,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 581,
@@ -5451,7 +6031,8 @@
     "goalie": "John Gibson",
     "month": 12,
     "day": 16,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 582,
@@ -5460,7 +6041,8 @@
     "goalie": "Anton Khudobin",
     "month": 12,
     "day": 28,
-    "year": 2017
+    "year": 2017,
+    "tags": ""
   },
   {
     "goal": 583,
@@ -5469,7 +6051,8 @@
     "goalie": "Cam Ward",
     "month": 1,
     "day": 2,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 584,
@@ -5478,7 +6061,8 @@
     "goalie": "Cam Ward",
     "month": 1,
     "day": 2,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 585,
@@ -5487,7 +6071,8 @@
     "goalie": "Carter Hutton",
     "month": 1,
     "day": 7,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 586,
@@ -5496,7 +6081,8 @@
     "goalie": "Cam Ward",
     "month": 1,
     "day": 12,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 587,
@@ -5505,7 +6091,8 @@
     "goalie": "Brian Elliott",
     "month": 1,
     "day": 21,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 588,
@@ -5516,7 +6103,8 @@
     "goalie": "Harri Säteri",
     "month": 1,
     "day": 25,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 589,
@@ -5525,7 +6113,8 @@
     "goalie": "Matt Murray",
     "month": 2,
     "day": 2,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 590,
@@ -5534,7 +6123,8 @@
     "goalie": "Matt Murray",
     "month": 2,
     "day": 2,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 591,
@@ -5543,7 +6133,8 @@
     "goalie": "Jimmy Howard",
     "month": 2,
     "day": 11,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 592,
@@ -5552,7 +6143,8 @@
     "goalie": "Devan Dubnyk",
     "month": 2,
     "day": 15,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 593,
@@ -5561,7 +6153,8 @@
     "goalie": "Chad Johnson",
     "month": 2,
     "day": 19,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 594,
@@ -5570,7 +6163,8 @@
     "goalie": "Andrei Vasilevskiy",
     "month": 2,
     "day": 20,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 595,
@@ -5579,7 +6173,8 @@
     "goalie": "Robin Lehner",
     "month": 2,
     "day": 24,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 596,
@@ -5588,7 +6183,8 @@
     "goalie": "Robin Lehner",
     "month": 2,
     "day": 24,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 597,
@@ -5597,7 +6193,8 @@
     "goalie": "Sergei Bobrovsky",
     "month": 2,
     "day": 26,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 598,
@@ -5608,7 +6205,8 @@
     "goalie": "Frederik Andersen",
     "month": 3,
     "day": 3,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 599,
@@ -5617,7 +6215,8 @@
     "goalie": "Connor Hellebuyck",
     "month": 3,
     "day": 12,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 600,
@@ -5628,7 +6227,8 @@
     "goalie": "Connor Hellebuyck",
     "month": 3,
     "day": 12,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 601,
@@ -5639,7 +6239,8 @@
     "goalie": "Petr Mrázek",
     "month": 3,
     "day": 18,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 602,
@@ -5648,7 +6249,8 @@
     "goalie": "Kari Lehtonen",
     "month": 3,
     "day": 20,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 603,
@@ -5657,7 +6259,8 @@
     "goalie": "Alexandar Georgiev",
     "month": 3,
     "day": 26,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 604,
@@ -5666,7 +6269,8 @@
     "goalie": "Empty Net",
     "month": 4,
     "day": 2,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 605,
@@ -5675,7 +6279,8 @@
     "goalie": "Juuse Saros",
     "month": 4,
     "day": 5,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 606,
@@ -5684,7 +6289,8 @@
     "goalie": "Cory Schneider",
     "month": 4,
     "day": 7,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 607,
@@ -5695,7 +6301,8 @@
     "goalie": "Cory Schneider",
     "month": 4,
     "day": 7,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 608,
@@ -5706,7 +6313,8 @@
     "goalie": "Tuukka Rask",
     "month": 10,
     "day": 3,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 609,
@@ -5715,7 +6323,8 @@
     "goalie": "Matt Murray",
     "month": 10,
     "day": 4,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 610,
@@ -5726,7 +6335,8 @@
     "goalie": "Marc-André Fleury",
     "month": 10,
     "day": 10,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 611,
@@ -5735,7 +6345,8 @@
     "goalie": "Marc-André Fleury",
     "month": 10,
     "day": 10,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 612,
@@ -5744,7 +6355,8 @@
     "goalie": "Henrik Lundqvist",
     "month": 10,
     "day": 17,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 613,
@@ -5753,7 +6365,8 @@
     "goalie": "Henrik Lundqvist",
     "month": 10,
     "day": 17,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 614,
@@ -5762,7 +6375,8 @@
     "goalie": "Anders Nilsson",
     "month": 10,
     "day": 22,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 615,
@@ -5771,7 +6385,8 @@
     "goalie": "Anders Nilsson",
     "month": 10,
     "day": 22,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 616,
@@ -5780,7 +6395,8 @@
     "goalie": "Carey Price",
     "month": 11,
     "day": 1,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 617,
@@ -5789,7 +6405,8 @@
     "goalie": "Carey Price",
     "month": 11,
     "day": 1,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 618,
@@ -5798,7 +6415,8 @@
     "goalie": "Cam Talbot",
     "month": 11,
     "day": 5,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 619,
@@ -5807,7 +6425,8 @@
     "goalie": "Casey DeSmith",
     "month": 11,
     "day": 7,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 620,
@@ -5816,7 +6435,8 @@
     "goalie": "Philipp Grubauer",
     "month": 11,
     "day": 16,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 621,
@@ -5825,7 +6445,8 @@
     "goalie": "Carey Price",
     "month": 11,
     "day": 19,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 622,
@@ -5834,7 +6455,8 @@
     "goalie": "Carey Price",
     "month": 11,
     "day": 19,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 623,
@@ -5843,7 +6465,8 @@
     "goalie": "Jonathan Bernier",
     "month": 11,
     "day": 23,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 624,
@@ -5852,7 +6475,8 @@
     "goalie": "Alexandar Georgiev",
     "month": 11,
     "day": 24,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 625,
@@ -5863,7 +6487,8 @@
     "goalie": "Empty Net",
     "month": 11,
     "day": 26,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 626,
@@ -5872,7 +6497,8 @@
     "goalie": "Empty Net",
     "month": 11,
     "day": 30,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 627,
@@ -5883,7 +6509,8 @@
     "goalie": "Marc-André Fleury",
     "month": 12,
     "day": 4,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 628,
@@ -5892,7 +6519,8 @@
     "goalie": "Empty Net",
     "month": 12,
     "day": 6,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 629,
@@ -5901,7 +6529,8 @@
     "goalie": "Sergei Bobrovsky",
     "month": 12,
     "day": 8,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 630,
@@ -5910,7 +6539,8 @@
     "goalie": "Jonathan Bernier",
     "month": 12,
     "day": 11,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 631,
@@ -5919,7 +6549,8 @@
     "goalie": "Jonathan Bernier",
     "month": 12,
     "day": 11,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 632,
@@ -5930,7 +6561,8 @@
     "goalie": "Jimmy Howard",
     "month": 12,
     "day": 11,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 633,
@@ -5939,7 +6571,8 @@
     "goalie": "Scott Darling",
     "month": 12,
     "day": 14,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 634,
@@ -5948,7 +6581,8 @@
     "goalie": "Scott Darling",
     "month": 12,
     "day": 14,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 635,
@@ -5959,7 +6593,8 @@
     "goalie": "Scott Darling",
     "month": 12,
     "day": 14,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 636,
@@ -5968,7 +6603,8 @@
     "goalie": "Robin Lehner",
     "month": 12,
     "day": 15,
-    "year": 2018
+    "year": 2018,
+    "tags": ""
   },
   {
     "goal": 637,
@@ -5979,7 +6615,8 @@
     "goalie": "Jake Allen",
     "month": 1,
     "day": 3,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 638,
@@ -5988,7 +6625,8 @@
     "goalie": "Jaroslav Halák",
     "month": 1,
     "day": 10,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 639,
@@ -5997,7 +6635,8 @@
     "goalie": "Empty Net",
     "month": 1,
     "day": 10,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 640,
@@ -6008,7 +6647,8 @@
     "goalie": "Jake Allen",
     "month": 1,
     "day": 14,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 641,
@@ -6017,7 +6657,8 @@
     "goalie": "Martin Jones",
     "month": 1,
     "day": 22,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 642,
@@ -6026,7 +6667,8 @@
     "goalie": "Martin Jones",
     "month": 1,
     "day": 22,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 643,
@@ -6037,7 +6679,8 @@
     "goalie": "Martin Jones",
     "month": 1,
     "day": 22,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 644,
@@ -6046,7 +6689,8 @@
     "goalie": "Frederik Andersen",
     "month": 1,
     "day": 23,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 645,
@@ -6055,7 +6699,8 @@
     "goalie": "Jonathan Quick",
     "month": 2,
     "day": 11,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 646,
@@ -6064,7 +6709,8 @@
     "goalie": "Martin Jones",
     "month": 2,
     "day": 14,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 647,
@@ -6075,7 +6721,8 @@
     "goalie": "Ryan Miller",
     "month": 2,
     "day": 17,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 648,
@@ -6084,7 +6731,8 @@
     "goalie": "Jack Campbell",
     "month": 2,
     "day": 18,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 649,
@@ -6093,7 +6741,8 @@
     "goalie": "Jack Campbell",
     "month": 2,
     "day": 18,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 650,
@@ -6102,7 +6751,8 @@
     "goalie": "Frederik Andersen",
     "month": 2,
     "day": 21,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 651,
@@ -6111,7 +6761,8 @@
     "goalie": "Robin Lehner",
     "month": 2,
     "day": 23,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 652,
@@ -6120,7 +6771,8 @@
     "goalie": "Thomas Greiss",
     "month": 3,
     "day": 1,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 653,
@@ -6129,7 +6781,8 @@
     "goalie": "Brian Elliott",
     "month": 3,
     "day": 6,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 654,
@@ -6138,7 +6791,8 @@
     "goalie": "Andrei Vasilevskiy",
     "month": 3,
     "day": 16,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 655,
@@ -6147,7 +6801,8 @@
     "goalie": "Andrei Vasilevskiy",
     "month": 3,
     "day": 16,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 656,
@@ -6158,7 +6813,8 @@
     "goalie": "Petr Mrázek",
     "month": 3,
     "day": 26,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 657,
@@ -6169,7 +6825,8 @@
     "goalie": "Andrei Vasilevskiy",
     "month": 3,
     "day": 30,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 658,
@@ -6180,7 +6837,8 @@
     "goalie": "Andrei Vasilevskiy",
     "month": 3,
     "day": 30,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 659,
@@ -6191,7 +6849,8 @@
     "goalie": "Jordan Binnington",
     "month": 10,
     "day": 2,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 660,
@@ -6200,7 +6859,8 @@
     "goalie": "Pekka Rinne",
     "month": 10,
     "day": 10,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 661,
@@ -6209,7 +6869,8 @@
     "goalie": "Pekka Rinne",
     "month": 10,
     "day": 10,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 662,
@@ -6218,7 +6879,8 @@
     "goalie": "Empty Net",
     "month": 10,
     "day": 12,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 663,
@@ -6227,7 +6889,8 @@
     "goalie": "Philipp Grubauer",
     "month": 10,
     "day": 14,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 664,
@@ -6236,7 +6899,8 @@
     "goalie": "Corey Crawford",
     "month": 10,
     "day": 20,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 665,
@@ -6245,7 +6909,8 @@
     "goalie": "Cam Talbot",
     "month": 10,
     "day": 22,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 666,
@@ -6254,7 +6919,8 @@
     "goalie": "Mikko Koskinen",
     "month": 10,
     "day": 24,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 667,
@@ -6263,7 +6929,8 @@
     "goalie": "Mikko Koskinen",
     "month": 10,
     "day": 24,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 668,
@@ -6274,7 +6941,8 @@
     "goalie": "Frederik Andersen",
     "month": 10,
     "day": 29,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 669,
@@ -6283,7 +6951,8 @@
     "goalie": "Frederik Andersen",
     "month": 10,
     "day": 29,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 670,
@@ -6292,7 +6961,8 @@
     "goalie": "Sergei Bobrovsky",
     "month": 11,
     "day": 7,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 671,
@@ -6301,7 +6971,8 @@
     "goalie": "Sergei Bobrovsky",
     "month": 11,
     "day": 7,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 672,
@@ -6310,7 +6981,8 @@
     "goalie": "Carey Price",
     "month": 11,
     "day": 15,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 673,
@@ -6319,7 +6991,8 @@
     "goalie": "John Gibson",
     "month": 11,
     "day": 18,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 674,
@@ -6328,7 +7001,8 @@
     "goalie": "Sergei Bobrovsky",
     "month": 11,
     "day": 27,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 675,
@@ -6337,7 +7011,8 @@
     "goalie": "Andrei Vasilevskiy",
     "month": 11,
     "day": 29,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 676,
@@ -6346,7 +7021,8 @@
     "goalie": "Jonathan Bernier",
     "month": 11,
     "day": 30,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 677,
@@ -6355,7 +7031,8 @@
     "goalie": "Empty Net",
     "month": 11,
     "day": 30,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 678,
@@ -6366,7 +7043,8 @@
     "goalie": "Empty Net",
     "month": 11,
     "day": 30,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 679,
@@ -6375,7 +7053,8 @@
     "goalie": "Joonas Korpisalo",
     "month": 12,
     "day": 9,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 680,
@@ -6384,7 +7063,8 @@
     "goalie": "Mackenzie Blackwood",
     "month": 12,
     "day": 20,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 681,
@@ -6393,7 +7073,8 @@
     "goalie": "Tuukka Rask",
     "month": 12,
     "day": 23,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 682,
@@ -6402,7 +7083,8 @@
     "goalie": "Petr Mrázek",
     "month": 12,
     "day": 28,
-    "year": 2019
+    "year": 2019,
+    "tags": ""
   },
   {
     "goal": 683,
@@ -6411,7 +7093,8 @@
     "goalie": "Craig Anderson",
     "month": 1,
     "day": 7,
-    "year": 2020
+    "year": 2020,
+    "tags": ""
   },
   {
     "goal": 684,
@@ -6422,7 +7105,8 @@
     "goalie": "Marcus Högberg",
     "month": 1,
     "day": 7,
-    "year": 2020
+    "year": 2020,
+    "tags": ""
   },
   {
     "goal": 685,
@@ -6431,7 +7115,8 @@
     "goalie": "Petr Mrázek",
     "month": 1,
     "day": 13,
-    "year": 2020
+    "year": 2020,
+    "tags": ""
   },
   {
     "goal": 686,
@@ -6440,7 +7125,8 @@
     "goalie": "Petr Mrázek",
     "month": 1,
     "day": 13,
-    "year": 2020
+    "year": 2020,
+    "tags": ""
   },
   {
     "goal": 687,
@@ -6449,7 +7135,8 @@
     "goalie": "Louis Domingue",
     "month": 1,
     "day": 16,
-    "year": 2020
+    "year": 2020,
+    "tags": ""
   },
   {
     "goal": 688,
@@ -6460,7 +7147,8 @@
     "goalie": "Louis Domingue",
     "month": 1,
     "day": 16,
-    "year": 2020
+    "year": 2020,
+    "tags": ""
   },
   {
     "goal": 689,
@@ -6471,7 +7159,8 @@
     "goalie": "Cory Schneider",
     "month": 1,
     "day": 16,
-    "year": 2020
+    "year": 2020,
+    "tags": ""
   },
   {
     "goal": 690,
@@ -6482,7 +7171,8 @@
     "goalie": "Semyon Varlamov",
     "month": 1,
     "day": 18,
-    "year": 2020
+    "year": 2020,
+    "tags": ""
   },
   {
     "goal": 691,
@@ -6493,7 +7183,8 @@
     "goalie": "Semyon Varlamov",
     "month": 1,
     "day": 18,
-    "year": 2020
+    "year": 2020,
+    "tags": ""
   },
   {
     "goal": 692,
@@ -6504,7 +7195,8 @@
     "goalie": "Empty Net",
     "month": 1,
     "day": 18,
-    "year": 2020
+    "year": 2020,
+    "tags": ""
   },
   {
     "goal": 693,
@@ -6513,7 +7205,8 @@
     "goalie": "Juuse Saros",
     "month": 1,
     "day": 29,
-    "year": 2020
+    "year": 2020,
+    "tags": ""
   },
   {
     "goal": 694,
@@ -6524,7 +7217,8 @@
     "goalie": "Marcus Högberg",
     "month": 1,
     "day": 31,
-    "year": 2020
+    "year": 2020,
+    "tags": ""
   },
   {
     "goal": 695,
@@ -6533,7 +7227,8 @@
     "goalie": "Empty Net",
     "month": 1,
     "day": 31,
-    "year": 2020
+    "year": 2020,
+    "tags": ""
   },
   {
     "goal": 696,
@@ -6542,7 +7237,8 @@
     "goalie": "Jonathan Quick",
     "month": 2,
     "day": 4,
-    "year": 2020
+    "year": 2020,
+    "tags": ""
   },
   {
     "goal": 697,
@@ -6551,7 +7247,8 @@
     "goalie": "Jonathan Quick",
     "month": 2,
     "day": 4,
-    "year": 2020
+    "year": 2020,
+    "tags": ""
   },
   {
     "goal": 698,
@@ -6562,7 +7259,8 @@
     "goalie": "Empty Net",
     "month": 2,
     "day": 4,
-    "year": 2020
+    "year": 2020,
+    "tags": ""
   },
   {
     "goal": 699,
@@ -6571,7 +7269,8 @@
     "goalie": "Carey Price",
     "month": 2,
     "day": 20,
-    "year": 2020
+    "year": 2020,
+    "tags": ""
   },
   {
     "goal": 700,
@@ -6582,7 +7281,8 @@
     "goalie": "Mackenzie Blackwood",
     "month": 2,
     "day": 22,
-    "year": 2020
+    "year": 2020,
+    "tags": ""
   },
   {
     "goal": 701,
@@ -6591,7 +7291,8 @@
     "goalie": "Laurent Brossoit",
     "month": 2,
     "day": 25,
-    "year": 2020
+    "year": 2020,
+    "tags": ""
   },
   {
     "goal": 702,
@@ -6600,7 +7301,8 @@
     "goalie": "Alex Stalock",
     "month": 3,
     "day": 1,
-    "year": 2020
+    "year": 2020,
+    "tags": ""
   },
   {
     "goal": 703,
@@ -6609,7 +7311,8 @@
     "goalie": "Alex Stalock",
     "month": 3,
     "day": 1,
-    "year": 2020
+    "year": 2020,
+    "tags": ""
   },
   {
     "goal": 704,
@@ -6618,7 +7321,8 @@
     "goalie": "Alexandar Georgiev",
     "month": 3,
     "day": 5,
-    "year": 2020
+    "year": 2020,
+    "tags": ""
   },
   {
     "goal": 705,
@@ -6627,7 +7331,8 @@
     "goalie": "Alexandar Georgiev",
     "month": 3,
     "day": 5,
-    "year": 2020
+    "year": 2020,
+    "tags": ""
   },
   {
     "goal": 706,
@@ -6638,7 +7343,8 @@
     "goalie": "Linus Ullmark",
     "month": 3,
     "day": 9,
-    "year": 2020
+    "year": 2020,
+    "tags": ""
   },
   {
     "goal": 707,
@@ -6649,7 +7355,8 @@
     "goalie": "Casey DeSmith",
     "month": 1,
     "day": 17,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 708,
@@ -6660,7 +7367,8 @@
     "goalie": "Tuukka Rask",
     "month": 1,
     "day": 30,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 709,
@@ -6669,7 +7377,8 @@
     "goalie": "Igor Shesterkin",
     "month": 2,
     "day": 4,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 710,
@@ -6678,7 +7387,8 @@
     "goalie": "Carter Hart",
     "month": 2,
     "day": 7,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 711,
@@ -6687,7 +7397,8 @@
     "goalie": "Carter Hart",
     "month": 2,
     "day": 7,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 712,
@@ -6696,7 +7407,8 @@
     "goalie": "Aaron Dell",
     "month": 2,
     "day": 21,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 713,
@@ -6705,7 +7417,8 @@
     "goalie": "Mackenzie Blackwood",
     "month": 2,
     "day": 28,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 714,
@@ -6714,7 +7427,8 @@
     "goalie": "Carter Hart",
     "month": 3,
     "day": 7,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 715,
@@ -6723,7 +7437,8 @@
     "goalie": "Brian Elliott",
     "month": 3,
     "day": 11,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 716,
@@ -6732,7 +7447,8 @@
     "goalie": "Carter Hart",
     "month": 3,
     "day": 13,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 717,
@@ -6743,7 +7459,8 @@
     "goalie": "Carter Hutton",
     "month": 3,
     "day": 15,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 718,
@@ -6754,7 +7471,8 @@
     "goalie": "Semyon Varlamov",
     "month": 3,
     "day": 16,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 719,
@@ -6763,7 +7481,8 @@
     "goalie": "Alexandar Georgiev",
     "month": 3,
     "day": 19,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 720,
@@ -6772,7 +7491,8 @@
     "goalie": "Alexandar Georgiev",
     "month": 3,
     "day": 19,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 721,
@@ -6781,7 +7501,8 @@
     "goalie": "Mackenzie Blackwood",
     "month": 3,
     "day": 25,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 722,
@@ -6790,7 +7511,8 @@
     "goalie": "Scott Wedgewood",
     "month": 3,
     "day": 26,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 723,
@@ -6799,7 +7521,8 @@
     "goalie": "Scott Wedgewood",
     "month": 3,
     "day": 26,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 724,
@@ -6808,7 +7531,8 @@
     "goalie": "Keith Kinkaid",
     "month": 3,
     "day": 28,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 725,
@@ -6817,7 +7541,8 @@
     "goalie": "Mackenzie Blackwood",
     "month": 4,
     "day": 4,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 726,
@@ -6828,7 +7553,8 @@
     "goalie": "Jeremy Swayman",
     "month": 4,
     "day": 8,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 727,
@@ -6837,7 +7563,8 @@
     "goalie": "Dustin Tokarski",
     "month": 4,
     "day": 9,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 728,
@@ -6846,7 +7573,8 @@
     "goalie": "Brian Elliot",
     "month": 4,
     "day": 13,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 729,
@@ -6855,7 +7583,8 @@
     "goalie": "Alex Lyon",
     "month": 4,
     "day": 17,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 730,
@@ -6866,7 +7595,8 @@
     "goalie": "Alex Lyon",
     "month": 4,
     "day": 17,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 731,
@@ -6877,7 +7607,8 @@
     "goalie": "Alexandar Georgiev",
     "month": 10,
     "day": 13,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 732,
@@ -6886,7 +7617,8 @@
     "goalie": "Alexandar Georgiev",
     "month": 10,
     "day": 13,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 733,
@@ -6895,7 +7627,8 @@
     "goalie": "Andrei Vasilevskiy",
     "month": 10,
     "day": 16,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 734,
@@ -6904,7 +7637,8 @@
     "goalie": "Empty Net",
     "month": 10,
     "day": 19,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 735,
@@ -6913,7 +7647,8 @@
     "goalie": "Dan Vladar",
     "month": 10,
     "day": 23,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 736,
@@ -6922,7 +7657,8 @@
     "goalie": "Filip Gustavsson",
     "month": 10,
     "day": 25,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 737,
@@ -6931,7 +7667,8 @@
     "goalie": "Filip Gustavsson",
     "month": 10,
     "day": 25,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 738,
@@ -6940,7 +7677,8 @@
     "goalie": "Thomas Greiss",
     "month": 10,
     "day": 27,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 739,
@@ -6949,7 +7687,8 @@
     "goalie": "Karel Vejmelka",
     "month": 10,
     "day": 29,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 740,
@@ -6958,7 +7697,8 @@
     "goalie": "Spencer Knight",
     "month": 11,
     "day": 4,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 741,
@@ -6969,7 +7709,8 @@
     "goalie": "Dustin Tokarski",
     "month": 11,
     "day": 8,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 742,
@@ -6978,7 +7719,8 @@
     "goalie": "Joonas Korpisalo",
     "month": 11,
     "day": 12,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 743,
@@ -6987,7 +7729,8 @@
     "goalie": "Adin Hill",
     "month": 11,
     "day": 20,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 744,
@@ -6996,7 +7739,8 @@
     "goalie": "Empty Net",
     "month": 11,
     "day": 20,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 745,
@@ -7005,7 +7749,8 @@
     "goalie": "Philipp Grubauer",
     "month": 11,
     "day": 21,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 746,
@@ -7014,7 +7759,8 @@
     "goalie": "Sergei Bobrovsky",
     "month": 11,
     "day": 26,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 747,
@@ -7023,7 +7769,8 @@
     "goalie": "Spencer Knight",
     "month": 11,
     "day": 26,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 748,
@@ -7034,7 +7781,8 @@
     "goalie": "Sergei Bobrovsky",
     "month": 11,
     "day": 26,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 749,
@@ -7043,7 +7791,8 @@
     "goalie": "Frederik Andersen",
     "month": 11,
     "day": 28,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 750,
@@ -7054,7 +7803,8 @@
     "goalie": "Daniil Tarasov",
     "month": 12,
     "day": 4,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 751,
@@ -7063,7 +7813,8 @@
     "goalie": "Marc-André Fleury",
     "month": 12,
     "day": 15,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 752,
@@ -7072,7 +7823,8 @@
     "goalie": "Empty Net",
     "month": 12,
     "day": 17,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 753,
@@ -7083,7 +7835,8 @@
     "goalie": "Thomas Greiss",
     "month": 12,
     "day": 31,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 754,
@@ -7092,7 +7845,8 @@
     "goalie": "Empty Net",
     "month": 12,
     "day": 31,
-    "year": 2021
+    "year": 2021,
+    "tags": ""
   },
   {
     "goal": 755,
@@ -7101,7 +7855,8 @@
     "goalie": "Empty Net",
     "month": 1,
     "day": 15,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 756,
@@ -7110,7 +7865,8 @@
     "goalie": "Thatcher Demko",
     "month": 1,
     "day": 16,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 757,
@@ -7119,7 +7875,8 @@
     "goalie": "Connor Hellebuyck",
     "month": 1,
     "day": 18,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 758,
@@ -7128,7 +7885,8 @@
     "goalie": "Matt Murray",
     "month": 1,
     "day": 22,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 759,
@@ -7137,7 +7895,8 @@
     "goalie": "Matt Murray",
     "month": 1,
     "day": 22,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 760,
@@ -7148,7 +7907,8 @@
     "goalie": "Juuse Saros",
     "month": 2,
     "day": 15,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 761,
@@ -7157,7 +7917,8 @@
     "goalie": "Empty Net",
     "month": 2,
     "day": 15,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 762,
@@ -7166,7 +7927,8 @@
     "goalie": "Igor Shesterkin",
     "month": 2,
     "day": 24,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 763,
@@ -7175,7 +7937,8 @@
     "goalie": "Frederik Andersen",
     "month": 3,
     "day": 3,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 764,
@@ -7184,7 +7947,8 @@
     "goalie": "Chris Driedger",
     "month": 3,
     "day": 5,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 765,
@@ -7193,7 +7957,8 @@
     "goalie": "Dustin Wolf",
     "month": 3,
     "day": 8,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 766,
@@ -7204,7 +7969,8 @@
     "goalie": "Empty Net",
     "month": 3,
     "day": 8,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 767,
@@ -7213,7 +7979,8 @@
     "goalie": "Semyon Varlamov",
     "month": 3,
     "day": 15,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 768,
@@ -7222,7 +7989,8 @@
     "goalie": "Elvis Merzļikins",
     "month": 3,
     "day": 17,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 769,
@@ -7231,7 +7999,8 @@
     "goalie": "Antti Raanta",
     "month": 3,
     "day": 18,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 770,
@@ -7242,7 +8011,8 @@
     "goalie": "Jake Oettinger",
     "month": 3,
     "day": 20,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 771,
@@ -7251,7 +8021,8 @@
     "goalie": "Dustin Tokarski",
     "month": 3,
     "day": 25,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 772,
@@ -7260,7 +8031,8 @@
     "goalie": "Nico Daws",
     "month": 3,
     "day": 26,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 773,
@@ -7269,7 +8041,8 @@
     "goalie": "Andrei Vasilevskiy",
     "month": 4,
     "day": 6,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 774,
@@ -7278,7 +8051,8 @@
     "goalie": "Tristan Jarry",
     "month": 4,
     "day": 9,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 775,
@@ -7287,7 +8061,8 @@
     "goalie": "Empty Net",
     "month": 4,
     "day": 10,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 776,
@@ -7296,7 +8071,8 @@
     "goalie": "Carter Hart",
     "month": 4,
     "day": 12,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 777,
@@ -7305,7 +8081,8 @@
     "goalie": "Sam Montembeault",
     "month": 4,
     "day": 16,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 778,
@@ -7314,7 +8091,8 @@
     "goalie": "Darcy Kuemper",
     "month": 4,
     "day": 18,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 779,
@@ -7323,7 +8101,8 @@
     "goalie": "Logan Thompson",
     "month": 4,
     "day": 20,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 780,
@@ -7334,7 +8113,8 @@
     "goalie": "Logan Thompson",
     "month": 4,
     "day": 20,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 781,
@@ -7345,7 +8125,8 @@
     "goalie": "Thatcher Demko",
     "month": 10,
     "day": 17,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 782,
@@ -7354,7 +8135,8 @@
     "goalie": "Thatcher Demko",
     "month": 10,
     "day": 17,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 783,
@@ -7363,7 +8145,8 @@
     "goalie": "Mackenzie Blackwood",
     "month": 10,
     "day": 24,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 784,
@@ -7372,7 +8155,8 @@
     "goalie": "Empty Net",
     "month": 10,
     "day": 29,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 785,
@@ -7381,7 +8165,8 @@
     "goalie": "Frederik Andersen",
     "month": 10,
     "day": 31,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 786,
@@ -7390,7 +8175,8 @@
     "goalie": "Ville Husso",
     "month": 11,
     "day": 3,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 787,
@@ -7399,7 +8185,8 @@
     "goalie": "Karel Vejmelka",
     "month": 11,
     "day": 5,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 788,
@@ -7408,7 +8195,8 @@
     "goalie": "Stuart Skinner",
     "month": 11,
     "day": 7,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 789,
@@ -7417,7 +8205,8 @@
     "goalie": "Thomas Greiss",
     "month": 11,
     "day": 17,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 790,
@@ -7426,7 +8215,8 @@
     "goalie": "Felix Sandström",
     "month": 11,
     "day": 23,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 791,
@@ -7435,7 +8225,8 @@
     "goalie": "Jacob Markström",
     "month": 11,
     "day": 25,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 792,
@@ -7444,7 +8235,8 @@
     "goalie": "Spencer Martin",
     "month": 11,
     "day": 29,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 793,
@@ -7453,7 +8245,8 @@
     "goalie": "Spencer Martin",
     "month": 11,
     "day": 29,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 794,
@@ -7462,7 +8255,8 @@
     "goalie": "Empty Net",
     "month": 12,
     "day": 7,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 795,
@@ -7471,7 +8265,8 @@
     "goalie": "Empty Net",
     "month": 12,
     "day": 7,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 796,
@@ -7480,7 +8275,8 @@
     "goalie": "Empty Net",
     "month": 12,
     "day": 9,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 797,
@@ -7489,7 +8285,8 @@
     "goalie": "Empty Net",
     "month": 12,
     "day": 11,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 798,
@@ -7498,7 +8295,8 @@
     "goalie": "Petr Mrázek",
     "month": 12,
     "day": 13,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 799,
@@ -7507,7 +8305,8 @@
     "goalie": "Petr Mrázek",
     "month": 12,
     "day": 13,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 800,
@@ -7518,7 +8317,8 @@
     "goalie": "Petr Mrázek",
     "month": 12,
     "day": 13,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 801,
@@ -7529,7 +8329,8 @@
     "goalie": "David Rittich",
     "month": 12,
     "day": 23,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 802,
@@ -7538,7 +8339,8 @@
     "goalie": "Empty Net",
     "month": 12,
     "day": 23,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 803,
@@ -7547,7 +8349,8 @@
     "goalie": "Cam Talbot",
     "month": 12,
     "day": 29,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 804,
@@ -7556,7 +8359,8 @@
     "goalie": "Jake Allen",
     "month": 12,
     "day": 31,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 805,
@@ -7565,7 +8369,8 @@
     "goalie": "Jake Allen",
     "month": 12,
     "day": 31,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 806,
@@ -7576,7 +8381,8 @@
     "goalie": "Jake Allen",
     "month": 12,
     "day": 31,
-    "year": 2022
+    "year": 2022,
+    "tags": ""
   },
   {
     "goal": 807,
@@ -7585,7 +8391,8 @@
     "goalie": "Ukko-Pekka Luukkonen",
     "month": 1,
     "day": 3,
-    "year": 2023
+    "year": 2023,
+    "tags": ""
   },
   {
     "goal": 808,
@@ -7594,7 +8401,8 @@
     "goalie": "Ukko-Pekka Luukkonen",
     "month": 1,
     "day": 3,
-    "year": 2023
+    "year": 2023,
+    "tags": ""
   },
   {
     "goal": 809,
@@ -7603,7 +8411,8 @@
     "goalie": "Elvis Merzļikins",
     "month": 1,
     "day": 5,
-    "year": 2023
+    "year": 2023,
+    "tags": ""
   },
   {
     "goal": 810,
@@ -7614,7 +8423,8 @@
     "goalie": "Carter Hart",
     "month": 1,
     "day": 14,
-    "year": 2023
+    "year": 2023,
+    "tags": ""
   },
   {
     "goal": 811,
@@ -7623,7 +8433,8 @@
     "goalie": "Alexandar Georgiev",
     "month": 1,
     "day": 24,
-    "year": 2023
+    "year": 2023,
+    "tags": ""
   },
   {
     "goal": 812,
@@ -7632,7 +8443,8 @@
     "goalie": "Casey DeSmith",
     "month": 1,
     "day": 26,
-    "year": 2023
+    "year": 2023,
+    "tags": ""
   },
   {
     "goal": 813,
@@ -7641,7 +8453,8 @@
     "goalie": "Ukko-Pekka Luukkonen",
     "month": 2,
     "day": 26,
-    "year": 2023
+    "year": 2023,
+    "tags": ""
   },
   {
     "goal": 814,
@@ -7650,7 +8463,8 @@
     "goalie": "Kaapo Kähkönen",
     "month": 3,
     "day": 4,
-    "year": 2023
+    "year": 2023,
+    "tags": ""
   },
   {
     "goal": 815,
@@ -7659,7 +8473,8 @@
     "goalie": "Kaapo Kähkönen",
     "month": 3,
     "day": 4,
-    "year": 2023
+    "year": 2023,
+    "tags": ""
   },
   {
     "goal": 816,
@@ -7668,7 +8483,8 @@
     "goalie": "Pheonix Copley",
     "month": 3,
     "day": 6,
-    "year": 2023
+    "year": 2023,
+    "tags": ""
   },
   {
     "goal": 817,
@@ -7677,7 +8493,8 @@
     "goalie": "Ukko-Pekka Luukkonen",
     "month": 3,
     "day": 15,
-    "year": 2023
+    "year": 2023,
+    "tags": ""
   },
   {
     "goal": 818,
@@ -7686,7 +8503,8 @@
     "goalie": "Marc-André Fleury",
     "month": 3,
     "day": 19,
-    "year": 2023
+    "year": 2023,
+    "tags": ""
   },
   {
     "goal": 819,
@@ -7695,7 +8513,8 @@
     "goalie": "Marc-André Fleury",
     "month": 3,
     "day": 19,
-    "year": 2023
+    "year": 2023,
+    "tags": ""
   },
   {
     "goal": 820,
@@ -7706,7 +8525,8 @@
     "goalie": "Daniil Tarasov",
     "month": 3,
     "day": 21,
-    "year": 2023
+    "year": 2023,
+    "tags": ""
   },
   {
     "goal": 821,
@@ -7715,7 +8535,8 @@
     "goalie": "Anton Khudobin",
     "month": 3,
     "day": 23,
-    "year": 2023
+    "year": 2023,
+    "tags": ""
   },
   {
     "goal": 822,
@@ -7726,7 +8547,8 @@
     "goalie": "Casey DeSmith",
     "month": 3,
     "day": 25,
-    "year": 2023
+    "year": 2023,
+    "tags": ""
   },
   {
     "goal": 823,
@@ -7737,7 +8559,8 @@
     "goalie": "Joseph Woll",
     "month": 10,
     "day": 24,
-    "year": 2023
+    "year": 2023,
+    "tags": ""
   },
   {
     "goal": 824,
@@ -7746,7 +8569,8 @@
     "goalie": "Empty Net",
     "month": 10,
     "day": 25,
-    "year": 2023
+    "year": 2023,
+    "tags": ""
   },
   {
     "goal": 825,
@@ -7755,7 +8579,8 @@
     "goalie": "Semyon Varlamov",
     "month": 11,
     "day": 11,
-    "year": 2023
+    "year": 2023,
+    "tags": ""
   },
   {
     "goal": 826,
@@ -7764,7 +8589,8 @@
     "goalie": "Empty Net",
     "month": 11,
     "day": 11,
-    "year": 2023
+    "year": 2023,
+    "tags": ""
   },
   {
     "goal": 827,
@@ -7773,7 +8599,8 @@
     "goalie": "Elvis Merzlikins",
     "month": 11,
     "day": 18,
-    "year": 2023
+    "year": 2023,
+    "tags": ""
   },
   {
     "goal": 828,
@@ -7782,7 +8609,8 @@
     "goalie": "Elvis Merzlikins",
     "month": 12,
     "day": 21,
-    "year": 2023
+    "year": 2023,
+    "tags": ""
   },
   {
     "goal": 829,
@@ -7791,7 +8619,8 @@
     "goalie": "Yaroslav Askarov",
     "month": 12,
     "day": 30,
-    "year": 2023
+    "year": 2023,
+    "tags": ""
   },
   {
     "goal": 830,
@@ -7800,7 +8629,8 @@
     "goalie": "Alex Nedeljkovic",
     "month": 1,
     "day": 2,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 831,
@@ -7809,7 +8639,8 @@
     "goalie": "Jake Oettinger",
     "month": 1,
     "day": 27,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 832,
@@ -7818,7 +8649,8 @@
     "goalie": "Sam Montembeault",
     "month": 2,
     "day": 6,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 833,
@@ -7827,7 +8659,8 @@
     "goalie": "Sergei Bobrovsky",
     "month": 2,
     "day": 8,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 834,
@@ -7836,7 +8669,8 @@
     "goalie": "Empty Net",
     "month": 2,
     "day": 10,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 835,
@@ -7845,7 +8679,8 @@
     "goalie": "Thatcher Demko",
     "month": 2,
     "day": 11,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 836,
@@ -7854,7 +8689,8 @@
     "goalie": "Alexandar Georgiev",
     "month": 2,
     "day": 13,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 837,
@@ -7863,7 +8699,8 @@
     "goalie": "Nico Daws",
     "month": 2,
     "day": 20,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 838,
@@ -7872,7 +8709,8 @@
     "goalie": "Nico Daws",
     "month": 2,
     "day": 20,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 839,
@@ -7881,7 +8719,8 @@
     "goalie": "Samuel Ersson",
     "month": 3,
     "day": 1,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 840,
@@ -7890,7 +8729,8 @@
     "goalie": "Tristan Jarry",
     "month": 3,
     "day": 7,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 841,
@@ -7899,7 +8739,8 @@
     "goalie": "Casey DeSmith",
     "month": 3,
     "day": 16,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 842,
@@ -7910,7 +8751,8 @@
     "goalie": "Dustin Wolf",
     "month": 3,
     "day": 18,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 843,
@@ -7919,7 +8761,8 @@
     "goalie": "Dustin Wolf",
     "month": 3,
     "day": 18,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 844,
@@ -7928,7 +8771,8 @@
     "goalie": "Joseph Woll",
     "month": 3,
     "day": 20,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 845,
@@ -7937,7 +8781,8 @@
     "goalie": "Joseph Woll",
     "month": 3,
     "day": 20,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 846,
@@ -7946,7 +8791,8 @@
     "goalie": "Pyotr Kochetkov",
     "month": 3,
     "day": 22,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 847,
@@ -7955,7 +8801,8 @@
     "goalie": "Connor Hellebuyck",
     "month": 3,
     "day": 24,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 848,
@@ -7964,7 +8811,8 @@
     "goalie": "Connor Hellebuyck",
     "month": 3,
     "day": 24,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 849,
@@ -7973,7 +8821,8 @@
     "goalie": "Alex Nedeljkovic",
     "month": 4,
     "day": 4,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 850,
@@ -7982,7 +8831,8 @@
     "goalie": "Pyotr Kochetkov",
     "month": 4,
     "day": 5,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 851,
@@ -7991,7 +8841,8 @@
     "goalie": "Pyotr Kochetkov",
     "month": 4,
     "day": 5,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 852,
@@ -8002,7 +8853,8 @@
     "goalie": "Alex Lyon",
     "month": 4,
     "day": 9,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 853,
@@ -8013,7 +8865,8 @@
     "goalie": "Samuel Ersson",
     "month": 4,
     "day": 16,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 854,
@@ -8024,7 +8877,8 @@
     "goalie": "Jacob Markström",
     "month": 10,
     "day": 19,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 855,
@@ -8033,7 +8887,8 @@
     "goalie": "Empty Net",
     "month": 10,
     "day": 23,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 856,
@@ -8042,7 +8897,8 @@
     "goalie": "Igor Shesterkin",
     "month": 10,
     "day": 29,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 857,
@@ -8051,7 +8907,8 @@
     "goalie": "Igor Shesterkin",
     "month": 10,
     "day": 29,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 858,
@@ -8060,7 +8917,8 @@
     "goalie": "Cayden Primeau",
     "month": 10,
     "day": 31,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 859,
@@ -8069,7 +8927,8 @@
     "goalie": "Daniil Tarasov",
     "month": 11,
     "day": 2,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 860,
@@ -8078,7 +8937,8 @@
     "goalie": "Pyotr Kochetkov",
     "month": 11,
     "day": 3,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 861,
@@ -8087,7 +8947,8 @@
     "goalie": "Juuse Saros",
     "month": 11,
     "day": 6,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 862,
@@ -8096,7 +8957,8 @@
     "goalie": "Jordan Binnington",
     "month": 11,
     "day": 9,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 863,
@@ -8105,7 +8967,8 @@
     "goalie": "Jordan Binnington",
     "month": 11,
     "day": 9,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 864,
@@ -8114,7 +8977,8 @@
     "goalie": "Ilya Samsonov",
     "month": 11,
     "day": 17,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 865,
@@ -8123,7 +8987,8 @@
     "goalie": "Ilya Samsonov",
     "month": 11,
     "day": 17,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 866,
@@ -8134,7 +8999,8 @@
     "goalie": "Empty Net",
     "month": 11,
     "day": 17,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 867,
@@ -8143,7 +9009,8 @@
     "goalie": "Connor Ingram",
     "month": 11,
     "day": 18,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 868,
@@ -8152,7 +9019,8 @@
     "goalie": "Connor Ingram",
     "month": 11,
     "day": 18,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 869,
@@ -8161,7 +9029,8 @@
     "goalie": "Empty Net",
     "month": 12,
     "day": 28,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 870,
@@ -8170,7 +9039,8 @@
     "goalie": "Alex Lyon",
     "month": 12,
     "day": 29,
-    "year": 2024
+    "year": 2024,
+    "tags": ""
   },
   {
     "goal": 871,
@@ -8179,7 +9049,8 @@
     "goalie": "Marc-André Fleury",
     "month": 1,
     "day": 2,
-    "year": 2025
+    "year": 2025,
+    "tags": ""
   },
   {
     "goal": 872,
@@ -8188,7 +9059,8 @@
     "goalie": "Jonathan Quick",
     "month": 1,
     "day": 4,
-    "year": 2025
+    "year": 2025,
+    "tags": ""
   },
   {
     "goal": 873,
@@ -8199,7 +9071,8 @@
     "goalie": "Empty Net",
     "month": 1,
     "day": 11,
-    "year": 2025
+    "year": 2025,
+    "tags": ""
   },
   {
     "goal": 874,
@@ -8208,7 +9081,8 @@
     "goalie": "Leevi Meriläinen",
     "month": 1,
     "day": 16,
-    "year": 2025
+    "year": 2025,
+    "tags": ""
   },
   {
     "goal": 875,
@@ -8217,7 +9091,8 @@
     "goalie": "Empty Net",
     "month": 1,
     "day": 23,
-    "year": 2025
+    "year": 2025,
+    "tags": ""
   },
   {
     "goal": 876,
@@ -8226,7 +9101,8 @@
     "goalie": "Anton Forsberg",
     "month": 1,
     "day": 30,
-    "year": 2025
+    "year": 2025,
+    "tags": ""
   },
   {
     "goal": 877,
@@ -8235,7 +9111,8 @@
     "goalie": "Connor Hellebuyck",
     "month": 2,
     "day": 1,
-    "year": 2025
+    "year": 2025,
+    "tags": ""
   },
   {
     "goal": 878,
@@ -8244,7 +9121,8 @@
     "goalie": "Empty Net",
     "month": 2,
     "day": 4,
-    "year": 2025
+    "year": 2025,
+    "tags": ""
   },
   {
     "goal": 879,
@@ -8253,7 +9131,8 @@
     "goalie": "Ivan Fedotov",
     "month": 2,
     "day": 6,
-    "year": 2025
+    "year": 2025,
+    "tags": ""
   },
   {
     "goal": 880,
@@ -8262,7 +9141,8 @@
     "goalie": "Calvin Pickard",
     "month": 2,
     "day": 23,
-    "year": 2025
+    "year": 2025,
+    "tags": ""
   },
   {
     "goal": 881,
@@ -8271,7 +9151,8 @@
     "goalie": "Calvin Pickard",
     "month": 2,
     "day": 23,
-    "year": 2025
+    "year": 2025,
+    "tags": ""
   },
   {
     "goal": 882,
@@ -8282,7 +9163,8 @@
     "goalie": "Empty Net",
     "month": 2,
     "day": 23,
-    "year": 2025
+    "year": 2025,
+    "tags": ""
   },
   {
     "goal": 883,
@@ -8293,7 +9175,8 @@
     "goalie": "Dan Vladar",
     "month": 2,
     "day": 25,
-    "year": 2025
+    "year": 2025,
+    "tags": ""
   },
   {
     "goal": 884,
@@ -8302,7 +9185,8 @@
     "goalie": "Andrei Vasilevskiy",
     "month": 3,
     "day": 1,
-    "year": 2025
+    "year": 2025,
+    "tags": ""
   },
   {
     "goal": 885,
@@ -8311,7 +9195,8 @@
     "goalie": "Igor Shesterkin",
     "month": 3,
     "day": 5,
-    "year": 2025
+    "year": 2025,
+    "tags": ""
   },
   {
     "goal": 886,
@@ -8322,7 +9207,8 @@
     "goalie": "Empty Net",
     "month": 3,
     "day": 9,
-    "year": 2025
+    "year": 2025,
+    "tags": ""
   },
   {
     "goal": 887,
@@ -8331,7 +9217,8 @@
     "goalie": "Georgi Romanov",
     "month": 3,
     "day": 15,
-    "year": 2025
+    "year": 2025,
+    "tags": ""
   },
   {
     "goal": 888,
@@ -8340,7 +9227,8 @@
     "goalie": "Samuel Ersson",
     "month": 3,
     "day": 20,
-    "year": 2025
+    "year": 2025,
+    "tags": ""
   },
   {
     "goal": 889,
@@ -8349,7 +9237,8 @@
     "goalie": "Connor Hellebuyck",
     "month": 3,
     "day": 25,
-    "year": 2025
+    "year": 2025,
+    "tags": ""
   },
   {
     "goal": 890,
@@ -8358,7 +9247,8 @@
     "goalie": "James Reimer",
     "month": 3,
     "day": 30,
-    "year": 2025
+    "year": 2025,
+    "tags": ""
   },
   {
     "goal": 891,
@@ -8367,7 +9257,8 @@
     "goalie": "Jeremy Swayman",
     "month": 4,
     "day": 1,
-    "year": 2025
+    "year": 2025,
+    "tags": ""
   },
   {
     "goal": 892,
@@ -8376,7 +9267,8 @@
     "goalie": "Frederik Andersen",
     "month": 4,
     "day": 2,
-    "year": 2025
+    "year": 2025,
+    "tags": ""
   },
   {
     "goal": 893,
@@ -8387,7 +9279,8 @@
     "goalie": "Spencer Knight",
     "month": 4,
     "day": 4,
-    "year": 2025
+    "year": 2025,
+    "tags": ""
   },
   {
     "goal": 894,
@@ -8398,7 +9291,8 @@
     "goalie": "Spencer Knight",
     "month": 4,
     "day": 4,
-    "year": 2025
+    "year": 2025,
+    "tags": ""
   },
   {
     "goal": 895,
@@ -8409,7 +9303,8 @@
     "goalie": "Ilya Sorokin",
     "month": 4,
     "day": 6,
-    "year": 2025
+    "year": 2025,
+    "tags": ""
   },
   {
     "goal": 896,
@@ -8418,7 +9313,8 @@
     "goalie": "Jet Greaves",
     "month": 4,
     "day": 13,
-    "year": 2025
+    "year": 2025,
+    "tags": ""
   },
   {
     "goal": 897,
@@ -8429,6 +9325,7 @@
     "goalie": "Alex Nedeljkovic",
     "month": 4,
     "day": 17,
-    "year": 2025
+    "year": 2025,
+    "tags": ""
   }
 ]

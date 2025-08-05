@@ -50,6 +50,7 @@ function SearchForm({jsonData}) {
             const results = jsonData.filter((item) => {
                 return (
                     item.goalie.toLowerCase().includes(searchText) ||
+                    item.tags.toLowerCase().includes(searchText) ||
                     item.team.toLowerCase().includes(searchText)
                 );
             });
@@ -161,18 +162,19 @@ function SearchForm({jsonData}) {
 
             {searchResults.map((result, index) => (
                 <div className="frame" key={index}>
-                    <div id="note" className={result.highlight}>
+                    <div className={'note ' + result.highlight}>
                         <strong>{result.month}/{result.day}/{result.year}</strong>
+                        <img alt={result.team + ' logo'} className="logo" src={'/team/' + result.team + '.svgz'} />
                         <strong>{result.goalie}</strong>
-                        <span id="icon"></span>
                         <strong>{result.text}</strong>
+                        <span className="icon"></span>
                     </div>
-                    <div id="shadow">
+                    <div className="shadow">
                         <iframe width="560" height="315" src={result.link.replace(/"/g, "")} title="Alex Ovechkin Goal Video"
                             referrerPolicy="no-referrer" allowFullScreen loading="lazy"></iframe>
                     </div>
                     <div className="flex">
-                        <strong id="link">https://www.ovechkin.cam/?{result.goal}</strong>
+                        <strong className="link">https://www.ovechkin.cam/?{result.goal}</strong>
                         <button onClick={copyFunction} id="copy" title="Copy Link">Copy</button>
                     </div>
                 </div>

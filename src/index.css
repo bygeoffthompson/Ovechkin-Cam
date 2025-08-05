@@ -22,12 +22,12 @@
   background-image: url(/public/thumb.svg);
 }
 
-#link {
+.link {
   font-size: 1.125rem;
   user-select: text;
 }
 
-#note {
+.note {
   align-items: center;
   display: flex;
   gap: 8px;
@@ -37,11 +37,11 @@
   z-index: 1;
 }
 
-#note strong {
+.note strong {
   font-size: 1.25rem;
 }
 
-#icon {
+.icon {
   background-color: transparent;
   background-position: center;
   background-repeat: no-repeat;
@@ -53,60 +53,60 @@
   width: 22px;
 }
 
-.bookmark #icon {
+.bookmark .icon {
   background-image: url(/public/bookmark.svg);
 }
 
-.bullseye #icon {
+.bullseye .icon {
   background-image: url(/public/bullseye.svg);
 }
 
-.fifty #icon {
+.fifty .icon {
   background-image: url(/public/fifty.svg);
 }
 
-.forty #icon {
+.forty .icon {
   background-image: url(/public/forty.svg);
 }
 
-.four #icon {
+.four .icon {
   background-image: url(/public/four.svg);
 }
 
-.hat #icon {
+.hat .icon {
   background-image: url(/public/hat.svg);
 }
 
-.mega #icon {
+.mega .icon {
   background-image: url(/public/mega.svg);
   margin-right: 2px;
 }
 
-.moon #icon {
+.moon .icon {
   background-image: url(/public/moon.svg);
 }
 
-.penalty #icon {
+.penalty .icon {
   background-image: url(/public/penalty.svg);
 }
 
-.sixty #icon {
+.sixty .icon {
   background-image: url(/public/sixty.svg);
 }
 
-.sun #icon {
+.sun .icon {
   background-image: url(/public/sun.svg);
 }
 
-.thirty #icon {
+.thirty .icon {
   background-image: url(/public/thirty.svg);
 }
 
-.trophy #icon {
+.trophy .icon {
   background-image: url(/public/trophy.svg);
 }
 
-.twenty #icon {
+.twenty .icon {
   background-image: url(/public/twenty.svg);
 }
 
@@ -136,6 +136,11 @@
 
 .loading {
   opacity: .25;
+}
+
+.logo {
+  height: 4rem;
+  width: 4rem;
 }
 
 .record-light {
@@ -205,7 +210,7 @@ iframe {
   width: 100% !important;
 }
 
-#shadow {
+.shadow {
   box-shadow: rgba(4, 30, 66, 0.4) -10px -10px, rgba(4, 30, 66, 0.3) -20px -20px, rgba(4, 30, 66, 0.2) -30px -30px, rgba(4, 30, 66, 0.1) -40px -40px, rgba(4, 30, 66, 0.05) -50px -50px;
   margin: 0 0 60px;
   max-width: 960px;
@@ -268,18 +273,23 @@ label[for="search-text"]:before {
 }
 
 @media (min-width:992px) {
-  #note {
+  .note {
     justify-content: start;
     margin-bottom: 1rem;
   }
 
-  #note strong {
+  .note strong {
     font-size: 1.5rem;
   }
 
-  #icon {
+  .icon {
     height: 44px;
     width: 44px;
+  }
+
+  .logo {
+    height: 6rem;
+    width: 6rem;
   }
 
   #root {
