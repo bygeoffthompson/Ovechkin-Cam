@@ -624,7 +624,7 @@
     "goal": 68,
     "link": "https://www.youtube.com/embed/uIrKbXIz4y0?si=aA5FmyM1etduxDET",
     "team": "TBL",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 11,
     "day": 28,
     "year": 2006
@@ -745,7 +745,7 @@
     "goal": 81,
     "link": "https://www.youtube.com/embed/xNeIubPu-aM?si=3f3waj0rp_Pdo9I8",
     "team": "CAR",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 1,
     "day": 18,
     "year": 2007
@@ -953,7 +953,7 @@
     "goal": 103,
     "link": "https://www.youtube.com/embed/gU-AbAqQBUE?si=a0_llEfWmdvziBfe",
     "team": "TBL",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 10,
     "day": 24,
     "year": 2007
@@ -1184,7 +1184,7 @@
     "highlight": "four",
     "text": "1st Four Goal Game",
     "team": "OTT",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 12,
     "day": 29,
     "year": 2007
@@ -1446,7 +1446,7 @@
     "goal": 156,
     "link": "https://www.youtube.com/embed/uBcoc6YxfAE?si=e0CSm8FzobVY-r6X",
     "team": "NSH",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 3,
     "day": 18,
     "year": 2008
@@ -1560,7 +1560,7 @@
     "goal": 168,
     "link": "https://www.youtube.com/embed/w2QD_gCB0rY?si=nYErd6DNccl48Kmu",
     "team": "NJD",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 11,
     "day": 14,
     "year": 2008
@@ -1652,7 +1652,7 @@
     "goal": 178,
     "link": "https://www.youtube.com/embed/O3Iqse2i-VY?si=2HRhLZBGykUOsoke",
     "team": "BOS",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 12,
     "day": 10,
     "year": 2008
@@ -1744,7 +1744,7 @@
     "goal": 188,
     "link": "https://www.youtube.com/embed/bqm_gzwDc9o?si=ZTMPt6ifuoKTXhpl",
     "team": "TOR",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 12,
     "day": 28,
     "year": 2008
@@ -1898,7 +1898,7 @@
     "highlight": "hat",
     "text": "8th Hat Trick",
     "team": "FLA",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 2,
     "day": 15,
     "year": 2009
@@ -2010,7 +2010,7 @@
     "goal": 216,
     "link": "https://www.youtube.com/embed/njChaQOWTgM?si=6a_e2BFR8lXydj8M",
     "team": "TBL",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 3,
     "day": 27,
     "year": 2009
@@ -2140,7 +2140,7 @@
     "goal": 230,
     "link": "https://www.youtube.com/embed/dzDfujdQPao?si=872fwDa8Vw5wewoC",
     "team": "PHI",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 10,
     "day": 27,
     "year": 2009
@@ -2333,7 +2333,7 @@
     "goal": 251,
     "link": "https://www.youtube.com/embed/ThpI5M9Z3iI?si=aDugpjeR3e62dh4H",
     "team": "PIT",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 1,
     "day": 21,
     "year": 2010
@@ -2342,7 +2342,7 @@
     "goal": 252,
     "link": "https://www.youtube.com/embed/9w1wmWwNsFM?si=oDawkZSA_-cXABTP",
     "team": "PHX",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 1,
     "day": 23,
     "year": 2010
@@ -2369,7 +2369,7 @@
     "goal": 255,
     "link": "https://www.youtube.com/embed/v5MsNv3fpuI?si=hNVv_KKi2FzUuAGk",
     "team": "BOS",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 2,
     "day": 2,
     "year": 2010
@@ -2483,7 +2483,7 @@
     "goal": 267,
     "link": "https://www.youtube.com/embed/fC9NNOo8_nU?si=NCNbl4WPjNwBCLxx",
     "team": "PIT",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 4,
     "day": 6,
     "year": 2010
@@ -2579,7 +2579,7 @@
     "goal": 277,
     "link": "https://www.youtube.com/embed/ukb4DYxiDYE?si=w7t1BbduO-RE6Tf_",
     "team": "BOS",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 11,
     "day": 5,
     "year": 2010
@@ -2633,7 +2633,7 @@
     "goal": 283,
     "link": "https://www.youtube.com/embed/m7nsKrNPBOU?si=T56wnaBt4api0W10",
     "team": "MTL",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 12,
     "day": 28,
     "year": 2010
@@ -2680,7 +2680,7 @@
     "highlight": "hat",
     "text": "10th Hat Trick",
     "team": "TOR",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 1,
     "day": 22,
     "year": 2011
@@ -2805,7 +2805,7 @@
     "highlight": "bookmark",
     "text": "Last of Season 6",
     "team": "FLA",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 4,
     "day": 6,
     "year": 2011
@@ -3387,7 +3387,7 @@
     "goal": 364,
     "link": "https://www.youtube.com/embed/KfrsqdfL9bU?si=P3zmHY_1wZoA3z7Q",
     "team": "TBL",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 4,
     "day": 7,
     "year": 2013
@@ -3443,7 +3443,7 @@
     "goal": 370,
     "link": "https://www.youtube.com/embed/AsiMqLT5U5k?si=evPS2BrHh0VIT537",
     "team": "WPG",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 4,
     "day": 23,
     "year": 2013
@@ -3725,7 +3725,7 @@
     "highlight": "trophy",
     "text": "400th Career Goal",
     "team": "CAR",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 12,
     "day": 20,
     "year": 2013
@@ -4061,7 +4061,7 @@
     "goal": 436,
     "link": "https://www.youtube.com/embed/-Cj4CjPCw74?si=4o-O123L6q2zS8CH",
     "team": "TBL",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 12,
     "day": 9,
     "year": 2014
@@ -4119,7 +4119,7 @@
     "highlight": "twenty",
     "text": "10th 20 Goal Season",
     "team": "TOR",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 1,
     "day": 7,
     "year": 2015
@@ -4612,7 +4612,7 @@
     "highlight": "twenty",
     "text": "11th 20 Goal Season",
     "team": "BUF",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 12,
     "day": 30,
     "year": 2015
@@ -4717,7 +4717,7 @@
     "goal": 506,
     "link": "https://www.youtube.com/embed/Odc856r-4qs?si=kGzOQ-lXHq_mwjrA",
     "team": "NSH",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 2,
     "day": 9,
     "year": 2016
@@ -5399,7 +5399,7 @@
     "highlight": "hat",
     "text": "20th Hat Trick",
     "team": "TOR",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 11,
     "day": 30,
     "year": 2017
@@ -5439,7 +5439,7 @@
     "goal": 580,
     "link": "https://www.youtube.com/embed/Ka0oBWwmQbg?si=e4xnbZMacFFxrmC1",
     "team": "BOS",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 12,
     "day": 14,
     "year": 2017
@@ -5663,7 +5663,7 @@
     "goal": 604,
     "link": "https://www.youtube.com/embed/pgT5s6OuESk?si=MXk4ghC20bAwZVCZ",
     "team": "STL",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 4,
     "day": 2,
     "year": 2018
@@ -5860,7 +5860,7 @@
     "highlight": "bullseye",
     "text": "Jarome Iginla and Joe Sakic",
     "team": "NYI",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 11,
     "day": 26,
     "year": 2018
@@ -5869,7 +5869,7 @@
     "goal": 626,
     "link": "https://www.youtube.com/embed/eliAcx6SjxQ?si=Oq2vXPxD0qdsimNg",
     "team": "NJD",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 11,
     "day": 30,
     "year": 2018
@@ -5889,7 +5889,7 @@
     "goal": 628,
     "link": "https://www.youtube.com/embed/PBpgTEaWYr0?si=yPppj5TLFW5IGedv",
     "team": "ARI",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 12,
     "day": 6,
     "year": 2018
@@ -5994,7 +5994,7 @@
     "goal": 639,
     "link": "https://www.youtube.com/embed/8qvYeO_2zrA?si=B3zaiZslvxTaLgP1",
     "team": "BOS",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 1,
     "day": 10,
     "year": 2019
@@ -6215,7 +6215,7 @@
     "goal": 662,
     "link": "https://www.youtube.com/embed/u_rOdBaiBec?si=9HsK79-iV7pQYAXn",
     "team": "DAL",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 10,
     "day": 12,
     "year": 2019
@@ -6352,7 +6352,7 @@
     "goal": 677,
     "link": "https://www.youtube.com/embed/fPJD0M22Vwo?si=C-8djq4aqVFDjWYg",
     "team": "DET",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 11,
     "day": 30,
     "year": 2019
@@ -6363,7 +6363,7 @@
     "highlight": "hat",
     "text": "24th Hat Trick",
     "team": "DET",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 11,
     "day": 30,
     "year": 2019
@@ -6501,7 +6501,7 @@
     "highlight": "bullseye",
     "text": "Steve Yzerman",
     "team": "NYI",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 1,
     "day": 18,
     "year": 2020
@@ -6530,7 +6530,7 @@
     "goal": 695,
     "link": "https://www.youtube.com/embed/dMRfloiegWY?si=G2ao5pGK1A1WURMp&amp;start=47",
     "team": "OTT",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 1,
     "day": 31,
     "year": 2020
@@ -6559,7 +6559,7 @@
     "highlight": "hat",
     "text": "27th Hat Trick",
     "team": "LAK",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 2,
     "day": 4,
     "year": 2020
@@ -6901,7 +6901,7 @@
     "goal": 734,
     "link": "https://www.youtube.com/embed/coXIQ3lWayQ?si=F54GBjlQiVYljfQm",
     "team": "COL",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 10,
     "day": 19,
     "year": 2021
@@ -6993,7 +6993,7 @@
     "goal": 744,
     "link": "https://www.youtube.com/embed/-11V95r14Cw?si=5sw54iU9TnlXB77Z",
     "team": "SJS",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 11,
     "day": 20,
     "year": 2021
@@ -7069,7 +7069,7 @@
     "goal": 752,
     "link": "https://www.youtube.com/embed/KsUdH5rAhZk?si=4lzDaE83CE321eaN",
     "team": "WPG",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 12,
     "day": 17,
     "year": 2021
@@ -7089,7 +7089,7 @@
     "goal": 754,
     "link": "https://www.youtube.com/embed/TbD_rt48U1I?si=TtnfmievOAo_bSQJ",
     "team": "DET",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 12,
     "day": 31,
     "year": 2021
@@ -7098,7 +7098,7 @@
     "goal": 755,
     "link": "https://www.youtube.com/embed/MAoacNgzA_w?si=NG_XHB-lx91Mz3J8",
     "team": "NYI",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 1,
     "day": 15,
     "year": 2022
@@ -7154,7 +7154,7 @@
     "goal": 761,
     "link": "https://www.youtube.com/embed/32XGL33A88I?si=tM1sB9zyK6wcd73Z",
     "team": "NSH",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 2,
     "day": 15,
     "year": 2022
@@ -7201,7 +7201,7 @@
     "highlight": "bullseye",
     "text": "Jaromir Jagr",
     "team": "CGY",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 3,
     "day": 8,
     "year": 2022
@@ -7284,7 +7284,7 @@
     "goal": 775,
     "link": "https://www.youtube.com/embed/w5sfjN16jvo?si=LVHWFNUG_72mceFp",
     "team": "BOS",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 4,
     "day": 10,
     "year": 2022
@@ -7369,7 +7369,7 @@
     "goal": 784,
     "link": "https://www.youtube.com/embed/oHw_i4Yp1uk?si=u_lNDlyr-BK6wL1F",
     "team": "NSH",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 10,
     "day": 29,
     "year": 2022
@@ -7459,7 +7459,7 @@
     "goal": 794,
     "link": "https://www.youtube.com/embed/U9sn_ppNVIQ?si=sIQztw-5R3GiUTdQ",
     "team": "PHI",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 12,
     "day": 7,
     "year": 2022
@@ -7468,7 +7468,7 @@
     "goal": 795,
     "link": "https://www.youtube.com/embed/DcZ1nzgDAXk?si=-3sYe-35Mbn1t6-0",
     "team": "PHI",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 12,
     "day": 7,
     "year": 2022
@@ -7477,7 +7477,7 @@
     "goal": 796,
     "link": "https://www.youtube.com/embed/HX2Bk4-GfrM?si=rhgna0cRX3SkzHAA",
     "team": "SEA",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 12,
     "day": 9,
     "year": 2022
@@ -7486,7 +7486,7 @@
     "goal": 797,
     "link": "https://www.youtube.com/embed/lp_xsrzd5LY?si=6y_fBTtD7ptkshU_",
     "team": "WPG",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 12,
     "day": 11,
     "year": 2022
@@ -7535,7 +7535,7 @@
     "goal": 802,
     "link": "https://www.youtube.com/embed/VQbIqz723h4?si=W3pM_arnPF_Hl-vX",
     "team": "WPG",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 12,
     "day": 23,
     "year": 2022
@@ -7743,7 +7743,7 @@
     "goal": 824,
     "link": "https://www.youtube.com/embed/dLEsVFybQ8M?si=5CEfn8CpCMpoz_oI",
     "team": "NJD",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 10,
     "day": 25,
     "year": 2023
@@ -7761,7 +7761,7 @@
     "goal": 826,
     "link": "https://www.youtube.com/embed/4dBIhMj9OMs?si=-IybZib9h94TUreE",
     "team": "NYI",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 11,
     "day": 11,
     "year": 2023
@@ -7833,7 +7833,7 @@
     "goal": 834,
     "link": "https://www.youtube.com/embed/Q1u-E8kSQ4U?si=pq2xqQzUyk7PPP3R",
     "team": "BOS",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 2,
     "day": 10,
     "year": 2024
@@ -8030,7 +8030,7 @@
     "goal": 855,
     "link": "https://www.youtube.com/embed/YZd1dqnVOEE?si=QYKblmBqTjD3NWr-",
     "team": "PHI",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 10,
     "day": 23,
     "year": 2024
@@ -8131,7 +8131,7 @@
     "highlight": "hat",
     "text": "31st Hat Trick",
     "team": "VGK",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 11,
     "day": 17,
     "year": 2024
@@ -8158,7 +8158,7 @@
     "goal": 869,
     "link": "https://www.youtube.com/embed/jbdok-XZMrM?si=iXWH_kzV0apjj8pc",
     "team": "TOR",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 12,
     "day": 28,
     "year": 2024
@@ -8196,7 +8196,7 @@
     "highlight": "twenty",
     "text": "20th 20 Goal Season",
     "team": "NSH",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 1,
     "day": 11,
     "year": 2025
@@ -8214,7 +8214,7 @@
     "goal": 875,
     "link": "https://www.youtube.com/embed/KL4KiLyRbdc?si=vwpwlf06GYA1mB12",
     "team": "SEA",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 1,
     "day": 23,
     "year": 2025
@@ -8241,7 +8241,7 @@
     "goal": 878,
     "link": "https://www.youtube.com/embed/dt5mg3doRHs?si=q7RjLtf4MAXhx8zn",
     "team": "FLA",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 2,
     "day": 4,
     "year": 2025
@@ -8279,7 +8279,7 @@
     "highlight": "hat",
     "text": "32nd Hat Trick",
     "team": "EDM",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 2,
     "day": 23,
     "year": 2025
@@ -8319,7 +8319,7 @@
     "highlight": "trophy",
     "text": "1600th Career Point",
     "team": "SEA",
-    "goalie": null,
+    "goalie": "Empty Net",
     "month": 3,
     "day": 9,
     "year": 2025
