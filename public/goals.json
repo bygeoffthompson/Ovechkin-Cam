@@ -7353,185 +7353,395 @@
     "goal": 781,
     "link": "https://www.youtube.com/embed/2mxTO0omf6A?si=RCmLMrQ7vEC8LIQ0",
     "highlight": "bookmark",
-    "text": "First of Season 18"
+    "text": "First of Season 18",
+    "team": "VAN",
+    "goalie": "Thatcher Demko",
+    "month": 10,
+    "day": 17,
+    "year": 2022
   },
   {
     "goal": 782,
-    "link": "https://www.youtube.com/embed/klxaAjUAolE?si=enzIFk44ASzoS0N9"
+    "link": "https://www.youtube.com/embed/klxaAjUAolE?si=enzIFk44ASzoS0N9",
+    "team": "VAN",
+    "goalie": "Thatcher Demko",
+    "month": 10,
+    "day": 17,
+    "year": 2022
   },
   {
     "goal": 783,
-    "link": "https://www.youtube.com/embed/j6MpLio-ujY?si=w9MqX8IJg4d3Qtz4"
+    "link": "https://www.youtube.com/embed/j6MpLio-ujY?si=w9MqX8IJg4d3Qtz4",
+    "team": "NJD",
+    "goalie": "Mackenzie Blackwood",
+    "month": 10,
+    "day": 24,
+    "year": 2022
   },
   {
     "goal": 784,
-    "link": "https://www.youtube.com/embed/oHw_i4Yp1uk?si=u_lNDlyr-BK6wL1F"
+    "link": "https://www.youtube.com/embed/oHw_i4Yp1uk?si=u_lNDlyr-BK6wL1F",
+    "team": "NSH",
+    "goalie": null,
+    "month": 10,
+    "day": 29,
+    "year": 2022
   },
   {
     "goal": 785,
-    "link": "https://www.youtube.com/embed/5Y0XSl8bMSA?si=Mork9O_QH_TlKfDq"
+    "link": "https://www.youtube.com/embed/5Y0XSl8bMSA?si=Mork9O_QH_TlKfDq",
+    "team": "CAR",
+    "goalie": "Frederik Andersen",
+    "month": 10,
+    "day": 31,
+    "year": 2022
   },
   {
     "goal": 786,
-    "link": "https://www.youtube.com/embed/Wafbig9SsYM?si=FBWQktRQjbhiy4o9"
+    "link": "https://www.youtube.com/embed/Wafbig9SsYM?si=FBWQktRQjbhiy4o9",
+    "team": "DET",
+    "goalie": "Ville Husso",
+    "month": 11,
+    "day": 3,
+    "year": 2022
   },
   {
     "goal": 787,
-    "link": "https://www.youtube.com/embed/0Fx9OKZUAQo?si=3_xg4nLYmBLssDzR"
+    "link": "https://www.youtube.com/embed/0Fx9OKZUAQo?si=3_xg4nLYmBLssDzR",
+    "team": "ARI",
+    "goalie": "Karel Vejmelka",
+    "month": 11,
+    "day": 5,
+    "year": 2022
   },
   {
     "goal": 788,
-    "link": "https://www.youtube.com/embed/3HgNYOzNWAM?si=kRK0vctd_R4XwreR"
+    "link": "https://www.youtube.com/embed/3HgNYOzNWAM?si=kRK0vctd_R4XwreR",
+    "team": "EDM",
+    "goalie": "Stuart Skinner",
+    "month": 11,
+    "day": 7,
+    "year": 2022
   },
   {
     "goal": 789,
-    "link": "https://www.youtube.com/embed/FQEsnKN8-_E?si=ldQICjxBuN4Eb_oA"
+    "link": "https://www.youtube.com/embed/FQEsnKN8-_E?si=ldQICjxBuN4Eb_oA",
+    "team": "STL",
+    "goalie": "Thomas Greiss",
+    "month": 11,
+    "day": 17,
+    "year": 2022
   },
   {
     "goal": 790,
-    "link": "https://www.youtube.com/embed/aglTGoJ_cfo?si=L30dExiuTj-ZMJ87"
+    "link": "https://www.youtube.com/embed/aglTGoJ_cfo?si=L30dExiuTj-ZMJ87",
+    "team": "PHI",
+    "goalie": "Felix Sandström",
+    "month": 11,
+    "day": 23,
+    "year": 2022
   },
   {
     "goal": 791,
-    "link": "https://www.youtube.com/embed/mmXRi8PNz90?si=ngbg-uRNYYD9HbTq"
+    "link": "https://www.youtube.com/embed/mmXRi8PNz90?si=ngbg-uRNYYD9HbTq",
+    "team": "CGY",
+    "goalie": "Jacob Markström",
+    "month": 11,
+    "day": 25,
+    "year": 2022
   },
   {
     "goal": 792,
-    "link": "https://www.youtube.com/embed/hkiff987W1g?si=AyUZWiSpOOa1Igy0"
+    "link": "https://www.youtube.com/embed/hkiff987W1g?si=AyUZWiSpOOa1Igy0",
+    "team": "VAN",
+    "goalie": "Spencer Martin",
+    "month": 11,
+    "day": 29,
+    "year": 2022
   },
   {
     "goal": 793,
-    "link": "https://www.youtube.com/embed/aP5Q9mUTi6c?si=QCghXV_VCB0HBEDp"
+    "link": "https://www.youtube.com/embed/aP5Q9mUTi6c?si=QCghXV_VCB0HBEDp",
+    "team": "VAN",
+    "goalie": "Spencer Martin",
+    "month": 11,
+    "day": 29,
+    "year": 2022
   },
   {
     "goal": 794,
-    "link": "https://www.youtube.com/embed/U9sn_ppNVIQ?si=sIQztw-5R3GiUTdQ"
+    "link": "https://www.youtube.com/embed/U9sn_ppNVIQ?si=sIQztw-5R3GiUTdQ",
+    "team": "PHI",
+    "goalie": null,
+    "month": 12,
+    "day": 7,
+    "year": 2022
   },
   {
     "goal": 795,
-    "link": "https://www.youtube.com/embed/DcZ1nzgDAXk?si=-3sYe-35Mbn1t6-0"
+    "link": "https://www.youtube.com/embed/DcZ1nzgDAXk?si=-3sYe-35Mbn1t6-0",
+    "team": "PHI",
+    "goalie": null,
+    "month": 12,
+    "day": 7,
+    "year": 2022
   },
   {
     "goal": 796,
-    "link": "https://www.youtube.com/embed/HX2Bk4-GfrM?si=rhgna0cRX3SkzHAA"
+    "link": "https://www.youtube.com/embed/HX2Bk4-GfrM?si=rhgna0cRX3SkzHAA",
+    "team": "SEA",
+    "goalie": null,
+    "month": 12,
+    "day": 9,
+    "year": 2022
   },
   {
     "goal": 797,
-    "link": "https://www.youtube.com/embed/lp_xsrzd5LY?si=6y_fBTtD7ptkshU_"
+    "link": "https://www.youtube.com/embed/lp_xsrzd5LY?si=6y_fBTtD7ptkshU_",
+    "team": "WPG",
+    "goalie": null,
+    "month": 12,
+    "day": 11,
+    "year": 2022
   },
   {
     "goal": 798,
-    "link": "https://www.youtube.com/embed/o-43TVYNrf8?si=uL4FRusDnpPgcN4h"
+    "link": "https://www.youtube.com/embed/o-43TVYNrf8?si=uL4FRusDnpPgcN4h",
+    "team": "CHI",
+    "goalie": "Petr Mrázek",
+    "month": 12,
+    "day": 13,
+    "year": 2022
   },
   {
     "goal": 799,
-    "link": "https://www.youtube.com/embed/suIqsaxf-YY?si=D2wO26A673izEm5c"
+    "link": "https://www.youtube.com/embed/suIqsaxf-YY?si=D2wO26A673izEm5c",
+    "team": "CHI",
+    "goalie": "Petr Mrázek",
+    "month": 12,
+    "day": 13,
+    "year": 2022
   },
   {
     "goal": 800,
     "link": "https://www.youtube.com/embed/c5opGdr9wu8?si=B2I7lyUe3SAHE7Vh",
     "highlight": "trophy",
-    "text": "800th Career Goal"
+    "text": "800th Career Goal",
+    "team": "CHI",
+    "goalie": "Petr Mrázek",
+    "month": 12,
+    "day": 13,
+    "year": 2022
   },
   {
     "goal": 801,
     "link": "https://www.youtube.com/embed/jf8p8yd0zrs?si=vhep7No6tWW3FxXg",
     "highlight": "bullseye",
-    "text": "Gordie Howe"
+    "text": "Gordie Howe",
+    "team": "WPG",
+    "goalie": "David Rittich",
+    "month": 12,
+    "day": 23,
+    "year": 2022
   },
   {
     "goal": 802,
-    "link": "https://www.youtube.com/embed/VQbIqz723h4?si=W3pM_arnPF_Hl-vX"
+    "link": "https://www.youtube.com/embed/VQbIqz723h4?si=W3pM_arnPF_Hl-vX",
+    "team": "WPG",
+    "goalie": null,
+    "month": 12,
+    "day": 23,
+    "year": 2022
   },
   {
     "goal": 803,
-    "link": "https://www.youtube.com/embed/AZtHqWbUUIk?si=Ecv1KaipSir6rsTB"
+    "link": "https://www.youtube.com/embed/AZtHqWbUUIk?si=Ecv1KaipSir6rsTB",
+    "team": "OTT",
+    "goalie": "Cam Talbot",
+    "month": 12,
+    "day": 29,
+    "year": 2022
   },
   {
     "goal": 804,
-    "link": "https://www.youtube.com/embed/U7rHPD9Vu3s?si=s2oTlrvaBQMXYGQI"
+    "link": "https://www.youtube.com/embed/U7rHPD9Vu3s?si=s2oTlrvaBQMXYGQI",
+    "team": "MTL",
+    "goalie": "Jake Allen",
+    "month": 12,
+    "day": 31,
+    "year": 2022
   },
   {
     "goal": 805,
-    "link": "https://www.youtube.com/embed/tDrjC9elVn8?si=U39m1X9iwHIIrYV0"
+    "link": "https://www.youtube.com/embed/tDrjC9elVn8?si=U39m1X9iwHIIrYV0",
+    "team": "MTL",
+    "goalie": "Jake Allen",
+    "month": 12,
+    "day": 31,
+    "year": 2022
   },
   {
     "goal": 806,
     "link": "https://www.youtube.com/embed/u1Xd9Awl1RU?si=fmWNmbNI_j81ofxG",
     "fallback": "https://www.youtube.com/embed/k84uPV2coHM?si=E4UuwRlLiFWs2wbF",
     "highlight": "hat",
-    "text": "30th Hat Trick"
+    "text": "30th Hat Trick",
+    "team": "MTL",
+    "goalie": "Jake Allen",
+    "month": 12,
+    "day": 31,
+    "year": 2022
   },
   {
     "goal": 807,
-    "link": "https://www.youtube.com/embed/idt9PLhb7G8?si=K7ajL4bKX-AaY1Xx"
+    "link": "https://www.youtube.com/embed/idt9PLhb7G8?si=K7ajL4bKX-AaY1Xx",
+    "team": "BUF",
+    "goalie": "Ukko-Pekka Luukkonen",
+    "month": 1,
+    "day": 3,
+    "year": 2023
   },
   {
     "goal": 808,
-    "link": "https://www.youtube.com/embed/1g1gFusdnKU?si=m6NQvYCHcQvAzBUe"
+    "link": "https://www.youtube.com/embed/1g1gFusdnKU?si=m6NQvYCHcQvAzBUe",
+    "team": "BUF",
+    "goalie": "Ukko-Pekka Luukkonen",
+    "month": 1,
+    "day": 3,
+    "year": 2023
   },
   {
     "goal": 809,
-    "link": "https://www.youtube.com/embed/w6Kovlq2Aqw?si=YJrnvNF32zfIyXd2"
+    "link": "https://www.youtube.com/embed/w6Kovlq2Aqw?si=YJrnvNF32zfIyXd2",
+    "team": "CBJ",
+    "goalie": "Elvis Merzļikins",
+    "month": 1,
+    "day": 5,
+    "year": 2023
   },
   {
     "goal": 810,
     "link": "https://www.youtube.com/embed/eQbS7vc29E8?si=ZYcCNFES3Ak3sxkU",
     "highlight": "thirty",
-    "text": "19th 30 Goal Season"
+    "text": "19th 30 Goal Season",
+    "team": "PHI",
+    "goalie": "Carter Hart",
+    "month": 1,
+    "day": 14,
+    "year": 2023
   },
   {
     "goal": 811,
-    "link": "https://www.youtube.com/embed/WBM9Dr0kisY?si=BhJG0CMRjJ7SdmyJ"
+    "link": "https://www.youtube.com/embed/WBM9Dr0kisY?si=BhJG0CMRjJ7SdmyJ",
+    "team": "COL",
+    "goalie": "Alexandar Georgiev",
+    "month": 1,
+    "day": 24,
+    "year": 2023
   },
   {
     "goal": 812,
-    "link": "https://www.youtube.com/embed/MzDFdJUVZ24?si=vymN-o_Nr-ISKU3H"
+    "link": "https://www.youtube.com/embed/MzDFdJUVZ24?si=vymN-o_Nr-ISKU3H",
+    "team": "PIT",
+    "goalie": "Casey DeSmith",
+    "month": 1,
+    "day": 26,
+    "year": 2023
   },
   {
     "goal": 813,
-    "link": "https://www.youtube.com/embed/IwR6Z1GiEXE?si=lNRM1iy_AxxDHbIb"
+    "link": "https://www.youtube.com/embed/IwR6Z1GiEXE?si=lNRM1iy_AxxDHbIb",
+    "team": "BUF",
+    "goalie": "Ukko-Pekka Luukkonen",
+    "month": 2,
+    "day": 26,
+    "year": 2023
   },
   {
     "goal": 814,
-    "link": "https://www.youtube.com/embed/z2A0iEKik4c?si=ygC-zbexxKv6qG2C"
+    "link": "https://www.youtube.com/embed/z2A0iEKik4c?si=ygC-zbexxKv6qG2C",
+    "team": "SJS",
+    "goalie": "Kaapo Kähkönen",
+    "month": 3,
+    "day": 4,
+    "year": 2023
   },
   {
     "goal": 815,
-    "link": "https://www.youtube.com/embed/z2A0iEKik4c?si=_t-RtUsp6CTwBDlD&amp;start=36"
+    "link": "https://www.youtube.com/embed/z2A0iEKik4c?si=_t-RtUsp6CTwBDlD&amp;start=36",
+    "team": "SJS",
+    "goalie": "Kaapo Kähkönen",
+    "month": 3,
+    "day": 4,
+    "year": 2023
   },
   {
     "goal": 816,
-    "link": "https://www.youtube.com/embed/6p8jpNlpH6A?si=Jp0Bpx-bdmrQfDpg"
+    "link": "https://www.youtube.com/embed/6p8jpNlpH6A?si=Jp0Bpx-bdmrQfDpg",
+    "team": "LAK",
+    "goalie": "Pheonix Copley",
+    "month": 3,
+    "day": 6,
+    "year": 2023
   },
   {
     "goal": 817,
-    "link": "https://www.youtube.com/embed/eFldPAbzyRc?si=6A-oVfL6VrwklENT"
+    "link": "https://www.youtube.com/embed/eFldPAbzyRc?si=6A-oVfL6VrwklENT",
+    "team": "BUF",
+    "goalie": "Ukko-Pekka Luukkonen",
+    "month": 3,
+    "day": 15,
+    "year": 2023
   },
   {
     "goal": 818,
-    "link": "https://www.youtube.com/embed/FX1aZpNZRVI?si=yA7CWCRieGtg8sLe"
+    "link": "https://www.youtube.com/embed/FX1aZpNZRVI?si=yA7CWCRieGtg8sLe",
+    "team": "MIN",
+    "goalie": "Marc-André Fleury",
+    "month": 3,
+    "day": 19,
+    "year": 2023
   },
   {
     "goal": 819,
-    "link": "https://www.youtube.com/embed/nZkDaEz-WqA?si=dnFlocrBIj7lsa4y"
+    "link": "https://www.youtube.com/embed/nZkDaEz-WqA?si=dnFlocrBIj7lsa4y",
+    "team": "MIN",
+    "goalie": "Marc-André Fleury",
+    "month": 3,
+    "day": 19,
+    "year": 2023
   },
   {
     "goal": 820,
     "link": "https://www.youtube.com/embed/taYoRVHKAQ8?si=dZrYImf6o4b4Qe8k",
     "fallback": "https://www.youtube.com/embed/jkodWLAOZJ4?si=ckRv76bCuh5IZ8wv",
     "highlight": "forty",
-    "text": "13th 40 Goal Season"
+    "text": "13th 40 Goal Season",
+    "team": "CBJ",
+    "goalie": "Daniil Tarasov",
+    "month": 3,
+    "day": 21,
+    "year": 2023
   },
   {
     "goal": 821,
-    "link": "https://www.youtube.com/embed/9UwPrwE245E?si=fdsIFFJFX91jBdt0"
+    "link": "https://www.youtube.com/embed/9UwPrwE245E?si=fdsIFFJFX91jBdt0",
+    "team": "CHI",
+    "goalie": "Anton Khudobin",
+    "month": 3,
+    "day": 23,
+    "year": 2023
   },
   {
     "goal": 822,
     "link": "https://www.youtube.com/embed/_Z56915Mb0Q?si=xi_nmJpjF5oVcra9",
     "highlight": "bookmark",
-    "text": "Last of Season 18"
+    "text": "Last of Season 18",
+    "team": "PIT",
+    "goalie": "Casey DeSmith",
+    "month": 3,
+    "day": 25,
+    "year": 2023
   },
   {
     "goal": 823,
