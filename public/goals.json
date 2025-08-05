@@ -9,7 +9,7 @@
     "month": 10,
     "day": 5,
     "year": 2005,
-    "tags": ""
+    "tags": "Welcome On Board First"
   },
   {
     "goal": 2,
@@ -201,7 +201,7 @@
     "month": 12,
     "day": 23,
     "year": 2005,
-    "tags": ""
+    "tags": "Twenty 20"
   },
   {
     "goal": 21,
@@ -231,7 +231,7 @@
     "month": 12,
     "day": 31,
     "year": 2005,
-    "tags": ""
+    "tags": "Niittymaki"
   },
   {
     "goal": 24,
@@ -251,7 +251,7 @@
     "month": 1,
     "day": 6,
     "year": 2006,
-    "tags": ""
+    "tags": "Niittymaki"
   },
   {
     "goal": 26,
@@ -281,7 +281,7 @@
     "month": 1,
     "day": 13,
     "year": 2006,
-    "tags": ""
+    "tags": "Jean-Sebastien Giguere"
   },
   {
     "goal": 29,
@@ -291,7 +291,7 @@
     "month": 1,
     "day": 13,
     "year": 2006,
-    "tags": ""
+    "tags": "Jean-Sebastien Giguere"
   },
   {
     "goal": 30,
@@ -303,7 +303,7 @@
     "month": 1,
     "day": 13,
     "year": 2006,
-    "tags": ""
+    "tags": "Jean-Sebastien Giguere Hat Trick"
   },
   {
     "goal": 31,
@@ -325,7 +325,7 @@
     "month": 1,
     "day": 16,
     "year": 2006,
-    "tags": "Arizona"
+    "tags": "Arizona Simply Sensational"
   },
   {
     "goal": 33,
@@ -345,7 +345,7 @@
     "month": 1,
     "day": 25,
     "year": 2006,
-    "tags": ""
+    "tags": "Marc-Andre"
   },
   {
     "goal": 35,
@@ -365,7 +365,7 @@
     "month": 2,
     "day": 11,
     "year": 2006,
-    "tags": ""
+    "tags": "Marc-Andre"
   },
   {
     "goal": 37,
@@ -407,7 +407,7 @@
     "month": 3,
     "day": 6,
     "year": 2006,
-    "tags": ""
+    "tags": "Forty 40"
   },
   {
     "goal": 41,
@@ -427,7 +427,7 @@
     "month": 3,
     "day": 8,
     "year": 2006,
-    "tags": ""
+    "tags": "Sebastien"
   },
   {
     "goal": 43,
@@ -499,7 +499,7 @@
     "month": 4,
     "day": 10,
     "year": 2006,
-    "tags": ""
+    "tags": "100th Point"
   },
   {
     "goal": 50,
@@ -511,7 +511,7 @@
     "month": 4,
     "day": 13,
     "year": 2006,
-    "tags": ""
+    "tags": "Fifty 50"
   },
   {
     "goal": 51,
@@ -533,7 +533,7 @@
     "month": 4,
     "day": 17,
     "year": 2006,
-    "tags": ""
+    "tags": "Last"
   },
   {
     "goal": 53,
@@ -545,7 +545,7 @@
     "month": 10,
     "day": 7,
     "year": 2006,
-    "tags": ""
+    "tags": "First"
   },
   {
     "goal": 54,
@@ -691,11 +691,11 @@
     "goal": 68,
     "link": "https://www.youtube.com/embed/uIrKbXIz4y0?si=aA5FmyM1etduxDET",
     "team": "Tampa Bay Lightning",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 11,
     "day": 28,
     "year": 2006,
-    "tags": ""
+    "tags": "Empty Net"
   },
   {
     "goal": 69,
@@ -715,7 +715,7 @@
     "month": 12,
     "day": 9,
     "year": 2006,
-    "tags": ""
+    "tags": "Niittymaki"
   },
   {
     "goal": 71,
@@ -737,7 +737,7 @@
     "month": 12,
     "day": 15,
     "year": 2006,
-    "tags": ""
+    "tags": "Twenty 20"
   },
   {
     "goal": 73,
@@ -749,7 +749,7 @@
     "month": 12,
     "day": 15,
     "year": 2006,
-    "tags": ""
+    "tags": "Hat Trick"
   },
   {
     "goal": 74,
@@ -759,7 +759,7 @@
     "month": 12,
     "day": 16,
     "year": 2006,
-    "tags": ""
+    "tags": "Niittymaki"
   },
   {
     "goal": 75,
@@ -825,11 +825,11 @@
     "goal": 81,
     "link": "https://www.youtube.com/embed/xNeIubPu-aM?si=3f3waj0rp_Pdo9I8",
     "team": "Carolina Hurricanes",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 1,
     "day": 18,
     "year": 2007,
-    "tags": ""
+    "tags": "Empty Net"
   },
   {
     "goal": 82,
@@ -841,7 +841,7 @@
     "month": 1,
     "day": 26,
     "year": 2007,
-    "tags": ""
+    "tags": "Thirty 30"
   },
   {
     "goal": 83,
@@ -943,7 +943,7 @@
     "month": 3,
     "day": 12,
     "year": 2007,
-    "tags": ""
+    "tags": "Forty 40"
   },
   {
     "goal": 93,
@@ -1005,7 +1005,7 @@
     "month": 4,
     "day": 4,
     "year": 2007,
-    "tags": ""
+    "tags": "Last"
   },
   {
     "goal": 99,
@@ -1017,7 +1017,7 @@
     "month": 10,
     "day": 6,
     "year": 2007,
-    "tags": ""
+    "tags": "First"
   },
   {
     "goal": 100,
@@ -1029,7 +1029,7 @@
     "month": 10,
     "day": 12,
     "year": 2007,
-    "tags": ""
+    "tags": "100th Goal"
   },
   {
     "goal": 101,
@@ -1055,11 +1055,11 @@
     "goal": 103,
     "link": "https://www.youtube.com/embed/gU-AbAqQBUE?si=a0_llEfWmdvziBfe",
     "team": "Tampa Bay Lightning",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 10,
     "day": 24,
     "year": 2007,
-    "tags": ""
+    "tags": "Empty Net"
   },
   {
     "goal": 104,
@@ -1099,7 +1099,7 @@
     "month": 11,
     "day": 2,
     "year": 2007,
-    "tags": ""
+    "tags": "Niittymaki"
   },
   {
     "goal": 108,
@@ -1129,7 +1129,7 @@
     "month": 11,
     "day": 15,
     "year": 2007,
-    "tags": ""
+    "tags": "Tomas"
   },
   {
     "goal": 111,
@@ -1211,7 +1211,7 @@
     "month": 12,
     "day": 1,
     "year": 2007,
-    "tags": ""
+    "tags": "Tomas Twenty 20"
   },
   {
     "goal": 119,
@@ -1303,7 +1303,7 @@
     "month": 12,
     "day": 29,
     "year": 2007,
-    "tags": ""
+    "tags": "Hat Trick"
   },
   {
     "goal": 128,
@@ -1311,11 +1311,11 @@
     "highlight": "four",
     "text": "1st Four Goal Game",
     "team": "Ottawa Senators",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 12,
     "day": 29,
     "year": 2007,
-    "tags": ""
+    "tags": "Empty Net Four 4"
   },
   {
     "goal": 129,
@@ -1375,7 +1375,7 @@
     "month": 1,
     "day": 19,
     "year": 2008,
-    "tags": ""
+    "tags": "Tomas"
   },
   {
     "goal": 135,
@@ -1417,7 +1417,7 @@
     "month": 1,
     "day": 28,
     "year": 2008,
-    "tags": ""
+    "tags": "Forty 40"
   },
   {
     "goal": 139,
@@ -1439,7 +1439,7 @@
     "month": 1,
     "day": 28,
     "year": 2008,
-    "tags": ""
+    "tags": "Hat Trick"
   },
   {
     "goal": 141,
@@ -1451,7 +1451,7 @@
     "month": 1,
     "day": 28,
     "year": 2008,
-    "tags": ""
+    "tags": "Four 4"
   },
   {
     "goal": 142,
@@ -1523,7 +1523,7 @@
     "month": 3,
     "day": 3,
     "year": 2008,
-    "tags": ""
+    "tags": "Fifty 50"
   },
   {
     "goal": 149,
@@ -1545,7 +1545,7 @@
     "month": 3,
     "day": 3,
     "year": 2008,
-    "tags": ""
+    "tags": "Hat Trick"
   },
   {
     "goal": 151,
@@ -1601,11 +1601,11 @@
     "goal": 156,
     "link": "https://www.youtube.com/embed/uBcoc6YxfAE?si=e0CSm8FzobVY-r6X",
     "team": "Nashville Predators",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 3,
     "day": 18,
     "year": 2008,
-    "tags": ""
+    "tags": "Empty Net"
   },
   {
     "goal": 157,
@@ -1627,7 +1627,7 @@
     "month": 3,
     "day": 21,
     "year": 2008,
-    "tags": ""
+    "tags": "Sixty 60"
   },
   {
     "goal": 159,
@@ -1647,7 +1647,7 @@
     "month": 3,
     "day": 29,
     "year": 2008,
-    "tags": ""
+    "tags": "Tomas"
   },
   {
     "goal": 161,
@@ -1667,7 +1667,7 @@
     "month": 4,
     "day": 3,
     "year": 2008,
-    "tags": ""
+    "tags": "Ramo"
   },
   {
     "goal": 163,
@@ -1679,7 +1679,7 @@
     "month": 4,
     "day": 3,
     "year": 2008,
-    "tags": ""
+    "tags": "Ramo Last"
   },
   {
     "goal": 164,
@@ -1691,7 +1691,7 @@
     "month": 10,
     "day": 11,
     "year": 2008,
-    "tags": ""
+    "tags": "First"
   },
   {
     "goal": 165,
@@ -1707,11 +1707,11 @@
     "goal": 166,
     "link": "https://www.youtube.com/embed/qovG_boAaMg?si=DNb8awuXjQznIplo",
     "team": "Tampa Bay Lightning",
-    "goalie": "Olaf Kolzig",
+    "goalie": "Olaf Kölzig",
     "month": 11,
     "day": 10,
     "year": 2008,
-    "tags": ""
+    "tags": "Kolzig"
   },
   {
     "goal": 167,
@@ -1727,11 +1727,11 @@
     "goal": 168,
     "link": "https://www.youtube.com/embed/w2QD_gCB0rY?si=nYErd6DNccl48Kmu",
     "team": "New Jersey Devils",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 11,
     "day": 14,
     "year": 2008,
-    "tags": ""
+    "tags": "Empty Net"
   },
   {
     "goal": 169,
@@ -1761,7 +1761,7 @@
     "month": 11,
     "day": 19,
     "year": 2008,
-    "tags": ""
+    "tags": "Jean-Sebastien Giguere"
   },
   {
     "goal": 172,
@@ -1771,7 +1771,7 @@
     "month": 11,
     "day": 24,
     "year": 2008,
-    "tags": ""
+    "tags": "Backstrom"
   },
   {
     "goal": 173,
@@ -1781,7 +1781,7 @@
     "month": 11,
     "day": 26,
     "year": 2008,
-    "tags": ""
+    "tags": "Ondrej"
   },
   {
     "goal": 174,
@@ -1791,7 +1791,7 @@
     "month": 11,
     "day": 26,
     "year": 2008,
-    "tags": ""
+    "tags": "Ondrej"
   },
   {
     "goal": 175,
@@ -1803,7 +1803,7 @@
     "month": 11,
     "day": 26,
     "year": 2008,
-    "tags": ""
+    "tags": "Ondrej Hat Trick"
   },
   {
     "goal": 176,
@@ -1813,7 +1813,7 @@
     "month": 11,
     "day": 28,
     "year": 2008,
-    "tags": ""
+    "tags": "Halak"
   },
   {
     "goal": 177,
@@ -1829,11 +1829,11 @@
     "goal": 178,
     "link": "https://www.youtube.com/embed/O3Iqse2i-VY?si=2HRhLZBGykUOsoke",
     "team": "Boston Bruins",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 12,
     "day": 10,
     "year": 2008,
-    "tags": ""
+    "tags": "Empty Net"
   },
   {
     "goal": 179,
@@ -1885,7 +1885,7 @@
     "month": 12,
     "day": 18,
     "year": 2008,
-    "tags": ""
+    "tags": "Twenty 20"
   },
   {
     "goal": 184,
@@ -1931,11 +1931,11 @@
     "goal": 188,
     "link": "https://www.youtube.com/embed/bqm_gzwDc9o?si=ZTMPt6ifuoKTXhpl",
     "team": "Toronto Maple Leafs",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 12,
     "day": 28,
     "year": 2008,
-    "tags": ""
+    "tags": "Empty Net"
   },
   {
     "goal": 189,
@@ -1965,7 +1965,7 @@
     "month": 1,
     "day": 14,
     "year": 2009,
-    "tags": ""
+    "tags": "Marc-Andre"
   },
   {
     "goal": 192,
@@ -1975,7 +1975,7 @@
     "month": 1,
     "day": 14,
     "year": 2009,
-    "tags": ""
+    "tags": "Marc-Andre"
   },
   {
     "goal": 193,
@@ -1987,7 +1987,7 @@
     "month": 1,
     "day": 19,
     "year": 2009,
-    "tags": ""
+    "tags": "Thirty 30"
   },
   {
     "goal": 194,
@@ -2049,7 +2049,7 @@
     "month": 2,
     "day": 1,
     "year": 2009,
-    "tags": ""
+    "tags": "Hat Trick"
   },
   {
     "goal": 200,
@@ -2061,7 +2061,7 @@
     "month": 2,
     "day": 5,
     "year": 2009,
-    "tags": ""
+    "tags": "200th Goal"
   },
   {
     "goal": 201,
@@ -2081,7 +2081,7 @@
     "month": 2,
     "day": 15,
     "year": 2009,
-    "tags": ""
+    "tags": "Tomas"
   },
   {
     "goal": 203,
@@ -2093,7 +2093,7 @@
     "month": 2,
     "day": 15,
     "year": 2009,
-    "tags": ""
+    "tags": "Tomas Forty 40"
   },
   {
     "goal": 204,
@@ -2101,11 +2101,11 @@
     "highlight": "hat",
     "text": "8th Hat Trick",
     "team": "Florida Panthers",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 2,
     "day": 15,
     "year": 2009,
-    "tags": ""
+    "tags": "Empty Net Hat Trick"
   },
   {
     "goal": 205,
@@ -2117,7 +2117,7 @@
     "month": 2,
     "day": 18,
     "year": 2009,
-    "tags": ""
+    "tags": "All Alex The Time"
   },
   {
     "goal": 206,
@@ -2127,7 +2127,7 @@
     "month": 2,
     "day": 22,
     "year": 2009,
-    "tags": ""
+    "tags": "Marc-Andre"
   },
   {
     "goal": 207,
@@ -2137,7 +2137,7 @@
     "month": 2,
     "day": 24,
     "year": 2009,
-    "tags": ""
+    "tags": "Niittymaki"
   },
   {
     "goal": 208,
@@ -2167,7 +2167,7 @@
     "month": 3,
     "day": 8,
     "year": 2009,
-    "tags": ""
+    "tags": "Marc-Andre"
   },
   {
     "goal": 211,
@@ -2199,7 +2199,7 @@
     "month": 3,
     "day": 19,
     "year": 2009,
-    "tags": ""
+    "tags": "Fifty 50"
   },
   {
     "goal": 214,
@@ -2225,11 +2225,11 @@
     "goal": 216,
     "link": "https://www.youtube.com/embed/njChaQOWTgM?si=6a_e2BFR8lXydj8M",
     "team": "Tampa Bay Lightning",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 3,
     "day": 27,
     "year": 2009,
-    "tags": ""
+    "tags": "Empty Net"
   },
   {
     "goal": 217,
@@ -2261,7 +2261,7 @@
     "month": 4,
     "day": 11,
     "year": 2009,
-    "tags": ""
+    "tags": "Tomas Last"
   },
   {
     "goal": 220,
@@ -2273,7 +2273,7 @@
     "month": 10,
     "day": 1,
     "year": 2009,
-    "tags": ""
+    "tags": "First"
   },
   {
     "goal": 221,
@@ -2369,11 +2369,11 @@
     "goal": 230,
     "link": "https://www.youtube.com/embed/dzDfujdQPao?si=872fwDa8Vw5wewoC",
     "team": "Philadelphia Flyers",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 10,
     "day": 27,
     "year": 2009,
-    "tags": ""
+    "tags": "Empty Net"
   },
   {
     "goal": 231,
@@ -2383,7 +2383,7 @@
     "month": 10,
     "day": 29,
     "year": 2009,
-    "tags": ""
+    "tags": "Ondrej"
   },
   {
     "goal": 232,
@@ -2393,7 +2393,7 @@
     "month": 10,
     "day": 29,
     "year": 2009,
-    "tags": ""
+    "tags": "Ondrej"
   },
   {
     "goal": 233,
@@ -2465,7 +2465,7 @@
     "month": 12,
     "day": 7,
     "year": 2009,
-    "tags": ""
+    "tags": "Twenty 20"
   },
   {
     "goal": 240,
@@ -2545,7 +2545,7 @@
     "month": 1,
     "day": 13,
     "year": 2010,
-    "tags": ""
+    "tags": "Tomas"
   },
   {
     "goal": 248,
@@ -2567,7 +2567,7 @@
     "month": 1,
     "day": 17,
     "year": 2010,
-    "tags": ""
+    "tags": "Penalty Shot"
   },
   {
     "goal": 250,
@@ -2583,21 +2583,21 @@
     "goal": 251,
     "link": "https://www.youtube.com/embed/ThpI5M9Z3iI?si=aDugpjeR3e62dh4H",
     "team": "Pittsburgh Penguins",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 1,
     "day": 21,
     "year": 2010,
-    "tags": ""
+    "tags": "Empty Net"
   },
   {
     "goal": 252,
     "link": "https://www.youtube.com/embed/9w1wmWwNsFM?si=oDawkZSA_-cXABTP",
     "team": "Phoenix Coyotes",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 1,
     "day": 23,
     "year": 2010,
-    "tags": "Arizona"
+    "tags": "Arizona Empty Net"
   },
   {
     "goal": 253,
@@ -2607,7 +2607,7 @@
     "month": 1,
     "day": 27,
     "year": 2010,
-    "tags": ""
+    "tags": "Jean-Sebastien Giguere"
   },
   {
     "goal": 254,
@@ -2623,11 +2623,11 @@
     "goal": 255,
     "link": "https://www.youtube.com/embed/v5MsNv3fpuI?si=hNVv_KKi2FzUuAGk",
     "team": "Boston Bruins",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 2,
     "day": 2,
     "year": 2010,
-    "tags": ""
+    "tags": "Empty Net"
   },
   {
     "goal": 256,
@@ -2649,7 +2649,7 @@
     "month": 2,
     "day": 4,
     "year": 2010,
-    "tags": ""
+    "tags": "500th Point"
   },
   {
     "goal": 258,
@@ -2659,7 +2659,7 @@
     "month": 2,
     "day": 5,
     "year": 2010,
-    "tags": ""
+    "tags": "Ondrej"
   },
   {
     "goal": 259,
@@ -2671,7 +2671,7 @@
     "month": 2,
     "day": 7,
     "year": 2010,
-    "tags": ""
+    "tags": "Marc-Andre Forty 40"
   },
   {
     "goal": 260,
@@ -2681,7 +2681,7 @@
     "month": 2,
     "day": 7,
     "year": 2010,
-    "tags": ""
+    "tags": "Marc-Andre"
   },
   {
     "goal": 261,
@@ -2693,7 +2693,7 @@
     "month": 2,
     "day": 7,
     "year": 2010,
-    "tags": ""
+    "tags": "Marc-Andre Hat Trick"
   },
   {
     "goal": 262,
@@ -2723,7 +2723,7 @@
     "month": 3,
     "day": 20,
     "year": 2010,
-    "tags": ""
+    "tags": "Niittymaki"
   },
   {
     "goal": 265,
@@ -2749,11 +2749,11 @@
     "goal": 267,
     "link": "https://www.youtube.com/embed/fC9NNOo8_nU?si=NCNbl4WPjNwBCLxx",
     "team": "Pittsburgh Penguins",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 4,
     "day": 6,
     "year": 2010,
-    "tags": ""
+    "tags": "Empty Net"
   },
   {
     "goal": 268,
@@ -2763,7 +2763,7 @@
     "month": 4,
     "day": 9,
     "year": 2010,
-    "tags": ""
+    "tags": "Ondrej"
   },
   {
     "goal": 269,
@@ -2775,7 +2775,7 @@
     "month": 4,
     "day": 9,
     "year": 2010,
-    "tags": ""
+    "tags": "Ondrej Last Fifty 50"
   },
   {
     "goal": 270,
@@ -2787,7 +2787,7 @@
     "month": 10,
     "day": 9,
     "year": 2010,
-    "tags": ""
+    "tags": "First"
   },
   {
     "goal": 271,
@@ -2799,7 +2799,7 @@
     "month": 10,
     "day": 9,
     "year": 2010,
-    "tags": ""
+    "tags": "Penalty Shot"
   },
   {
     "goal": 272,
@@ -2829,7 +2829,7 @@
     "month": 10,
     "day": 28,
     "year": 2010,
-    "tags": ""
+    "tags": "Backstrom"
   },
   {
     "goal": 275,
@@ -2855,11 +2855,11 @@
     "goal": 277,
     "link": "https://www.youtube.com/embed/ukb4DYxiDYE?si=w7t1BbduO-RE6Tf_",
     "team": "Boston Bruins",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 11,
     "day": 5,
     "year": 2010,
-    "tags": ""
+    "tags": "Empty Net"
   },
   {
     "goal": 278,
@@ -2889,7 +2889,7 @@
     "month": 12,
     "day": 4,
     "year": 2010,
-    "tags": ""
+    "tags": "Ondrej"
   },
   {
     "goal": 281,
@@ -2915,11 +2915,11 @@
     "goal": 283,
     "link": "https://www.youtube.com/embed/m7nsKrNPBOU?si=T56wnaBt4api0W10",
     "team": "Montreal Canadiens",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 12,
     "day": 28,
     "year": 2010,
-    "tags": ""
+    "tags": "Empty Net"
   },
   {
     "goal": 284,
@@ -2949,7 +2949,7 @@
     "month": 1,
     "day": 22,
     "year": 2011,
-    "tags": ""
+    "tags": "Jean-Sebastien Giguere"
   },
   {
     "goal": 287,
@@ -2959,7 +2959,7 @@
     "month": 1,
     "day": 22,
     "year": 2011,
-    "tags": ""
+    "tags": "Jean-Sebastien Giguere"
   },
   {
     "goal": 288,
@@ -2967,11 +2967,11 @@
     "highlight": "hat",
     "text": "10th Hat Trick",
     "team": "Toronto Maple Leafs",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 1,
     "day": 22,
     "year": 2011,
-    "tags": ""
+    "tags": "Empty Net Hat Trick"
   },
   {
     "goal": 289,
@@ -2983,7 +2983,7 @@
     "month": 2,
     "day": 4,
     "year": 2011,
-    "tags": ""
+    "tags": "Twenty 20"
   },
   {
     "goal": 290,
@@ -3023,7 +3023,7 @@
     "month": 2,
     "day": 21,
     "year": 2011,
-    "tags": ""
+    "tags": "Marc-Andre"
   },
   {
     "goal": 294,
@@ -3085,7 +3085,7 @@
     "month": 4,
     "day": 2,
     "year": 2011,
-    "tags": ""
+    "tags": "Thirty 30"
   },
   {
     "goal": 300,
@@ -3097,7 +3097,7 @@
     "month": 4,
     "day": 5,
     "year": 2011,
-    "tags": ""
+    "tags": "300th Goal"
   },
   {
     "goal": 301,
@@ -3105,11 +3105,11 @@
     "highlight": "bookmark",
     "text": "Last of Season 6",
     "team": "Florida Panthers",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 4,
     "day": 6,
     "year": 2011,
-    "tags": ""
+    "tags": "Empty Net Last"
   },
   {
     "goal": 302,
@@ -3121,7 +3121,7 @@
     "month": 10,
     "day": 13,
     "year": 2011,
-    "tags": ""
+    "tags": "First"
   },
   {
     "goal": 303,
@@ -3211,7 +3211,7 @@
     "month": 12,
     "day": 15,
     "year": 2011,
-    "tags": ""
+    "tags": "Ondrej"
   },
   {
     "goal": 312,
@@ -3313,7 +3313,7 @@
     "month": 1,
     "day": 22,
     "year": 2012,
-    "tags": ""
+    "tags": "Marc-Andre Twenty 20"
   },
   {
     "goal": 322,
@@ -3343,7 +3343,7 @@
     "month": 2,
     "day": 9,
     "year": 2012,
-    "tags": ""
+    "tags": "Ondrej"
   },
   {
     "goal": 325,
@@ -3353,7 +3353,7 @@
     "month": 2,
     "day": 17,
     "year": 2012,
-    "tags": ""
+    "tags": "Jose Theodore"
   },
   {
     "goal": 326,
@@ -3414,7 +3414,7 @@
     "month": 3,
     "day": 18,
     "year": 2012,
-    "tags": ""
+    "tags": "Thirty 30"
   },
   {
     "goal": 332,
@@ -3454,7 +3454,7 @@
     "month": 3,
     "day": 23,
     "year": 2012,
-    "tags": ""
+    "tags": "Ondrej"
   },
   {
     "goal": 336,
@@ -3464,7 +3464,7 @@
     "month": 3,
     "day": 23,
     "year": 2012,
-    "tags": ""
+    "tags": "Ondrej"
   },
   {
     "goal": 337,
@@ -3484,7 +3484,7 @@
     "month": 4,
     "day": 5,
     "year": 2012,
-    "tags": ""
+    "tags": "Jose Theodore"
   },
   {
     "goal": 339,
@@ -3496,7 +3496,7 @@
     "month": 4,
     "day": 7,
     "year": 2012,
-    "tags": ""
+    "tags": "Last"
   },
   {
     "goal": 340,
@@ -3508,7 +3508,7 @@
     "month": 1,
     "day": 27,
     "year": 2013,
-    "tags": ""
+    "tags": "First"
   },
   {
     "goal": 341,
@@ -3528,7 +3528,7 @@
     "month": 2,
     "day": 7,
     "year": 2013,
-    "tags": ""
+    "tags": "Marc-Andre"
   },
   {
     "goal": 343,
@@ -3538,7 +3538,7 @@
     "month": 2,
     "day": 12,
     "year": 2013,
-    "tags": ""
+    "tags": "Jose Theodore"
   },
   {
     "goal": 344,
@@ -3580,7 +3580,7 @@
     "month": 2,
     "day": 23,
     "year": 2013,
-    "tags": ""
+    "tags": "Hat Trick"
   },
   {
     "goal": 348,
@@ -3620,7 +3620,7 @@
     "month": 3,
     "day": 19,
     "year": 2013,
-    "tags": ""
+    "tags": "Marc-Andre"
   },
   {
     "goal": 352,
@@ -3630,7 +3630,7 @@
     "month": 3,
     "day": 21,
     "year": 2013,
-    "tags": ""
+    "tags": "Ondrej"
   },
   {
     "goal": 353,
@@ -3702,7 +3702,7 @@
     "month": 4,
     "day": 2,
     "year": 2013,
-    "tags": ""
+    "tags": "700th Point"
   },
   {
     "goal": 360,
@@ -3712,7 +3712,7 @@
     "month": 4,
     "day": 6,
     "year": 2013,
-    "tags": ""
+    "tags": "Markstrom"
   },
   {
     "goal": 361,
@@ -3722,7 +3722,7 @@
     "month": 4,
     "day": 6,
     "year": 2013,
-    "tags": ""
+    "tags": "Markstrom"
   },
   {
     "goal": 362,
@@ -3734,7 +3734,7 @@
     "month": 4,
     "day": 6,
     "year": 2013,
-    "tags": ""
+    "tags": "Markstrom Hat Trick"
   },
   {
     "goal": 363,
@@ -3750,11 +3750,11 @@
     "goal": 364,
     "link": "https://www.youtube.com/embed/KfrsqdfL9bU?si=P3zmHY_1wZoA3z7Q",
     "team": "Tampa Bay Lightning",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 4,
     "day": 7,
     "year": 2013,
-    "tags": ""
+    "tags": "Empty Net"
   },
   {
     "goal": 365,
@@ -3806,17 +3806,17 @@
     "month": 4,
     "day": 20,
     "year": 2013,
-    "tags": ""
+    "tags": "Thirty 30"
   },
   {
     "goal": 370,
     "link": "https://www.youtube.com/embed/AsiMqLT5U5k?si=evPS2BrHh0VIT537",
     "team": "Winnipeg Jets",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 4,
     "day": 23,
     "year": 2013,
-    "tags": ""
+    "tags": "Empty Net"
   },
   {
     "goal": 371,
@@ -3828,7 +3828,7 @@
     "month": 4,
     "day": 25,
     "year": 2013,
-    "tags": ""
+    "tags": "Last"
   },
   {
     "goal": 372,
@@ -3840,7 +3840,7 @@
     "month": 10,
     "day": 1,
     "year": 2013,
-    "tags": ""
+    "tags": "First"
   },
   {
     "goal": 373,
@@ -3850,7 +3850,7 @@
     "month": 10,
     "day": 3,
     "year": 2013,
-    "tags": ""
+    "tags": "Ramo"
   },
   {
     "goal": 374,
@@ -3860,7 +3860,7 @@
     "month": 10,
     "day": 3,
     "year": 2013,
-    "tags": ""
+    "tags": "Ramo"
   },
   {
     "goal": 375,
@@ -3910,7 +3910,7 @@
     "month": 10,
     "day": 22,
     "year": 2013,
-    "tags": ""
+    "tags": "Ondrej"
   },
   {
     "goal": 380,
@@ -3920,7 +3920,7 @@
     "month": 10,
     "day": 22,
     "year": 2013,
-    "tags": ""
+    "tags": "Ondrej"
   },
   {
     "goal": 381,
@@ -3990,7 +3990,7 @@
     "month": 11,
     "day": 17,
     "year": 2013,
-    "tags": ""
+    "tags": "Halak"
   },
   {
     "goal": 388,
@@ -4000,7 +4000,7 @@
     "month": 11,
     "day": 17,
     "year": 2013,
-    "tags": ""
+    "tags": "Halak"
   },
   {
     "goal": 389,
@@ -4032,7 +4032,7 @@
     "month": 11,
     "day": 23,
     "year": 2013,
-    "tags": ""
+    "tags": "Twenty 20"
   },
   {
     "goal": 392,
@@ -4084,7 +4084,7 @@
     "month": 12,
     "day": 10,
     "year": 2013,
-    "tags": ""
+    "tags": "Hat Trick"
   },
   {
     "goal": 397,
@@ -4096,7 +4096,7 @@
     "month": 12,
     "day": 10,
     "year": 2013,
-    "tags": ""
+    "tags": "Four 4"
   },
   {
     "goal": 398,
@@ -4124,11 +4124,11 @@
     "highlight": "trophy",
     "text": "400th Career Goal",
     "team": "Carolina Hurricanes",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 12,
     "day": 20,
     "year": 2013,
-    "tags": ""
+    "tags": "Empty Net 400th Goal"
   },
   {
     "goal": 401,
@@ -4140,7 +4140,7 @@
     "month": 12,
     "day": 21,
     "year": 2013,
-    "tags": ""
+    "tags": "Thirty 30"
   },
   {
     "goal": 402,
@@ -4180,7 +4180,7 @@
     "month": 1,
     "day": 15,
     "year": 2014,
-    "tags": ""
+    "tags": "Marc-Andre"
   },
   {
     "goal": 406,
@@ -4242,7 +4242,7 @@
     "month": 2,
     "day": 6,
     "year": 2014,
-    "tags": ""
+    "tags": "Ondrej Forty 40"
   },
   {
     "goal": 412,
@@ -4274,7 +4274,7 @@
     "month": 3,
     "day": 1,
     "year": 2014,
-    "tags": ""
+    "tags": "800th Point"
   },
   {
     "goal": 415,
@@ -4346,7 +4346,7 @@
     "month": 4,
     "day": 8,
     "year": 2014,
-    "tags": ""
+    "tags": "Fifty 50"
   },
   {
     "goal": 422,
@@ -4358,7 +4358,7 @@
     "month": 4,
     "day": 11,
     "year": 2014,
-    "tags": ""
+    "tags": "Last"
   },
   {
     "goal": 423,
@@ -4370,7 +4370,7 @@
     "month": 10,
     "day": 11,
     "year": 2014,
-    "tags": ""
+    "tags": "First"
   },
   {
     "goal": 424,
@@ -4460,7 +4460,7 @@
     "month": 11,
     "day": 26,
     "year": 2014,
-    "tags": ""
+    "tags": "Halak"
   },
   {
     "goal": 433,
@@ -4470,7 +4470,7 @@
     "month": 11,
     "day": 26,
     "year": 2014,
-    "tags": ""
+    "tags": "Halak"
   },
   {
     "goal": 434,
@@ -4496,11 +4496,11 @@
     "goal": 436,
     "link": "https://www.youtube.com/embed/-Cj4CjPCw74?si=4o-O123L6q2zS8CH",
     "team": "Tampa Bay Lightning",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 12,
     "day": 9,
     "year": 2014,
-    "tags": ""
+    "tags": "Empty Net"
   },
   {
     "goal": 437,
@@ -4530,7 +4530,7 @@
     "month": 12,
     "day": 29,
     "year": 2014,
-    "tags": ""
+    "tags": "Halak"
   },
   {
     "goal": 440,
@@ -4542,7 +4542,7 @@
     "month": 1,
     "day": 1,
     "year": 2015,
-    "tags": ""
+    "tags": "Outdoor"
   },
   {
     "goal": 441,
@@ -4560,11 +4560,11 @@
     "highlight": "twenty",
     "text": "10th 20 Goal Season",
     "team": "Toronto Maple Leafs",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 1,
     "day": 7,
     "year": 2015,
-    "tags": ""
+    "tags": "Empty Net Twenty 20"
   },
   {
     "goal": 443,
@@ -4644,7 +4644,7 @@
     "month": 1,
     "day": 28,
     "year": 2015,
-    "tags": ""
+    "tags": "Marc-Andre"
   },
   {
     "goal": 451,
@@ -4654,7 +4654,7 @@
     "month": 1,
     "day": 28,
     "year": 2015,
-    "tags": ""
+    "tags": "Marc-Andre"
   },
   {
     "goal": 452,
@@ -4666,7 +4666,7 @@
     "month": 2,
     "day": 1,
     "year": 2015,
-    "tags": ""
+    "tags": "Thirty 30"
   },
   {
     "goal": 453,
@@ -4736,7 +4736,7 @@
     "month": 2,
     "day": 17,
     "year": 2015,
-    "tags": ""
+    "tags": "Marc-Andre"
   },
   {
     "goal": 460,
@@ -4746,7 +4746,7 @@
     "month": 2,
     "day": 19,
     "year": 2015,
-    "tags": ""
+    "tags": "Ondrej"
   },
   {
     "goal": 461,
@@ -4756,7 +4756,7 @@
     "month": 2,
     "day": 25,
     "year": 2015,
-    "tags": ""
+    "tags": "Marc-Andre"
   },
   {
     "goal": 462,
@@ -4768,7 +4768,7 @@
     "month": 3,
     "day": 1,
     "year": 2015,
-    "tags": ""
+    "tags": "Forty 40"
   },
   {
     "goal": 463,
@@ -4870,7 +4870,7 @@
     "month": 3,
     "day": 31,
     "year": 2015,
-    "tags": ""
+    "tags": "Fifty 50"
   },
   {
     "goal": 473,
@@ -4882,7 +4882,7 @@
     "month": 4,
     "day": 2,
     "year": 2015,
-    "tags": ""
+    "tags": "The Rightful Goal Scoring King of Washington"
   },
   {
     "goal": 474,
@@ -4904,7 +4904,7 @@
     "month": 4,
     "day": 11,
     "year": 2015,
-    "tags": ""
+    "tags": "Last"
   },
   {
     "goal": 476,
@@ -4916,7 +4916,7 @@
     "month": 10,
     "day": 10,
     "year": 2015,
-    "tags": ""
+    "tags": "First"
   },
   {
     "goal": 477,
@@ -4948,7 +4948,7 @@
     "month": 10,
     "day": 20,
     "year": 2015,
-    "tags": ""
+    "tags": "Ramo 900th Point"
   },
   {
     "goal": 480,
@@ -5106,11 +5106,11 @@
     "highlight": "twenty",
     "text": "11th 20 Goal Season",
     "team": "Buffalo Sabres",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 12,
     "day": 30,
     "year": 2015,
-    "tags": ""
+    "tags": "Empty Net Twenty 20"
   },
   {
     "goal": 496,
@@ -5130,7 +5130,7 @@
     "month": 1,
     "day": 7,
     "year": 2016,
-    "tags": ""
+    "tags": "Halak"
   },
   {
     "goal": 498,
@@ -5162,7 +5162,7 @@
     "month": 1,
     "day": 10,
     "year": 2016,
-    "tags": ""
+    "tags": "500th Goal"
   },
   {
     "goal": 501,
@@ -5194,7 +5194,7 @@
     "month": 1,
     "day": 19,
     "year": 2016,
-    "tags": ""
+    "tags": "Peter Bondra"
   },
   {
     "goal": 504,
@@ -5204,7 +5204,7 @@
     "month": 2,
     "day": 4,
     "year": 2016,
-    "tags": ""
+    "tags": "Halak"
   },
   {
     "goal": 505,
@@ -5216,17 +5216,17 @@
     "month": 2,
     "day": 7,
     "year": 2016,
-    "tags": ""
+    "tags": "Thirty 30"
   },
   {
     "goal": 506,
     "link": "https://www.youtube.com/embed/Odc856r-4qs?si=kGzOQ-lXHq_mwjrA",
     "team": "Nashville Predators",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 2,
     "day": 9,
     "year": 2016,
-    "tags": ""
+    "tags": "Empty Net"
   },
   {
     "goal": 507,
@@ -5238,7 +5238,7 @@
     "month": 2,
     "day": 11,
     "year": 2016,
-    "tags": ""
+    "tags": "Jean Beliveau"
   },
   {
     "goal": 508,
@@ -5260,7 +5260,7 @@
     "month": 2,
     "day": 11,
     "year": 2016,
-    "tags": ""
+    "tags": "Hat Trick"
   },
   {
     "goal": 510,
@@ -5292,7 +5292,7 @@
     "month": 2,
     "day": 18,
     "year": 2016,
-    "tags": ""
+    "tags": "Gilbert Perreault"
   },
   {
     "goal": 513,
@@ -5304,7 +5304,7 @@
     "month": 2,
     "day": 20,
     "year": 2016,
-    "tags": ""
+    "tags": "Jeremy Roenick"
   },
   {
     "goal": 514,
@@ -5326,7 +5326,7 @@
     "month": 2,
     "day": 26,
     "year": 2016,
-    "tags": ""
+    "tags": "Forty 40"
   },
   {
     "goal": 516,
@@ -5358,7 +5358,7 @@
     "month": 3,
     "day": 22,
     "year": 2016,
-    "tags": ""
+    "tags": "Dale Hawerchuk"
   },
   {
     "goal": 519,
@@ -5400,7 +5400,7 @@
     "month": 4,
     "day": 5,
     "year": 2016,
-    "tags": ""
+    "tags": "Pat Verbeek"
   },
   {
     "goal": 523,
@@ -5422,7 +5422,7 @@
     "month": 4,
     "day": 9,
     "year": 2016,
-    "tags": ""
+    "tags": "Bryan Trottier"
   },
   {
     "goal": 525,
@@ -5434,7 +5434,7 @@
     "month": 4,
     "day": 9,
     "year": 2016,
-    "tags": ""
+    "tags": "Last Fifty 50"
   },
   {
     "goal": 526,
@@ -5446,7 +5446,7 @@
     "month": 10,
     "day": 18,
     "year": 2016,
-    "tags": ""
+    "tags": "First"
   },
   {
     "goal": 527,
@@ -5516,7 +5516,7 @@
     "month": 11,
     "day": 16,
     "year": 2016,
-    "tags": ""
+    "tags": "Marc-Andre"
   },
   {
     "goal": 534,
@@ -5558,7 +5558,7 @@
     "month": 11,
     "day": 23,
     "year": 2016,
-    "tags": ""
+    "tags": "Hat Trick"
   },
   {
     "goal": 538,
@@ -5570,7 +5570,7 @@
     "month": 12,
     "day": 11,
     "year": 2016,
-    "tags": ""
+    "tags": "Markstrom Keith Tkachuk"
   },
   {
     "goal": 539,
@@ -5602,7 +5602,7 @@
     "month": 12,
     "day": 27,
     "year": 2016,
-    "tags": ""
+    "tags": "Halak Stan Makita"
   },
   {
     "goal": 542,
@@ -5634,7 +5634,7 @@
     "month": 1,
     "day": 9,
     "year": 2017,
-    "tags": ""
+    "tags": "Maurice Richard"
   },
   {
     "goal": 545,
@@ -5646,7 +5646,7 @@
     "month": 1,
     "day": 11,
     "year": 2017,
-    "tags": ""
+    "tags": "Marc-Andre 1000th Point"
   },
   {
     "goal": 546,
@@ -5656,7 +5656,7 @@
     "month": 1,
     "day": 11,
     "year": 2017,
-    "tags": ""
+    "tags": "Marc-Andre"
   },
   {
     "goal": 547,
@@ -5748,7 +5748,7 @@
     "month": 3,
     "day": 25,
     "year": 2017,
-    "tags": ""
+    "tags": "Thirty 30"
   },
   {
     "goal": 556,
@@ -5760,7 +5760,7 @@
     "month": 3,
     "day": 28,
     "year": 2017,
-    "tags": ""
+    "tags": "Johnny Bucyk"
   },
   {
     "goal": 557,
@@ -5782,7 +5782,7 @@
     "month": 3,
     "day": 28,
     "year": 2017,
-    "tags": ""
+    "tags": "Hat Trick Last"
   },
   {
     "goal": 559,
@@ -5794,7 +5794,7 @@
     "month": 10,
     "day": 5,
     "year": 2017,
-    "tags": ""
+    "tags": "First"
   },
   {
     "goal": 560,
@@ -5806,7 +5806,7 @@
     "month": 10,
     "day": 5,
     "year": 2017,
-    "tags": ""
+    "tags": "Guy Lafleur"
   },
   {
     "goal": 561,
@@ -5818,7 +5818,7 @@
     "month": 10,
     "day": 5,
     "year": 2017,
-    "tags": ""
+    "tags": "Hat Trick"
   },
   {
     "goal": 562,
@@ -5850,7 +5850,7 @@
     "month": 10,
     "day": 7,
     "year": 2017,
-    "tags": ""
+    "tags": "Hat Trick"
   },
   {
     "goal": 565,
@@ -5862,7 +5862,7 @@
     "month": 10,
     "day": 7,
     "year": 2017,
-    "tags": ""
+    "tags": "Four 4"
   },
   {
     "goal": 566,
@@ -5874,7 +5874,7 @@
     "month": 10,
     "day": 11,
     "year": 2017,
-    "tags": ""
+    "tags": "Patrick Marleau"
   },
   {
     "goal": 567,
@@ -5894,7 +5894,7 @@
     "month": 10,
     "day": 20,
     "year": 2017,
-    "tags": ""
+    "tags": "Mrazek"
   },
   {
     "goal": 569,
@@ -5946,7 +5946,7 @@
     "month": 11,
     "day": 24,
     "year": 2017,
-    "tags": ""
+    "tags": "Mike Bossy"
   },
   {
     "goal": 574,
@@ -5974,11 +5974,11 @@
     "highlight": "hat",
     "text": "20th Hat Trick",
     "team": "Toronto Maple Leafs",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 11,
     "day": 30,
     "year": 2017,
-    "tags": ""
+    "tags": "Empty Net Hat Trick"
   },
   {
     "goal": 577,
@@ -6002,7 +6002,7 @@
     "month": 12,
     "day": 4,
     "year": 2017,
-    "tags": ""
+    "tags": "Twenty 20"
   },
   {
     "goal": 579,
@@ -6018,11 +6018,11 @@
     "goal": 580,
     "link": "https://www.youtube.com/embed/Ka0oBWwmQbg?si=e4xnbZMacFFxrmC1",
     "team": "Boston Bruins",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 12,
     "day": 14,
     "year": 2017,
-    "tags": ""
+    "tags": "Empty Net"
   },
   {
     "goal": 581,
@@ -6104,7 +6104,7 @@
     "month": 1,
     "day": 25,
     "year": 2018,
-    "tags": ""
+    "tags": "Thirty 30"
   },
   {
     "goal": 589,
@@ -6206,7 +6206,7 @@
     "month": 3,
     "day": 3,
     "year": 2018,
-    "tags": ""
+    "tags": "Outdoor"
   },
   {
     "goal": 599,
@@ -6228,7 +6228,7 @@
     "month": 3,
     "day": 12,
     "year": 2018,
-    "tags": ""
+    "tags": "600th Goal"
   },
   {
     "goal": 601,
@@ -6240,7 +6240,7 @@
     "month": 3,
     "day": 18,
     "year": 2018,
-    "tags": ""
+    "tags": "Mrazek Jari Kurri"
   },
   {
     "goal": 602,
@@ -6266,11 +6266,11 @@
     "goal": 604,
     "link": "https://www.youtube.com/embed/pgT5s6OuESk?si=MXk4ghC20bAwZVCZ",
     "team": "St. Louis Blues",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 4,
     "day": 2,
     "year": 2018,
-    "tags": ""
+    "tags": "Empty Net"
   },
   {
     "goal": 605,
@@ -6302,7 +6302,7 @@
     "month": 4,
     "day": 7,
     "year": 2018,
-    "tags": ""
+    "tags": "Last"
   },
   {
     "goal": 608,
@@ -6314,7 +6314,7 @@
     "month": 10,
     "day": 3,
     "year": 2018,
-    "tags": ""
+    "tags": "First Dino Ciccarelli"
   },
   {
     "goal": 609,
@@ -6336,7 +6336,7 @@
     "month": 10,
     "day": 10,
     "year": 2018,
-    "tags": ""
+    "tags": "Marc-Andre Bobby Hull"
   },
   {
     "goal": 611,
@@ -6346,7 +6346,7 @@
     "month": 10,
     "day": 10,
     "year": 2018,
-    "tags": ""
+    "tags": "Marc-Andre"
   },
   {
     "goal": 612,
@@ -6484,21 +6484,21 @@
     "highlight": "bullseye",
     "text": "Jarome Iginla and Joe Sakic",
     "team": "New York Islanders",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 11,
     "day": 26,
     "year": 2018,
-    "tags": ""
+    "tags": "Empty Net Jarome Iginla Joe Sakic"
   },
   {
     "goal": 626,
     "link": "https://www.youtube.com/embed/eliAcx6SjxQ?si=Oq2vXPxD0qdsimNg",
     "team": "New Jersey Devils",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 11,
     "day": 30,
     "year": 2018,
-    "tags": ""
+    "tags": "Empty Net"
   },
   {
     "goal": 627,
@@ -6510,17 +6510,17 @@
     "month": 12,
     "day": 4,
     "year": 2018,
-    "tags": ""
+    "tags": "Marc-Andre Twenty 20"
   },
   {
     "goal": 628,
     "link": "https://www.youtube.com/embed/PBpgTEaWYr0?si=yPppj5TLFW5IGedv",
     "team": "Arizona Coyotes",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 12,
     "day": 6,
     "year": 2018,
-    "tags": ""
+    "tags": "Empty Net"
   },
   {
     "goal": 629,
@@ -6562,7 +6562,7 @@
     "month": 12,
     "day": 11,
     "year": 2018,
-    "tags": ""
+    "tags": "Hat Trick"
   },
   {
     "goal": 633,
@@ -6594,7 +6594,7 @@
     "month": 12,
     "day": 14,
     "year": 2018,
-    "tags": ""
+    "tags": "Hat Trick"
   },
   {
     "goal": 636,
@@ -6616,7 +6616,7 @@
     "month": 1,
     "day": 3,
     "year": 2019,
-    "tags": ""
+    "tags": "Thirty 30"
   },
   {
     "goal": 638,
@@ -6626,17 +6626,17 @@
     "month": 1,
     "day": 10,
     "year": 2019,
-    "tags": ""
+    "tags": "Halak"
   },
   {
     "goal": 639,
     "link": "https://www.youtube.com/embed/8qvYeO_2zrA?si=B3zaiZslvxTaLgP1",
     "team": "Boston Bruins",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 1,
     "day": 10,
     "year": 2019,
-    "tags": ""
+    "tags": "Empty Net"
   },
   {
     "goal": 640,
@@ -6648,7 +6648,7 @@
     "month": 1,
     "day": 14,
     "year": 2019,
-    "tags": ""
+    "tags": "Dave Andreychuk"
   },
   {
     "goal": 641,
@@ -6680,7 +6680,7 @@
     "month": 1,
     "day": 22,
     "year": 2019,
-    "tags": ""
+    "tags": "Hat Trick"
   },
   {
     "goal": 644,
@@ -6722,7 +6722,7 @@
     "month": 2,
     "day": 17,
     "year": 2019,
-    "tags": ""
+    "tags": "Forty"
   },
   {
     "goal": 648,
@@ -6814,7 +6814,7 @@
     "month": 3,
     "day": 26,
     "year": 2019,
-    "tags": ""
+    "tags": "Mrazek Brendan Shanahan"
   },
   {
     "goal": 657,
@@ -6826,7 +6826,7 @@
     "month": 3,
     "day": 30,
     "year": 2019,
-    "tags": ""
+    "tags": "Fifty 50"
   },
   {
     "goal": 658,
@@ -6838,7 +6838,7 @@
     "month": 3,
     "day": 30,
     "year": 2019,
-    "tags": ""
+    "tags": "Last"
   },
   {
     "goal": 659,
@@ -6850,7 +6850,7 @@
     "month": 10,
     "day": 2,
     "year": 2019,
-    "tags": ""
+    "tags": "First"
   },
   {
     "goal": 660,
@@ -6876,11 +6876,11 @@
     "goal": 662,
     "link": "https://www.youtube.com/embed/u_rOdBaiBec?si=9HsK79-iV7pQYAXn",
     "team": "Dallas Stars",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 10,
     "day": 12,
     "year": 2019,
-    "tags": ""
+    "tags": "Empty Net"
   },
   {
     "goal": 663,
@@ -6942,7 +6942,7 @@
     "month": 10,
     "day": 29,
     "year": 2019,
-    "tags": ""
+    "tags": "Luc Robitaille"
   },
   {
     "goal": 669,
@@ -7028,11 +7028,11 @@
     "goal": 677,
     "link": "https://www.youtube.com/embed/fPJD0M22Vwo?si=C-8djq4aqVFDjWYg",
     "team": "Detroit Red Wings",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 11,
     "day": 30,
     "year": 2019,
-    "tags": ""
+    "tags": "Empty Net"
   },
   {
     "goal": 678,
@@ -7040,11 +7040,11 @@
     "highlight": "hat",
     "text": "24th Hat Trick",
     "team": "Detroit Red Wings",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 11,
     "day": 30,
     "year": 2019,
-    "tags": ""
+    "tags": "Empty Net Hat Trick"
   },
   {
     "goal": 679,
@@ -7084,7 +7084,7 @@
     "month": 12,
     "day": 28,
     "year": 2019,
-    "tags": ""
+    "tags": "Mrazek"
   },
   {
     "goal": 683,
@@ -7106,7 +7106,7 @@
     "month": 1,
     "day": 7,
     "year": 2020,
-    "tags": ""
+    "tags": "Hogberg Teemu Selanne"
   },
   {
     "goal": 685,
@@ -7116,7 +7116,7 @@
     "month": 1,
     "day": 13,
     "year": 2020,
-    "tags": ""
+    "tags": "Mrazek"
   },
   {
     "goal": 686,
@@ -7126,7 +7126,7 @@
     "month": 1,
     "day": 13,
     "year": 2020,
-    "tags": ""
+    "tags": "Mrazek"
   },
   {
     "goal": 687,
@@ -7148,7 +7148,7 @@
     "month": 1,
     "day": 16,
     "year": 2020,
-    "tags": ""
+    "tags": "Thirty 30"
   },
   {
     "goal": 689,
@@ -7160,7 +7160,7 @@
     "month": 1,
     "day": 16,
     "year": 2020,
-    "tags": ""
+    "tags": "Hat Trick"
   },
   {
     "goal": 690,
@@ -7172,7 +7172,7 @@
     "month": 1,
     "day": 18,
     "year": 2020,
-    "tags": ""
+    "tags": "Mario Lemieux"
   },
   {
     "goal": 691,
@@ -7184,7 +7184,7 @@
     "month": 1,
     "day": 18,
     "year": 2020,
-    "tags": ""
+    "tags": "Move Over Mario"
   },
   {
     "goal": 692,
@@ -7192,11 +7192,11 @@
     "highlight": "bullseye",
     "text": "Steve Yzerman",
     "team": "New York Islanders",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 1,
     "day": 18,
     "year": 2020,
-    "tags": ""
+    "tags": "Empty Net Steve Yzerman"
   },
   {
     "goal": 693,
@@ -7218,17 +7218,17 @@
     "month": 1,
     "day": 31,
     "year": 2020,
-    "tags": ""
+    "tags": "Hogberg Mark Messier"
   },
   {
     "goal": 695,
     "link": "https://www.youtube.com/embed/dMRfloiegWY?si=G2ao5pGK1A1WURMp&amp;start=47",
     "team": "Ottawa Senators",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 1,
     "day": 31,
     "year": 2020,
-    "tags": ""
+    "tags": "Empty Net"
   },
   {
     "goal": 696,
@@ -7256,11 +7256,11 @@
     "highlight": "hat",
     "text": "27th Hat Trick",
     "team": "Los Angeles Kings",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 2,
     "day": 4,
     "year": 2020,
-    "tags": ""
+    "tags": "Empty Net Hat Trick"
   },
   {
     "goal": 699,
@@ -7282,7 +7282,7 @@
     "month": 2,
     "day": 22,
     "year": 2020,
-    "tags": ""
+    "tags": "700th Goal"
   },
   {
     "goal": 701,
@@ -7344,7 +7344,7 @@
     "month": 3,
     "day": 9,
     "year": 2020,
-    "tags": ""
+    "tags": "Last"
   },
   {
     "goal": 707,
@@ -7356,7 +7356,7 @@
     "month": 1,
     "day": 17,
     "year": 2021,
-    "tags": ""
+    "tags": "First"
   },
   {
     "goal": 708,
@@ -7368,7 +7368,7 @@
     "month": 1,
     "day": 30,
     "year": 2021,
-    "tags": ""
+    "tags": "Mike Gartner"
   },
   {
     "goal": 709,
@@ -7460,7 +7460,7 @@
     "month": 3,
     "day": 15,
     "year": 2021,
-    "tags": ""
+    "tags": "Phil Esposito"
   },
   {
     "goal": 718,
@@ -7472,7 +7472,7 @@
     "month": 3,
     "day": 16,
     "year": 2021,
-    "tags": ""
+    "tags": "1300th Point"
   },
   {
     "goal": 719,
@@ -7554,7 +7554,7 @@
     "month": 4,
     "day": 8,
     "year": 2021,
-    "tags": ""
+    "tags": "Twenty 20"
   },
   {
     "goal": 727,
@@ -7596,7 +7596,7 @@
     "month": 4,
     "day": 17,
     "year": 2021,
-    "tags": ""
+    "tags": "Last"
   },
   {
     "goal": 731,
@@ -7608,7 +7608,7 @@
     "month": 10,
     "day": 13,
     "year": 2021,
-    "tags": ""
+    "tags": "First Marcel Dionne"
   },
   {
     "goal": 732,
@@ -7634,11 +7634,11 @@
     "goal": 734,
     "link": "https://www.youtube.com/embed/coXIQ3lWayQ?si=F54GBjlQiVYljfQm",
     "team": "Colorado Avalanche",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 10,
     "day": 19,
     "year": 2021,
-    "tags": ""
+    "tags": "Empty Net"
   },
   {
     "goal": 735,
@@ -7710,7 +7710,7 @@
     "month": 11,
     "day": 8,
     "year": 2021,
-    "tags": ""
+    "tags": "Brett Hull"
   },
   {
     "goal": 742,
@@ -7782,7 +7782,7 @@
     "month": 11,
     "day": 26,
     "year": 2021,
-    "tags": ""
+    "tags": "Hat Trick"
   },
   {
     "goal": 749,
@@ -7804,7 +7804,7 @@
     "month": 12,
     "day": 4,
     "year": 2021,
-    "tags": ""
+    "tags": "Twenty 20"
   },
   {
     "goal": 751,
@@ -7814,7 +7814,7 @@
     "month": 12,
     "day": 15,
     "year": 2021,
-    "tags": ""
+    "tags": "Marc-Andre"
   },
   {
     "goal": 752,
@@ -7836,7 +7836,7 @@
     "month": 12,
     "day": 31,
     "year": 2021,
-    "tags": ""
+    "tags": "275th Power Play Goal"
   },
   {
     "goal": 754,
@@ -7908,17 +7908,17 @@
     "month": 2,
     "day": 15,
     "year": 2022,
-    "tags": ""
+    "tags": "Thirty 30"
   },
   {
     "goal": 761,
     "link": "https://www.youtube.com/embed/32XGL33A88I?si=tM1sB9zyK6wcd73Z",
     "team": "Nashville Predators",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 2,
     "day": 15,
     "year": 2022,
-    "tags": ""
+    "tags": "Empty Net"
   },
   {
     "goal": 762,
@@ -7966,11 +7966,11 @@
     "highlight": "bullseye",
     "text": "Jaromir Jagr",
     "team": "Calgary Flames",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 3,
     "day": 8,
     "year": 2022,
-    "tags": ""
+    "tags": "Empty Net Jaromir Jagr"
   },
   {
     "goal": 767,
@@ -7990,7 +7990,7 @@
     "month": 3,
     "day": 17,
     "year": 2022,
-    "tags": ""
+    "tags": "Merzlikins"
   },
   {
     "goal": 769,
@@ -8012,7 +8012,7 @@
     "month": 3,
     "day": 20,
     "year": 2022,
-    "tags": ""
+    "tags": "Forty 40"
   },
   {
     "goal": 771,
@@ -8114,7 +8114,7 @@
     "month": 4,
     "day": 20,
     "year": 2022,
-    "tags": ""
+    "tags": "Last Fifty 50"
   },
   {
     "goal": 781,
@@ -8126,7 +8126,7 @@
     "month": 10,
     "day": 17,
     "year": 2022,
-    "tags": ""
+    "tags": "First"
   },
   {
     "goal": 782,
@@ -8226,7 +8226,7 @@
     "month": 11,
     "day": 25,
     "year": 2022,
-    "tags": ""
+    "tags": "Markstrom"
   },
   {
     "goal": 792,
@@ -8272,21 +8272,21 @@
     "goal": 796,
     "link": "https://www.youtube.com/embed/HX2Bk4-GfrM?si=rhgna0cRX3SkzHAA",
     "team": "Seattle Kraken",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 12,
     "day": 9,
     "year": 2022,
-    "tags": ""
+    "tags": "Empty Net"
   },
   {
     "goal": 797,
     "link": "https://www.youtube.com/embed/lp_xsrzd5LY?si=6y_fBTtD7ptkshU_",
     "team": "Winnipeg Jets",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 12,
     "day": 11,
     "year": 2022,
-    "tags": ""
+    "tags": "Empty Net"
   },
   {
     "goal": 798,
@@ -8296,7 +8296,7 @@
     "month": 12,
     "day": 13,
     "year": 2022,
-    "tags": ""
+    "tags": "Mrazek"
   },
   {
     "goal": 799,
@@ -8306,7 +8306,7 @@
     "month": 12,
     "day": 13,
     "year": 2022,
-    "tags": ""
+    "tags": "Mrazek"
   },
   {
     "goal": 800,
@@ -8318,7 +8318,7 @@
     "month": 12,
     "day": 13,
     "year": 2022,
-    "tags": ""
+    "tags": "Mrazek 800th Goal"
   },
   {
     "goal": 801,
@@ -8330,17 +8330,17 @@
     "month": 12,
     "day": 23,
     "year": 2022,
-    "tags": ""
+    "tags": "Gordie Howe"
   },
   {
     "goal": 802,
     "link": "https://www.youtube.com/embed/VQbIqz723h4?si=W3pM_arnPF_Hl-vX",
     "team": "Winnipeg Jets",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 12,
     "day": 23,
     "year": 2022,
-    "tags": ""
+    "tags": "Empty Net"
   },
   {
     "goal": 803,
@@ -8382,7 +8382,7 @@
     "month": 12,
     "day": 31,
     "year": 2022,
-    "tags": ""
+    "tags": "Hat Trick"
   },
   {
     "goal": 807,
@@ -8412,7 +8412,7 @@
     "month": 1,
     "day": 5,
     "year": 2023,
-    "tags": ""
+    "tags": "Merzlikins"
   },
   {
     "goal": 810,
@@ -8424,7 +8424,7 @@
     "month": 1,
     "day": 14,
     "year": 2023,
-    "tags": ""
+    "tags": "Thirty 30"
   },
   {
     "goal": 811,
@@ -8464,7 +8464,7 @@
     "month": 3,
     "day": 4,
     "year": 2023,
-    "tags": ""
+    "tags": "Kahkonen"
   },
   {
     "goal": 815,
@@ -8474,7 +8474,7 @@
     "month": 3,
     "day": 4,
     "year": 2023,
-    "tags": ""
+    "tags": "Kahkonen"
   },
   {
     "goal": 816,
@@ -8504,7 +8504,7 @@
     "month": 3,
     "day": 19,
     "year": 2023,
-    "tags": ""
+    "tags": "Marc-Andre"
   },
   {
     "goal": 819,
@@ -8514,7 +8514,7 @@
     "month": 3,
     "day": 19,
     "year": 2023,
-    "tags": ""
+    "tags": "Marc-Andre"
   },
   {
     "goal": 820,
@@ -8526,7 +8526,7 @@
     "month": 3,
     "day": 21,
     "year": 2023,
-    "tags": ""
+    "tags": "Forty 40"
   },
   {
     "goal": 821,
@@ -8548,7 +8548,7 @@
     "month": 3,
     "day": 25,
     "year": 2023,
-    "tags": ""
+    "tags": "Last"
   },
   {
     "goal": 823,
@@ -8560,7 +8560,7 @@
     "month": 10,
     "day": 24,
     "year": 2023,
-    "tags": ""
+    "tags": "First"
   },
   {
     "goal": 824,
@@ -8752,7 +8752,7 @@
     "month": 3,
     "day": 18,
     "year": 2024,
-    "tags": ""
+    "tags": "Twenty 20"
   },
   {
     "goal": 843,
@@ -8854,7 +8854,7 @@
     "month": 4,
     "day": 9,
     "year": 2024,
-    "tags": ""
+    "tags": "Thirty 30"
   },
   {
     "goal": 853,
@@ -8866,7 +8866,7 @@
     "month": 4,
     "day": 16,
     "year": 2024,
-    "tags": ""
+    "tags": "Last"
   },
   {
     "goal": 854,
@@ -8878,7 +8878,7 @@
     "month": 10,
     "day": 19,
     "year": 2024,
-    "tags": ""
+    "tags": "Markstrom First"
   },
   {
     "goal": 855,
@@ -9000,7 +9000,7 @@
     "month": 11,
     "day": 17,
     "year": 2024,
-    "tags": ""
+    "tags": "Hat Trick"
   },
   {
     "goal": 867,
@@ -9050,7 +9050,7 @@
     "month": 1,
     "day": 2,
     "year": 2025,
-    "tags": ""
+    "tags": "Marc-Andre"
   },
   {
     "goal": 872,
@@ -9072,7 +9072,7 @@
     "month": 1,
     "day": 11,
     "year": 2025,
-    "tags": ""
+    "tags": "Twenty 20"
   },
   {
     "goal": 874,
@@ -9082,17 +9082,17 @@
     "month": 1,
     "day": 16,
     "year": 2025,
-    "tags": ""
+    "tags": "Merilainen"
   },
   {
     "goal": 875,
     "link": "https://www.youtube.com/embed/KL4KiLyRbdc?si=vwpwlf06GYA1mB12",
     "team": "Seattle Kraken",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 1,
     "day": 23,
     "year": 2025,
-    "tags": ""
+    "tags": "Empty Net"
   },
   {
     "goal": 876,
@@ -9118,11 +9118,11 @@
     "goal": 878,
     "link": "https://www.youtube.com/embed/dt5mg3doRHs?si=q7RjLtf4MAXhx8zn",
     "team": "Florida Panthers",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 2,
     "day": 4,
     "year": 2025,
-    "tags": ""
+    "tags": "Empty Net"
   },
   {
     "goal": 879,
@@ -9160,11 +9160,11 @@
     "highlight": "hat",
     "text": "32nd Hat Trick",
     "team": "Edmonton Oilers",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 2,
     "day": 23,
     "year": 2025,
-    "tags": ""
+    "tags": "Empty Net Hat Trick"
   },
   {
     "goal": 883,
@@ -9176,7 +9176,7 @@
     "month": 2,
     "day": 25,
     "year": 2025,
-    "tags": ""
+    "tags": "Thirty 30"
   },
   {
     "goal": 884,
@@ -9204,11 +9204,11 @@
     "highlight": "trophy",
     "text": "1600th Career Point",
     "team": "Seattle Kraken",
-    "goalie": "Empty Net",
+    "goalie": "",
     "month": 3,
     "day": 9,
     "year": 2025,
-    "tags": ""
+    "tags": "Empty Net 1600th Point"
   },
   {
     "goal": 887,
@@ -9280,7 +9280,7 @@
     "month": 4,
     "day": 4,
     "year": 2025,
-    "tags": ""
+    "tags": "Forty 40"
   },
   {
     "goal": 894,
@@ -9292,7 +9292,7 @@
     "month": 4,
     "day": 4,
     "year": 2025,
-    "tags": ""
+    "tags": "Wayne Gretzky"
   },
   {
     "goal": 895,
@@ -9304,7 +9304,7 @@
     "month": 4,
     "day": 6,
     "year": 2025,
-    "tags": ""
+    "tags": "Wayne Gretzky The Chasing Days Are Done"
   },
   {
     "goal": 896,
@@ -9326,6 +9326,6 @@
     "month": 4,
     "day": 17,
     "year": 2025,
-    "tags": ""
+    "tags": "Last"
   }
 ]

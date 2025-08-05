@@ -79,6 +79,7 @@ function SearchForm({jsonData}) {
     };
     const handleTextClick = () => {
         setSearchGoal('');
+        setSearchResults([]);
     };
 
     const highlightGoal = () => {
@@ -151,7 +152,7 @@ function SearchForm({jsonData}) {
                     <label htmlFor="search-goal">Goal</label>
                     <input min="1" max="897" id="search-goal" type="number" placeholder="#" value={searchGoal} onChange={handleGoalChange}/>
                     <label htmlFor="search-text">Text</label>
-                    <input id="search-text" type="text" placeholder="Goalie, Opponent" value={searchText} onChange={handleTextChange} onClick={handleTextClick}/>
+                    <input id="search-text" type="text" placeholder="Goalie, Milestone, Team" value={searchText} onChange={handleTextChange} onClick={handleTextClick}/>
                 </div>
                 <div>
                     <button onClick={randomGoal} name="Random Goal" type="button">Random Goal</button>/
@@ -166,8 +167,8 @@ function SearchForm({jsonData}) {
                         <strong>{result.month}/{result.day}/{result.year}</strong>
                         <img alt={result.team + ' logo'} className="logo" src={'/team/' + result.team + '.svgz'} />
                         <strong>{result.goalie}</strong>
-                        <strong>{result.text}</strong>
                         <span className="icon"></span>
+                        <strong>{result.text}</strong>
                     </div>
                     <div className="shadow">
                         <iframe width="560" height="315" src={result.link.replace(/"/g, "")} title="Alex Ovechkin Goal Video"
@@ -175,7 +176,7 @@ function SearchForm({jsonData}) {
                     </div>
                     <div className="flex">
                         <strong className="link">https://www.ovechkin.cam/?{result.goal}</strong>
-                        <button onClick={copyFunction} id="copy" title="Copy Link">Copy</button>
+                        <button onClick={copyFunction} className="copy" title="Copy Link">Copy</button>
                     </div>
                 </div>
             ))}

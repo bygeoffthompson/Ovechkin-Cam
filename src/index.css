@@ -1,4 +1,4 @@
-#copy {
+.copy {
   background-color: transparent;
   background-image: url(/public/copy.svg);
   background-position: center;
@@ -18,7 +18,7 @@
   width: 16px;
 }
 
-#copy:active {
+.copy:active {
   background-image: url(/public/thumb.svg);
 }
 
@@ -223,7 +223,6 @@ input[placeholder] {
   border-top: 0;
   font-size: 1.5rem;
   outline: 0;
-  text-align: center;
   width: 100%;
 }
 
@@ -232,6 +231,7 @@ input[type="number"] {
   color: #C8102E;
   font-weight: bold;
   max-width: 75px;
+  text-align: center;
   text-indent: -2px;
 }
 
@@ -241,7 +241,7 @@ input[type="text"] {
   font-size: 1.25rem;
   margin-top: 1px;
   max-width: 250px;
-  padding-bottom: 3px;
+  padding: 3px 8px;
 }
 
 input[type="number"]:focus-visible {
