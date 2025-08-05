@@ -4,12 +4,13 @@ import ReactGA from "react-ga4";
 ReactGA.initialize("G-5RVBYX6N0S");
 
 function SearchForm({jsonData}) {
-    const [searchTerm, setSearchTerm] = useState('');
+    const [searchGoal, setSearchGoal] = useState('');
+    const [searchText, setSearchText] = useState('');
     const [searchResults, setSearchResults] = useState([]);
 
     useEffect(() => {
-        if (searchTerm) {
-            const goalQuery = parseInt(searchTerm);
+        if (searchGoal) {
+            const goalQuery = parseInt(searchGoal);
             function suffix(goal) {
                 const j = goal % 10;
                 const k = goal % 100;
@@ -43,15 +44,23 @@ function SearchForm({jsonData}) {
             document.querySelector('h1').innerHTML = 'Alex Ovechkin\'s ' + suffix(goalQuery) + ' Goal';
             document.querySelector('title').innerHTML = suffix(goalQuery) + ' Goal | Ovechkin Cam';
             document.querySelector('meta[name="description"]').setAttribute('content', 'Watch broadcast footage of Alex Ovechkin\'s ' + suffix(goalQuery) + ' career NHL goal.');
-        } else {
-            setSearchResults([]);
         }
-    }, [searchTerm, jsonData]);
+        if (searchText) {
+            setSearchGoal('');
+            const results = jsonData.filter((item) => {
+                return (
+                    item.goalie.toLowerCase().includes(searchText) ||
+                    item.team.toLowerCase().includes(searchText)
+                );
+            });
+            setSearchResults(results);
+        }
+    }, [searchGoal, searchText, jsonData]);
 
     useEffect(() => {
         const query = parseInt(window.location.search.slice(1));
         if (query >= 1 && query <= 897) {
-            setSearchTerm(query);
+            setSearchGoal(query);
         }
     },[]);
 
@@ -60,8 +69,12 @@ function SearchForm({jsonData}) {
         navigator.clipboard.writeText(link);
     };
 
-    const handleInputChange = (event) => {
-        setSearchTerm(event.target.value);
+    const handleGoalChange = (event) => {
+        setSearchGoal(event.target.value);
+    };
+
+    const handleTextChange = (event) => {
+        setSearchText(event.target.value);
     };
 
     const highlightGoal = () => {
@@ -74,7 +87,7 @@ function SearchForm({jsonData}) {
         );
 
         const goal = Object.values(result[random(1, Object.keys(result).length)]);
-        setSearchTerm(goal[0]);
+        setSearchGoal(goal[0]);
 
         if (!window.location.hostname.includes('localhost')) {
             ReactGA.event({
@@ -97,7 +110,7 @@ function SearchForm({jsonData}) {
 
     const randomGoal = () => {
         const randomGoal = random(1, 897);
-        setSearchTerm(randomGoal);
+        setSearchGoal(randomGoal);
 
         if (!window.location.hostname.includes('localhost')) {
             ReactGA.event({
@@ -112,7 +125,7 @@ function SearchForm({jsonData}) {
         const date = new Date();
         const hash = (date.getMonth() + 1) * date.getDate();
         const goal = hash * 2.41129;
-        setSearchTerm(Math.trunc(goal));
+        setSearchGoal(Math.trunc(goal));
         
         if (!window.location.hostname.includes('localhost')) {
             ReactGA.event({
@@ -128,7 +141,8 @@ function SearchForm({jsonData}) {
             <form onSubmit={preventSubmit}>
                 <div>
                     <label for="search">Goal</label>
-                    <input min="1" max="897" id="search" type="number" placeholder="#" value={searchTerm} onChange={handleInputChange}/>
+                    <input min="1" max="897" id="search-goal" type="number" placeholder="#" value={searchGoal} onChange={handleGoalChange}/>&nbsp;&nbsp;or&nbsp;&nbsp;
+                    <input id="search-text" type="text" placeholder="Text Search" value={searchText} onChange={handleTextChange}/>
                 </div>
                 <div>
                     <button onClick={randomGoal} name="Random Goal" type="button">Random Goal</button>/
@@ -145,7 +159,7 @@ function SearchForm({jsonData}) {
                     </div>
                     <div id="shadow">
                         <iframe width="560" height="315" src={result.link.replace(/"/g, "")} title="Alex Ovechkin Goal Video"
-                            referrerPolicy="no-referrer" allowFullScreen></iframe>
+                            referrerPolicy="no-referrer" allowFullScreen loading="lazy"></iframe>
                     </div>
                     <div className="flex">
                         <strong id="link">https://www.ovechkin.cam/?{result.goal}</strong>
