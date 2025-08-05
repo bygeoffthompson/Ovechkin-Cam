@@ -30,11 +30,27 @@
 .note {
   align-items: center;
   display: flex;
+  flex-direction: column-reverse;
   gap: 8px;
   justify-content: center;
   left: -30px;
   transition: all .25s ease-in-out;
   z-index: 1;
+}
+
+.note > div {
+  margin: 0;
+  position: relative;
+  width: 100px;
+}
+
+.note > div > h3 {
+  font-size: 2.75rem;
+  left: 50%;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%,calc(-50% + 8px));
 }
 
 .note strong {
@@ -134,6 +150,12 @@
   width: 18px;
 }
 
+.goal-siren {
+  height: auto;
+  pointer-events: all;
+  width: 70px;
+}
+
 .loading {
   opacity: .25;
 }
@@ -213,7 +235,7 @@ iframe {
 .shadow {
   box-shadow: rgba(4, 30, 66, 0.4) -10px -10px, rgba(4, 30, 66, 0.3) -20px -20px, rgba(4, 30, 66, 0.2) -30px -30px, rgba(4, 30, 66, 0.1) -40px -40px, rgba(4, 30, 66, 0.05) -50px -50px;
   margin: 0 0 60px;
-  max-width: 960px;
+  max-width: 992px;
 }
 
 input[placeholder] {
@@ -267,15 +289,18 @@ label[for="search-text"]:before {
 }
 
 @media (min-width: 576px) {
+  .note {
+    flex-direction: row;
+  }
+
   form > div {
     flex-direction: row;
   }
 }
 
 @media (min-width:992px) {
-  .note {
-    justify-content: start;
-    margin-bottom: 1rem;
+  .goal-siren {
+    width: 100px;
   }
 
   .note strong {
@@ -293,6 +318,6 @@ label[for="search-text"]:before {
   }
 
   #root {
-    padding: 0;
+    padding: 0 16px;
   }
 }
