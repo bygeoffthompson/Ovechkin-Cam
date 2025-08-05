@@ -10,6 +10,7 @@ function SearchForm({jsonData}) {
 
     useEffect(() => {
         if (searchGoal) {
+            setSearchText('');
             const goalQuery = parseInt(searchGoal);
             function suffix(goal) {
                 const j = goal % 10;
@@ -46,7 +47,6 @@ function SearchForm({jsonData}) {
             document.querySelector('meta[name="description"]').setAttribute('content', 'Watch broadcast footage of Alex Ovechkin\'s ' + suffix(goalQuery) + ' career NHL goal.');
         }
         if (searchText) {
-            setSearchGoal('');
             const results = jsonData.filter((item) => {
                 return (
                     item.goalie.toLowerCase().includes(searchText) ||
@@ -76,8 +76,12 @@ function SearchForm({jsonData}) {
     const handleTextChange = (event) => {
         setSearchText(event.target.value);
     };
+    const handleTextClick = () => {
+        setSearchGoal('');
+    };
 
     const highlightGoal = () => {
+        setSearchText('');
         const highlights = ['four', 'fifty', 'hat', 'mega', 'moon', 'penalty', 'sixty', 'sun', 'trophy'];
 
         const result = jsonData.filter(item =>
@@ -109,6 +113,7 @@ function SearchForm({jsonData}) {
     }
 
     const randomGoal = () => {
+        setSearchText('');
         const randomGoal = random(1, 897);
         setSearchGoal(randomGoal);
 
@@ -122,6 +127,7 @@ function SearchForm({jsonData}) {
     };
 
     const todayGoal = () => {
+        setSearchText('');
         const date = new Date();
         const hash = (date.getMonth() + 1) * date.getDate();
         const goal = hash * 2.41129;
@@ -142,7 +148,7 @@ function SearchForm({jsonData}) {
                 <div>
                     <label for="search">Goal</label>
                     <input min="1" max="897" id="search-goal" type="number" placeholder="#" value={searchGoal} onChange={handleGoalChange}/>&nbsp;&nbsp;or&nbsp;&nbsp;
-                    <input id="search-text" type="text" placeholder="Text Search" value={searchText} onChange={handleTextChange}/>
+                    <input id="search-text" type="text" placeholder="Text Search" value={searchText} onChange={handleTextChange} onClick={handleTextClick} />
                 </div>
                 <div>
                     <button onClick={randomGoal} name="Random Goal" type="button">Random Goal</button>/

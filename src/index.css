@@ -241,20 +241,30 @@ label {
   max-width: 960px;
 }
 
-input[type="number"] {
+input[type] {
   border-left: 0;
   border-radius: 0;
   border-right: 0;
   border-top: 0;
-  caret-color: #C8102E;
-  color: #C8102E;
   font-size: 1.5rem;
-  font-weight: bold;
-  max-width: 75px;
   outline: 0;
   text-align: center;
-  text-indent: -2px;
   width: 100%;
+}
+
+input[type="number"] {
+  caret-color: #C8102E;
+  color: #C8102E;
+  font-weight: bold;
+  max-width: 75px;
+  text-indent: -2px;
+}
+
+input[type="text"] {
+  caret-color: #C8102E;
+  color: #C8102E;
+  font-size: 1.325rem;
+  max-width: 250px;
 }
 
 input[type="number"]:focus-visible {
