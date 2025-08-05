@@ -94,7 +94,6 @@
   {
     "goal": 11,
     "link": "https://www.youtube.com/embed/IM3Hi3DVmDE?si=shPdwOWeXaZ3I0F9&amp;start=66",
-    "fallback": "https://www.youtube.com/embed/XaO9yXZlQIs?si=agHegAMuHUS6DZG5",
     "team": "TOR",
     "goalie": "Ed Belfour",
     "month": 11,
@@ -1981,7 +1980,6 @@
   {
     "goal": 213,
     "link": "https://www.youtube.com/embed/pEfdUqLWeYs?si=bujcblkwUFi6YDuE",
-    "fallback": "https://www.youtube.com/embed/XApANGDaTE4?si=3ex6qRjJISPc7Y9u",
     "highlight": "fifty",
     "text": "3rd 50 Goal Season",
     "team": "TBL",
@@ -2502,7 +2500,6 @@
   {
     "goal": 269,
     "link": "https://www.youtube.com/embed/crkZ0Vt-GoQ?si=xLR1xRdNJTPdNYUd",
-    "fallback": "https://www.youtube.com/embed/ugZoaYF8EJs?si=9S0iXlVGPdTT76wc",
     "highlight": "fifty",
     "text": "4th 50 Goal Season",
     "team": "ATL",
@@ -3857,7 +3854,6 @@
   {
     "goal": 414,
     "link": "https://www.youtube.com/embed/NXRzxFPYn5I?si=DtX_w8Bvibgq_ozR",
-    "fallback": "https://www.youtube.com/embed/Oj4kBNwz0IY?si=TQNw5Zlp6OFiXwsh",
     "highlight": "trophy",
     "text": "800th Career Point",
     "team": "BOS",
@@ -3923,7 +3919,6 @@
   {
     "goal": 421,
     "link": "https://www.youtube.com/embed/p3nZK5bIkbs?si=Ax5XeqedsZhSQXgr",
-    "fallback": "https://www.youtube.com/embed/YV9TiIgBJcU?si=dvRMu4tLs43yVvvo",
     "highlight": "fifty",
     "text": "5th 50 Goal Season",
     "team": "STL",
@@ -4213,7 +4208,6 @@
   {
     "goal": 452,
     "link": "https://www.youtube.com/embed/hs0BtKcT5Gs?si=9mKuvY1kqMFipYLE",
-    "fallback": "https://www.youtube.com/embed/tFfMzJIfW2w?si=meihqj9wD8k8xEh6",
     "highlight": "thirty",
     "text": "10th 20 Goal Season",
     "team": "STL",
@@ -4306,7 +4300,6 @@
   {
     "goal": 462,
     "link": "https://www.youtube.com/embed/uJPl80Yqtjc?si=hgEnZ8XvI02I5LlS",
-    "fallback": "https://www.youtube.com/embed/-6eCY8oeSGs?si=k54HBeA_O20m3Xqa",
     "highlight": "forty",
     "text": "7th 40 Goal Season",
     "team": "TOR",
@@ -4399,7 +4392,6 @@
   {
     "goal": 472,
     "link": "https://www.youtube.com/embed/BcA10Izdnk8?si=yoZf8OJnBIjcLjI1",
-    "fallback": "https://www.youtube.com/embed/7hJuboUgzs0?si=PG0cN2Ex49vaiXJ5",
     "highlight": "fifty",
     "text": "6th 50 Goal Season",
     "team": "CAR",
@@ -4411,7 +4403,6 @@
   {
     "goal": 473,
     "link": "https://www.youtube.com/embed/aucqOncw85A?si=H6rS6e-SJ7S72DJc&amp;start=48",
-    "fallback": "https://www.youtube.com/embed/gGTwIWn7kyY?si=MhEqW0KxSgYNnqgU",
     "highlight": "mega",
     "text": "\"The Rightful Goal Scoring King of Washington\"",
     "team": "MTL",
@@ -5196,7 +5187,6 @@
   {
     "goal": 555,
     "link": "https://www.youtube.com/embed/H4nqdkgGd6s?si=Mqxnb1ivFXi_-Mpt",
-    "fallback": "https://www.youtube.com/embed/bZ01Ej0D6Xc?si=LkHoHUUCZIZUjFs9",
     "highlight": "thirty",
     "text": "12th 30 Goal Season",
     "team": "ARI",
@@ -5612,7 +5602,6 @@
   {
     "goal": 598,
     "link": "https://www.youtube.com/embed/t7JT4gyWOSw?si=vlppIajiZdNJ9PZh",
-    "fallback": "https://www.youtube.com/embed/SWLrHe4NkBQ?si=NVcThyklwmpth8BS",
     "highlight": "moon",
     "text": "Outdoor Goal",
     "team": "TOR",
@@ -5984,7 +5973,6 @@
   {
     "goal": 637,
     "link": "https://www.youtube.com/embed/emrBohNjRhQ?si=MoLhX3KnoqbUnp92",
-    "fallback": "https://www.youtube.com/embed/bPpOUlThJ6g?si=JtGz6wUnTMtLHcMg",
     "highlight": "thirty",
     "text": "14th 30 Goal Season",
     "team": "STL",
@@ -6081,7 +6069,6 @@
   {
     "goal": 647,
     "link": "https://www.youtube.com/embed/fsHtr-JhQog?si=gNpnJ2Pv4GMr-YYB",
-    "fallback": "https://www.youtube.com/embed/IF3rcdWtfTk?si=mP_zvFPJLZLjjvuk",
     "highlight": "forty",
     "text": "10th 40 Goal Season",
     "team": "ANA",
@@ -7583,7 +7570,6 @@
   {
     "goal": 806,
     "link": "https://www.youtube.com/embed/u1Xd9Awl1RU?si=fmWNmbNI_j81ofxG",
-    "fallback": "https://www.youtube.com/embed/k84uPV2coHM?si=E4UuwRlLiFWs2wbF",
     "highlight": "hat",
     "text": "30th Hat Trick",
     "team": "MTL",
@@ -7714,7 +7700,6 @@
   {
     "goal": 820,
     "link": "https://www.youtube.com/embed/taYoRVHKAQ8?si=dZrYImf6o4b4Qe8k",
-    "fallback": "https://www.youtube.com/embed/jkodWLAOZJ4?si=ckRv76bCuh5IZ8wv",
     "highlight": "forty",
     "text": "13th 40 Goal Season",
     "team": "CBJ",
