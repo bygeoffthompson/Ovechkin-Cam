@@ -84,8 +84,8 @@
     "month": "October",
     "day": 28,
     "year": 2005,
-    "type": "",
-    "tags": ""
+    "type": "SH",
+    "tags": "Shorthanded"
   },
   {
     "goal": 9,
@@ -398,8 +398,8 @@
     "month": "February",
     "day": 11,
     "year": 2006,
-    "type": "",
-    "tags": "Marc-Andre"
+    "type": "SH",
+    "tags": "Marc-Andre Shorthanded"
   },
   {
     "goal": 37,
@@ -420,8 +420,8 @@
     "month": "March",
     "day": 2,
     "year": 2006,
-    "type": "",
-    "tags": ""
+    "type": "SH",
+    "tags": "Shorthanded"
   },
   {
     "goal": 39,
@@ -2136,8 +2136,8 @@
     "month": "January",
     "day": 3,
     "year": 2009,
-    "type": "",
-    "tags": ""
+    "type": "SH",
+    "tags": "Shorthanded"
   },
   {
     "goal": 191,
@@ -8315,8 +8315,8 @@
     "month": "October",
     "day": 13,
     "year": 2021,
-    "type": "",
-    "tags": ""
+    "type": "SH",
+    "tags": "Shorthanded"
   },
   {
     "goal": 733,
