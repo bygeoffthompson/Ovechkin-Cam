@@ -42,9 +42,6 @@ function SearchForm({jsonData}) {
                     value: 1
                 });
             }
-
-            document.querySelector('h1').innerHTML = 'Alex Ovechkin\'s ' + suffix(goalQuery) + ' Goal';
-            document.querySelector('title').innerHTML = goalQuery + ' | Ovechkin Cam';
         }
         if (searchText) {
             const results = jsonData.filter((item) => {
@@ -68,8 +65,6 @@ function SearchForm({jsonData}) {
             } else {
                 document.querySelector('#count').innerHTML = results.length + ' Results';
             }
-            document.querySelector('h1').innerHTML = 'Alex Ovechkin Goals';
-            document.querySelector('title').innerHTML = 'Ovechkin Cam';
             setSearchResults(results);
         }
     }, [searchGoal, searchText, jsonData]);
@@ -152,8 +147,6 @@ function SearchForm({jsonData}) {
     };
 
     const reset = () => {
-        document.querySelector('h1').innerHTML = 'Alex Ovechkin Goals';
-        document.querySelector('title').innerHTML = 'Ovechkin Cam';
         setSearchResults([]);
         setSearchGoal('');
         resultsHide();
