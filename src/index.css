@@ -79,6 +79,8 @@
 }
 
 .note .type {
+  background: radial-gradient(#EF4933 35%, transparent);
+  color: #FFD2C7;
   font-size: 2.75rem;
   left: 50%;
   margin: 0;
@@ -171,7 +173,7 @@ form {
   display: flex;
   flex-direction: column;
   font-size: 1.25rem;
-  gap: 1.5rem;
+  gap: 2rem;
   justify-content: center;
   margin-bottom: 2rem;
 }
@@ -188,6 +190,10 @@ form h2 {
   color: #C8102E;
   font-size: 1.5rem;
   margin: 0;
+}
+
+header {
+  margin: 2rem 0;
 }
 
 iframe {
