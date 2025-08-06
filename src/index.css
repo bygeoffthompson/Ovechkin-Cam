@@ -277,12 +277,11 @@ label[for="search-text"]:before {
   content: 'or ';
 }
 
-@media (min-width: 576px) {
+@media (min-width: 768px) {
   form > div {
     flex-direction: row;
   }
-}
-@media (min-width: 768px) {
+
   .note {
     flex-direction: row;
   }

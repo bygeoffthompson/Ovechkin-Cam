@@ -78,6 +78,28 @@ function SearchForm({jsonData}) {
         navigator.clipboard.writeText(link);
     };
 
+    const gameWinningGoal = () => {
+        resultsHide();
+        const gwg = ['OT', 'GWG'];
+
+        const result = jsonData.filter(item =>
+            Object.values(item).some(value =>
+                gwg.includes(value)
+            )
+        );
+
+        const goal = Object.values(result[random(1, Object.keys(result).length)]);
+        setSearchGoal(goal[0]);
+
+        if (!window.location.hostname.includes('localhost')) {
+            ReactGA.event({
+                category: "Click",
+                action: "Game Winning Goal Click",
+                value: 1
+            });
+        }
+    };
+
     const handleGoalChange = (event) => {
         setSearchGoal(event.target.value);
     };
@@ -91,7 +113,7 @@ function SearchForm({jsonData}) {
 
     const highlightGoal = () => {
         resultsHide();
-        const highlights = ['Century', 'Four', 'Fifty', 'Hat Trick', 'Outdoor', 'Overtime', 'Penalty Shot', 'Shorthanded', 'Sixty'];
+        const highlights = ['Century', 'Four', 'Fifty', 'Hat Trick', 'Outdoor', 'Penalty Shot', 'Shorthanded', 'Sixty'];
 
         const result = jsonData.filter(item =>
             Object.values(item).some(value =>
@@ -106,6 +128,28 @@ function SearchForm({jsonData}) {
             ReactGA.event({
                 category: "Click",
                 action: "Highlight Goal Click",
+                value: 1
+            });
+        }
+    };
+
+    const overtimeGoal = () => {
+        resultsHide();
+        const ot = ['OT'];
+
+        const result = jsonData.filter(item =>
+            Object.values(item).some(value =>
+                ot.includes(item.type)
+            )
+        );
+
+        const goal = Object.values(result[random(1, Object.keys(result).length)]);
+        setSearchGoal(goal[0]);
+
+        if (!window.location.hostname.includes('localhost')) {
+            ReactGA.event({
+                category: "Click",
+                action: "Overtime Goal Click",
                 value: 1
             });
         }
@@ -175,7 +219,9 @@ function SearchForm({jsonData}) {
                 </div>
                 <div>
                     <button onClick={randomGoal} name="Random Goal" type="button">Random Goal</button>/
+                    <button onClick={gameWinningGoal} name="Game Winning Goal" type="button">GWG</button>/
                     <button onClick={highlightGoal} name="Highlight Goal" type="button">Highlight Goal</button>/
+                    <button onClick={overtimeGoal} name="Overtime Goal" type="button">Overtime Goal</button>/
                     <button onClick={todayGoal} name="Today's Goal" type="button">Today's Goal</button>
                 </div>
             </form>
