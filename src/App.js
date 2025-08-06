@@ -80,7 +80,7 @@ function SearchForm({jsonData}) {
     },[]);
 
     const copyFunction = () => {
-        var link = document.getElementById("link").innerHTML;
+        var link = document.querySelector(".link strong").innerHTML;
         navigator.clipboard.writeText(link);
     };
 
@@ -172,7 +172,7 @@ function SearchForm({jsonData}) {
                     <label htmlFor="search-goal">Goal</label>
                     <input min="1" max="897" id="search-goal" type="number" placeholder="#" value={searchGoal} onChange={handleGoalChange}/>
                     <label htmlFor="search-text">Text</label>
-                    <input id="search-text" type="text" placeholder="Information" value={searchText} onChange={handleTextChange} onKeyDown={handleTextInput}/>
+                    <input id="search-text" type="text" placeholder="Date, Goalie, Team, etc." value={searchText} onChange={handleTextChange} onKeyDown={handleTextInput}/>
                 </div>
                 <div>
                     <button onClick={randomGoal} name="Random Goal" type="button">Random Goal</button>/
@@ -185,7 +185,7 @@ function SearchForm({jsonData}) {
 
             {searchResults.map((result, index) => (
                 <div className="frame" key={index}>
-                    <div className={'note ' + result.icon}>
+                    <div className="note">
                         <div>
                             <img alt="Goal Siren icon" className="goal-siren" src="/icons/goal-siren.svg" />
                             <strong className="type">{result.type}</strong>
@@ -205,8 +205,8 @@ function SearchForm({jsonData}) {
                         <iframe width="560" height="315" src={result.link.replace(/"/g, "")} title="Alex Ovechkin Goal Video"
                             referrerPolicy="no-referrer" allowFullScreen loading="lazy"></iframe>
                     </div>
-                    <div className="flex">
-                        <strong className="link">https://www.ovechkin.cam/?{result.goal}</strong>
+                    <div className="link">
+                        <strong>ovechkin.cam/?{result.goal}</strong>
                         <button onClick={copyFunction} className="copy" title="Copy Link">Copy</button>
                     </div>
                 </div>

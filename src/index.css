@@ -20,9 +20,7 @@
   cursor: pointer;
   font-size: 0;
   height: 16px;
-  margin-top: -4px;
   outline: 0;
-  overflow: hidden;
   padding: 0;
   text-indent: -9999px;
   width: 16px;
@@ -33,6 +31,14 @@
 }
 
 .link {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  justify-content: center;
+}
+
+.link strong {
   font-size: 1.125rem;
   user-select: text;
 }
@@ -79,14 +85,15 @@
 }
 
 .note .type {
-  background: radial-gradient(#EF4933 35%, transparent);
+  background: radial-gradient(#EF4933 40%, transparent);
   color: #FFD2C7;
-  font-size: 2.75rem;
+  font-size: 2rem;
   left: 50%;
+  letter-spacing: -2px;
   margin: 0;
   position: absolute;
   top: 50%;
-  transform: translate(-50%,calc(-50% + 8px));
+  transform: translate(-50%,calc(-50% + 12px));
 }
 
 .note h3 {
@@ -97,22 +104,8 @@
   font-size: 1.25rem;
 }
 
-.copy {
-  align-items: center;
-  display: flex;
-  gap: 5px;
-  justify-content: center;
-}
-
-.flex {
-  align-items: center;
-  display: flex;
-  gap: 6px;
-  justify-content: center;
-  margin-bottom: 2rem;
-}
-
 .frame {
+  margin-bottom: 2.5rem;
   position: relative;
 }
 
@@ -209,7 +202,7 @@ iframe {
 
 .shadow {
   box-shadow: rgba(4, 30, 66, 0.4) -10px -10px, rgba(4, 30, 66, 0.3) -20px -20px, rgba(4, 30, 66, 0.2) -30px -30px, rgba(4, 30, 66, 0.1) -40px -40px, rgba(4, 30, 66, 0.05) -50px -50px;
-  margin: 0 0 60px;
+  margin: 0 0 1.5rem;
   max-width: 992px;
 }
 
@@ -235,7 +228,6 @@ input[type="number"] {
 input[type="text"] {
   caret-color: #C8102E;
   color: #C8102E;
-  font-size: 1.25rem;
   margin-top: 1px;
   max-width: 250px;
   padding: 3px 8px;
