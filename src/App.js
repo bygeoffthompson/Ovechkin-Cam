@@ -27,7 +27,7 @@ function SearchForm({jsonData}) {
                 }
                 return goal + "th";
             }
-            const results = jsonData.filter(item => item.goal === goalQuery)
+            const results = jsonData.filter(item => item.goal <= 897 && item.goal === goalQuery)
             setSearchResults(results);
 
             if (!window.location.hostname.includes('localhost')) {
@@ -48,7 +48,7 @@ function SearchForm({jsonData}) {
                 const search =
                     item.month + ' ' + item.day + ' ' + item.year + ' ' + item.goalie + ' ' + item.tags + ' ' + item.team;
                 return (
-                    search.toLowerCase().includes(searchText)
+                    search.toLowerCase().includes(searchText) && item.goal <= 897
                 );
             });
             if (results.length > 0) {
