@@ -10,7 +10,7 @@
 
 .copy {
   background-color: transparent;
-  background-image: url(/public/copy.svg);
+  background-image: url(/public/icons/copy.svg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -29,7 +29,7 @@
 }
 
 .copy:active {
-  background-image: url(/public/thumb.svg);
+  background-image: url(/public/icons/thumb.svg);
 }
 
 .link {
@@ -39,7 +39,7 @@
 
 .mask {
   background-color: transparent;
-  background-image: url(/public/mask.svg);
+  background-image: url(/public/icons/mask.svg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -78,13 +78,17 @@
   width: 100px;
 }
 
-.note > div > h3 {
+.note .type {
   font-size: 2.75rem;
   left: 50%;
   margin: 0;
   position: absolute;
   top: 50%;
   transform: translate(-50%,calc(-50% + 8px));
+}
+
+.note h3 {
+  font-size: 1.5rem;
 }
 
 .note strong {

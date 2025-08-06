@@ -98,7 +98,7 @@ function SearchForm({jsonData}) {
     const highlightGoal = () => {
         setSearchText('');
         resultsHide();
-        const highlights = ['four', 'fifty', 'hat', 'mega', 'moon', 'penalty', 'sixty', 'sun', 'trophy'];
+        const highlights = ['four', 'fifty', 'hat', 'mega', 'outdoor', 'overtime', 'penalty', 'shorthanded', 'sixty', 'trophy'];
 
         const result = jsonData.filter(item =>
             Object.values(item).some(value =>
@@ -187,12 +187,13 @@ function SearchForm({jsonData}) {
                 <div className="frame" key={index}>
                     <div className={'note ' + result.icon}>
                         <div>
-                            <img alt="Goal Siren icon" className="goal-siren" src="/goal-siren.svg" />
-                            <h3>{result.goal}</h3>
+                            <img alt="Goal Siren icon" className="goal-siren" src="/icons/goal-siren.svg" />
+                            <strong className="type">{result.type}</strong>
                         </div>
+                        <h3>#{result.goal}</h3>
                         <div>
                             <strong>{result.month} {result.day} {result.year}</strong>
-                            <img alt={result.team + ' logo'} className="logo" src={'/team/' + result.team + '.svgz'} />
+                            <img alt={result.team + ' logo'} className="logo" src={'/teams/' + result.team + '.svgz'} />
                         </div>
                         <div>
                             <strong className="goalie">{result.goalie}</strong>
