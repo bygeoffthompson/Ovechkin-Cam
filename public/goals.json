@@ -7,6 +7,7 @@
     "month": "October",
     "day": 5,
     "year": 2005,
+    "type": "",
     "tags": "Welcome On Board First"
   },
   {
@@ -17,6 +18,7 @@
     "month": "October",
     "day": 5,
     "year": 2005,
+    "type": "",
     "tags": ""
   },
   {
@@ -27,6 +29,7 @@
     "month": "October",
     "day": 10,
     "year": 2005,
+    "type": "",
     "tags": ""
   },
   {
@@ -37,6 +40,7 @@
     "month": "October",
     "day": 12,
     "year": 2005,
+    "type": "",
     "tags": ""
   },
   {
@@ -47,6 +51,7 @@
     "month": "October",
     "day": 20,
     "year": 2005,
+    "type": "",
     "tags": ""
   },
   {
@@ -57,6 +62,7 @@
     "month": "October",
     "day": 20,
     "year": 2005,
+    "type": "",
     "tags": ""
   },
   {
@@ -67,6 +73,7 @@
     "month": "October",
     "day": 28,
     "year": 2005,
+    "type": "",
     "tags": ""
   },
   {
@@ -77,6 +84,7 @@
     "month": "October",
     "day": 28,
     "year": 2005,
+    "type": "",
     "tags": ""
   },
   {
@@ -87,6 +95,7 @@
     "month": "November",
     "day": 6,
     "year": 2005,
+    "type": "",
     "tags": ""
   },
   {
@@ -97,6 +106,7 @@
     "month": "November",
     "day": 6,
     "year": 2005,
+    "type": "",
     "tags": ""
   },
   {
@@ -107,6 +117,7 @@
     "month": "November",
     "day": 8,
     "year": 2005,
+    "type": "",
     "tags": ""
   },
   {
@@ -117,6 +128,7 @@
     "month": "November",
     "day": 8,
     "year": 2005,
+    "type": "",
     "tags": ""
   },
   {
@@ -127,6 +139,7 @@
     "month": "November",
     "day": 11,
     "year": 2005,
+    "type": "",
     "tags": ""
   },
   {
@@ -137,6 +150,7 @@
     "month": "November",
     "day": 15,
     "year": 2005,
+    "type": "",
     "tags": ""
   },
   {
@@ -147,6 +161,7 @@
     "month": "November",
     "day": 17,
     "year": 2005,
+    "type": "",
     "tags": ""
   },
   {
@@ -157,6 +172,7 @@
     "month": "December",
     "day": 3,
     "year": 2005,
+    "type": "",
     "tags": ""
   },
   {
@@ -167,6 +183,7 @@
     "month": "December",
     "day": 7,
     "year": 2005,
+    "type": "",
     "tags": ""
   },
   {
@@ -177,6 +194,7 @@
     "month": "December",
     "day": 9,
     "year": 2005,
+    "type": "",
     "tags": ""
   },
   {
@@ -187,6 +205,7 @@
     "month": "December",
     "day": 22,
     "year": 2005,
+    "type": "",
     "tags": ""
   },
   {
@@ -199,6 +218,7 @@
     "month": "December",
     "day": 23,
     "year": 2005,
+    "type": "",
     "tags": "Twenty 20"
   },
   {
@@ -209,6 +229,7 @@
     "month": "December",
     "day": 27,
     "year": 2005,
+    "type": "",
     "tags": ""
   },
   {
@@ -219,6 +240,7 @@
     "month": "December",
     "day": 28,
     "year": 2005,
+    "type": "",
     "tags": ""
   },
   {
@@ -229,6 +251,7 @@
     "month": "December",
     "day": 31,
     "year": 2005,
+    "type": "",
     "tags": "New Years Eve Niittymaki"
   },
   {
@@ -239,6 +262,7 @@
     "month": "January",
     "day": 1,
     "year": 2006,
+    "type": "",
     "tags": "New Years Day"
   },
   {
@@ -249,6 +273,7 @@
     "month": "January",
     "day": 6,
     "year": 2006,
+    "type": "",
     "tags": "Niittymaki"
   },
   {
@@ -259,6 +284,7 @@
     "month": "January",
     "day": 10,
     "year": 2006,
+    "type": "",
     "tags": ""
   },
   {
@@ -269,6 +295,7 @@
     "month": "January",
     "day": 12,
     "year": 2006,
+    "type": "",
     "tags": ""
   },
   {
@@ -279,6 +306,7 @@
     "month": "January",
     "day": 13,
     "year": 2006,
+    "type": "",
     "tags": "Jean-Sebastien Giguere"
   },
   {
@@ -289,6 +317,7 @@
     "month": "January",
     "day": 13,
     "year": 2006,
+    "type": "",
     "tags": "Jean-Sebastien Giguere"
   },
   {
@@ -301,7 +330,8 @@
     "month": "January",
     "day": 13,
     "year": 2006,
-    "tags": "Jean-Sebastien Giguere Hat Trick"
+    "type": "OT",
+    "tags": "Jean-Sebastien Giguere Hat Trick Overtime"
   },
   {
     "goal": 31,
@@ -311,6 +341,7 @@
     "month": "January",
     "day": 16,
     "year": 2006,
+    "type": "",
     "tags": "Arizona"
   },
   {
@@ -323,6 +354,7 @@
     "month": "January",
     "day": 16,
     "year": 2006,
+    "type": "",
     "tags": "Arizona Simply Sensational"
   },
   {
@@ -333,6 +365,7 @@
     "month": "January",
     "day": 19,
     "year": 2006,
+    "type": "",
     "tags": ""
   },
   {
@@ -343,6 +376,7 @@
     "month": "January",
     "day": 25,
     "year": 2006,
+    "type": "",
     "tags": "Marc-Andre"
   },
   {
@@ -353,6 +387,7 @@
     "month": "February",
     "day": 10,
     "year": 2006,
+    "type": "",
     "tags": ""
   },
   {
@@ -363,6 +398,7 @@
     "month": "February",
     "day": 11,
     "year": 2006,
+    "type": "",
     "tags": "Marc-Andre"
   },
   {
@@ -373,6 +409,7 @@
     "month": "February",
     "day": 28,
     "year": 2006,
+    "type": "",
     "tags": ""
   },
   {
@@ -383,6 +420,7 @@
     "month": "March",
     "day": 2,
     "year": 2006,
+    "type": "",
     "tags": ""
   },
   {
@@ -393,6 +431,7 @@
     "month": "March",
     "day": 4,
     "year": 2006,
+    "type": "",
     "tags": ""
   },
   {
@@ -405,6 +444,7 @@
     "month": "March",
     "day": 6,
     "year": 2006,
+    "type": "",
     "tags": "Forty 40"
   },
   {
@@ -415,6 +455,7 @@
     "month": "March",
     "day": 6,
     "year": 2006,
+    "type": "",
     "tags": ""
   },
   {
@@ -425,6 +466,7 @@
     "month": "March",
     "day": 8,
     "year": 2006,
+    "type": "",
     "tags": "Sebastien"
   },
   {
@@ -435,6 +477,7 @@
     "month": "March",
     "day": 14,
     "year": 2006,
+    "type": "",
     "tags": ""
   },
   {
@@ -445,6 +488,7 @@
     "month": "March",
     "day": 20,
     "year": 2006,
+    "type": "",
     "tags": ""
   },
   {
@@ -455,6 +499,7 @@
     "month": "March",
     "day": 23,
     "year": 2006,
+    "type": "",
     "tags": ""
   },
   {
@@ -465,6 +510,7 @@
     "month": "March",
     "day": 23,
     "year": 2006,
+    "type": "",
     "tags": ""
   },
   {
@@ -475,6 +521,7 @@
     "month": "March",
     "day": 25,
     "year": 2006,
+    "type": "",
     "tags": ""
   },
   {
@@ -485,6 +532,7 @@
     "month": "March",
     "day": 29,
     "year": 2006,
+    "type": "",
     "tags": ""
   },
   {
@@ -497,7 +545,8 @@
     "month": "April",
     "day": 10,
     "year": 2006,
-    "tags": "100th Point"
+    "type": "OT",
+    "tags": "100th Point Overtime"
   },
   {
     "goal": 50,
@@ -509,6 +558,7 @@
     "month": "April",
     "day": 13,
     "year": 2006,
+    "type": "",
     "tags": "Fifty 50"
   },
   {
@@ -519,6 +569,7 @@
     "month": "April",
     "day": 15,
     "year": 2006,
+    "type": "",
     "tags": ""
   },
   {
@@ -530,6 +581,7 @@
     "month": "April",
     "day": 17,
     "year": 2006,
+    "type": "",
     "tags": "Last"
   },
   {
@@ -541,6 +593,7 @@
     "month": "October",
     "day": 7,
     "year": 2006,
+    "type": "",
     "tags": "First"
   },
   {
@@ -551,6 +604,7 @@
     "month": "October",
     "day": 7,
     "year": 2006,
+    "type": "",
     "tags": ""
   },
   {
@@ -561,6 +615,7 @@
     "month": "October",
     "day": 19,
     "year": 2006,
+    "type": "",
     "tags": ""
   },
   {
@@ -571,6 +626,7 @@
     "month": "October",
     "day": 21,
     "year": 2006,
+    "type": "",
     "tags": ""
   },
   {
@@ -581,6 +637,7 @@
     "month": "October",
     "day": 25,
     "year": 2006,
+    "type": "",
     "tags": ""
   },
   {
@@ -591,6 +648,7 @@
     "month": "October",
     "day": 27,
     "year": 2006,
+    "type": "",
     "tags": ""
   },
   {
@@ -601,6 +659,7 @@
     "month": "November",
     "day": 4,
     "year": 2006,
+    "type": "",
     "tags": ""
   },
   {
@@ -611,6 +670,7 @@
     "month": "November",
     "day": 4,
     "year": 2006,
+    "type": "",
     "tags": ""
   },
   {
@@ -621,6 +681,7 @@
     "month": "November",
     "day": 6,
     "year": 2006,
+    "type": "",
     "tags": ""
   },
   {
@@ -631,6 +692,7 @@
     "month": "November",
     "day": 6,
     "year": 2006,
+    "type": "",
     "tags": ""
   },
   {
@@ -641,6 +703,7 @@
     "month": "November",
     "day": 11,
     "year": 2006,
+    "type": "",
     "tags": ""
   },
   {
@@ -651,6 +714,7 @@
     "month": "November",
     "day": 13,
     "year": 2006,
+    "type": "",
     "tags": ""
   },
   {
@@ -661,6 +725,7 @@
     "month": "November",
     "day": 18,
     "year": 2006,
+    "type": "",
     "tags": ""
   },
   {
@@ -671,6 +736,7 @@
     "month": "November",
     "day": 24,
     "year": 2006,
+    "type": "",
     "tags": ""
   },
   {
@@ -681,6 +747,7 @@
     "month": "November",
     "day": 25,
     "year": 2006,
+    "type": "",
     "tags": ""
   },
   {
@@ -691,6 +758,7 @@
     "month": "November",
     "day": 28,
     "year": 2006,
+    "type": "",
     "tags": "Empty Net"
   },
   {
@@ -701,6 +769,7 @@
     "month": "December",
     "day": 2,
     "year": 2006,
+    "type": "",
     "tags": ""
   },
   {
@@ -711,6 +780,7 @@
     "month": "December",
     "day": 9,
     "year": 2006,
+    "type": "",
     "tags": "Niittymaki"
   },
   {
@@ -721,6 +791,7 @@
     "month": "December",
     "day": 15,
     "year": 2006,
+    "type": "",
     "tags": ""
   },
   {
@@ -733,6 +804,7 @@
     "month": "December",
     "day": 15,
     "year": 2006,
+    "type": "",
     "tags": "Twenty 20"
   },
   {
@@ -745,7 +817,8 @@
     "month": "December",
     "day": 15,
     "year": 2006,
-    "tags": "Hat Trick"
+    "type": "OT",
+    "tags": "Hat Trick Overtime"
   },
   {
     "goal": 74,
@@ -755,6 +828,7 @@
     "month": "December",
     "day": 16,
     "year": 2006,
+    "type": "",
     "tags": "Niittymaki"
   },
   {
@@ -765,6 +839,7 @@
     "month": "December",
     "day": 19,
     "year": 2006,
+    "type": "",
     "tags": ""
   },
   {
@@ -775,6 +850,7 @@
     "month": "December",
     "day": 23,
     "year": 2006,
+    "type": "",
     "tags": ""
   },
   {
@@ -785,6 +861,7 @@
     "month": "December",
     "day": 26,
     "year": 2006,
+    "type": "",
     "tags": ""
   },
   {
@@ -795,6 +872,7 @@
     "month": "January",
     "day": 6,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -805,6 +883,7 @@
     "month": "January",
     "day": 9,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -815,6 +894,7 @@
     "month": "January",
     "day": 9,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -825,6 +905,7 @@
     "month": "January",
     "day": 18,
     "year": 2007,
+    "type": "",
     "tags": "Empty Net"
   },
   {
@@ -837,6 +918,7 @@
     "month": "January",
     "day": 26,
     "year": 2007,
+    "type": "",
     "tags": "Thirty 30"
   },
   {
@@ -847,6 +929,7 @@
     "month": "January",
     "day": 27,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -857,6 +940,7 @@
     "month": "January",
     "day": 30,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -867,6 +951,7 @@
     "month": "February",
     "day": 1,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -877,6 +962,7 @@
     "month": "February",
     "day": 10,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -887,6 +973,7 @@
     "month": "February",
     "day": 25,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -897,6 +984,7 @@
     "month": "February",
     "day": 27,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -907,6 +995,7 @@
     "month": "February",
     "day": 27,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -917,6 +1006,7 @@
     "month": "March",
     "day": 1,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -927,6 +1017,7 @@
     "month": "March",
     "day": 10,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -939,6 +1030,7 @@
     "month": "March",
     "day": 12,
     "year": 2007,
+    "type": "",
     "tags": "Forty 40"
   },
   {
@@ -949,6 +1041,7 @@
     "month": "March",
     "day": 12,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -959,6 +1052,7 @@
     "month": "March",
     "day": 22,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -969,6 +1063,7 @@
     "month": "March",
     "day": 22,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -979,6 +1074,7 @@
     "month": "April",
     "day": 3,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -989,6 +1085,7 @@
     "month": "April",
     "day": 4,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -1000,6 +1097,7 @@
     "month": "April",
     "day": 4,
     "year": 2007,
+    "type": "",
     "tags": "Last"
   },
   {
@@ -1011,6 +1109,7 @@
     "month": "October",
     "day": 6,
     "year": 2007,
+    "type": "",
     "tags": "First"
   },
   {
@@ -1023,6 +1122,7 @@
     "month": "October",
     "day": 12,
     "year": 2007,
+    "type": "",
     "tags": "100th Goal"
   },
   {
@@ -1033,6 +1133,7 @@
     "month": "October",
     "day": 13,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -1043,6 +1144,7 @@
     "month": "October",
     "day": 18,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -1053,6 +1155,7 @@
     "month": "October",
     "day": 24,
     "year": 2007,
+    "type": "",
     "tags": "Empty Net"
   },
   {
@@ -1063,6 +1166,7 @@
     "month": "October",
     "day": 26,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -1073,6 +1177,7 @@
     "month": "October",
     "day": 29,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -1083,6 +1188,7 @@
     "month": "October",
     "day": 29,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -1093,6 +1199,7 @@
     "month": "November",
     "day": 2,
     "year": 2007,
+    "type": "",
     "tags": "Niittymaki"
   },
   {
@@ -1103,6 +1210,7 @@
     "month": "November",
     "day": 8,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -1113,6 +1221,7 @@
     "month": "November",
     "day": 10,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -1123,6 +1232,7 @@
     "month": "November",
     "day": 15,
     "year": 2007,
+    "type": "",
     "tags": "Tomas"
   },
   {
@@ -1133,6 +1243,7 @@
     "month": "November",
     "day": 16,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -1143,6 +1254,7 @@
     "month": "November",
     "day": 21,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -1153,6 +1265,7 @@
     "month": "November",
     "day": 24,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -1163,6 +1276,7 @@
     "month": "November",
     "day": 24,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -1173,6 +1287,7 @@
     "month": "November",
     "day": 26,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -1183,6 +1298,7 @@
     "month": "November",
     "day": 30,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -1193,6 +1309,7 @@
     "month": "November",
     "day": 30,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -1205,6 +1322,7 @@
     "month": "December",
     "day": 1,
     "year": 2007,
+    "type": "",
     "tags": "Tomas Twenty 20"
   },
   {
@@ -1215,6 +1333,7 @@
     "month": "December",
     "day": 8,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -1225,6 +1344,7 @@
     "month": "December",
     "day": 12,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -1235,6 +1355,7 @@
     "month": "December",
     "day": 14,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -1245,6 +1366,7 @@
     "month": "December",
     "day": 17,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -1255,6 +1377,7 @@
     "month": "December",
     "day": 22,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -1265,6 +1388,7 @@
     "month": "December",
     "day": 27,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -1275,6 +1399,7 @@
     "month": "December",
     "day": 29,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -1285,6 +1410,7 @@
     "month": "December",
     "day": 29,
     "year": 2007,
+    "type": "",
     "tags": ""
   },
   {
@@ -1297,6 +1423,7 @@
     "month": "December",
     "day": 29,
     "year": 2007,
+    "type": "",
     "tags": "Hat Trick"
   },
   {
@@ -1309,6 +1436,7 @@
     "month": "December",
     "day": 29,
     "year": 2007,
+    "type": "",
     "tags": "Empty Net Four 4"
   },
   {
@@ -1319,6 +1447,7 @@
     "month": "January",
     "day": 5,
     "year": 2008,
+    "type": "",
     "tags": ""
   },
   {
@@ -1329,6 +1458,7 @@
     "month": "January",
     "day": 5,
     "year": 2008,
+    "type": "",
     "tags": ""
   },
   {
@@ -1339,6 +1469,7 @@
     "month": "January",
     "day": 13,
     "year": 2008,
+    "type": "",
     "tags": ""
   },
   {
@@ -1349,6 +1480,7 @@
     "month": "January",
     "day": 15,
     "year": 2008,
+    "type": "",
     "tags": ""
   },
   {
@@ -1359,6 +1491,7 @@
     "month": "January",
     "day": 17,
     "year": 2008,
+    "type": "",
     "tags": ""
   },
   {
@@ -1369,6 +1502,7 @@
     "month": "January",
     "day": 19,
     "year": 2008,
+    "type": "",
     "tags": "Tomas"
   },
   {
@@ -1379,6 +1513,7 @@
     "month": "January",
     "day": 21,
     "year": 2008,
+    "type": "",
     "tags": ""
   },
   {
@@ -1389,6 +1524,7 @@
     "month": "January",
     "day": 21,
     "year": 2008,
+    "type": "",
     "tags": ""
   },
   {
@@ -1399,6 +1535,7 @@
     "month": "January",
     "day": 23,
     "year": 2008,
+    "type": "",
     "tags": ""
   },
   {
@@ -1411,6 +1548,7 @@
     "month": "January",
     "day": 28,
     "year": 2008,
+    "type": "",
     "tags": "Forty 40"
   },
   {
@@ -1421,6 +1559,7 @@
     "month": "January",
     "day": 28,
     "year": 2008,
+    "type": "",
     "tags": ""
   },
   {
@@ -1433,6 +1572,7 @@
     "month": "January",
     "day": 28,
     "year": 2008,
+    "type": "",
     "tags": "Hat Trick"
   },
   {
@@ -1445,7 +1585,8 @@
     "month": "January",
     "day": 28,
     "year": 2008,
-    "tags": "Four 4"
+    "type": "OT",
+    "tags": "Four 4 Overtime"
   },
   {
     "goal": 142,
@@ -1455,6 +1596,7 @@
     "month": "February",
     "day": 5,
     "year": 2008,
+    "type": "",
     "tags": ""
   },
   {
@@ -1465,7 +1607,8 @@
     "month": "February",
     "day": 5,
     "year": 2008,
-    "tags": ""
+    "type": "OT",
+    "tags": "Overtime"
   },
   {
     "goal": 144,
@@ -1475,6 +1618,7 @@
     "month": "February",
     "day": 6,
     "year": 2008,
+    "type": "",
     "tags": ""
   },
   {
@@ -1485,6 +1629,7 @@
     "month": "February",
     "day": 10,
     "year": 2008,
+    "type": "",
     "tags": ""
   },
   {
@@ -1495,6 +1640,7 @@
     "month": "February",
     "day": 13,
     "year": 2008,
+    "type": "",
     "tags": ""
   },
   {
@@ -1505,6 +1651,7 @@
     "month": "March",
     "day": 1,
     "year": 2008,
+    "type": "",
     "tags": ""
   },
   {
@@ -1517,6 +1664,7 @@
     "month": "March",
     "day": 3,
     "year": 2008,
+    "type": "",
     "tags": "Fifty 50"
   },
   {
@@ -1527,6 +1675,7 @@
     "month": "March",
     "day": 3,
     "year": 2008,
+    "type": "",
     "tags": ""
   },
   {
@@ -1539,6 +1688,7 @@
     "month": "March",
     "day": 3,
     "year": 2008,
+    "type": "",
     "tags": "Hat Trick"
   },
   {
@@ -1549,6 +1699,7 @@
     "month": "March",
     "day": 8,
     "year": 2008,
+    "type": "",
     "tags": ""
   },
   {
@@ -1559,6 +1710,7 @@
     "month": "March",
     "day": 8,
     "year": 2008,
+    "type": "",
     "tags": ""
   },
   {
@@ -1569,6 +1721,7 @@
     "month": "March",
     "day": 12,
     "year": 2008,
+    "type": "",
     "tags": ""
   },
   {
@@ -1579,6 +1732,7 @@
     "month": "March",
     "day": 12,
     "year": 2008,
+    "type": "",
     "tags": ""
   },
   {
@@ -1589,6 +1743,7 @@
     "month": "March",
     "day": 14,
     "year": 2008,
+    "type": "",
     "tags": ""
   },
   {
@@ -1599,6 +1754,7 @@
     "month": "March",
     "day": 18,
     "year": 2008,
+    "type": "",
     "tags": "Empty Net"
   },
   {
@@ -1609,6 +1765,7 @@
     "month": "March",
     "day": 21,
     "year": 2008,
+    "type": "",
     "tags": ""
   },
   {
@@ -1621,6 +1778,7 @@
     "month": "March",
     "day": 21,
     "year": 2008,
+    "type": "",
     "tags": "Sixty 60"
   },
   {
@@ -1631,6 +1789,7 @@
     "month": "March",
     "day": 25,
     "year": 2008,
+    "type": "",
     "tags": ""
   },
   {
@@ -1641,6 +1800,7 @@
     "month": "March",
     "day": 29,
     "year": 2008,
+    "type": "",
     "tags": "Tomas"
   },
   {
@@ -1651,6 +1811,7 @@
     "month": "April",
     "day": 1,
     "year": 2008,
+    "type": "",
     "tags": "Fools Day"
   },
   {
@@ -1661,6 +1822,7 @@
     "month": "April",
     "day": 3,
     "year": 2008,
+    "type": "",
     "tags": "Ramo"
   },
   {
@@ -1672,6 +1834,7 @@
     "month": "April",
     "day": 3,
     "year": 2008,
+    "type": "",
     "tags": "Ramo Last"
   },
   {
@@ -1683,6 +1846,7 @@
     "month": "October",
     "day": 11,
     "year": 2008,
+    "type": "",
     "tags": "First"
   },
   {
@@ -1693,6 +1857,7 @@
     "month": "October",
     "day": 11,
     "year": 2008,
+    "type": "",
     "tags": ""
   },
   {
@@ -1703,6 +1868,7 @@
     "month": "November",
     "day": 10,
     "year": 2008,
+    "type": "",
     "tags": "Kolzig"
   },
   {
@@ -1713,6 +1879,7 @@
     "month": "November",
     "day": 12,
     "year": 2008,
+    "type": "",
     "tags": ""
   },
   {
@@ -1723,6 +1890,7 @@
     "month": "November",
     "day": 14,
     "year": 2008,
+    "type": "",
     "tags": "Empty Net"
   },
   {
@@ -1733,6 +1901,7 @@
     "month": "November",
     "day": 15,
     "year": 2008,
+    "type": "",
     "tags": ""
   },
   {
@@ -1743,6 +1912,7 @@
     "month": "November",
     "day": 15,
     "year": 2008,
+    "type": "",
     "tags": ""
   },
   {
@@ -1753,6 +1923,7 @@
     "month": "November",
     "day": 19,
     "year": 2008,
+    "type": "",
     "tags": "Jean-Sebastien Giguere"
   },
   {
@@ -1763,6 +1934,7 @@
     "month": "November",
     "day": 24,
     "year": 2008,
+    "type": "",
     "tags": "Backstrom"
   },
   {
@@ -1773,6 +1945,7 @@
     "month": "November",
     "day": 26,
     "year": 2008,
+    "type": "",
     "tags": "Ondrej"
   },
   {
@@ -1783,6 +1956,7 @@
     "month": "November",
     "day": 26,
     "year": 2008,
+    "type": "",
     "tags": "Ondrej"
   },
   {
@@ -1795,6 +1969,7 @@
     "month": "November",
     "day": 26,
     "year": 2008,
+    "type": "",
     "tags": "Ondrej Hat Trick"
   },
   {
@@ -1805,6 +1980,7 @@
     "month": "November",
     "day": 28,
     "year": 2008,
+    "type": "",
     "tags": "Halak"
   },
   {
@@ -1815,6 +1991,7 @@
     "month": "December",
     "day": 4,
     "year": 2008,
+    "type": "",
     "tags": ""
   },
   {
@@ -1825,6 +2002,7 @@
     "month": "December",
     "day": 10,
     "year": 2008,
+    "type": "",
     "tags": "Empty Net"
   },
   {
@@ -1835,6 +2013,7 @@
     "month": "December",
     "day": 12,
     "year": 2008,
+    "type": "",
     "tags": ""
   },
   {
@@ -1845,6 +2024,7 @@
     "month": "December",
     "day": 12,
     "year": 2008,
+    "type": "",
     "tags": ""
   },
   {
@@ -1855,6 +2035,7 @@
     "month": "December",
     "day": 16,
     "year": 2008,
+    "type": "",
     "tags": ""
   },
   {
@@ -1865,7 +2046,8 @@
     "month": "December",
     "day": 16,
     "year": 2008,
-    "tags": ""
+    "type": "OT",
+    "tags": "Overtime"
   },
   {
     "goal": 183,
@@ -1877,6 +2059,7 @@
     "month": "December",
     "day": 18,
     "year": 2008,
+    "type": "",
     "tags": "Twenty 20"
   },
   {
@@ -1887,6 +2070,7 @@
     "month": "December",
     "day": 23,
     "year": 2008,
+    "type": "",
     "tags": ""
   },
   {
@@ -1897,6 +2081,7 @@
     "month": "December",
     "day": 23,
     "year": 2008,
+    "type": "",
     "tags": ""
   },
   {
@@ -1907,6 +2092,7 @@
     "month": "December",
     "day": 26,
     "year": 2008,
+    "type": "",
     "tags": ""
   },
   {
@@ -1917,6 +2103,7 @@
     "month": "December",
     "day": 28,
     "year": 2008,
+    "type": "",
     "tags": ""
   },
   {
@@ -1927,6 +2114,7 @@
     "month": "December",
     "day": 28,
     "year": 2008,
+    "type": "",
     "tags": "Empty Net"
   },
   {
@@ -1937,6 +2125,7 @@
     "month": "January",
     "day": 1,
     "year": 2009,
+    "type": "",
     "tags": "New Years Day"
   },
   {
@@ -1947,6 +2136,7 @@
     "month": "January",
     "day": 3,
     "year": 2009,
+    "type": "",
     "tags": ""
   },
   {
@@ -1957,6 +2147,7 @@
     "month": "January",
     "day": 14,
     "year": 2009,
+    "type": "",
     "tags": "Marc-Andre"
   },
   {
@@ -1967,6 +2158,7 @@
     "month": "January",
     "day": 14,
     "year": 2009,
+    "type": "",
     "tags": "Marc-Andre"
   },
   {
@@ -1979,6 +2171,7 @@
     "month": "January",
     "day": 19,
     "year": 2009,
+    "type": "",
     "tags": "Thirty 30"
   },
   {
@@ -1989,7 +2182,8 @@
     "month": "January",
     "day": 19,
     "year": 2009,
-    "tags": ""
+    "type": "OT",
+    "tags": "Overtime"
   },
   {
     "goal": 195,
@@ -1999,6 +2193,7 @@
     "month": "January",
     "day": 31,
     "year": 2009,
+    "type": "",
     "tags": ""
   },
   {
@@ -2009,6 +2204,7 @@
     "month": "January",
     "day": 31,
     "year": 2009,
+    "type": "",
     "tags": ""
   },
   {
@@ -2019,6 +2215,7 @@
     "month": "February",
     "day": 1,
     "year": 2009,
+    "type": "",
     "tags": "Super Bowl Sunday"
   },
   {
@@ -2029,6 +2226,7 @@
     "month": "February",
     "day": 1,
     "year": 2009,
+    "type": "",
     "tags": "Super Bowl Sunday"
   },
   {
@@ -2041,6 +2239,7 @@
     "month": "February",
     "day": 1,
     "year": 2009,
+    "type": "",
     "tags": "Hat Trick Super Bowl Sunday"
   },
   {
@@ -2053,6 +2252,7 @@
     "month": "February",
     "day": 5,
     "year": 2009,
+    "type": "",
     "tags": "200th Goal"
   },
   {
@@ -2063,6 +2263,7 @@
     "month": "February",
     "day": 14,
     "year": 2009,
+    "type": "",
     "tags": "Valentine's Valentines Day"
   },
   {
@@ -2073,6 +2274,7 @@
     "month": "February",
     "day": 15,
     "year": 2009,
+    "type": "",
     "tags": "Tomas"
   },
   {
@@ -2085,6 +2287,7 @@
     "month": "February",
     "day": 15,
     "year": 2009,
+    "type": "",
     "tags": "Tomas Forty 40"
   },
   {
@@ -2097,6 +2300,7 @@
     "month": "February",
     "day": 15,
     "year": 2009,
+    "type": "",
     "tags": "Empty Net Hat Trick"
   },
   {
@@ -2107,6 +2311,7 @@
     "month": "February",
     "day": 18,
     "year": 2009,
+    "type": "",
     "tags": ""
   },
   {
@@ -2117,6 +2322,7 @@
     "month": "February",
     "day": 22,
     "year": 2009,
+    "type": "",
     "tags": "Marc-Andre"
   },
   {
@@ -2127,6 +2333,7 @@
     "month": "February",
     "day": 24,
     "year": 2009,
+    "type": "",
     "tags": "Niittymaki"
   },
   {
@@ -2137,6 +2344,7 @@
     "month": "February",
     "day": 28,
     "year": 2009,
+    "type": "",
     "tags": ""
   },
   {
@@ -2147,6 +2355,7 @@
     "month": "March",
     "day": 1,
     "year": 2009,
+    "type": "",
     "tags": ""
   },
   {
@@ -2157,6 +2366,7 @@
     "month": "March",
     "day": 8,
     "year": 2009,
+    "type": "",
     "tags": "Marc-Andre"
   },
   {
@@ -2167,6 +2377,7 @@
     "month": "March",
     "day": 12,
     "year": 2009,
+    "type": "",
     "tags": ""
   },
   {
@@ -2177,6 +2388,7 @@
     "month": "March",
     "day": 14,
     "year": 2009,
+    "type": "",
     "tags": ""
   },
   {
@@ -2189,6 +2401,7 @@
     "month": "March",
     "day": 19,
     "year": 2009,
+    "type": "",
     "tags": "Fifty 50"
   },
   {
@@ -2199,6 +2412,7 @@
     "month": "March",
     "day": 24,
     "year": 2009,
+    "type": "",
     "tags": ""
   },
   {
@@ -2209,6 +2423,7 @@
     "month": "March",
     "day": 27,
     "year": 2009,
+    "type": "",
     "tags": ""
   },
   {
@@ -2219,6 +2434,7 @@
     "month": "March",
     "day": 27,
     "year": 2009,
+    "type": "",
     "tags": "Empty Net"
   },
   {
@@ -2229,6 +2445,7 @@
     "month": "April",
     "day": 1,
     "year": 2009,
+    "type": "",
     "tags": "Fools Day"
   },
   {
@@ -2239,6 +2456,7 @@
     "month": "April",
     "day": 3,
     "year": 2009,
+    "type": "",
     "tags": ""
   },
   {
@@ -2250,6 +2468,7 @@
     "month": "April",
     "day": 11,
     "year": 2009,
+    "type": "",
     "tags": "Tomas Last"
   },
   {
@@ -2261,6 +2480,7 @@
     "month": "October",
     "day": 1,
     "year": 2009,
+    "type": "",
     "tags": "First"
   },
   {
@@ -2271,6 +2491,7 @@
     "month": "October",
     "day": 1,
     "year": 2009,
+    "type": "",
     "tags": ""
   },
   {
@@ -2281,6 +2502,7 @@
     "month": "October",
     "day": 3,
     "year": 2009,
+    "type": "",
     "tags": ""
   },
   {
@@ -2291,6 +2513,7 @@
     "month": "October",
     "day": 6,
     "year": 2009,
+    "type": "",
     "tags": ""
   },
   {
@@ -2301,6 +2524,7 @@
     "month": "October",
     "day": 6,
     "year": 2009,
+    "type": "",
     "tags": ""
   },
   {
@@ -2311,6 +2535,7 @@
     "month": "October",
     "day": 15,
     "year": 2009,
+    "type": "",
     "tags": ""
   },
   {
@@ -2321,6 +2546,7 @@
     "month": "October",
     "day": 15,
     "year": 2009,
+    "type": "",
     "tags": ""
   },
   {
@@ -2331,6 +2557,7 @@
     "month": "October",
     "day": 17,
     "year": 2009,
+    "type": "",
     "tags": ""
   },
   {
@@ -2341,6 +2568,7 @@
     "month": "October",
     "day": 17,
     "year": 2009,
+    "type": "",
     "tags": ""
   },
   {
@@ -2351,6 +2579,7 @@
     "month": "October",
     "day": 27,
     "year": 2009,
+    "type": "",
     "tags": ""
   },
   {
@@ -2361,6 +2590,7 @@
     "month": "October",
     "day": 27,
     "year": 2009,
+    "type": "",
     "tags": "Empty Net"
   },
   {
@@ -2371,6 +2601,7 @@
     "month": "October",
     "day": 29,
     "year": 2009,
+    "type": "",
     "tags": "Ondrej"
   },
   {
@@ -2381,6 +2612,7 @@
     "month": "October",
     "day": 29,
     "year": 2009,
+    "type": "",
     "tags": "Ondrej"
   },
   {
@@ -2391,6 +2623,7 @@
     "month": "October",
     "day": 30,
     "year": 2009,
+    "type": "",
     "tags": ""
   },
   {
@@ -2401,6 +2634,7 @@
     "month": "November",
     "day": 17,
     "year": 2009,
+    "type": "",
     "tags": ""
   },
   {
@@ -2411,6 +2645,7 @@
     "month": "November",
     "day": 21,
     "year": 2009,
+    "type": "",
     "tags": ""
   },
   {
@@ -2421,6 +2656,7 @@
     "month": "November",
     "day": 25,
     "year": 2009,
+    "type": "",
     "tags": ""
   },
   {
@@ -2431,6 +2667,7 @@
     "month": "November",
     "day": 28,
     "year": 2009,
+    "type": "",
     "tags": ""
   },
   {
@@ -2441,6 +2678,7 @@
     "month": "December",
     "day": 7,
     "year": 2009,
+    "type": "",
     "tags": ""
   },
   {
@@ -2453,6 +2691,7 @@
     "month": "December",
     "day": 7,
     "year": 2009,
+    "type": "",
     "tags": "Twenty 20"
   },
   {
@@ -2463,6 +2702,7 @@
     "month": "December",
     "day": 12,
     "year": 2009,
+    "type": "",
     "tags": ""
   },
   {
@@ -2473,6 +2713,7 @@
     "month": "December",
     "day": 19,
     "year": 2009,
+    "type": "",
     "tags": ""
   },
   {
@@ -2483,6 +2724,7 @@
     "month": "December",
     "day": 19,
     "year": 2009,
+    "type": "",
     "tags": ""
   },
   {
@@ -2493,6 +2735,7 @@
     "month": "December",
     "day": 23,
     "year": 2009,
+    "type": "",
     "tags": ""
   },
   {
@@ -2503,6 +2746,7 @@
     "month": "December",
     "day": 26,
     "year": 2009,
+    "type": "",
     "tags": ""
   },
   {
@@ -2513,6 +2757,7 @@
     "month": "December",
     "day": 30,
     "year": 2009,
+    "type": "",
     "tags": ""
   },
   {
@@ -2523,6 +2768,7 @@
     "month": "January",
     "day": 7,
     "year": 2010,
+    "type": "",
     "tags": ""
   },
   {
@@ -2533,6 +2779,7 @@
     "month": "January",
     "day": 13,
     "year": 2010,
+    "type": "",
     "tags": "Tomas"
   },
   {
@@ -2543,6 +2790,7 @@
     "month": "January",
     "day": 15,
     "year": 2010,
+    "type": "",
     "tags": ""
   },
   {
@@ -2555,6 +2803,7 @@
     "month": "January",
     "day": 17,
     "year": 2010,
+    "type": "",
     "tags": "Penalty Shot"
   },
   {
@@ -2565,6 +2814,7 @@
     "month": "January",
     "day": 21,
     "year": 2010,
+    "type": "",
     "tags": ""
   },
   {
@@ -2575,6 +2825,7 @@
     "month": "January",
     "day": 21,
     "year": 2010,
+    "type": "",
     "tags": "Empty Net"
   },
   {
@@ -2585,6 +2836,7 @@
     "month": "January",
     "day": 23,
     "year": 2010,
+    "type": "",
     "tags": "Arizona Empty Net"
   },
   {
@@ -2595,6 +2847,7 @@
     "month": "January",
     "day": 27,
     "year": 2010,
+    "type": "",
     "tags": "Jean-Sebastien Giguere"
   },
   {
@@ -2605,6 +2858,7 @@
     "month": "January",
     "day": 31,
     "year": 2010,
+    "type": "",
     "tags": ""
   },
   {
@@ -2615,6 +2869,7 @@
     "month": "February",
     "day": 2,
     "year": 2010,
+    "type": "",
     "tags": "Empty Net"
   },
   {
@@ -2625,6 +2880,7 @@
     "month": "February",
     "day": 4,
     "year": 2010,
+    "type": "",
     "tags": ""
   },
   {
@@ -2637,6 +2893,7 @@
     "month": "February",
     "day": 4,
     "year": 2010,
+    "type": "",
     "tags": "500th Point"
   },
   {
@@ -2647,6 +2904,7 @@
     "month": "February",
     "day": 5,
     "year": 2010,
+    "type": "",
     "tags": "Ondrej"
   },
   {
@@ -2659,6 +2917,7 @@
     "month": "February",
     "day": 7,
     "year": 2010,
+    "type": "",
     "tags": "Marc-Andre Forty 40 Super Bowl Sunday"
   },
   {
@@ -2669,6 +2928,7 @@
     "month": "February",
     "day": 7,
     "year": 2010,
+    "type": "",
     "tags": "Marc-Andre Super Bowl Sunday"
   },
   {
@@ -2681,6 +2941,7 @@
     "month": "February",
     "day": 7,
     "year": 2010,
+    "type": "",
     "tags": "Marc-Andre Hat Trick Super Bowl Sunday"
   },
   {
@@ -2691,6 +2952,7 @@
     "month": "March",
     "day": 8,
     "year": 2010,
+    "type": "",
     "tags": ""
   },
   {
@@ -2701,6 +2963,7 @@
     "month": "March",
     "day": 8,
     "year": 2010,
+    "type": "",
     "tags": ""
   },
   {
@@ -2711,6 +2974,7 @@
     "month": "March",
     "day": 20,
     "year": 2010,
+    "type": "",
     "tags": "Niittymaki"
   },
   {
@@ -2721,6 +2985,7 @@
     "month": "March",
     "day": 28,
     "year": 2010,
+    "type": "",
     "tags": ""
   },
   {
@@ -2731,6 +2996,7 @@
     "month": "April",
     "day": 6,
     "year": 2010,
+    "type": "",
     "tags": ""
   },
   {
@@ -2741,6 +3007,7 @@
     "month": "April",
     "day": 6,
     "year": 2010,
+    "type": "",
     "tags": "Empty Net"
   },
   {
@@ -2751,6 +3018,7 @@
     "month": "April",
     "day": 9,
     "year": 2010,
+    "type": "",
     "tags": "Ondrej"
   },
   {
@@ -2763,6 +3031,7 @@
     "month": "April",
     "day": 9,
     "year": 2010,
+    "type": "",
     "tags": "Ondrej Last Fifty 50"
   },
   {
@@ -2774,6 +3043,7 @@
     "month": "October",
     "day": 9,
     "year": 2010,
+    "type": "",
     "tags": "First"
   },
   {
@@ -2786,6 +3056,7 @@
     "month": "October",
     "day": 9,
     "year": 2010,
+    "type": "",
     "tags": "Penalty Shot"
   },
   {
@@ -2796,7 +3067,8 @@
     "month": "October",
     "day": 11,
     "year": 2010,
-    "tags": ""
+    "type": "OT",
+    "tags": "Overtime"
   },
   {
     "goal": 273,
@@ -2806,6 +3078,7 @@
     "month": "October",
     "day": 13,
     "year": 2010,
+    "type": "",
     "tags": ""
   },
   {
@@ -2816,6 +3089,7 @@
     "month": "October",
     "day": 28,
     "year": 2010,
+    "type": "",
     "tags": "Backstrom"
   },
   {
@@ -2826,6 +3100,7 @@
     "month": "October",
     "day": 30,
     "year": 2010,
+    "type": "",
     "tags": ""
   },
   {
@@ -2836,6 +3111,7 @@
     "month": "October",
     "day": 30,
     "year": 2010,
+    "type": "",
     "tags": ""
   },
   {
@@ -2846,6 +3122,7 @@
     "month": "November",
     "day": 5,
     "year": 2010,
+    "type": "",
     "tags": "Empty Net"
   },
   {
@@ -2856,6 +3133,7 @@
     "month": "November",
     "day": 11,
     "year": 2010,
+    "type": "",
     "tags": ""
   },
   {
@@ -2866,6 +3144,7 @@
     "month": "November",
     "day": 14,
     "year": 2010,
+    "type": "",
     "tags": ""
   },
   {
@@ -2876,6 +3155,7 @@
     "month": "December",
     "day": 4,
     "year": 2010,
+    "type": "",
     "tags": "Ondrej"
   },
   {
@@ -2886,6 +3166,7 @@
     "month": "December",
     "day": 6,
     "year": 2010,
+    "type": "",
     "tags": ""
   },
   {
@@ -2896,6 +3177,7 @@
     "month": "December",
     "day": 26,
     "year": 2010,
+    "type": "",
     "tags": ""
   },
   {
@@ -2906,6 +3188,7 @@
     "month": "December",
     "day": 28,
     "year": 2010,
+    "type": "",
     "tags": "Empty Net"
   },
   {
@@ -2916,6 +3199,7 @@
     "month": "January",
     "day": 8,
     "year": 2011,
+    "type": "",
     "tags": ""
   },
   {
@@ -2926,6 +3210,7 @@
     "month": "January",
     "day": 18,
     "year": 2011,
+    "type": "",
     "tags": ""
   },
   {
@@ -2936,6 +3221,7 @@
     "month": "January",
     "day": 22,
     "year": 2011,
+    "type": "",
     "tags": "Jean-Sebastien Giguere"
   },
   {
@@ -2946,6 +3232,7 @@
     "month": "January",
     "day": 22,
     "year": 2011,
+    "type": "",
     "tags": "Jean-Sebastien Giguere"
   },
   {
@@ -2958,6 +3245,7 @@
     "month": "January",
     "day": 22,
     "year": 2011,
+    "type": "",
     "tags": "Empty Net Hat Trick"
   },
   {
@@ -2970,6 +3258,7 @@
     "month": "February",
     "day": 4,
     "year": 2011,
+    "type": "",
     "tags": "Twenty 20"
   },
   {
@@ -2980,6 +3269,7 @@
     "month": "February",
     "day": 12,
     "year": 2011,
+    "type": "",
     "tags": ""
   },
   {
@@ -2990,6 +3280,7 @@
     "month": "February",
     "day": 16,
     "year": 2011,
+    "type": "",
     "tags": ""
   },
   {
@@ -3000,6 +3291,7 @@
     "month": "February",
     "day": 17,
     "year": 2011,
+    "type": "",
     "tags": ""
   },
   {
@@ -3010,6 +3302,7 @@
     "month": "February",
     "day": 21,
     "year": 2011,
+    "type": "",
     "tags": "Marc-Andre"
   },
   {
@@ -3020,7 +3313,8 @@
     "month": "March",
     "day": 1,
     "year": 2011,
-    "tags": ""
+    "type": "OT",
+    "tags": "Overtime"
   },
   {
     "goal": 295,
@@ -3030,6 +3324,7 @@
     "month": "March",
     "day": 9,
     "year": 2011,
+    "type": "",
     "tags": ""
   },
   {
@@ -3040,6 +3335,7 @@
     "month": "March",
     "day": 9,
     "year": 2011,
+    "type": "",
     "tags": ""
   },
   {
@@ -3050,6 +3346,7 @@
     "month": "March",
     "day": 11,
     "year": 2011,
+    "type": "",
     "tags": ""
   },
   {
@@ -3060,6 +3357,7 @@
     "month": "March",
     "day": 16,
     "year": 2011,
+    "type": "",
     "tags": ""
   },
   {
@@ -3072,7 +3370,8 @@
     "month": "April",
     "day": 2,
     "year": 2011,
-    "tags": "Thirty 30"
+    "type": "OT",
+    "tags": "Thirty 30 Overtime"
   },
   {
     "goal": 300,
@@ -3084,6 +3383,7 @@
     "month": "April",
     "day": 5,
     "year": 2011,
+    "type": "",
     "tags": "300th Goal"
   },
   {
@@ -3095,6 +3395,7 @@
     "month": "April",
     "day": 6,
     "year": 2011,
+    "type": "",
     "tags": "Empty Net Last"
   },
   {
@@ -3106,6 +3407,7 @@
     "month": "October",
     "day": 13,
     "year": 2011,
+    "type": "",
     "tags": "First"
   },
   {
@@ -3116,6 +3418,7 @@
     "month": "October",
     "day": 20,
     "year": 2011,
+    "type": "",
     "tags": ""
   },
   {
@@ -3126,6 +3429,7 @@
     "month": "October",
     "day": 20,
     "year": 2011,
+    "type": "",
     "tags": ""
   },
   {
@@ -3136,6 +3440,7 @@
     "month": "October",
     "day": 29,
     "year": 2011,
+    "type": "",
     "tags": ""
   },
   {
@@ -3146,6 +3451,7 @@
     "month": "October",
     "day": 29,
     "year": 2011,
+    "type": "",
     "tags": ""
   },
   {
@@ -3156,6 +3462,7 @@
     "month": "November",
     "day": 5,
     "year": 2011,
+    "type": "",
     "tags": ""
   },
   {
@@ -3166,6 +3473,7 @@
     "month": "November",
     "day": 11,
     "year": 2011,
+    "type": "",
     "tags": ""
   },
   {
@@ -3176,6 +3484,7 @@
     "month": "November",
     "day": 25,
     "year": 2011,
+    "type": "",
     "tags": ""
   },
   {
@@ -3186,6 +3495,7 @@
     "month": "December",
     "day": 7,
     "year": 2011,
+    "type": "",
     "tags": ""
   },
   {
@@ -3196,6 +3506,7 @@
     "month": "December",
     "day": 15,
     "year": 2011,
+    "type": "",
     "tags": "Ondrej"
   },
   {
@@ -3206,6 +3517,7 @@
     "month": "December",
     "day": 20,
     "year": 2011,
+    "type": "",
     "tags": ""
   },
   {
@@ -3216,6 +3528,7 @@
     "month": "December",
     "day": 26,
     "year": 2011,
+    "type": "",
     "tags": ""
   },
   {
@@ -3226,6 +3539,7 @@
     "month": "December",
     "day": 30,
     "year": 2011,
+    "type": "",
     "tags": ""
   },
   {
@@ -3236,6 +3550,7 @@
     "month": "December",
     "day": 30,
     "year": 2011,
+    "type": "",
     "tags": ""
   },
   {
@@ -3246,6 +3561,7 @@
     "month": "December",
     "day": 31,
     "year": 2011,
+    "type": "",
     "tags": "New Years Eve"
   },
   {
@@ -3256,6 +3572,7 @@
     "month": "December",
     "day": 31,
     "year": 2011,
+    "type": "",
     "tags": "New Years Eve"
   },
   {
@@ -3266,6 +3583,7 @@
     "month": "January",
     "day": 3,
     "year": 2012,
+    "type": "",
     "tags": ""
   },
   {
@@ -3276,6 +3594,7 @@
     "month": "January",
     "day": 13,
     "year": 2012,
+    "type": "",
     "tags": ""
   },
   {
@@ -3286,6 +3605,7 @@
     "month": "January",
     "day": 18,
     "year": 2012,
+    "type": "",
     "tags": ""
   },
   {
@@ -3298,6 +3618,7 @@
     "month": "January",
     "day": 22,
     "year": 2012,
+    "type": "",
     "tags": "Marc-Andre Twenty 20"
   },
   {
@@ -3308,6 +3629,7 @@
     "month": "February",
     "day": 7,
     "year": 2012,
+    "type": "",
     "tags": ""
   },
   {
@@ -3318,6 +3640,7 @@
     "month": "February",
     "day": 7,
     "year": 2012,
+    "type": "",
     "tags": ""
   },
   {
@@ -3328,6 +3651,7 @@
     "month": "February",
     "day": 9,
     "year": 2012,
+    "type": "",
     "tags": "Ondrej"
   },
   {
@@ -3338,6 +3662,7 @@
     "month": "February",
     "day": 17,
     "year": 2012,
+    "type": "",
     "tags": "Jose Theodore"
   },
   {
@@ -3348,6 +3673,7 @@
     "month": "February",
     "day": 24,
     "year": 2012,
+    "type": "",
     "tags": ""
   },
   {
@@ -3358,7 +3684,8 @@
     "month": "February",
     "day": 28,
     "year": 2012,
-    "tags": ""
+    "type": "OT",
+    "tags": "Overtime"
   },
   {
     "goal": 328,
@@ -3368,7 +3695,8 @@
     "month": "March",
     "day": 8,
     "year": 2012,
-    "tags": ""
+    "type": "OT",
+    "tags": "Overtime"
   },
   {
     "goal": 329,
@@ -3378,6 +3706,7 @@
     "month": "March",
     "day": 13,
     "year": 2012,
+    "type": "",
     "tags": ""
   },
   {
@@ -3388,6 +3717,7 @@
     "month": "March",
     "day": 13,
     "year": 2012,
+    "type": "",
     "tags": ""
   },
   {
@@ -3399,6 +3729,7 @@
     "month": "March",
     "day": 18,
     "year": 2012,
+    "type": "",
     "tags": "Thirty 30"
   },
   {
@@ -3409,6 +3740,7 @@
     "month": "March",
     "day": 19,
     "year": 2012,
+    "type": "",
     "tags": ""
   },
   {
@@ -3419,6 +3751,7 @@
     "month": "March",
     "day": 19,
     "year": 2012,
+    "type": "",
     "tags": ""
   },
   {
@@ -3429,6 +3762,7 @@
     "month": "March",
     "day": 22,
     "year": 2012,
+    "type": "",
     "tags": ""
   },
   {
@@ -3439,6 +3773,7 @@
     "month": "March",
     "day": 23,
     "year": 2012,
+    "type": "",
     "tags": "Ondrej"
   },
   {
@@ -3449,6 +3784,7 @@
     "month": "March",
     "day": 23,
     "year": 2012,
+    "type": "",
     "tags": "Ondrej"
   },
   {
@@ -3459,6 +3795,7 @@
     "month": "March",
     "day": 25,
     "year": 2012,
+    "type": "",
     "tags": ""
   },
   {
@@ -3469,6 +3806,7 @@
     "month": "April",
     "day": 5,
     "year": 2012,
+    "type": "",
     "tags": "Jose Theodore"
   },
   {
@@ -3480,6 +3818,7 @@
     "month": "April",
     "day": 7,
     "year": 2012,
+    "type": "",
     "tags": "Last"
   },
   {
@@ -3491,6 +3830,7 @@
     "month": "January",
     "day": 27,
     "year": 2013,
+    "type": "",
     "tags": "First"
   },
   {
@@ -3501,6 +3841,7 @@
     "month": "January",
     "day": 31,
     "year": 2013,
+    "type": "",
     "tags": ""
   },
   {
@@ -3511,6 +3852,7 @@
     "month": "February",
     "day": 7,
     "year": 2013,
+    "type": "",
     "tags": "Marc-Andre"
   },
   {
@@ -3521,6 +3863,7 @@
     "month": "February",
     "day": 12,
     "year": 2013,
+    "type": "",
     "tags": "Jose Theodore"
   },
   {
@@ -3531,6 +3874,7 @@
     "month": "February",
     "day": 13,
     "year": 2013,
+    "type": "",
     "tags": ""
   },
   {
@@ -3541,6 +3885,7 @@
     "month": "February",
     "day": 23,
     "year": 2013,
+    "type": "",
     "tags": ""
   },
   {
@@ -3551,6 +3896,7 @@
     "month": "February",
     "day": 23,
     "year": 2013,
+    "type": "",
     "tags": ""
   },
   {
@@ -3563,6 +3909,7 @@
     "month": "February",
     "day": 23,
     "year": 2013,
+    "type": "",
     "tags": "Hat Trick"
   },
   {
@@ -3573,6 +3920,7 @@
     "month": "March",
     "day": 7,
     "year": 2013,
+    "type": "",
     "tags": ""
   },
   {
@@ -3583,6 +3931,7 @@
     "month": "March",
     "day": 14,
     "year": 2013,
+    "type": "",
     "tags": ""
   },
   {
@@ -3593,6 +3942,7 @@
     "month": "March",
     "day": 17,
     "year": 2013,
+    "type": "",
     "tags": ""
   },
   {
@@ -3603,6 +3953,7 @@
     "month": "March",
     "day": 19,
     "year": 2013,
+    "type": "",
     "tags": "Marc-Andre"
   },
   {
@@ -3613,6 +3964,7 @@
     "month": "March",
     "day": 21,
     "year": 2013,
+    "type": "",
     "tags": "Ondrej"
   },
   {
@@ -3623,6 +3975,7 @@
     "month": "March",
     "day": 22,
     "year": 2013,
+    "type": "",
     "tags": ""
   },
   {
@@ -3633,6 +3986,7 @@
     "month": "March",
     "day": 22,
     "year": 2013,
+    "type": "",
     "tags": ""
   },
   {
@@ -3643,6 +3997,7 @@
     "month": "March",
     "day": 24,
     "year": 2013,
+    "type": "",
     "tags": ""
   },
   {
@@ -3653,6 +4008,7 @@
     "month": "March",
     "day": 30,
     "year": 2013,
+    "type": "",
     "tags": ""
   },
   {
@@ -3663,6 +4019,7 @@
     "month": "March",
     "day": 31,
     "year": 2013,
+    "type": "",
     "tags": ""
   },
   {
@@ -3673,6 +4030,7 @@
     "month": "April",
     "day": 2,
     "year": 2013,
+    "type": "",
     "tags": ""
   },
   {
@@ -3685,6 +4043,7 @@
     "month": "April",
     "day": 2,
     "year": 2013,
+    "type": "",
     "tags": "700th Point"
   },
   {
@@ -3695,6 +4054,7 @@
     "month": "April",
     "day": 6,
     "year": 2013,
+    "type": "",
     "tags": "Markstrom"
   },
   {
@@ -3705,6 +4065,7 @@
     "month": "April",
     "day": 6,
     "year": 2013,
+    "type": "",
     "tags": "Markstrom"
   },
   {
@@ -3717,6 +4078,7 @@
     "month": "April",
     "day": 6,
     "year": 2013,
+    "type": "",
     "tags": "Markstrom Hat Trick"
   },
   {
@@ -3727,6 +4089,7 @@
     "month": "April",
     "day": 7,
     "year": 2013,
+    "type": "",
     "tags": ""
   },
   {
@@ -3737,6 +4100,7 @@
     "month": "April",
     "day": 7,
     "year": 2013,
+    "type": "",
     "tags": "Empty Net"
   },
   {
@@ -3747,6 +4111,7 @@
     "month": "April",
     "day": 9,
     "year": 2013,
+    "type": "",
     "tags": ""
   },
   {
@@ -3757,6 +4122,7 @@
     "month": "April",
     "day": 13,
     "year": 2013,
+    "type": "",
     "tags": ""
   },
   {
@@ -3767,6 +4133,7 @@
     "month": "April",
     "day": 16,
     "year": 2013,
+    "type": "",
     "tags": ""
   },
   {
@@ -3777,6 +4144,7 @@
     "month": "April",
     "day": 20,
     "year": 2013,
+    "type": "",
     "tags": ""
   },
   {
@@ -3789,6 +4157,7 @@
     "month": "April",
     "day": 20,
     "year": 2013,
+    "type": "",
     "tags": "Thirty 30"
   },
   {
@@ -3799,6 +4168,7 @@
     "month": "April",
     "day": 23,
     "year": 2013,
+    "type": "",
     "tags": "Empty Net"
   },
   {
@@ -3810,6 +4180,7 @@
     "month": "April",
     "day": 25,
     "year": 2013,
+    "type": "",
     "tags": "Last"
   },
   {
@@ -3821,6 +4192,7 @@
     "month": "October",
     "day": 1,
     "year": 2013,
+    "type": "",
     "tags": "First"
   },
   {
@@ -3831,6 +4203,7 @@
     "month": "October",
     "day": 3,
     "year": 2013,
+    "type": "",
     "tags": "Ramo"
   },
   {
@@ -3841,6 +4214,7 @@
     "month": "October",
     "day": 3,
     "year": 2013,
+    "type": "",
     "tags": "Ramo"
   },
   {
@@ -3851,6 +4225,7 @@
     "month": "October",
     "day": 5,
     "year": 2013,
+    "type": "",
     "tags": ""
   },
   {
@@ -3861,6 +4236,7 @@
     "month": "October",
     "day": 10,
     "year": 2013,
+    "type": "",
     "tags": ""
   },
   {
@@ -3871,6 +4247,7 @@
     "month": "October",
     "day": 14,
     "year": 2013,
+    "type": "",
     "tags": ""
   },
   {
@@ -3881,6 +4258,7 @@
     "month": "October",
     "day": 19,
     "year": 2013,
+    "type": "",
     "tags": ""
   },
   {
@@ -3891,6 +4269,7 @@
     "month": "October",
     "day": 22,
     "year": 2013,
+    "type": "",
     "tags": "Ondrej"
   },
   {
@@ -3901,6 +4280,7 @@
     "month": "October",
     "day": 22,
     "year": 2013,
+    "type": "",
     "tags": "Ondrej"
   },
   {
@@ -3911,6 +4291,7 @@
     "month": "October",
     "day": 24,
     "year": 2013,
+    "type": "",
     "tags": ""
   },
   {
@@ -3921,6 +4302,7 @@
     "month": "November",
     "day": 5,
     "year": 2013,
+    "type": "",
     "tags": ""
   },
   {
@@ -3931,6 +4313,7 @@
     "month": "November",
     "day": 5,
     "year": 2013,
+    "type": "",
     "tags": ""
   },
   {
@@ -3941,6 +4324,7 @@
     "month": "November",
     "day": 7,
     "year": 2013,
+    "type": "",
     "tags": ""
   },
   {
@@ -3951,7 +4335,8 @@
     "month": "November",
     "day": 12,
     "year": 2013,
-    "tags": ""
+    "type": "OT",
+    "tags": "Overtime"
   },
   {
     "goal": 386,
@@ -3961,6 +4346,7 @@
     "month": "November",
     "day": 15,
     "year": 2013,
+    "type": "",
     "tags": ""
   },
   {
@@ -3971,6 +4357,7 @@
     "month": "November",
     "day": 17,
     "year": 2013,
+    "type": "",
     "tags": "Halak"
   },
   {
@@ -3981,6 +4368,7 @@
     "month": "November",
     "day": 17,
     "year": 2013,
+    "type": "",
     "tags": "Halak"
   },
   {
@@ -3991,6 +4379,7 @@
     "month": "November",
     "day": 22,
     "year": 2013,
+    "type": "",
     "tags": ""
   },
   {
@@ -4001,6 +4390,7 @@
     "month": "November",
     "day": 22,
     "year": 2013,
+    "type": "",
     "tags": ""
   },
   {
@@ -4013,6 +4403,7 @@
     "month": "November",
     "day": 23,
     "year": 2013,
+    "type": "",
     "tags": "Twenty 20"
   },
   {
@@ -4023,7 +4414,8 @@
     "month": "November",
     "day": 30,
     "year": 2013,
-    "tags": ""
+    "type": "OT",
+    "tags": "Overtime"
   },
   {
     "goal": 393,
@@ -4033,6 +4425,7 @@
     "month": "December",
     "day": 7,
     "year": 2013,
+    "type": "",
     "tags": ""
   },
   {
@@ -4043,6 +4436,7 @@
     "month": "December",
     "day": 10,
     "year": 2013,
+    "type": "",
     "tags": ""
   },
   {
@@ -4053,6 +4447,7 @@
     "month": "December",
     "day": 10,
     "year": 2013,
+    "type": "",
     "tags": ""
   },
   {
@@ -4065,6 +4460,7 @@
     "month": "December",
     "day": 10,
     "year": 2013,
+    "type": "",
     "tags": "Hat Trick"
   },
   {
@@ -4077,6 +4473,7 @@
     "month": "December",
     "day": 10,
     "year": 2013,
+    "type": "",
     "tags": "Four 4"
   },
   {
@@ -4087,6 +4484,7 @@
     "month": "December",
     "day": 15,
     "year": 2013,
+    "type": "",
     "tags": ""
   },
   {
@@ -4097,6 +4495,7 @@
     "month": "December",
     "day": 17,
     "year": 2013,
+    "type": "",
     "tags": ""
   },
   {
@@ -4109,6 +4508,7 @@
     "month": "December",
     "day": 20,
     "year": 2013,
+    "type": "",
     "tags": "Empty Net 400th Goal"
   },
   {
@@ -4121,6 +4521,7 @@
     "month": "December",
     "day": 21,
     "year": 2013,
+    "type": "",
     "tags": "Thirty 30"
   },
   {
@@ -4131,6 +4532,7 @@
     "month": "January",
     "day": 2,
     "year": 2014,
+    "type": "",
     "tags": ""
   },
   {
@@ -4141,6 +4543,7 @@
     "month": "January",
     "day": 10,
     "year": 2014,
+    "type": "",
     "tags": ""
   },
   {
@@ -4151,6 +4554,7 @@
     "month": "January",
     "day": 14,
     "year": 2014,
+    "type": "",
     "tags": ""
   },
   {
@@ -4161,6 +4565,7 @@
     "month": "January",
     "day": 15,
     "year": 2014,
+    "type": "",
     "tags": "Marc-Andre"
   },
   {
@@ -4171,6 +4576,7 @@
     "month": "January",
     "day": 19,
     "year": 2014,
+    "type": "",
     "tags": ""
   },
   {
@@ -4181,6 +4587,7 @@
     "month": "January",
     "day": 25,
     "year": 2014,
+    "type": "",
     "tags": ""
   },
   {
@@ -4191,6 +4598,7 @@
     "month": "January",
     "day": 28,
     "year": 2014,
+    "type": "",
     "tags": ""
   },
   {
@@ -4201,6 +4609,7 @@
     "month": "January",
     "day": 28,
     "year": 2014,
+    "type": "",
     "tags": ""
   },
   {
@@ -4211,7 +4620,8 @@
     "month": "February",
     "day": 2,
     "year": 2014,
-    "tags": "Super Bowl Sunday"
+    "type": "OT",
+    "tags": "Overtime Super Bowl Sunday"
   },
   {
     "goal": 411,
@@ -4223,6 +4633,7 @@
     "month": "February",
     "day": 6,
     "year": 2014,
+    "type": "",
     "tags": "Ondrej Forty 40"
   },
   {
@@ -4233,6 +4644,7 @@
     "month": "February",
     "day": 27,
     "year": 2014,
+    "type": "",
     "tags": ""
   },
   {
@@ -4243,6 +4655,7 @@
     "month": "March",
     "day": 1,
     "year": 2014,
+    "type": "",
     "tags": ""
   },
   {
@@ -4255,6 +4668,7 @@
     "month": "March",
     "day": 1,
     "year": 2014,
+    "type": "",
     "tags": "800th Point"
   },
   {
@@ -4265,6 +4679,7 @@
     "month": "March",
     "day": 5,
     "year": 2014,
+    "type": "",
     "tags": ""
   },
   {
@@ -4275,6 +4690,7 @@
     "month": "March",
     "day": 14,
     "year": 2014,
+    "type": "",
     "tags": ""
   },
   {
@@ -4285,6 +4701,7 @@
     "month": "March",
     "day": 18,
     "year": 2014,
+    "type": "",
     "tags": ""
   },
   {
@@ -4295,6 +4712,7 @@
     "month": "March",
     "day": 25,
     "year": 2014,
+    "type": "",
     "tags": ""
   },
   {
@@ -4305,6 +4723,7 @@
     "month": "March",
     "day": 25,
     "year": 2014,
+    "type": "",
     "tags": ""
   },
   {
@@ -4315,6 +4734,7 @@
     "month": "April",
     "day": 4,
     "year": 2014,
+    "type": "",
     "tags": ""
   },
   {
@@ -4327,6 +4747,7 @@
     "month": "April",
     "day": 8,
     "year": 2014,
+    "type": "",
     "tags": "Fifty 50"
   },
   {
@@ -4338,6 +4759,7 @@
     "month": "April",
     "day": 11,
     "year": 2014,
+    "type": "",
     "tags": "Last"
   },
   {
@@ -4349,6 +4771,7 @@
     "month": "October",
     "day": 11,
     "year": 2014,
+    "type": "",
     "tags": "First"
   },
   {
@@ -4359,6 +4782,7 @@
     "month": "October",
     "day": 11,
     "year": 2014,
+    "type": "",
     "tags": ""
   },
   {
@@ -4369,6 +4793,7 @@
     "month": "October",
     "day": 14,
     "year": 2014,
+    "type": "",
     "tags": ""
   },
   {
@@ -4379,6 +4804,7 @@
     "month": "October",
     "day": 14,
     "year": 2014,
+    "type": "",
     "tags": ""
   },
   {
@@ -4389,6 +4815,7 @@
     "month": "October",
     "day": 16,
     "year": 2014,
+    "type": "",
     "tags": ""
   },
   {
@@ -4399,6 +4826,7 @@
     "month": "November",
     "day": 2,
     "year": 2014,
+    "type": "",
     "tags": ""
   },
   {
@@ -4409,6 +4837,7 @@
     "month": "November",
     "day": 11,
     "year": 2014,
+    "type": "",
     "tags": ""
   },
   {
@@ -4419,6 +4848,7 @@
     "month": "November",
     "day": 11,
     "year": 2014,
+    "type": "",
     "tags": ""
   },
   {
@@ -4429,6 +4859,7 @@
     "month": "November",
     "day": 20,
     "year": 2014,
+    "type": "",
     "tags": ""
   },
   {
@@ -4439,6 +4870,7 @@
     "month": "November",
     "day": 26,
     "year": 2014,
+    "type": "",
     "tags": "Halak"
   },
   {
@@ -4449,6 +4881,7 @@
     "month": "November",
     "day": 26,
     "year": 2014,
+    "type": "",
     "tags": "Halak"
   },
   {
@@ -4459,6 +4892,7 @@
     "month": "November",
     "day": 28,
     "year": 2014,
+    "type": "",
     "tags": ""
   },
   {
@@ -4469,6 +4903,7 @@
     "month": "December",
     "day": 9,
     "year": 2014,
+    "type": "",
     "tags": ""
   },
   {
@@ -4479,6 +4914,7 @@
     "month": "December",
     "day": 9,
     "year": 2014,
+    "type": "",
     "tags": "Empty Net"
   },
   {
@@ -4489,6 +4925,7 @@
     "month": "December",
     "day": 20,
     "year": 2014,
+    "type": "",
     "tags": ""
   },
   {
@@ -4499,6 +4936,7 @@
     "month": "December",
     "day": 23,
     "year": 2014,
+    "type": "",
     "tags": ""
   },
   {
@@ -4509,6 +4947,7 @@
     "month": "December",
     "day": 29,
     "year": 2014,
+    "type": "",
     "tags": "Halak"
   },
   {
@@ -4521,6 +4960,7 @@
     "month": "January",
     "day": 1,
     "year": 2015,
+    "type": "",
     "tags": "New Years Day Outdoor"
   },
   {
@@ -4531,6 +4971,7 @@
     "month": "January",
     "day": 4,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -4543,6 +4984,7 @@
     "month": "January",
     "day": 7,
     "year": 2015,
+    "type": "",
     "tags": "Empty Net Twenty 20"
   },
   {
@@ -4553,6 +4995,7 @@
     "month": "January",
     "day": 8,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -4563,6 +5006,7 @@
     "month": "January",
     "day": 12,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -4573,6 +5017,7 @@
     "month": "January",
     "day": 16,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -4583,6 +5028,7 @@
     "month": "January",
     "day": 16,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -4593,6 +5039,7 @@
     "month": "January",
     "day": 17,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -4603,6 +5050,7 @@
     "month": "January",
     "day": 20,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -4613,6 +5061,7 @@
     "month": "January",
     "day": 20,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -4623,6 +5072,7 @@
     "month": "January",
     "day": 28,
     "year": 2015,
+    "type": "",
     "tags": "Marc-Andre"
   },
   {
@@ -4633,6 +5083,7 @@
     "month": "January",
     "day": 28,
     "year": 2015,
+    "type": "",
     "tags": "Marc-Andre"
   },
   {
@@ -4645,6 +5096,7 @@
     "month": "February",
     "day": 1,
     "year": 2015,
+    "type": "",
     "tags": "Thirty 30 Super Bowl Sunday"
   },
   {
@@ -4655,6 +5107,7 @@
     "month": "February",
     "day": 1,
     "year": 2015,
+    "type": "",
     "tags": "Super Bowl Sunday"
   },
   {
@@ -4665,6 +5118,7 @@
     "month": "February",
     "day": 5,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -4675,6 +5129,7 @@
     "month": "February",
     "day": 8,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -4685,6 +5140,7 @@
     "month": "February",
     "day": 14,
     "year": 2015,
+    "type": "",
     "tags": "Valentine's Valentines Day"
   },
   {
@@ -4695,6 +5151,7 @@
     "month": "February",
     "day": 15,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -4705,6 +5162,7 @@
     "month": "February",
     "day": 15,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -4715,6 +5173,7 @@
     "month": "February",
     "day": 17,
     "year": 2015,
+    "type": "",
     "tags": "Marc-Andre"
   },
   {
@@ -4725,6 +5184,7 @@
     "month": "February",
     "day": 19,
     "year": 2015,
+    "type": "",
     "tags": "Ondrej"
   },
   {
@@ -4735,6 +5195,7 @@
     "month": "February",
     "day": 25,
     "year": 2015,
+    "type": "",
     "tags": "Marc-Andre"
   },
   {
@@ -4747,6 +5208,7 @@
     "month": "March",
     "day": 1,
     "year": 2015,
+    "type": "",
     "tags": "Forty 40"
   },
   {
@@ -4757,6 +5219,7 @@
     "month": "March",
     "day": 1,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -4767,6 +5230,7 @@
     "month": "March",
     "day": 3,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -4777,6 +5241,7 @@
     "month": "March",
     "day": 3,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -4787,6 +5252,7 @@
     "month": "March",
     "day": 3,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -4797,6 +5263,7 @@
     "month": "March",
     "day": 11,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -4807,6 +5274,7 @@
     "month": "March",
     "day": 19,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -4817,6 +5285,7 @@
     "month": "March",
     "day": 19,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -4827,6 +5296,7 @@
     "month": "March",
     "day": 29,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -4837,6 +5307,7 @@
     "month": "March",
     "day": 29,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -4849,6 +5320,7 @@
     "month": "March",
     "day": 31,
     "year": 2015,
+    "type": "",
     "tags": "Fifty 50"
   },
   {
@@ -4859,6 +5331,7 @@
     "month": "April",
     "day": 2,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -4869,6 +5342,7 @@
     "month": "April",
     "day": 2,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -4880,6 +5354,7 @@
     "month": "April",
     "day": 11,
     "year": 2015,
+    "type": "",
     "tags": "Last"
   },
   {
@@ -4891,6 +5366,7 @@
     "month": "October",
     "day": 10,
     "year": 2015,
+    "type": "",
     "tags": "First"
   },
   {
@@ -4901,6 +5377,7 @@
     "month": "October",
     "day": 15,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -4911,6 +5388,7 @@
     "month": "October",
     "day": 17,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -4923,6 +5401,7 @@
     "month": "October",
     "day": 20,
     "year": 2015,
+    "type": "",
     "tags": "Ramo 900th Point"
   },
   {
@@ -4933,6 +5412,7 @@
     "month": "October",
     "day": 22,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -4943,6 +5423,7 @@
     "month": "November",
     "day": 3,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -4953,6 +5434,7 @@
     "month": "November",
     "day": 5,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -4963,6 +5445,7 @@
     "month": "November",
     "day": 7,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -4973,6 +5456,7 @@
     "month": "November",
     "day": 19,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -4983,6 +5467,7 @@
     "month": "November",
     "day": 21,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -4993,6 +5478,7 @@
     "month": "November",
     "day": 25,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -5003,6 +5489,7 @@
     "month": "November",
     "day": 27,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -5013,6 +5500,7 @@
     "month": "December",
     "day": 8,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -5023,6 +5511,7 @@
     "month": "December",
     "day": 10,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -5033,6 +5522,7 @@
     "month": "December",
     "day": 18,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -5043,6 +5533,7 @@
     "month": "December",
     "day": 18,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -5053,6 +5544,7 @@
     "month": "December",
     "day": 20,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -5063,6 +5555,7 @@
     "month": "December",
     "day": 28,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -5073,6 +5566,7 @@
     "month": "December",
     "day": 30,
     "year": 2015,
+    "type": "",
     "tags": ""
   },
   {
@@ -5085,6 +5579,7 @@
     "month": "December",
     "day": 30,
     "year": 2015,
+    "type": "",
     "tags": "Empty Net Twenty 20"
   },
   {
@@ -5095,6 +5590,7 @@
     "month": "December",
     "day": 31,
     "year": 2015,
+    "type": "",
     "tags": "New Years Eve"
   },
   {
@@ -5105,6 +5601,7 @@
     "month": "January",
     "day": 7,
     "year": 2016,
+    "type": "",
     "tags": "Halak"
   },
   {
@@ -5115,6 +5612,7 @@
     "month": "January",
     "day": 9,
     "year": 2016,
+    "type": "",
     "tags": ""
   },
   {
@@ -5125,7 +5623,8 @@
     "month": "January",
     "day": 9,
     "year": 2016,
-    "tags": ""
+    "type": "OT",
+    "tags": "Overtime"
   },
   {
     "goal": 500,
@@ -5137,6 +5636,7 @@
     "month": "January",
     "day": 10,
     "year": 2016,
+    "type": "",
     "tags": "500th Goal"
   },
   {
@@ -5147,6 +5647,7 @@
     "month": "January",
     "day": 10,
     "year": 2016,
+    "type": "",
     "tags": ""
   },
   {
@@ -5157,6 +5658,7 @@
     "month": "January",
     "day": 17,
     "year": 2016,
+    "type": "",
     "tags": ""
   },
   {
@@ -5169,6 +5671,7 @@
     "month": "January",
     "day": 19,
     "year": 2016,
+    "type": "",
     "tags": "Peter Bondra"
   },
   {
@@ -5179,6 +5682,7 @@
     "month": "February",
     "day": 4,
     "year": 2016,
+    "type": "",
     "tags": "Halak"
   },
   {
@@ -5191,6 +5695,7 @@
     "month": "February",
     "day": 7,
     "year": 2016,
+    "type": "",
     "tags": "Thirty 30 Super Bowl Sunday"
   },
   {
@@ -5201,6 +5706,7 @@
     "month": "February",
     "day": 9,
     "year": 2016,
+    "type": "",
     "tags": "Empty Net"
   },
   {
@@ -5213,6 +5719,7 @@
     "month": "February",
     "day": 11,
     "year": 2016,
+    "type": "",
     "tags": "Jean Beliveau"
   },
   {
@@ -5223,6 +5730,7 @@
     "month": "February",
     "day": 11,
     "year": 2016,
+    "type": "",
     "tags": ""
   },
   {
@@ -5235,6 +5743,7 @@
     "month": "February",
     "day": 11,
     "year": 2016,
+    "type": "",
     "tags": "Hat Trick"
   },
   {
@@ -5245,6 +5754,7 @@
     "month": "February",
     "day": 13,
     "year": 2016,
+    "type": "",
     "tags": ""
   },
   {
@@ -5255,6 +5765,7 @@
     "month": "February",
     "day": 18,
     "year": 2016,
+    "type": "",
     "tags": ""
   },
   {
@@ -5267,6 +5778,7 @@
     "month": "February",
     "day": 18,
     "year": 2016,
+    "type": "",
     "tags": "Gilbert Perreault"
   },
   {
@@ -5279,6 +5791,7 @@
     "month": "February",
     "day": 20,
     "year": 2016,
+    "type": "",
     "tags": "Jeremy Roenick"
   },
   {
@@ -5289,6 +5802,7 @@
     "month": "February",
     "day": 22,
     "year": 2016,
+    "type": "",
     "tags": ""
   },
   {
@@ -5301,6 +5815,7 @@
     "month": "February",
     "day": 26,
     "year": 2016,
+    "type": "",
     "tags": "Forty 40"
   },
   {
@@ -5311,6 +5826,7 @@
     "month": "March",
     "day": 2,
     "year": 2016,
+    "type": "",
     "tags": ""
   },
   {
@@ -5321,7 +5837,8 @@
     "month": "March",
     "day": 15,
     "year": 2016,
-    "tags": ""
+    "type": "OT",
+    "tags": "Overtime"
   },
   {
     "goal": 518,
@@ -5333,6 +5850,7 @@
     "month": "March",
     "day": 22,
     "year": 2016,
+    "type": "",
     "tags": "Dale Hawerchuk"
   },
   {
@@ -5343,6 +5861,7 @@
     "month": "March",
     "day": 30,
     "year": 2016,
+    "type": "",
     "tags": ""
   },
   {
@@ -5353,6 +5872,7 @@
     "month": "April",
     "day": 1,
     "year": 2016,
+    "type": "",
     "tags": "Fools Day"
   },
   {
@@ -5363,6 +5883,7 @@
     "month": "April",
     "day": 5,
     "year": 2016,
+    "type": "",
     "tags": ""
   },
   {
@@ -5375,6 +5896,7 @@
     "month": "April",
     "day": 5,
     "year": 2016,
+    "type": "",
     "tags": "Pat Verbeek"
   },
   {
@@ -5385,6 +5907,7 @@
     "month": "April",
     "day": 9,
     "year": 2016,
+    "type": "",
     "tags": ""
   },
   {
@@ -5397,6 +5920,7 @@
     "month": "April",
     "day": 9,
     "year": 2016,
+    "type": "",
     "tags": "Bryan Trottier"
   },
   {
@@ -5409,6 +5933,7 @@
     "month": "April",
     "day": 9,
     "year": 2016,
+    "type": "",
     "tags": "Last Fifty 50"
   },
   {
@@ -5420,6 +5945,7 @@
     "month": "October",
     "day": 18,
     "year": 2016,
+    "type": "",
     "tags": "First"
   },
   {
@@ -5430,6 +5956,7 @@
     "month": "October",
     "day": 20,
     "year": 2016,
+    "type": "",
     "tags": ""
   },
   {
@@ -5440,6 +5967,7 @@
     "month": "October",
     "day": 22,
     "year": 2016,
+    "type": "",
     "tags": ""
   },
   {
@@ -5450,6 +5978,7 @@
     "month": "October",
     "day": 26,
     "year": 2016,
+    "type": "",
     "tags": ""
   },
   {
@@ -5460,6 +5989,7 @@
     "month": "November",
     "day": 3,
     "year": 2016,
+    "type": "",
     "tags": ""
   },
   {
@@ -5470,7 +6000,8 @@
     "month": "November",
     "day": 3,
     "year": 2016,
-    "tags": ""
+    "type": "OT",
+    "tags": "Overtime"
   },
   {
     "goal": 532,
@@ -5480,6 +6011,7 @@
     "month": "November",
     "day": 5,
     "year": 2016,
+    "type": "",
     "tags": ""
   },
   {
@@ -5490,6 +6022,7 @@
     "month": "November",
     "day": 16,
     "year": 2016,
+    "type": "",
     "tags": "Marc-Andre"
   },
   {
@@ -5500,6 +6033,7 @@
     "month": "November",
     "day": 20,
     "year": 2016,
+    "type": "",
     "tags": ""
   },
   {
@@ -5510,6 +6044,7 @@
     "month": "November",
     "day": 23,
     "year": 2016,
+    "type": "",
     "tags": ""
   },
   {
@@ -5520,6 +6055,7 @@
     "month": "November",
     "day": 23,
     "year": 2016,
+    "type": "",
     "tags": ""
   },
   {
@@ -5532,6 +6068,7 @@
     "month": "November",
     "day": 23,
     "year": 2016,
+    "type": "",
     "tags": "Hat Trick"
   },
   {
@@ -5544,6 +6081,7 @@
     "month": "December",
     "day": 11,
     "year": 2016,
+    "type": "",
     "tags": "Markstrom Keith Tkachuk"
   },
   {
@@ -5554,6 +6092,7 @@
     "month": "December",
     "day": 16,
     "year": 2016,
+    "type": "",
     "tags": ""
   },
   {
@@ -5564,6 +6103,7 @@
     "month": "December",
     "day": 23,
     "year": 2016,
+    "type": "",
     "tags": ""
   },
   {
@@ -5576,6 +6116,7 @@
     "month": "December",
     "day": 27,
     "year": 2016,
+    "type": "",
     "tags": "Halak Stan Makita"
   },
   {
@@ -5586,6 +6127,7 @@
     "month": "December",
     "day": 31,
     "year": 2016,
+    "type": "",
     "tags": "New Years Eve"
   },
   {
@@ -5596,7 +6138,8 @@
     "month": "January",
     "day": 3,
     "year": 2017,
-    "tags": ""
+    "type": "OT",
+    "tags": "Overtime"
   },
   {
     "goal": 544,
@@ -5608,6 +6151,7 @@
     "month": "January",
     "day": 9,
     "year": 2017,
+    "type": "",
     "tags": "Maurice Richard"
   },
   {
@@ -5620,6 +6164,7 @@
     "month": "January",
     "day": 11,
     "year": 2017,
+    "type": "",
     "tags": "Marc-Andre 1000th Point"
   },
   {
@@ -5630,6 +6175,7 @@
     "month": "January",
     "day": 11,
     "year": 2017,
+    "type": "",
     "tags": "Marc-Andre"
   },
   {
@@ -5640,6 +6186,7 @@
     "month": "January",
     "day": 21,
     "year": 2017,
+    "type": "",
     "tags": ""
   },
   {
@@ -5650,6 +6197,7 @@
     "month": "January",
     "day": 26,
     "year": 2017,
+    "type": "",
     "tags": ""
   },
   {
@@ -5660,6 +6208,7 @@
     "month": "January",
     "day": 31,
     "year": 2017,
+    "type": "",
     "tags": ""
   },
   {
@@ -5670,6 +6219,7 @@
     "month": "February",
     "day": 1,
     "year": 2017,
+    "type": "",
     "tags": ""
   },
   {
@@ -5680,6 +6230,7 @@
     "month": "February",
     "day": 7,
     "year": 2017,
+    "type": "",
     "tags": ""
   },
   {
@@ -5690,6 +6241,7 @@
     "month": "February",
     "day": 19,
     "year": 2017,
+    "type": "",
     "tags": ""
   },
   {
@@ -5700,6 +6252,7 @@
     "month": "March",
     "day": 14,
     "year": 2017,
+    "type": "",
     "tags": ""
   },
   {
@@ -5710,6 +6263,7 @@
     "month": "March",
     "day": 21,
     "year": 2017,
+    "type": "",
     "tags": ""
   },
   {
@@ -5722,6 +6276,7 @@
     "month": "March",
     "day": 25,
     "year": 2017,
+    "type": "",
     "tags": "Thirty 30"
   },
   {
@@ -5734,6 +6289,7 @@
     "month": "March",
     "day": 28,
     "year": 2017,
+    "type": "",
     "tags": "Johnny Bucyk"
   },
   {
@@ -5744,6 +6300,7 @@
     "month": "March",
     "day": 28,
     "year": 2017,
+    "type": "",
     "tags": ""
   },
   {
@@ -5756,6 +6313,7 @@
     "month": "March",
     "day": 28,
     "year": 2017,
+    "type": "",
     "tags": "Hat Trick Last"
   },
   {
@@ -5767,6 +6325,7 @@
     "month": "October",
     "day": 5,
     "year": 2017,
+    "type": "",
     "tags": "First"
   },
   {
@@ -5779,6 +6338,7 @@
     "month": "October",
     "day": 5,
     "year": 2017,
+    "type": "",
     "tags": "Guy Lafleur"
   },
   {
@@ -5791,6 +6351,7 @@
     "month": "October",
     "day": 5,
     "year": 2017,
+    "type": "",
     "tags": "Hat Trick"
   },
   {
@@ -5801,6 +6362,7 @@
     "month": "October",
     "day": 7,
     "year": 2017,
+    "type": "",
     "tags": ""
   },
   {
@@ -5811,6 +6373,7 @@
     "month": "October",
     "day": 7,
     "year": 2017,
+    "type": "",
     "tags": ""
   },
   {
@@ -5823,6 +6386,7 @@
     "month": "October",
     "day": 7,
     "year": 2017,
+    "type": "",
     "tags": "Hat Trick"
   },
   {
@@ -5835,6 +6399,7 @@
     "month": "October",
     "day": 7,
     "year": 2017,
+    "type": "",
     "tags": "Four 4"
   },
   {
@@ -5847,6 +6412,7 @@
     "month": "October",
     "day": 11,
     "year": 2017,
+    "type": "",
     "tags": "Patrick Marleau"
   },
   {
@@ -5857,6 +6423,7 @@
     "month": "October",
     "day": 13,
     "year": 2017,
+    "type": "",
     "tags": ""
   },
   {
@@ -5867,7 +6434,8 @@
     "month": "October",
     "day": 20,
     "year": 2017,
-    "tags": "Mrazek"
+    "type": "OT",
+    "tags": "Mrazek Overtime"
   },
   {
     "goal": 569,
@@ -5877,6 +6445,7 @@
     "month": "November",
     "day": 4,
     "year": 2017,
+    "type": "",
     "tags": ""
   },
   {
@@ -5887,6 +6456,7 @@
     "month": "November",
     "day": 6,
     "year": 2017,
+    "type": "",
     "tags": ""
   },
   {
@@ -5897,6 +6467,7 @@
     "month": "November",
     "day": 7,
     "year": 2017,
+    "type": "",
     "tags": ""
   },
   {
@@ -5907,6 +6478,7 @@
     "month": "November",
     "day": 22,
     "year": 2017,
+    "type": "",
     "tags": ""
   },
   {
@@ -5919,6 +6491,7 @@
     "month": "November",
     "day": 24,
     "year": 2017,
+    "type": "",
     "tags": "Mike Bossy"
   },
   {
@@ -5929,6 +6502,7 @@
     "month": "November",
     "day": 30,
     "year": 2017,
+    "type": "",
     "tags": ""
   },
   {
@@ -5939,6 +6513,7 @@
     "month": "November",
     "day": 30,
     "year": 2017,
+    "type": "",
     "tags": ""
   },
   {
@@ -5951,6 +6526,7 @@
     "month": "November",
     "day": 30,
     "year": 2017,
+    "type": "",
     "tags": "Empty Net Hat Trick"
   },
   {
@@ -5963,6 +6539,7 @@
     "month": "December",
     "day": 2,
     "year": 2017,
+    "type": "",
     "tags": ""
   },
   {
@@ -5975,6 +6552,7 @@
     "month": "December",
     "day": 4,
     "year": 2017,
+    "type": "",
     "tags": "Twenty 20"
   },
   {
@@ -5985,6 +6563,7 @@
     "month": "December",
     "day": 6,
     "year": 2017,
+    "type": "",
     "tags": ""
   },
   {
@@ -5995,6 +6574,7 @@
     "month": "December",
     "day": 14,
     "year": 2017,
+    "type": "",
     "tags": "Empty Net"
   },
   {
@@ -6005,7 +6585,8 @@
     "month": "December",
     "day": 16,
     "year": 2017,
-    "tags": ""
+    "type": "OT",
+    "tags": "Overtime"
   },
   {
     "goal": 582,
@@ -6015,6 +6596,7 @@
     "month": "December",
     "day": 28,
     "year": 2017,
+    "type": "",
     "tags": ""
   },
   {
@@ -6025,6 +6607,7 @@
     "month": "January",
     "day": 2,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6035,7 +6618,8 @@
     "month": "January",
     "day": 2,
     "year": 2018,
-    "tags": ""
+    "type": "OT",
+    "tags": "Overtime"
   },
   {
     "goal": 585,
@@ -6045,6 +6629,7 @@
     "month": "January",
     "day": 7,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6055,6 +6640,7 @@
     "month": "January",
     "day": 12,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6065,6 +6651,7 @@
     "month": "January",
     "day": 21,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6077,6 +6664,7 @@
     "month": "January",
     "day": 25,
     "year": 2018,
+    "type": "",
     "tags": "Thirty 30"
   },
   {
@@ -6087,6 +6675,7 @@
     "month": "February",
     "day": 2,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6097,6 +6686,7 @@
     "month": "February",
     "day": 2,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6107,6 +6697,7 @@
     "month": "February",
     "day": 11,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6117,6 +6708,7 @@
     "month": "February",
     "day": 15,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6127,6 +6719,7 @@
     "month": "February",
     "day": 19,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6137,6 +6730,7 @@
     "month": "February",
     "day": 20,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6147,6 +6741,7 @@
     "month": "February",
     "day": 24,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6157,6 +6752,7 @@
     "month": "February",
     "day": 24,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6167,6 +6763,7 @@
     "month": "February",
     "day": 26,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6179,6 +6776,7 @@
     "month": "March",
     "day": 3,
     "year": 2018,
+    "type": "",
     "tags": "Outdoor"
   },
   {
@@ -6189,6 +6787,7 @@
     "month": "March",
     "day": 12,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6201,6 +6800,7 @@
     "month": "March",
     "day": 12,
     "year": 2018,
+    "type": "",
     "tags": "600th Goal"
   },
   {
@@ -6213,6 +6813,7 @@
     "month": "March",
     "day": 18,
     "year": 2018,
+    "type": "",
     "tags": "Mrazek Jari Kurri"
   },
   {
@@ -6223,6 +6824,7 @@
     "month": "March",
     "day": 20,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6233,6 +6835,7 @@
     "month": "March",
     "day": 26,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6243,6 +6846,7 @@
     "month": "April",
     "day": 2,
     "year": 2018,
+    "type": "",
     "tags": "Empty Net"
   },
   {
@@ -6253,6 +6857,7 @@
     "month": "April",
     "day": 5,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6263,6 +6868,7 @@
     "month": "April",
     "day": 7,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6274,6 +6880,7 @@
     "month": "April",
     "day": 7,
     "year": 2018,
+    "type": "",
     "tags": "Last"
   },
   {
@@ -6286,6 +6893,7 @@
     "month": "October",
     "day": 3,
     "year": 2018,
+    "type": "",
     "tags": "First Dino Ciccarelli"
   },
   {
@@ -6296,6 +6904,7 @@
     "month": "October",
     "day": 4,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6308,6 +6917,7 @@
     "month": "October",
     "day": 10,
     "year": 2018,
+    "type": "",
     "tags": "Marc-Andre Bobby Hull"
   },
   {
@@ -6318,6 +6928,7 @@
     "month": "October",
     "day": 10,
     "year": 2018,
+    "type": "",
     "tags": "Marc-Andre"
   },
   {
@@ -6328,6 +6939,7 @@
     "month": "October",
     "day": 17,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6338,6 +6950,7 @@
     "month": "October",
     "day": 17,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6348,6 +6961,7 @@
     "month": "October",
     "day": 22,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6358,6 +6972,7 @@
     "month": "October",
     "day": 22,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6368,6 +6983,7 @@
     "month": "November",
     "day": 1,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6378,6 +6994,7 @@
     "month": "November",
     "day": 1,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6388,6 +7005,7 @@
     "month": "November",
     "day": 5,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6398,6 +7016,7 @@
     "month": "November",
     "day": 7,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6408,6 +7027,7 @@
     "month": "November",
     "day": 16,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6418,6 +7038,7 @@
     "month": "November",
     "day": 19,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6428,6 +7049,7 @@
     "month": "November",
     "day": 19,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6438,6 +7060,7 @@
     "month": "November",
     "day": 23,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6448,6 +7071,7 @@
     "month": "November",
     "day": 24,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6460,6 +7084,7 @@
     "month": "November",
     "day": 26,
     "year": 2018,
+    "type": "",
     "tags": "Empty Net Jarome Iginla Joe Sakic"
   },
   {
@@ -6470,6 +7095,7 @@
     "month": "November",
     "day": 30,
     "year": 2018,
+    "type": "",
     "tags": "Empty Net"
   },
   {
@@ -6482,6 +7108,7 @@
     "month": "December",
     "day": 4,
     "year": 2018,
+    "type": "",
     "tags": "Marc-Andre Twenty 20"
   },
   {
@@ -6492,6 +7119,7 @@
     "month": "December",
     "day": 6,
     "year": 2018,
+    "type": "",
     "tags": "Empty Net"
   },
   {
@@ -6502,6 +7130,7 @@
     "month": "December",
     "day": 8,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6512,6 +7141,7 @@
     "month": "December",
     "day": 11,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6522,6 +7152,7 @@
     "month": "December",
     "day": 11,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6534,6 +7165,7 @@
     "month": "December",
     "day": 11,
     "year": 2018,
+    "type": "",
     "tags": "Hat Trick"
   },
   {
@@ -6544,6 +7176,7 @@
     "month": "December",
     "day": 14,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6554,6 +7187,7 @@
     "month": "December",
     "day": 14,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6566,6 +7200,7 @@
     "month": "December",
     "day": 14,
     "year": 2018,
+    "type": "",
     "tags": "Hat Trick"
   },
   {
@@ -6576,6 +7211,7 @@
     "month": "December",
     "day": 15,
     "year": 2018,
+    "type": "",
     "tags": ""
   },
   {
@@ -6588,6 +7224,7 @@
     "month": "January",
     "day": 3,
     "year": 2019,
+    "type": "",
     "tags": "Thirty 30"
   },
   {
@@ -6598,6 +7235,7 @@
     "month": "January",
     "day": 10,
     "year": 2019,
+    "type": "",
     "tags": "Halak"
   },
   {
@@ -6608,6 +7246,7 @@
     "month": "January",
     "day": 10,
     "year": 2019,
+    "type": "",
     "tags": "Empty Net"
   },
   {
@@ -6620,6 +7259,7 @@
     "month": "January",
     "day": 14,
     "year": 2019,
+    "type": "",
     "tags": "Dave Andreychuk"
   },
   {
@@ -6630,6 +7270,7 @@
     "month": "January",
     "day": 22,
     "year": 2019,
+    "type": "",
     "tags": ""
   },
   {
@@ -6640,6 +7281,7 @@
     "month": "January",
     "day": 22,
     "year": 2019,
+    "type": "",
     "tags": ""
   },
   {
@@ -6652,6 +7294,7 @@
     "month": "January",
     "day": 22,
     "year": 2019,
+    "type": "",
     "tags": "Hat Trick"
   },
   {
@@ -6662,6 +7305,7 @@
     "month": "January",
     "day": 23,
     "year": 2019,
+    "type": "",
     "tags": ""
   },
   {
@@ -6672,6 +7316,7 @@
     "month": "February",
     "day": 11,
     "year": 2019,
+    "type": "",
     "tags": ""
   },
   {
@@ -6682,6 +7327,7 @@
     "month": "February",
     "day": 14,
     "year": 2019,
+    "type": "",
     "tags": "Valentine's Valentines Day"
   },
   {
@@ -6694,6 +7340,7 @@
     "month": "February",
     "day": 17,
     "year": 2019,
+    "type": "",
     "tags": "Forty"
   },
   {
@@ -6704,6 +7351,7 @@
     "month": "February",
     "day": 18,
     "year": 2019,
+    "type": "",
     "tags": ""
   },
   {
@@ -6714,6 +7362,7 @@
     "month": "February",
     "day": 18,
     "year": 2019,
+    "type": "",
     "tags": ""
   },
   {
@@ -6724,6 +7373,7 @@
     "month": "February",
     "day": 21,
     "year": 2019,
+    "type": "",
     "tags": ""
   },
   {
@@ -6734,6 +7384,7 @@
     "month": "February",
     "day": 23,
     "year": 2019,
+    "type": "",
     "tags": ""
   },
   {
@@ -6744,6 +7395,7 @@
     "month": "March",
     "day": 1,
     "year": 2019,
+    "type": "",
     "tags": ""
   },
   {
@@ -6754,6 +7406,7 @@
     "month": "March",
     "day": 6,
     "year": 2019,
+    "type": "",
     "tags": ""
   },
   {
@@ -6764,6 +7417,7 @@
     "month": "March",
     "day": 16,
     "year": 2019,
+    "type": "",
     "tags": ""
   },
   {
@@ -6774,6 +7428,7 @@
     "month": "March",
     "day": 16,
     "year": 2019,
+    "type": "",
     "tags": ""
   },
   {
@@ -6786,6 +7441,7 @@
     "month": "March",
     "day": 26,
     "year": 2019,
+    "type": "",
     "tags": "Mrazek Brendan Shanahan"
   },
   {
@@ -6798,6 +7454,7 @@
     "month": "March",
     "day": 30,
     "year": 2019,
+    "type": "",
     "tags": "Fifty 50"
   },
   {
@@ -6809,6 +7466,7 @@
     "month": "March",
     "day": 30,
     "year": 2019,
+    "type": "",
     "tags": "Last"
   },
   {
@@ -6820,6 +7478,7 @@
     "month": "October",
     "day": 2,
     "year": 2019,
+    "type": "",
     "tags": "First"
   },
   {
@@ -6830,6 +7489,7 @@
     "month": "October",
     "day": 10,
     "year": 2019,
+    "type": "",
     "tags": ""
   },
   {
@@ -6840,6 +7500,7 @@
     "month": "October",
     "day": 10,
     "year": 2019,
+    "type": "",
     "tags": ""
   },
   {
@@ -6850,6 +7511,7 @@
     "month": "October",
     "day": 12,
     "year": 2019,
+    "type": "",
     "tags": "Empty Net"
   },
   {
@@ -6860,6 +7522,7 @@
     "month": "October",
     "day": 14,
     "year": 2019,
+    "type": "",
     "tags": ""
   },
   {
@@ -6870,6 +7533,7 @@
     "month": "October",
     "day": 20,
     "year": 2019,
+    "type": "",
     "tags": ""
   },
   {
@@ -6880,6 +7544,7 @@
     "month": "October",
     "day": 22,
     "year": 2019,
+    "type": "",
     "tags": ""
   },
   {
@@ -6890,6 +7555,7 @@
     "month": "October",
     "day": 24,
     "year": 2019,
+    "type": "",
     "tags": ""
   },
   {
@@ -6900,6 +7566,7 @@
     "month": "October",
     "day": 24,
     "year": 2019,
+    "type": "",
     "tags": ""
   },
   {
@@ -6912,6 +7579,7 @@
     "month": "October",
     "day": 29,
     "year": 2019,
+    "type": "",
     "tags": "Luc Robitaille"
   },
   {
@@ -6922,7 +7590,8 @@
     "month": "October",
     "day": 29,
     "year": 2019,
-    "tags": ""
+    "type": "OT",
+    "tags": "Overtime"
   },
   {
     "goal": 670,
@@ -6932,6 +7601,7 @@
     "month": "November",
     "day": 7,
     "year": 2019,
+    "type": "",
     "tags": ""
   },
   {
@@ -6942,6 +7612,7 @@
     "month": "November",
     "day": 7,
     "year": 2019,
+    "type": "",
     "tags": ""
   },
   {
@@ -6952,6 +7623,7 @@
     "month": "November",
     "day": 15,
     "year": 2019,
+    "type": "",
     "tags": ""
   },
   {
@@ -6962,6 +7634,7 @@
     "month": "November",
     "day": 18,
     "year": 2019,
+    "type": "",
     "tags": ""
   },
   {
@@ -6972,6 +7645,7 @@
     "month": "November",
     "day": 27,
     "year": 2019,
+    "type": "",
     "tags": ""
   },
   {
@@ -6982,6 +7656,7 @@
     "month": "November",
     "day": 29,
     "year": 2019,
+    "type": "",
     "tags": ""
   },
   {
@@ -6992,6 +7667,7 @@
     "month": "November",
     "day": 30,
     "year": 2019,
+    "type": "",
     "tags": ""
   },
   {
@@ -7002,6 +7678,7 @@
     "month": "November",
     "day": 30,
     "year": 2019,
+    "type": "",
     "tags": "Empty Net"
   },
   {
@@ -7014,6 +7691,7 @@
     "month": "November",
     "day": 30,
     "year": 2019,
+    "type": "",
     "tags": "Empty Net Hat Trick"
   },
   {
@@ -7024,6 +7702,7 @@
     "month": "December",
     "day": 9,
     "year": 2019,
+    "type": "",
     "tags": ""
   },
   {
@@ -7034,6 +7713,7 @@
     "month": "December",
     "day": 20,
     "year": 2019,
+    "type": "",
     "tags": ""
   },
   {
@@ -7044,6 +7724,7 @@
     "month": "December",
     "day": 23,
     "year": 2019,
+    "type": "",
     "tags": ""
   },
   {
@@ -7054,6 +7735,7 @@
     "month": "December",
     "day": 28,
     "year": 2019,
+    "type": "",
     "tags": "Mrazek"
   },
   {
@@ -7064,6 +7746,7 @@
     "month": "January",
     "day": 7,
     "year": 2020,
+    "type": "",
     "tags": ""
   },
   {
@@ -7076,6 +7759,7 @@
     "month": "January",
     "day": 7,
     "year": 2020,
+    "type": "",
     "tags": "Hogberg Teemu Selanne"
   },
   {
@@ -7086,6 +7770,7 @@
     "month": "January",
     "day": 13,
     "year": 2020,
+    "type": "",
     "tags": "Mrazek"
   },
   {
@@ -7096,6 +7781,7 @@
     "month": "January",
     "day": 13,
     "year": 2020,
+    "type": "",
     "tags": "Mrazek"
   },
   {
@@ -7106,6 +7792,7 @@
     "month": "January",
     "day": 16,
     "year": 2020,
+    "type": "",
     "tags": ""
   },
   {
@@ -7118,6 +7805,7 @@
     "month": "January",
     "day": 16,
     "year": 2020,
+    "type": "",
     "tags": "Thirty 30"
   },
   {
@@ -7130,6 +7818,7 @@
     "month": "January",
     "day": 16,
     "year": 2020,
+    "type": "",
     "tags": "Hat Trick"
   },
   {
@@ -7142,6 +7831,7 @@
     "month": "January",
     "day": 18,
     "year": 2020,
+    "type": "",
     "tags": "Mario Lemieux"
   },
   {
@@ -7153,6 +7843,7 @@
     "month": "January",
     "day": 18,
     "year": 2020,
+    "type": "",
     "tags": ""
   },
   {
@@ -7165,6 +7856,7 @@
     "month": "January",
     "day": 18,
     "year": 2020,
+    "type": "",
     "tags": "Empty Net Steve Yzerman"
   },
   {
@@ -7175,6 +7867,7 @@
     "month": "January",
     "day": 29,
     "year": 2020,
+    "type": "",
     "tags": ""
   },
   {
@@ -7187,6 +7880,7 @@
     "month": "January",
     "day": 31,
     "year": 2020,
+    "type": "",
     "tags": "Hogberg Mark Messier"
   },
   {
@@ -7197,6 +7891,7 @@
     "month": "January",
     "day": 31,
     "year": 2020,
+    "type": "",
     "tags": "Empty Net"
   },
   {
@@ -7207,6 +7902,7 @@
     "month": "February",
     "day": 4,
     "year": 2020,
+    "type": "",
     "tags": ""
   },
   {
@@ -7217,6 +7913,7 @@
     "month": "February",
     "day": 4,
     "year": 2020,
+    "type": "",
     "tags": ""
   },
   {
@@ -7229,6 +7926,7 @@
     "month": "February",
     "day": 4,
     "year": 2020,
+    "type": "",
     "tags": "Empty Net Hat Trick"
   },
   {
@@ -7239,6 +7937,7 @@
     "month": "February",
     "day": 20,
     "year": 2020,
+    "type": "",
     "tags": ""
   },
   {
@@ -7251,6 +7950,7 @@
     "month": "February",
     "day": 22,
     "year": 2020,
+    "type": "",
     "tags": "700th Goal"
   },
   {
@@ -7261,6 +7961,7 @@
     "month": "February",
     "day": 25,
     "year": 2020,
+    "type": "",
     "tags": ""
   },
   {
@@ -7271,6 +7972,7 @@
     "month": "March",
     "day": 1,
     "year": 2020,
+    "type": "",
     "tags": ""
   },
   {
@@ -7281,6 +7983,7 @@
     "month": "March",
     "day": 1,
     "year": 2020,
+    "type": "",
     "tags": ""
   },
   {
@@ -7291,6 +7994,7 @@
     "month": "March",
     "day": 5,
     "year": 2020,
+    "type": "",
     "tags": ""
   },
   {
@@ -7301,6 +8005,7 @@
     "month": "March",
     "day": 5,
     "year": 2020,
+    "type": "",
     "tags": ""
   },
   {
@@ -7312,6 +8017,7 @@
     "month": "March",
     "day": 9,
     "year": 2020,
+    "type": "",
     "tags": "Last"
   },
   {
@@ -7323,6 +8029,7 @@
     "month": "January",
     "day": 17,
     "year": 2021,
+    "type": "",
     "tags": "First"
   },
   {
@@ -7335,7 +8042,8 @@
     "month": "January",
     "day": 30,
     "year": 2021,
-    "tags": "Mike Gartner"
+    "type": "OT",
+    "tags": "Mike Gartner Overtime"
   },
   {
     "goal": 709,
@@ -7345,6 +8053,7 @@
     "month": "February",
     "day": 4,
     "year": 2021,
+    "type": "",
     "tags": ""
   },
   {
@@ -7355,6 +8064,7 @@
     "month": "February",
     "day": 7,
     "year": 2021,
+    "type": "",
     "tags": "Super Bowl Sunday"
   },
   {
@@ -7365,6 +8075,7 @@
     "month": "February",
     "day": 7,
     "year": 2021,
+    "type": "",
     "tags": "Super Bowl Sunday"
   },
   {
@@ -7375,6 +8086,7 @@
     "month": "February",
     "day": 21,
     "year": 2021,
+    "type": "",
     "tags": ""
   },
   {
@@ -7385,6 +8097,7 @@
     "month": "February",
     "day": 28,
     "year": 2021,
+    "type": "",
     "tags": ""
   },
   {
@@ -7395,6 +8108,7 @@
     "month": "March",
     "day": 7,
     "year": 2021,
+    "type": "",
     "tags": ""
   },
   {
@@ -7405,6 +8119,7 @@
     "month": "March",
     "day": 11,
     "year": 2021,
+    "type": "",
     "tags": ""
   },
   {
@@ -7415,6 +8130,7 @@
     "month": "March",
     "day": 13,
     "year": 2021,
+    "type": "",
     "tags": ""
   },
   {
@@ -7427,6 +8143,7 @@
     "month": "March",
     "day": 15,
     "year": 2021,
+    "type": "",
     "tags": "Phil Esposito"
   },
   {
@@ -7439,6 +8156,7 @@
     "month": "March",
     "day": 16,
     "year": 2021,
+    "type": "",
     "tags": "1300th Point"
   },
   {
@@ -7449,6 +8167,7 @@
     "month": "March",
     "day": 19,
     "year": 2021,
+    "type": "",
     "tags": ""
   },
   {
@@ -7459,6 +8178,7 @@
     "month": "March",
     "day": 19,
     "year": 2021,
+    "type": "",
     "tags": ""
   },
   {
@@ -7469,6 +8189,7 @@
     "month": "March",
     "day": 25,
     "year": 2021,
+    "type": "",
     "tags": ""
   },
   {
@@ -7479,6 +8200,7 @@
     "month": "March",
     "day": 26,
     "year": 2021,
+    "type": "",
     "tags": ""
   },
   {
@@ -7489,6 +8211,7 @@
     "month": "March",
     "day": 26,
     "year": 2021,
+    "type": "",
     "tags": ""
   },
   {
@@ -7499,6 +8222,7 @@
     "month": "March",
     "day": 28,
     "year": 2021,
+    "type": "",
     "tags": ""
   },
   {
@@ -7509,6 +8233,7 @@
     "month": "April",
     "day": 4,
     "year": 2021,
+    "type": "",
     "tags": ""
   },
   {
@@ -7521,6 +8246,7 @@
     "month": "April",
     "day": 8,
     "year": 2021,
+    "type": "",
     "tags": "Twenty 20"
   },
   {
@@ -7531,6 +8257,7 @@
     "month": "April",
     "day": 9,
     "year": 2021,
+    "type": "",
     "tags": ""
   },
   {
@@ -7541,6 +8268,7 @@
     "month": "April",
     "day": 13,
     "year": 2021,
+    "type": "",
     "tags": ""
   },
   {
@@ -7551,6 +8279,7 @@
     "month": "April",
     "day": 17,
     "year": 2021,
+    "type": "",
     "tags": ""
   },
   {
@@ -7562,6 +8291,7 @@
     "month": "April",
     "day": 17,
     "year": 2021,
+    "type": "",
     "tags": "Last"
   },
   {
@@ -7574,6 +8304,7 @@
     "month": "October",
     "day": 13,
     "year": 2021,
+    "type": "",
     "tags": "First Marcel Dionne"
   },
   {
@@ -7584,6 +8315,7 @@
     "month": "October",
     "day": 13,
     "year": 2021,
+    "type": "",
     "tags": ""
   },
   {
@@ -7594,6 +8326,7 @@
     "month": "October",
     "day": 16,
     "year": 2021,
+    "type": "",
     "tags": ""
   },
   {
@@ -7604,6 +8337,7 @@
     "month": "October",
     "day": 19,
     "year": 2021,
+    "type": "",
     "tags": "Empty Net"
   },
   {
@@ -7614,6 +8348,7 @@
     "month": "October",
     "day": 23,
     "year": 2021,
+    "type": "",
     "tags": ""
   },
   {
@@ -7624,6 +8359,7 @@
     "month": "October",
     "day": 25,
     "year": 2021,
+    "type": "",
     "tags": ""
   },
   {
@@ -7634,6 +8370,7 @@
     "month": "October",
     "day": 25,
     "year": 2021,
+    "type": "",
     "tags": ""
   },
   {
@@ -7644,6 +8381,7 @@
     "month": "October",
     "day": 27,
     "year": 2021,
+    "type": "",
     "tags": ""
   },
   {
@@ -7654,6 +8392,7 @@
     "month": "October",
     "day": 29,
     "year": 2021,
+    "type": "",
     "tags": ""
   },
   {
@@ -7664,6 +8403,7 @@
     "month": "November",
     "day": 4,
     "year": 2021,
+    "type": "",
     "tags": ""
   },
   {
@@ -7676,6 +8416,7 @@
     "month": "November",
     "day": 8,
     "year": 2021,
+    "type": "",
     "tags": "Brett Hull"
   },
   {
@@ -7686,6 +8427,7 @@
     "month": "November",
     "day": 12,
     "year": 2021,
+    "type": "",
     "tags": ""
   },
   {
@@ -7696,6 +8438,7 @@
     "month": "November",
     "day": 20,
     "year": 2021,
+    "type": "",
     "tags": ""
   },
   {
@@ -7706,6 +8449,7 @@
     "month": "November",
     "day": 20,
     "year": 2021,
+    "type": "",
     "tags": ""
   },
   {
@@ -7716,6 +8460,7 @@
     "month": "November",
     "day": 21,
     "year": 2021,
+    "type": "",
     "tags": ""
   },
   {
@@ -7726,6 +8471,7 @@
     "month": "November",
     "day": 26,
     "year": 2021,
+    "type": "",
     "tags": ""
   },
   {
@@ -7736,6 +8482,7 @@
     "month": "November",
     "day": 26,
     "year": 2021,
+    "type": "",
     "tags": ""
   },
   {
@@ -7748,6 +8495,7 @@
     "month": "November",
     "day": 26,
     "year": 2021,
+    "type": "",
     "tags": "Hat Trick"
   },
   {
@@ -7758,6 +8506,7 @@
     "month": "November",
     "day": 28,
     "year": 2021,
+    "type": "",
     "tags": ""
   },
   {
@@ -7770,6 +8519,7 @@
     "month": "December",
     "day": 4,
     "year": 2021,
+    "type": "",
     "tags": "Twenty 20"
   },
   {
@@ -7780,6 +8530,7 @@
     "month": "December",
     "day": 15,
     "year": 2021,
+    "type": "",
     "tags": "Marc-Andre"
   },
   {
@@ -7790,6 +8541,7 @@
     "month": "December",
     "day": 17,
     "year": 2021,
+    "type": "",
     "tags": ""
   },
   {
@@ -7802,6 +8554,7 @@
     "month": "December",
     "day": 31,
     "year": 2021,
+    "type": "",
     "tags": "275th Power Play Goal New Years Eve"
   },
   {
@@ -7812,6 +8565,7 @@
     "month": "December",
     "day": 31,
     "year": 2021,
+    "type": "",
     "tags": "New Years Eve"
   },
   {
@@ -7822,6 +8576,7 @@
     "month": "January",
     "day": 15,
     "year": 2022,
+    "type": "",
     "tags": ""
   },
   {
@@ -7832,6 +8587,7 @@
     "month": "January",
     "day": 16,
     "year": 2022,
+    "type": "",
     "tags": ""
   },
   {
@@ -7842,6 +8598,7 @@
     "month": "January",
     "day": 18,
     "year": 2022,
+    "type": "",
     "tags": ""
   },
   {
@@ -7852,6 +8609,7 @@
     "month": "January",
     "day": 22,
     "year": 2022,
+    "type": "",
     "tags": ""
   },
   {
@@ -7862,6 +8620,7 @@
     "month": "January",
     "day": 22,
     "year": 2022,
+    "type": "",
     "tags": ""
   },
   {
@@ -7874,6 +8633,7 @@
     "month": "February",
     "day": 15,
     "year": 2022,
+    "type": "",
     "tags": "Thirty 30"
   },
   {
@@ -7884,6 +8644,7 @@
     "month": "February",
     "day": 15,
     "year": 2022,
+    "type": "",
     "tags": "Empty Net"
   },
   {
@@ -7894,6 +8655,7 @@
     "month": "February",
     "day": 24,
     "year": 2022,
+    "type": "",
     "tags": ""
   },
   {
@@ -7904,6 +8666,7 @@
     "month": "March",
     "day": 3,
     "year": 2022,
+    "type": "",
     "tags": ""
   },
   {
@@ -7914,6 +8677,7 @@
     "month": "March",
     "day": 5,
     "year": 2022,
+    "type": "",
     "tags": ""
   },
   {
@@ -7924,6 +8688,7 @@
     "month": "March",
     "day": 8,
     "year": 2022,
+    "type": "",
     "tags": ""
   },
   {
@@ -7936,6 +8701,7 @@
     "month": "March",
     "day": 8,
     "year": 2022,
+    "type": "",
     "tags": "Empty Net Jaromir Jagr"
   },
   {
@@ -7946,6 +8712,7 @@
     "month": "March",
     "day": 15,
     "year": 2022,
+    "type": "",
     "tags": ""
   },
   {
@@ -7956,6 +8723,7 @@
     "month": "March",
     "day": 17,
     "year": 2022,
+    "type": "",
     "tags": "Merzlikins"
   },
   {
@@ -7966,6 +8734,7 @@
     "month": "March",
     "day": 18,
     "year": 2022,
+    "type": "",
     "tags": ""
   },
   {
@@ -7978,6 +8747,7 @@
     "month": "March",
     "day": 20,
     "year": 2022,
+    "type": "",
     "tags": "Forty 40"
   },
   {
@@ -7988,6 +8758,7 @@
     "month": "March",
     "day": 25,
     "year": 2022,
+    "type": "",
     "tags": ""
   },
   {
@@ -7998,6 +8769,7 @@
     "month": "March",
     "day": 26,
     "year": 2022,
+    "type": "",
     "tags": ""
   },
   {
@@ -8008,6 +8780,7 @@
     "month": "April",
     "day": 6,
     "year": 2022,
+    "type": "",
     "tags": ""
   },
   {
@@ -8018,6 +8791,7 @@
     "month": "April",
     "day": 9,
     "year": 2022,
+    "type": "",
     "tags": ""
   },
   {
@@ -8028,6 +8802,7 @@
     "month": "April",
     "day": 10,
     "year": 2022,
+    "type": "",
     "tags": ""
   },
   {
@@ -8038,6 +8813,7 @@
     "month": "April",
     "day": 12,
     "year": 2022,
+    "type": "",
     "tags": ""
   },
   {
@@ -8048,6 +8824,7 @@
     "month": "April",
     "day": 16,
     "year": 2022,
+    "type": "",
     "tags": ""
   },
   {
@@ -8058,6 +8835,7 @@
     "month": "April",
     "day": 18,
     "year": 2022,
+    "type": "",
     "tags": ""
   },
   {
@@ -8068,6 +8846,7 @@
     "month": "April",
     "day": 20,
     "year": 2022,
+    "type": "",
     "tags": ""
   },
   {
@@ -8080,6 +8859,7 @@
     "month": "April",
     "day": 20,
     "year": 2022,
+    "type": "",
     "tags": "Last Fifty 50"
   },
   {
@@ -8091,6 +8871,7 @@
     "month": "October",
     "day": 17,
     "year": 2022,
+    "type": "",
     "tags": "First"
   },
   {
@@ -8101,6 +8882,7 @@
     "month": "October",
     "day": 17,
     "year": 2022,
+    "type": "",
     "tags": ""
   },
   {
@@ -8111,6 +8893,7 @@
     "month": "October",
     "day": 24,
     "year": 2022,
+    "type": "",
     "tags": ""
   },
   {
@@ -8121,6 +8904,7 @@
     "month": "October",
     "day": 29,
     "year": 2022,
+    "type": "",
     "tags": ""
   },
   {
@@ -8131,6 +8915,7 @@
     "month": "October",
     "day": 31,
     "year": 2022,
+    "type": "",
     "tags": "Halloween"
   },
   {
@@ -8141,6 +8926,7 @@
     "month": "November",
     "day": 3,
     "year": 2022,
+    "type": "",
     "tags": ""
   },
   {
@@ -8151,6 +8937,7 @@
     "month": "November",
     "day": 5,
     "year": 2022,
+    "type": "",
     "tags": ""
   },
   {
@@ -8161,6 +8948,7 @@
     "month": "November",
     "day": 7,
     "year": 2022,
+    "type": "",
     "tags": ""
   },
   {
@@ -8171,6 +8959,7 @@
     "month": "November",
     "day": 17,
     "year": 2022,
+    "type": "",
     "tags": ""
   },
   {
@@ -8181,7 +8970,8 @@
     "month": "November",
     "day": 23,
     "year": 2022,
-    "tags": ""
+    "type": "OT",
+    "tags": "Overtime"
   },
   {
     "goal": 791,
@@ -8191,6 +8981,7 @@
     "month": "November",
     "day": 25,
     "year": 2022,
+    "type": "",
     "tags": "Markstrom"
   },
   {
@@ -8201,6 +8992,7 @@
     "month": "November",
     "day": 29,
     "year": 2022,
+    "type": "",
     "tags": ""
   },
   {
@@ -8211,6 +9003,7 @@
     "month": "November",
     "day": 29,
     "year": 2022,
+    "type": "",
     "tags": ""
   },
   {
@@ -8221,6 +9014,7 @@
     "month": "December",
     "day": 7,
     "year": 2022,
+    "type": "",
     "tags": ""
   },
   {
@@ -8231,6 +9025,7 @@
     "month": "December",
     "day": 7,
     "year": 2022,
+    "type": "",
     "tags": ""
   },
   {
@@ -8241,6 +9036,7 @@
     "month": "December",
     "day": 9,
     "year": 2022,
+    "type": "",
     "tags": "Empty Net"
   },
   {
@@ -8251,6 +9047,7 @@
     "month": "December",
     "day": 11,
     "year": 2022,
+    "type": "",
     "tags": "Empty Net"
   },
   {
@@ -8261,6 +9058,7 @@
     "month": "December",
     "day": 13,
     "year": 2022,
+    "type": "",
     "tags": "Mrazek"
   },
   {
@@ -8271,6 +9069,7 @@
     "month": "December",
     "day": 13,
     "year": 2022,
+    "type": "",
     "tags": "Mrazek"
   },
   {
@@ -8283,6 +9082,7 @@
     "month": "December",
     "day": 13,
     "year": 2022,
+    "type": "",
     "tags": "Mrazek 800th Goal"
   },
   {
@@ -8295,6 +9095,7 @@
     "month": "December",
     "day": 23,
     "year": 2022,
+    "type": "",
     "tags": "Gordie Howe"
   },
   {
@@ -8305,6 +9106,7 @@
     "month": "December",
     "day": 23,
     "year": 2022,
+    "type": "",
     "tags": "Empty Net"
   },
   {
@@ -8315,6 +9117,7 @@
     "month": "December",
     "day": 29,
     "year": 2022,
+    "type": "",
     "tags": ""
   },
   {
@@ -8325,6 +9128,7 @@
     "month": "December",
     "day": 31,
     "year": 2022,
+    "type": "",
     "tags": "New Years Eve"
   },
   {
@@ -8335,6 +9139,7 @@
     "month": "December",
     "day": 31,
     "year": 2022,
+    "type": "",
     "tags": "New Years Eve"
   },
   {
@@ -8347,6 +9152,7 @@
     "month": "December",
     "day": 31,
     "year": 2022,
+    "type": "",
     "tags": "Hat Trick New Years Eve"
   },
   {
@@ -8357,6 +9163,7 @@
     "month": "January",
     "day": 3,
     "year": 2023,
+    "type": "",
     "tags": ""
   },
   {
@@ -8367,6 +9174,7 @@
     "month": "January",
     "day": 3,
     "year": 2023,
+    "type": "",
     "tags": ""
   },
   {
@@ -8377,6 +9185,7 @@
     "month": "January",
     "day": 5,
     "year": 2023,
+    "type": "",
     "tags": "Merzlikins"
   },
   {
@@ -8389,6 +9198,7 @@
     "month": "January",
     "day": 14,
     "year": 2023,
+    "type": "",
     "tags": "Thirty 30"
   },
   {
@@ -8399,6 +9209,7 @@
     "month": "January",
     "day": 24,
     "year": 2023,
+    "type": "",
     "tags": ""
   },
   {
@@ -8409,6 +9220,7 @@
     "month": "January",
     "day": 26,
     "year": 2023,
+    "type": "",
     "tags": ""
   },
   {
@@ -8419,6 +9231,7 @@
     "month": "February",
     "day": 26,
     "year": 2023,
+    "type": "",
     "tags": ""
   },
   {
@@ -8429,6 +9242,7 @@
     "month": "March",
     "day": 4,
     "year": 2023,
+    "type": "",
     "tags": "Kahkonen"
   },
   {
@@ -8439,6 +9253,7 @@
     "month": "March",
     "day": 4,
     "year": 2023,
+    "type": "",
     "tags": "Kahkonen"
   },
   {
@@ -8449,6 +9264,7 @@
     "month": "March",
     "day": 6,
     "year": 2023,
+    "type": "",
     "tags": ""
   },
   {
@@ -8459,6 +9275,7 @@
     "month": "March",
     "day": 15,
     "year": 2023,
+    "type": "",
     "tags": ""
   },
   {
@@ -8469,6 +9286,7 @@
     "month": "March",
     "day": 19,
     "year": 2023,
+    "type": "",
     "tags": "Marc-Andre"
   },
   {
@@ -8479,6 +9297,7 @@
     "month": "March",
     "day": 19,
     "year": 2023,
+    "type": "",
     "tags": "Marc-Andre"
   },
   {
@@ -8491,6 +9310,7 @@
     "month": "March",
     "day": 21,
     "year": 2023,
+    "type": "",
     "tags": "Forty 40"
   },
   {
@@ -8501,6 +9321,7 @@
     "month": "March",
     "day": 23,
     "year": 2023,
+    "type": "",
     "tags": ""
   },
   {
@@ -8512,6 +9333,7 @@
     "month": "March",
     "day": 25,
     "year": 2023,
+    "type": "",
     "tags": "Last"
   },
   {
@@ -8523,6 +9345,7 @@
     "month": "October",
     "day": 24,
     "year": 2023,
+    "type": "",
     "tags": "First"
   },
   {
@@ -8533,6 +9356,7 @@
     "month": "October",
     "day": 25,
     "year": 2023,
+    "type": "",
     "tags": ""
   },
   {
@@ -8543,6 +9367,7 @@
     "month": "November",
     "day": 11,
     "year": 2023,
+    "type": "",
     "tags": ""
   },
   {
@@ -8553,6 +9378,7 @@
     "month": "November",
     "day": 11,
     "year": 2023,
+    "type": "",
     "tags": ""
   },
   {
@@ -8563,6 +9389,7 @@
     "month": "November",
     "day": 18,
     "year": 2023,
+    "type": "",
     "tags": ""
   },
   {
@@ -8573,7 +9400,8 @@
     "month": "December",
     "day": 21,
     "year": 2023,
-    "tags": ""
+    "type": "OT",
+    "tags": "Overtime"
   },
   {
     "goal": 829,
@@ -8583,6 +9411,7 @@
     "month": "December",
     "day": 30,
     "year": 2023,
+    "type": "",
     "tags": ""
   },
   {
@@ -8593,6 +9422,7 @@
     "month": "January",
     "day": 2,
     "year": 2024,
+    "type": "",
     "tags": ""
   },
   {
@@ -8603,6 +9433,7 @@
     "month": "January",
     "day": 27,
     "year": 2024,
+    "type": "",
     "tags": ""
   },
   {
@@ -8613,6 +9444,7 @@
     "month": "February",
     "day": 6,
     "year": 2024,
+    "type": "",
     "tags": ""
   },
   {
@@ -8623,6 +9455,7 @@
     "month": "February",
     "day": 8,
     "year": 2024,
+    "type": "",
     "tags": ""
   },
   {
@@ -8633,6 +9466,7 @@
     "month": "February",
     "day": 10,
     "year": 2024,
+    "type": "",
     "tags": ""
   },
   {
@@ -8643,6 +9477,7 @@
     "month": "February",
     "day": 11,
     "year": 2024,
+    "type": "",
     "tags": "Super Bowl Sunday"
   },
   {
@@ -8653,6 +9488,7 @@
     "month": "February",
     "day": 13,
     "year": 2024,
+    "type": "",
     "tags": ""
   },
   {
@@ -8663,6 +9499,7 @@
     "month": "February",
     "day": 20,
     "year": 2024,
+    "type": "",
     "tags": ""
   },
   {
@@ -8673,6 +9510,7 @@
     "month": "February",
     "day": 20,
     "year": 2024,
+    "type": "",
     "tags": ""
   },
   {
@@ -8683,6 +9521,7 @@
     "month": "March",
     "day": 1,
     "year": 2024,
+    "type": "",
     "tags": ""
   },
   {
@@ -8693,6 +9532,7 @@
     "month": "March",
     "day": 7,
     "year": 2024,
+    "type": "",
     "tags": ""
   },
   {
@@ -8703,6 +9543,7 @@
     "month": "March",
     "day": 16,
     "year": 2024,
+    "type": "",
     "tags": ""
   },
   {
@@ -8715,6 +9556,7 @@
     "month": "March",
     "day": 18,
     "year": 2024,
+    "type": "",
     "tags": "Twenty 20"
   },
   {
@@ -8725,6 +9567,7 @@
     "month": "March",
     "day": 18,
     "year": 2024,
+    "type": "",
     "tags": ""
   },
   {
@@ -8735,6 +9578,7 @@
     "month": "March",
     "day": 20,
     "year": 2024,
+    "type": "",
     "tags": ""
   },
   {
@@ -8745,6 +9589,7 @@
     "month": "March",
     "day": 20,
     "year": 2024,
+    "type": "",
     "tags": ""
   },
   {
@@ -8755,6 +9600,7 @@
     "month": "March",
     "day": 22,
     "year": 2024,
+    "type": "",
     "tags": ""
   },
   {
@@ -8765,6 +9611,7 @@
     "month": "March",
     "day": 24,
     "year": 2024,
+    "type": "",
     "tags": ""
   },
   {
@@ -8775,6 +9622,7 @@
     "month": "March",
     "day": 24,
     "year": 2024,
+    "type": "",
     "tags": ""
   },
   {
@@ -8785,6 +9633,7 @@
     "month": "April",
     "day": 4,
     "year": 2024,
+    "type": "",
     "tags": ""
   },
   {
@@ -8795,6 +9644,7 @@
     "month": "April",
     "day": 5,
     "year": 2024,
+    "type": "",
     "tags": ""
   },
   {
@@ -8805,6 +9655,7 @@
     "month": "April",
     "day": 5,
     "year": 2024,
+    "type": "",
     "tags": ""
   },
   {
@@ -8817,6 +9668,7 @@
     "month": "April",
     "day": 9,
     "year": 2024,
+    "type": "",
     "tags": "Thirty 30"
   },
   {
@@ -8828,6 +9680,7 @@
     "month": "April",
     "day": 16,
     "year": 2024,
+    "type": "",
     "tags": "Last"
   },
   {
@@ -8839,6 +9692,7 @@
     "month": "October",
     "day": 19,
     "year": 2024,
+    "type": "",
     "tags": "Markstrom First"
   },
   {
@@ -8849,6 +9703,7 @@
     "month": "October",
     "day": 23,
     "year": 2024,
+    "type": "",
     "tags": ""
   },
   {
@@ -8859,6 +9714,7 @@
     "month": "October",
     "day": 29,
     "year": 2024,
+    "type": "",
     "tags": ""
   },
   {
@@ -8869,6 +9725,7 @@
     "month": "October",
     "day": 29,
     "year": 2024,
+    "type": "",
     "tags": ""
   },
   {
@@ -8879,6 +9736,7 @@
     "month": "October",
     "day": 31,
     "year": 2024,
+    "type": "",
     "tags": "Halloween"
   },
   {
@@ -8889,6 +9747,7 @@
     "month": "November",
     "day": 2,
     "year": 2024,
+    "type": "",
     "tags": ""
   },
   {
@@ -8899,6 +9758,7 @@
     "month": "November",
     "day": 3,
     "year": 2024,
+    "type": "",
     "tags": ""
   },
   {
@@ -8909,6 +9769,7 @@
     "month": "November",
     "day": 6,
     "year": 2024,
+    "type": "",
     "tags": ""
   },
   {
@@ -8919,6 +9780,7 @@
     "month": "November",
     "day": 9,
     "year": 2024,
+    "type": "",
     "tags": ""
   },
   {
@@ -8929,6 +9791,7 @@
     "month": "November",
     "day": 9,
     "year": 2024,
+    "type": "",
     "tags": ""
   },
   {
@@ -8939,6 +9802,7 @@
     "month": "November",
     "day": 17,
     "year": 2024,
+    "type": "",
     "tags": ""
   },
   {
@@ -8949,6 +9813,7 @@
     "month": "November",
     "day": 17,
     "year": 2024,
+    "type": "",
     "tags": ""
   },
   {
@@ -8961,6 +9826,7 @@
     "month": "November",
     "day": 17,
     "year": 2024,
+    "type": "",
     "tags": "Hat Trick"
   },
   {
@@ -8971,6 +9837,7 @@
     "month": "November",
     "day": 18,
     "year": 2024,
+    "type": "",
     "tags": ""
   },
   {
@@ -8981,6 +9848,7 @@
     "month": "November",
     "day": 18,
     "year": 2024,
+    "type": "",
     "tags": ""
   },
   {
@@ -8991,6 +9859,7 @@
     "month": "December",
     "day": 28,
     "year": 2024,
+    "type": "",
     "tags": ""
   },
   {
@@ -9001,6 +9870,7 @@
     "month": "December",
     "day": 29,
     "year": 2024,
+    "type": "",
     "tags": ""
   },
   {
@@ -9011,6 +9881,7 @@
     "month": "January",
     "day": 2,
     "year": 2025,
+    "type": "",
     "tags": "Marc-Andre"
   },
   {
@@ -9021,6 +9892,7 @@
     "month": "January",
     "day": 4,
     "year": 2025,
+    "type": "",
     "tags": ""
   },
   {
@@ -9033,6 +9905,7 @@
     "month": "January",
     "day": 11,
     "year": 2025,
+    "type": "",
     "tags": "Twenty 20"
   },
   {
@@ -9043,7 +9916,8 @@
     "month": "January",
     "day": 16,
     "year": 2025,
-    "tags": "Merilainen"
+    "type": "OT",
+    "tags": "Merilainen Overtime"
   },
   {
     "goal": 875,
@@ -9053,6 +9927,7 @@
     "month": "January",
     "day": 23,
     "year": 2025,
+    "type": "",
     "tags": "Empty Net"
   },
   {
@@ -9063,6 +9938,7 @@
     "month": "January",
     "day": 30,
     "year": 2025,
+    "type": "",
     "tags": ""
   },
   {
@@ -9073,6 +9949,7 @@
     "month": "February",
     "day": 1,
     "year": 2025,
+    "type": "",
     "tags": ""
   },
   {
@@ -9083,6 +9960,7 @@
     "month": "February",
     "day": 4,
     "year": 2025,
+    "type": "",
     "tags": "Empty Net"
   },
   {
@@ -9093,6 +9971,7 @@
     "month": "February",
     "day": 6,
     "year": 2025,
+    "type": "",
     "tags": ""
   },
   {
@@ -9103,6 +9982,7 @@
     "month": "February",
     "day": 23,
     "year": 2025,
+    "type": "",
     "tags": ""
   },
   {
@@ -9113,6 +9993,7 @@
     "month": "February",
     "day": 23,
     "year": 2025,
+    "type": "",
     "tags": ""
   },
   {
@@ -9125,6 +10006,7 @@
     "month": "February",
     "day": 23,
     "year": 2025,
+    "type": "",
     "tags": "Empty Net Hat Trick"
   },
   {
@@ -9137,6 +10019,7 @@
     "month": "February",
     "day": 25,
     "year": 2025,
+    "type": "",
     "tags": "Thirty 30"
   },
   {
@@ -9147,6 +10030,7 @@
     "month": "March",
     "day": 1,
     "year": 2025,
+    "type": "",
     "tags": ""
   },
   {
@@ -9157,6 +10041,7 @@
     "month": "March",
     "day": 5,
     "year": 2025,
+    "type": "",
     "tags": ""
   },
   {
@@ -9169,6 +10054,7 @@
     "month": "March",
     "day": 9,
     "year": 2025,
+    "type": "",
     "tags": "Empty Net 1600th Point"
   },
   {
@@ -9179,6 +10065,7 @@
     "month": "March",
     "day": 15,
     "year": 2025,
+    "type": "",
     "tags": ""
   },
   {
@@ -9189,6 +10076,7 @@
     "month": "March",
     "day": 20,
     "year": 2025,
+    "type": "",
     "tags": ""
   },
   {
@@ -9199,6 +10087,7 @@
     "month": "March",
     "day": 25,
     "year": 2025,
+    "type": "",
     "tags": ""
   },
   {
@@ -9209,6 +10098,7 @@
     "month": "March",
     "day": 30,
     "year": 2025,
+    "type": "",
     "tags": ""
   },
   {
@@ -9219,6 +10109,7 @@
     "month": "April",
     "day": 1,
     "year": 2025,
+    "type": "",
     "tags": "Fools Day"
   },
   {
@@ -9229,6 +10120,7 @@
     "month": "April",
     "day": 2,
     "year": 2025,
+    "type": "",
     "tags": ""
   },
   {
@@ -9241,6 +10133,7 @@
     "month": "April",
     "day": 4,
     "year": 2025,
+    "type": "",
     "tags": "Forty 40"
   },
   {
@@ -9253,6 +10146,7 @@
     "month": "April",
     "day": 4,
     "year": 2025,
+    "type": "",
     "tags": "Wayne Gretzky"
   },
   {
@@ -9265,6 +10159,7 @@
     "month": "April",
     "day": 6,
     "year": 2025,
+    "type": "",
     "tags": "Wayne Gretzky The Chasing Days Are Done"
   },
   {
@@ -9275,6 +10170,7 @@
     "month": "April",
     "day": 13,
     "year": 2025,
+    "type": "",
     "tags": ""
   },
   {
@@ -9286,6 +10182,7 @@
     "month": "April",
     "day": 17,
     "year": 2025,
+    "type": "",
     "tags": "Last"
   }
 ]
