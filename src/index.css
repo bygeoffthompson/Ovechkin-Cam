@@ -290,11 +290,6 @@ label[for="search-text"]:before {
     width: 44px;
   }
 
-  .logo {
-    height: 6rem;
-    width: 6rem;
-  }
-
   #root {
     padding: 0 16px;
   }
