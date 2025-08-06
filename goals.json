@@ -1810,7 +1810,7 @@
     "day": 3,
     "year": 2008,
     "type": "GWG",
-    "tags": "Karri Ramo Last Game Winning Goal GWG"
+    "tags": "Karri Ramo Last Game Winning Goal GWG Rocket Richard Trophy"
   },
   {
     "goal": 164,
@@ -2434,7 +2434,7 @@
     "day": 11,
     "year": 2009,
     "type": "",
-    "tags": "Tomas Vokoun Last"
+    "tags": "Tomas Vokoun Last Rocket Richard Trophy"
   },
   {
     "goal": 220,
@@ -4122,7 +4122,7 @@
     "day": 25,
     "year": 2013,
     "type": "",
-    "tags": "Last"
+    "tags": "Last Rocket Richard Trophy"
   },
   {
     "goal": 372,
@@ -4691,7 +4691,7 @@
     "day": 11,
     "year": 2014,
     "type": "GWG",
-    "tags": "Last Game Winning Goal GWG"
+    "tags": "Last Game Winning Goal GWG Rocket Richard Trophy"
   },
   {
     "goal": 423,
@@ -5279,7 +5279,7 @@
     "day": 11,
     "year": 2015,
     "type": "",
-    "tags": "Last"
+    "tags": "Last Rocket Richard Trophy"
   },
   {
     "goal": 476,
@@ -5843,7 +5843,7 @@
     "day": 9,
     "year": 2016,
     "type": "",
-    "tags": "Last Fifty 50 Hat Trick"
+    "tags": "Last Fifty 50 Hat Trick Rocket Richard Trophy"
   },
   {
     "goal": 526,
@@ -6766,7 +6766,7 @@
     "day": 7,
     "year": 2018,
     "type": "GWG",
-    "tags": "Last Game Winning Goal GWG"
+    "tags": "Last Game Winning Goal GWG Rocket Richard Trophy"
   },
   {
     "goal": 608,
@@ -7339,7 +7339,7 @@
     "day": 30,
     "year": 2019,
     "type": "",
-    "tags": "Last Vezina Trophy"
+    "tags": "Last Vezina Trophy Rocket Richard Trophy"
   },
   {
     "goal": 659,
@@ -7877,7 +7877,7 @@
     "day": 9,
     "year": 2020,
     "type": "",
-    "tags": "Last"
+    "tags": "Last Rocket Richard Trophy"
   },
   {
     "goal": 707,
@@ -10007,5 +10007,676 @@
     "year": 2025,
     "type": "",
     "tags": "Last"
+  },
+  {
+    "goal": 1001,
+    "link": "https://www.youtube.com/embed/U2YfpnGKmc0?si=HgSvypArMArobARR",
+    "team": "Philadelphia Flyers",
+    "goalie": "Martin Biron",
+    "month": "April",
+    "day": 11,
+    "year": 2008,
+    "type": "",
+    "tags": "Playoffs Quarterfinals Game 1"
+  },
+  {
+    "goal": 1002,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=36",
+    "team": "Philadelphia Flyers",
+    "goalie": "Martin Biron",
+    "month": "April",
+    "day": 21,
+    "year": 2008,
+    "type": "",
+    "tags": "Playoffs Quarterfinals Game 6"
+  },
+  {
+    "goal": 1003,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=60",
+    "team": "Philadelphia Flyers",
+    "goalie": "Martin Biron",
+    "month": "April",
+    "day": 21,
+    "year": 2008,
+    "type": "",
+    "tags": "Playoffs Quarterfinals Game 6"
+  },
+  {
+    "goal": 1004,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=105",
+    "team": "Philadelphia Flyers",
+    "goalie": "Martin Biron",
+    "month": "April",
+    "day": 22,
+    "year": 2008,
+    "type": "",
+    "tags": "Playoffs Quarterfinals Game 7"
+  },
+  {
+    "goal": 1005,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=168",
+    "team": "New York Rangers",
+    "goalie": "Henrik Lundqvist",
+    "month": "April",
+    "day": 22,
+    "year": 2009,
+    "type": "",
+    "tags": "Playoffs Quarterfinals Game 4"
+  },
+  {
+    "goal": 1006,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=198",
+    "team": "New York Rangers",
+    "goalie": "Henrik Lundqvist",
+    "month": "April",
+    "day": 24,
+    "year": 2009,
+    "type": "",
+    "tags": "Playoffs Quarterfinals Game 5"
+  },
+  {
+    "goal": 1007,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=257",
+    "team": "New York Rangers",
+    "goalie": "Henrik Lundqvist",
+    "month": "April",
+    "day": 26,
+    "year": 2009,
+    "type": "",
+    "tags": "Playoffs Quarterfinals Game 6"
+  },
+  {
+    "goal": 1008,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=306",
+    "team": "Pittsburgh Penguins",
+    "goalie": "Marc-André Fleury",
+    "month": "May",
+    "day": 2,
+    "year": 2009,
+    "type": "",
+    "tags": "Marc-Andre Fleury Playoffs Semifinals Game 1"
+  },
+  {
+    "goal": 1009,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=353",
+    "team": "Pittsburgh Penguins",
+    "goalie": "Marc-André Fleury",
+    "month": "May",
+    "day": 4,
+    "year": 2009,
+    "type": "",
+    "tags": "Marc-Andre Fleury Playoffs Semifinals Game 2"
+  },
+  {
+    "goal": 1010,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=410",
+    "team": "Pittsburgh Penguins",
+    "goalie": "Marc-André Fleury",
+    "month": "May",
+    "day": 4,
+    "year": 2009,
+    "type": "",
+    "tags": "Marc-Andre Fleury Playoffs Semifinals Game 2"
+  },
+  {
+    "goal": 1011,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=471",
+    "team": "Pittsburgh Penguins",
+    "goalie": "Marc-André Fleury",
+    "month": "May",
+    "day": 4,
+    "year": 2009,
+    "type": "",
+    "tags": "Marc-Andre Fleury Playoffs Semifinals Game 2 Hat Trick"
+  },
+  {
+    "goal": 1012,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=580",
+    "team": "Pittsburgh Penguins",
+    "goalie": "Marc-André Fleury",
+    "month": "May",
+    "day": 6,
+    "year": 2009,
+    "type": "",
+    "tags": "Marc-Andre Fleury Playoffs Semifinals Game 3"
+  },
+  {
+    "goal": 1013,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=639",
+    "team": "Pittsburgh Penguins",
+    "goalie": "Marc-André Fleury",
+    "month": "May",
+    "day": 9,
+    "year": 2009,
+    "type": "",
+    "tags": "Marc-Andre Fleury Playoffs Semifinals Game 5"
+  },
+  {
+    "goal": 1014,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=695",
+    "team": "Pittsburgh Penguins",
+    "goalie": "Marc-André Fleury",
+    "month": "May",
+    "day": 9,
+    "year": 2009,
+    "type": "",
+    "tags": "Marc-Andre Fleury Playoffs Semifinals Game 5"
+  },
+  {
+    "goal": 1015,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=746",
+    "team": "Pittsburgh Penguins",
+    "goalie": "Marc-André Fleury",
+    "month": "May",
+    "day": 13,
+    "year": 2009,
+    "type": "",
+    "tags": "Marc-Andre Fleury Playoffs Semifinals Game 7"
+  },
+  {
+    "goal": 1016,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=786",
+    "team": "Montreal Canadiens",
+    "goalie": "Jaroslav Halák",
+    "month": "April",
+    "day": 17,
+    "year": 2010,
+    "type": "",
+    "tags": "Jaroslav Halak Playoffs Quarterfinals Game 2"
+  },
+  {
+    "goal": 1017,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=844",
+    "team": "Montreal Canadiens",
+    "goalie": "Carey Price",
+    "month": "April",
+    "day": 19,
+    "year": 2010,
+    "type": "",
+    "tags": "Playoffs Quarterfinals Game 3"
+  },
+  {
+    "goal": 1018,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=900",
+    "team": "Montreal Canadiens",
+    "goalie": "Carey Price",
+    "month": "April",
+    "day": 21,
+    "year": 2010,
+    "type": "",
+    "tags": "Playoffs Quarterfinals Game 4"
+  },
+  {
+    "goal": 1019,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=942",
+    "team": "Montreal Canadiens",
+    "goalie": "Carey Price",
+    "month": "April",
+    "day": 21,
+    "year": 2010,
+    "type": "",
+    "tags": "Playoffs Quarterfinals Game 4"
+  },
+  {
+    "goal": 1020,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=989",
+    "team": "Montreal Canadiens",
+    "goalie": "Jaroslav Halák",
+    "month": "April",
+    "day": 23,
+    "year": 2010,
+    "type": "",
+    "tags": "Jaroslav Halak Playoffs Quarterfinals Game 5"
+  },
+  {
+    "goal": 1021,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=1057",
+    "team": "New York Rangers",
+    "goalie": "Henrik Lundqvist",
+    "month": "April",
+    "day": 13,
+    "year": 2011,
+    "type": "",
+    "tags": "Playoffs Quarterfinals Game 1"
+  },
+  {
+    "goal": 1022,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=1103",
+    "team": "New York Rangers",
+    "goalie": "Henrik Lundqvist",
+    "month": "April",
+    "day": 17,
+    "year": 2011,
+    "type": "",
+    "tags": "Playoffs Quarterfinals Game 3"
+  },
+  {
+    "goal": 1023,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=1143",
+    "team": "New York Rangers",
+    "goalie": "Henrik Lundqvist",
+    "month": "April",
+    "day": 23,
+    "year": 2011,
+    "type": "",
+    "tags": "Playoffs Quarterfinals Game 5"
+  },
+  {
+    "goal": 1024,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=1203",
+    "team": "Tampa Bay Lightning",
+    "goalie": "Dwayne Roloson",
+    "month": "May",
+    "day": 1,
+    "year": 2011,
+    "type": "",
+    "tags": "Playoffs Semifinals Game 2"
+  },
+  {
+    "goal": 1025,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=1236",
+    "team": "Tampa Bay Lightning",
+    "goalie": "Dwayne Roloson",
+    "month": "May",
+    "day": 3,
+    "year": 2011,
+    "type": "",
+    "tags": "Playoffs Semifinals Game 3"
+  },
+  {
+    "goal": 1026,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=1277",
+    "team": "Boston Bruins",
+    "goalie": "Tim Thomas",
+    "month": "April",
+    "day": 16,
+    "year": 2012,
+    "type": "",
+    "tags": "Playoffs Quarterfinals Game 3"
+  },
+  {
+    "goal": 1027,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=1351",
+    "team": "Boston Bruins",
+    "goalie": "Tim Thomas",
+    "month": "April",
+    "day": 22,
+    "year": 2012,
+    "type": "",
+    "tags": "Playoffs Quarterfinals Game 6"
+  },
+  {
+    "goal": 1028,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=1413",
+    "team": "New York Rangers",
+    "goalie": "Henrik Lundqvist",
+    "month": "April",
+    "day": 30,
+    "year": 2012,
+    "type": "",
+    "tags": "Playoffs Semifinals Game 2"
+  },
+  {
+    "goal": 1029,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=1476",
+    "team": "New York Rangers",
+    "goalie": "Henrik Lundqvist",
+    "month": "May",
+    "day": 5,
+    "year": 2012,
+    "type": "",
+    "tags": "Playoffs Semifinals Game 5"
+  },
+  {
+    "goal": 1030,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=1548",
+    "team": "New York Rangers",
+    "goalie": "Henrik Lundqvist",
+    "month": "May",
+    "day": 9,
+    "year": 2012,
+    "type": "",
+    "tags": "Playoffs Quarterfinals Game 6"
+  },
+  {
+    "goal": 1031,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=1603",
+    "team": "New York Rangers",
+    "goalie": "Henrik Lundqvist",
+    "month": "May",
+    "day": 2,
+    "year": 2013,
+    "type": "",
+    "tags": "Playoffs Quarterfinals Game 1"
+  },
+  {
+    "goal": 1032,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=1676",
+    "team": "New York Islanders",
+    "goalie": "Jaroslav Halák",
+    "month": "April",
+    "day": 17,
+    "year": 2015,
+    "type": "",
+    "tags": "Playoffs Quarterfinals Game 2"
+  },
+  {
+    "goal": 1033,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=1730",
+    "team": "New York Islanders",
+    "goalie": "Jaroslav Halák",
+    "month": "April",
+    "day": 21,
+    "year": 2015,
+    "type": "",
+    "tags": "Playoffs Quarterfinals Game 4"
+  },
+  {
+    "goal": 1034,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=1782",
+    "team": "New York Rangers",
+    "goalie": "Henrik Lundqvist",
+    "month": "April",
+    "day": 30,
+    "year": 2015,
+    "type": "",
+    "tags": "Playoffs Semifinals Game 1"
+  },
+  {
+    "goal": 1035,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=1822",
+    "team": "New York Rangers",
+    "goalie": "Henrik Lundqvist",
+    "month": "May",
+    "day": 2,
+    "year": 2015,
+    "type": "",
+    "tags": "Playoffs Semifinals Game 2"
+  },
+  {
+    "goal": 1036,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=1862",
+    "team": "New York Rangers",
+    "goalie": "Henrik Lundqvist",
+    "month": "May",
+    "day": 13,
+    "year": 2015,
+    "type": "",
+    "tags": "Playoffs Semifinals Game 7"
+  },
+  {
+    "goal": 1037,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=1915",
+    "team": "Philadelphia Flyers",
+    "goalie": "Steve Mason",
+    "month": "April",
+    "day": 16,
+    "year": 2016,
+    "type": "",
+    "tags": "Playoffs Quarterfinals Game 2"
+  },
+  {
+    "goal": 1038,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=1974",
+    "team": "Philadelphia Flyers",
+    "goalie": "Steve Mason",
+    "month": "April",
+    "day": 18,
+    "year": 2016,
+    "type": "",
+    "tags": "Playoffs Quarterfinals Game 3"
+  },
+  {
+    "goal": 1039,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=2017",
+    "team": "Philadelphia Flyers",
+    "goalie": "Steve Mason",
+    "month": "April",
+    "day": 18,
+    "year": 2016,
+    "type": "",
+    "tags": "Playoffs Quarterfinals Game 3"
+  },
+  {
+    "goal": 1040,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=2073",
+    "team": "Pittsburgh Penguins",
+    "goalie": "Marc-André Fleury",
+    "month": "May",
+    "day": 2,
+    "year": 2016,
+    "type": "",
+    "tags": "Marc-Andre Fleury Playoffs Semifinals Game 3"
+  },
+  {
+    "goal": 1041,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=2120",
+    "team": "Pittsburgh Penguins",
+    "goalie": "Marc-André Fleury",
+    "month": "May",
+    "day": 7,
+    "year": 2016,
+    "type": "",
+    "tags": "Marc-Andre Fleury Playoffs Semifinals Game 5"
+  },
+  {
+    "goal": 1042,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=2184",
+    "team": "Toronto Maple Leafs",
+    "goalie": "Frederik Andersen",
+    "month": "April",
+    "day": 15,
+    "year": 2017,
+    "type": "",
+    "tags": "Playoffs Quarterfinals Game 2"
+  },
+  {
+    "goal": 1043,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=2237",
+    "team": "Toronto Maple Leafs",
+    "goalie": "Frederik Andersen",
+    "month": "April",
+    "day": 17,
+    "year": 2017,
+    "type": "",
+    "tags": "Playoffs Quarterfinals Game 3"
+  },
+  {
+    "goal": 1044,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=2285",
+    "team": "Toronto Maple Leafs",
+    "goalie": "Frederik Andersen",
+    "month": "April",
+    "day": 19,
+    "year": 2017,
+    "type": "",
+    "tags": "Playoffs Quarterfinals Game 4"
+  },
+  {
+    "goal": 1045,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=2342",
+    "team": "Pittsburgh Penguins",
+    "goalie": "Marc-André Fleury",
+    "month": "April",
+    "day": 27,
+    "year": 2017,
+    "type": "",
+    "tags": "Marc-Andre Fleury Playoffs Semifinals Game 1"
+  },
+  {
+    "goal": 1046,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=2402",
+    "team": "Pittsburgh Penguins",
+    "goalie": "Marc-André Fleury",
+    "month": "May",
+    "day": 6,
+    "year": 2017,
+    "type": "",
+    "tags": "Marc-Andre Fleury Playoffs Semifinals Game 5"
+  },
+  {
+    "goal": 1047,
+    "link": "https://www.youtube.com/embed/4BnA2v5HkXY?si=4PgA_KnaLB_y_pVa",
+    "team": "Columbus Blue Jackets",
+    "goalie": "Sergei Bobrovsky",
+    "month": "April",
+    "day": 15,
+    "year": 2018,
+    "type": "",
+    "tags": "Playoffs Quarterfinals Game 2"
+  },
+  {
+    "goal": 1048,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=2514",
+    "team": "Columbus Blue Jackets",
+    "goalie": "Sergei Bobrovsky",
+    "month": "April",
+    "day": 15,
+    "year": 2018,
+    "type": "",
+    "tags": "Playoffs Quarterfinals Game 2"
+  },
+  {
+    "goal": 1049,
+    "link": "https://www.youtube.com/embed/soW3OGGjtNI?si=HydM5IAN_hjYmsG-",
+    "team": "Columbus Blue Jackets",
+    "goalie": "Sergei Bobrovsky",
+    "month": "April",
+    "day": 19,
+    "year": 2018,
+    "type": "",
+    "tags": "Playoffs Quarterfinals Game 4"
+  },
+  {
+    "goal": 1050,
+    "link": "https://www.youtube.com/embed/jg04trFFxDM?si=iXTm_mY02OZ8knCw",
+    "team": "Columbus Blue Jackets",
+    "goalie": "Sergei Bobrovsky",
+    "month": "April",
+    "day": 23,
+    "year": 2018,
+    "type": "",
+    "tags": "Playoffs Quarterfinals Game 6"
+  },
+  {
+    "goal": 1051,
+    "link": "https://www.youtube.com/embed/ykhbduvuSCY?si=yjg9efqVsBB_Dfch",
+    "team": "Columbus Blue Jackets",
+    "goalie": "Sergei Bobrovsky",
+    "month": "April",
+    "day": 23,
+    "year": 2018,
+    "type": "",
+    "tags": "Playoffs Quarterfinals Game 6"
+  },
+  {
+    "goal": 1052,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=2727",
+    "team": "Pittsburgh Penguins",
+    "goalie": "Marc-André Fleury",
+    "month": "April",
+    "day": 26,
+    "year": 2018,
+    "type": "",
+    "tags": "Marc-Andre Fleury Playoffs Semifinals Game 1 100th Playoff Point"
+  },
+  {
+    "goal": 1053,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=2774",
+    "team": "Pittsburgh Penguins",
+    "goalie": "Marc-André Fleury",
+    "month": "April",
+    "day": 29,
+    "year": 2018,
+    "type": "",
+    "tags": "Marc-Andre Fleury Playoffs Semifinals Game 2"
+  },
+  {
+    "goal": 1054,
+    "link": "https://www.youtube.com/embed/SXgbagJGL5k?si=gLoq2gNrNTbCR-PG",
+    "team": "Pittsburgh Penguins",
+    "goalie": "Marc-André Fleury",
+    "month": "May",
+    "day": 1,
+    "year": 2018,
+    "type": "",
+    "tags": "Marc-Andre Fleury Playoffs Semifinals Game 3"
+  },
+  {
+    "goal": 1055,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=2890",
+    "team": "Tampa Bay Lightning",
+    "goalie": "Andrei Vasilevskiy",
+    "month": "May",
+    "day": 11,
+    "year": 2018,
+    "type": "",
+    "tags": "Playoffs Eastern Conference Finals Game 1"
+  },
+  {
+    "goal": 1056,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=2933",
+    "team": "Tampa Bay Lightning",
+    "goalie": "Andrei Vasilevskiy",
+    "month": "May",
+    "day": 13,
+    "year": 2018,
+    "type": "",
+    "tags": "Playoffs Eastern Conference Finals Game 2"
+  },
+  {
+    "goal": 1057,
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=2995",
+    "team": "Tampa Bay Lightning",
+    "goalie": "Andrei Vasilevskiy",
+    "month": "May",
+    "day": 19,
+    "year": 2018,
+    "type": "",
+    "tags": "Playoffs Eastern Conference Finals Game 5"
+  },
+  {
+    "goal": 1058,
+    "link": "https://www.youtube.com/embed/cT9lNtCnA3A?si=49AbjJ1Tuw6avZ1M",
+    "team": "Tampa Bay Lightning",
+    "goalie": "Andrei Vasilevskiy",
+    "month": "May",
+    "day": 23,
+    "year": 2018,
+    "type": "",
+    "tags": "Playoffs Eastern Conference Finals Game 7"
+  },
+  {
+    "goal": 1059,
+    "link": "https://www.youtube.com/embed/u50vYELXNaY?si=sexS1CzSh3GD2KjF",
+    "team": "Vegas Golden Knights",
+    "goalie": "Marc-André Fleury",
+    "month": "May",
+    "day": 30,
+    "year": 2018,
+    "type": "",
+    "tags": "Marc-Andre Fleury Playoffs Stanley Cup Finals Game 2"
+  },
+  {
+    "goal": 1060,
+    "link": "https://www.youtube.com/embed/pYRr9BpyZkc?si=Aopgo1ae7glBZVlK",
+    "team": "Vegas Golden Knights",
+    "goalie": "Marc-André Fleury",
+    "month": "June",
+    "day": 2,
+    "year": 2018,
+    "type": "",
+    "tags": "Marc-Andre Fleury Playoffs Stanley Cup Finals Game 3"
+  },
+  {
+    "goal": 1061,
+    "link": "https://www.youtube.com/embed/YRZJ45jRUo8?si=tggWDNKetCLrYZbC",
+    "team": "Vegas Golden Knights",
+    "goalie": "Marc-André Fleury",
+    "month": "June",
+    "day": 7,
+    "year": 2018,
+    "type": "",
+    "tags": "Marc-Andre Fleury Playoffs Stanley Cup Finals Game 5"
   }
 ]
