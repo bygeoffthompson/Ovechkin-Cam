@@ -55,8 +55,9 @@
 }
 
 .goalie:empty + .mask {
-  background: none;
-  display: none;
+  background-image: url(/public/icons/en.svg);
+  height: 32px;
+  width: 44px;
 }
 
 .note {

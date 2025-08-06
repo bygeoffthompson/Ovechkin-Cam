@@ -45,7 +45,6 @@ function SearchForm({jsonData}) {
 
             document.querySelector('h1').innerHTML = 'Alex Ovechkin\'s ' + suffix(goalQuery) + ' Goal';
             document.querySelector('title').innerHTML = goalQuery + ' | Ovechkin Cam';
-            document.querySelector('meta[name="description"]').setAttribute('content', 'Watch broadcast footage of Alex Ovechkin\'s ' + suffix(goalQuery) + ' career NHL goal.');
         }
         if (searchText) {
             const results = jsonData.filter((item) => {
@@ -69,6 +68,8 @@ function SearchForm({jsonData}) {
             } else {
                 document.querySelector('#count').innerHTML = results.length + ' Results';
             }
+            document.querySelector('h1').innerHTML = 'Alex Ovechkin Goals';
+            document.querySelector('title').innerHTML = 'Ovechkin Cam';
             setSearchResults(results);
         }
     }, [searchGoal, searchText, jsonData]);
@@ -100,7 +101,6 @@ function SearchForm({jsonData}) {
     };
 
     const highlightGoal = () => {
-        setSearchText('');
         resultsHide();
         const highlights = ['Century', 'Four', 'Fifty', 'Hat Trick', 'Outdoor', 'Overtime', 'Penalty Shot', 'Shorthanded', 'Sixty', 'Trophy'];
 
@@ -133,11 +133,11 @@ function SearchForm({jsonData}) {
     }
 
     function resultsHide() {
+        setSearchText('');
         document.querySelector('#count').classList.remove('show');
     }
 
     const randomGoal = () => {
-        setSearchText('');
         resultsHide();
         const randomGoal = random(1, 897);
         setSearchGoal(randomGoal);
@@ -152,14 +152,14 @@ function SearchForm({jsonData}) {
     };
 
     const reset = () => {
-        setSearchGoal('');
-        setSearchText('');
+        document.querySelector('h1').innerHTML = 'Alex Ovechkin Goals';
+        document.querySelector('title').innerHTML = 'Ovechkin Cam';
         setSearchResults([]);
+        setSearchGoal('');
         resultsHide();
     };
 
     const todayGoal = () => {
-        setSearchText('');
         resultsHide();
         const date = new Date();
         const hash = (date.getMonth() + 1) * date.getDate();
