@@ -50,8 +50,12 @@ function SearchForm({jsonData}) {
         if (searchText) {
             const results = jsonData.filter((item) => {
                 const search =
+                    item.day + ' ' + item.month + ' ' +
+                    item.day + ' ' + item.year + ' ' +
+                    item.month + ' ' + item.day + ' ' +
                     item.month + ' ' + item.year + ' ' +
-                    item.month + ' ' + item.day + ' ' + item.year + ' ' +
+                    item.year + ' ' + item.day + ' ' +
+                    item.year + ' ' + item.month + ' ' +
                     item.goalie + ' ' + item.tags + ' ' + item.team;
                 return (
                     search.toLowerCase().includes(searchText)
