@@ -49,11 +49,11 @@ function SearchForm({jsonData}) {
         }
         if (searchText) {
             const results = jsonData.filter((item) => {
+                const search =
+                    item.month + ' ' + item.year + ' ' + item.month + ' ' + item.day + ' ' + item.year + ' ' +
+                    item.goalie + ' ' + item.tags + ' ' + item.team;
                 return (
-                    item.goalie.toLowerCase().includes(searchText) ||
-                    item.month.toLowerCase().includes(searchText) ||
-                    item.tags.toLowerCase().includes(searchText) ||
-                    item.team.toLowerCase().includes(searchText)
+                    search.toLowerCase().includes(searchText)
                 );
             });
             if (results.length > 0) {
@@ -190,7 +190,7 @@ function SearchForm({jsonData}) {
                             <h3>{result.goal}</h3>
                         </div>
                         <img alt={result.team + ' logo'} className="logo" src={'/team/' + result.team + '.svgz'} />
-                        <strong>{result.month} {result.day}, {result.year}</strong>
+                        <strong>{result.month} {result.day} {result.year}</strong>
                         <strong>{result.goalie}</strong>
                         <span className="icon"></span>
                         <strong>{result.text}</strong>
