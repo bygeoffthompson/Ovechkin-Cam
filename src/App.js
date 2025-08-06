@@ -151,6 +151,13 @@ function SearchForm({jsonData}) {
         }
     };
 
+    const reset = () => {
+        setSearchGoal('');
+        setSearchText('');
+        setSearchResults([]);
+        resultsHide();
+    };
+
     const todayGoal = () => {
         setSearchText('');
         resultsHide();
@@ -177,6 +184,7 @@ function SearchForm({jsonData}) {
                     <input min="1" max="897" id="search-goal" type="number" placeholder="#" value={searchGoal} onChange={handleGoalChange}/>
                     <label htmlFor="search-text">Text</label>
                     <input id="search-text" type="text" placeholder="Date, Goalie, Team, etc." value={searchText} onChange={handleTextChange} onKeyDown={handleTextInput}/>
+                    <button onClick={reset} name="Reset" type="button">Reset</button>
                 </div>
                 <div>
                     <button onClick={randomGoal} name="Random Goal" type="button">Random Goal</button>/

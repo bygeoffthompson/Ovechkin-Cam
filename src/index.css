@@ -161,6 +161,16 @@ button:active {
   transform: scale(1.05) translateY(.125rem);
 }
 
+button[name="Reset"] {
+  background: transparent;
+  font-size: .875rem
+}
+
+button[name="Reset"]:hover,
+button[name="Reset"]:active {
+  box-shadow: 0 .5rem 1rem rgba(41,41,41,.25);
+}
+
 form {
   align-items: center;
   display: flex;
