@@ -300,36 +300,36 @@
   {
     "goal": 28,
     "link": "https://www.youtube.com/embed/tTXQB-sW8a0?si=bw3BjVM7pBQFmaB1",
-    "team": "Anaheim Ducks",
+    "team": "Mighty Ducks of Anaheim",
     "goalie": "Jean-Sébastien Giguère",
     "month": "January",
     "day": 13,
     "year": 2006,
     "type": "",
-    "tags": "Jean-Sebastien Giguere"
+    "tags": "Jean-Sebastien Giguere Anaheim Ducks"
   },
   {
     "goal": 29,
     "link": "https://www.youtube.com/embed/xkEJ9oYwOU8?si=AQx4dFmVtRf7zb0D",
-    "team": "Anaheim Ducks",
+    "team": "Mighty Ducks of Anaheim",
     "goalie": "Jean-Sébastien Giguère",
     "month": "January",
     "day": 13,
     "year": 2006,
     "type": "",
-    "tags": "Jean-Sebastien Giguere"
+    "tags": "Jean-Sebastien Giguere Anaheim Ducks"
   },
   {
     "goal": 30,
     "link": "https://www.youtube.com/embed/PHWGjGxHbP8?si=BsWqFqWOoOmWSu08",
     "text": "1st Hat Trick",
-    "team": "Anaheim Ducks",
+    "team": "Mighty Ducks of Anaheim",
     "goalie": "Jean-Sébastien Giguère",
     "month": "January",
     "day": 13,
     "year": 2006,
     "type": "OT",
-    "tags": "Jean-Sebastien Giguere Hat Trick Overtime Game Winning Goal GWG"
+    "tags": "Jean-Sebastien Giguere Hat Trick Overtime Game Winning Goal GWG Anaheim Ducks"
   },
   {
     "goal": 31,
@@ -340,7 +340,7 @@
     "day": 16,
     "year": 2006,
     "type": "",
-    "tags": "Arizona"
+    "tags": "Arizona Coyotes"
   },
   {
     "goal": 32,
@@ -352,7 +352,7 @@
     "day": 16,
     "year": 2006,
     "type": "",
-    "tags": "Arizona Simply Sensational"
+    "tags": "Arizona Coyotes Simply Sensational"
   },
   {
     "goal": 33,
@@ -2799,7 +2799,7 @@
     "day": 23,
     "year": 2010,
     "type": "",
-    "tags": "Arizona Empty Net"
+    "tags": "Arizona Coyotes Empty Net"
   },
   {
     "goal": 253,
