@@ -245,11 +245,11 @@ function SearchForm({jsonData}) {
                     <button onClick={reset} name="Reset" type="button">Reset</button>
                 </div>
                 <div>
-                    <button onClick={randomGoal} name="Random Goal" title="A Random Goal" type="button">Random Goal</button>/
-                    <button onClick={hatTrickGoal} name="Hat Trick Goal" title="A Random Hat Trick Goal" type="button">Hat Trick Goal</button>/
-                    <button onClick={highlightGoal} name="Highlight Goal" title="A Random Noteworthy Goal" type="button">Highlight Goal</button>/
-                    <button onClick={gameWinningGoal} name="Game Winning Goal" title="A Random Game Winning Goal" type="button">GWG</button>/
-                    <button onClick={overtimeGoal} name="Overtime Goal" title="A Random Overtime Goal" type="button">Overtime Goal</button>/
+                    <button onClick={randomGoal} name="Random Goal" title="A Random Goal" type="button">Random Goal</button>
+                    <button onClick={highlightGoal} name="Highlight Goal" title="A Random Noteworthy Goal" type="button">Highlight Goal</button>
+                    <button onClick={gameWinningGoal} name="Game Winning Goal" title="A Random Game Winning Goal" type="button">GWG</button>
+                    <button onClick={overtimeGoal} name="Overtime Goal" title="A Random Overtime Goal" type="button">Overtime Goal</button>
+                    <button onClick={hatTrickGoal} name="Hat Trick Goal" title="A Random Hat Trick Goal" type="button">Hat Trick Goal</button>
                     <button onClick={todayGoal} name="Today's Goal" title="A Goal That Changes Everyday" type="button">Today's Goal</button>
                 </div>
             </form>
