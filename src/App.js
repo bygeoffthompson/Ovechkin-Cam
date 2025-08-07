@@ -114,9 +114,33 @@ function SearchForm({jsonData}) {
         setSearchText(event.target.value);
     };
 
+    const hatTrickGoal = () => {
+        resultsHide();
+        const hat = ['Hat Trick'];
+
+        const result = jsonData.filter(item =>
+            Object.values(item).some(value =>
+                hat.includes(item.tags)
+            )
+        );
+
+        const goal = Object.values(result[random(1, Object.keys(result).length)]);
+        setSearchGoal(goal[0]);
+
+        if (!window.location.hostname.includes('localhost')) {
+            ReactGA.event({
+                category: "Click",
+                action: "Hat Trick Goal Click",
+                value: 1
+            });
+        }
+    };
+
     const highlightGoal = () => {
         resultsHide();
-        const highlights = ['Century', 'Four', 'Fifty', 'Hat Trick', 'Outdoor', 'Penalty Shot', 'Shorthanded', 'Sixty'];
+        const highlights = ['Century', 'Four', 'Fifty', 'Outdoor', 'Penalty Shot', 'Shorthanded', 'Sixty'];
+
+
 
         const result = jsonData.filter(item =>
             Object.values(item).some(value =>
@@ -221,16 +245,17 @@ function SearchForm({jsonData}) {
                     <button onClick={reset} name="Reset" type="button">Reset</button>
                 </div>
                 <div>
-                    <button onClick={randomGoal} name="Random Goal" type="button">Random Goal</button>/
-                    <button onClick={highlightGoal} name="Highlight Goal" type="button">Highlight Goal</button>/
-                    <button onClick={gameWinningGoal} name="Game Winning Goal" type="button">GWG</button>/
-                    <button onClick={overtimeGoal} name="Overtime Goal" type="button">Overtime Goal</button>/
-                    <button onClick={todayGoal} name="Today's Goal" type="button">Today's Goal</button>
+                    <button onClick={randomGoal} name="Random Goal" title="A Random Goal" type="button">Random Goal</button>/
+                    <button onClick={hatTrickGoal} name="Hat Trick Goal" title="A Random Hat Trick Goal" type="button">Hat Trick Goal</button>/
+                    <button onClick={highlightGoal} name="Highlight Goal" title="A Random Noteworthy Goal" type="button">Highlight Goal</button>/
+                    <button onClick={gameWinningGoal} name="Game Winning Goal" title="A Random Game Winning Goal" type="button">GWG</button>/
+                    <button onClick={overtimeGoal} name="Overtime Goal" title="A Random Overtime Goal" type="button">Overtime Goal</button>/
+                    <button onClick={todayGoal} name="Today's Goal" title="A Goal That Changes Everyday" type="button">Today's Goal</button>
                 </div>
             </form>
 
             <div id="advanced">
-                <label htmlFor="season" hidden>Season</label>
+                <label htmlFor="season" hidden>Filter By Season</label>
                 <select id="season" name="Season" onChange={handleSeasonChange}>
                     <option name="Regular Season" value="regular" selected>Regular Season</option>
                     <option name="Playoffs" value="playoff">Playoffs</option>
