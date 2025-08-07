@@ -136,30 +136,6 @@ function SearchForm({jsonData}) {
         }
     };
 
-    const highlightGoal = () => {
-        resultsHide();
-        const highlights = ['Century', 'Four', 'Fifty', 'Outdoor', 'Penalty Shot', 'Shorthanded', 'Sixty'];
-
-
-
-        const result = jsonData.filter(item =>
-            Object.values(item).some(value =>
-                highlights.includes(value)
-            )
-        );
-
-        const goal = Object.values(result[random(1, Object.keys(result).length)]);
-        setSearchGoal(goal[0]);
-
-        if (!window.location.hostname.includes('localhost')) {
-            ReactGA.event({
-                category: "Click",
-                action: "Highlight Goal Click",
-                value: 1
-            });
-        }
-    };
-
     const overtimeGoal = () => {
         resultsHide();
         const ot = ['OT'];
@@ -246,7 +222,6 @@ function SearchForm({jsonData}) {
                 </div>
                 <div>
                     <button onClick={randomGoal} name="Random Goal" title="A Random Goal" type="button">Random Goal</button>
-                    <button onClick={highlightGoal} name="Highlight Goal" title="A Random Noteworthy Goal" type="button">Highlight Goal</button>
                     <button onClick={gameWinningGoal} name="Game Winning Goal" title="A Random Game Winning Goal" type="button">GWG</button>
                     <button onClick={overtimeGoal} name="Overtime Goal" title="A Random Overtime Goal" type="button">Overtime Goal</button>
                     <button onClick={hatTrickGoal} name="Hat Trick Goal" title="A Random Hat Trick Goal" type="button">Hat Trick Goal</button>

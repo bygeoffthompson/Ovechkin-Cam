@@ -230,7 +230,6 @@
   {
     "goal": 20,
     "link": "https://www.youtube.com/embed/y-q8y3e34_M?si=EXNIdySa7X4DdbkA",
-    "text": "1st 20 Goal Season",
     "team": "Montreal Canadiens",
     "goalie": "Cristobal Huet",
     "month": "December",
@@ -472,7 +471,6 @@
   {
     "goal": 40,
     "link": "https://www.youtube.com/embed/75JJ-C8iTn8?si=WAlVpSAjoeM1rxLR",
-    "text": "1st 40 Goal Season",
     "team": "New York Islanders",
     "goalie": "Garth Snow",
     "month": "March",
@@ -594,7 +592,6 @@
   {
     "goal": 50,
     "link": "https://www.youtube.com/embed/5yXW_0DlUnA?si=-MBQREkytTx5NWIJ",
-    "text": "1st 50 Goal Season",
     "team": "Atlanta Thrashers",
     "goalie": "Mike Dunham",
     "month": "April",
@@ -859,7 +856,6 @@
   {
     "goal": 72,
     "link": "https://www.youtube.com/embed/fq-ro6J9VI4?si=Ku7uMzdNsWSD6LML",
-    "text": "2nd 20 Goal Season",
     "team": "Atlanta Thrashers",
     "goalie": "Kari Lehtonen",
     "month": "December",
@@ -980,7 +976,6 @@
   {
     "goal": 82,
     "link": "https://www.youtube.com/embed/mc0qFkeeMVQ?si=xTu8Vp4Zw6rWmR65",
-    "text": "2nd 30 Goal Season",
     "team": "Carolina Hurricanes",
     "goalie": "Cam Ward",
     "month": "January",
@@ -1101,7 +1096,6 @@
   {
     "goal": 92,
     "link": "https://www.youtube.com/embed/E4-2eQqRZrE?si=GxQtlt62l3UwKY_T",
-    "text": "2nd 40 Goal Season",
     "team": "Atlanta Thrashers",
     "goalie": "Kari Lehtonen",
     "month": "March",
@@ -1415,7 +1409,6 @@
   {
     "goal": 118,
     "link": "https://www.youtube.com/embed/5GgsTFW6lMQ?si=dzrPxBKvcwIljiEB",
-    "text": "3rd 20 Goal Season",
     "team": "Florida Panthers",
     "goalie": "Tomáš Vokoun",
     "month": "December",
@@ -1536,7 +1529,7 @@
   {
     "goal": 128,
     "link": "https://www.youtube.com/embed/tTinu1k8INg?si=p68Dr-drk4_P1jpP",
-    "text": "1st Four Goal Game",
+    "text": "Four Goal Game",
     "team": "Ottawa Senators",
     "goalie": "",
     "month": "December",
@@ -1657,7 +1650,6 @@
   {
     "goal": 138,
     "link": "https://www.youtube.com/embed/evTZ7yOLgVs?si=8oSeqQVlzQDLEVb_",
-    "text": "3rd 40 Goal Season",
     "team": "Montreal Canadiens",
     "goalie": "Cristobal Huet",
     "month": "January",
@@ -1694,7 +1686,7 @@
   {
     "goal": 141,
     "link": "https://www.youtube.com/embed/8h4SRDJU-Fo?si=eFlyw_1x2xZrVCI6",
-    "text": "2nd Four Goal Game",
+    "text": "Four Goal Game",
     "team": "Montreal Canadiens",
     "goalie": "Cristobal Huet",
     "month": "January",
@@ -1779,7 +1771,6 @@
   {
     "goal": 148,
     "link": "https://www.youtube.com/embed/CjszjUgvFNQ?si=KqTwmLFlEwaSeJJK",
-    "text": "2nd 50 Goal Season",
     "team": "Boston Bruins",
     "goalie": "Tim Thomas",
     "month": "March",
@@ -1900,7 +1891,6 @@
   {
     "goal": 158,
     "link": "https://www.youtube.com/embed/ZU30LDf1bMQ?si=hYh147x4675c5CgU",
-    "text": "1st 60 Goal Season",
     "team": "Atlanta Thrashers",
     "goalie": "Kari Lehtonen",
     "month": "March",
@@ -2201,7 +2191,6 @@
   {
     "goal": 183,
     "link": "https://www.youtube.com/embed/jgkr1_VlNd4?si=NZcmVmgNTD_eliUM",
-    "text": "4th 20 Goal Season",
     "team": "St. Louis Blues",
     "goalie": "Ben Bishop",
     "month": "December",
@@ -2322,7 +2311,6 @@
   {
     "goal": 193,
     "link": "https://www.youtube.com/embed/WUm8a_8J6hU?si=lOlD58p2Rs2mOqsT",
-    "text": "4th 30 Goal Season",
     "team": "New York Islanders",
     "goalie": "Yann Danis",
     "month": "January",
@@ -2444,7 +2432,6 @@
   {
     "goal": 203,
     "link": "https://www.youtube.com/embed/_ej5rTGLZBQ?si=loNTiu68GZ48ipVx",
-    "text": "4th 40 Goal Season",
     "team": "Florida Panthers",
     "goalie": "Tomáš Vokoun",
     "month": "February",
@@ -2565,7 +2552,6 @@
   {
     "goal": 213,
     "link": "https://www.youtube.com/embed/pEfdUqLWeYs?si=bujcblkwUFi6YDuE",
-    "text": "3rd 50 Goal Season",
     "team": "Tampa Bay Lightning",
     "goalie": "Mike McKenna",
     "month": "March",
@@ -2878,7 +2864,6 @@
   {
     "goal": 239,
     "link": "https://www.youtube.com/embed/jxwjOfUDpQg?si=uoA7rzIHn_yoroY8",
-    "text": "5th 20 Goal Season",
     "team": "Tampa Bay Lightning",
     "goalie": "Mike Smith",
     "month": "December",
@@ -2999,13 +2984,12 @@
   {
     "goal": 249,
     "link": "https://www.youtube.com/embed/Rw-oDb-1w7M?si=gz8JPU0DhSUnCjku",
-    "text": "Penalty Shot",
     "team": "Philadelphia Flyers",
     "goalie": "Ray Emery",
     "month": "January",
     "day": 17,
     "year": 2010,
-    "type": "",
+    "type": "PS",
     "tags": "Penalty Shot",
     "season": "regular"
   },
@@ -3121,7 +3105,6 @@
   {
     "goal": 259,
     "link": "https://www.youtube.com/embed/SfJGLZCNk_g?si=i5r4V4khenPaC-ST",
-    "text": "5th 40 Goal Season",
     "team": "Pittsburgh Penguins",
     "goalie": "Marc-André Fleury",
     "month": "February",
@@ -3242,7 +3225,6 @@
   {
     "goal": 269,
     "link": "https://www.youtube.com/embed/crkZ0Vt-GoQ?si=xLR1xRdNJTPdNYUd",
-    "text": "4th 50 Goal Season",
     "team": "Atlanta Thrashers",
     "goalie": "Ondřej Pavelec",
     "month": "April",
@@ -3267,13 +3249,12 @@
   {
     "goal": 271,
     "link": "https://www.youtube.com/embed/mf8dyd3Qrzs?si=ELjvsZFZKNDm5sfz",
-    "text": "Penalty Shot",
     "team": "New Jersey Devils",
     "goalie": "Martin Brodeur",
     "month": "October",
     "day": 9,
     "year": 2010,
-    "type": "",
+    "type": "PS",
     "tags": "Penalty Shot",
     "season": "regular"
   },
@@ -3484,7 +3465,6 @@
   {
     "goal": 289,
     "link": "https://www.youtube.com/embed/maG6iAEIcgE?si=haka09CJStoo2gTl",
-    "text": "6th 20 Goal Season",
     "team": "Tampa Bay Lightning",
     "goalie": "Dwayne Roloson",
     "month": "February",
@@ -3605,7 +3585,6 @@
   {
     "goal": 299,
     "link": "https://www.youtube.com/embed/h5v1SkK_ZAc?si=HPbN_AvKNRg95k_A",
-    "text": "6th 30 Goal Season",
     "team": "Buffalo Sabres",
     "goalie": "Jhonas Enroth",
     "month": "April",
@@ -3871,7 +3850,6 @@
   {
     "goal": 321,
     "link": "https://www.youtube.com/embed/aIzrPDaz08o?si=t7qabFP28MEMfC-E",
-    "text": "7th 20 Goal Season",
     "team": "Pittsburgh Penguins",
     "goalie": "Marc-André Fleury",
     "month": "January",
@@ -4449,7 +4427,6 @@
   {
     "goal": 369,
     "link": "https://www.youtube.com/embed/LTbYU5zyhFg?si=uTzBzZh0ottFs7qb",
-    "text": "8th 30 Goal Season",
     "team": "Montreal Canadiens",
     "goalie": "Carey Price",
     "month": "April",
@@ -4714,7 +4691,6 @@
   {
     "goal": 391,
     "link": "https://www.youtube.com/embed/43LJgeKz-_0?si=lNLihfD5jLu7omKw",
-    "text": "9th 20 Goal Season",
     "team": "Toronto Maple Leafs",
     "goalie": "James Reimer",
     "month": "November",
@@ -4787,7 +4763,7 @@
   {
     "goal": 397,
     "link": "https://www.youtube.com/embed/_HYsPd0tLpY?si=NYG8gBgbu2YBTkpn",
-    "text": "3rd Four Goal Game",
+    "text": "Four Goal Game",
     "team": "Tampa Bay Lightning",
     "goalie": "Ben Bishop",
     "month": "December",
@@ -4837,7 +4813,6 @@
   {
     "goal": 401,
     "link": "https://www.youtube.com/embed/MUzqbUMHeQg?si=etOb8Bf4nXWP6x9w",
-    "text": "9th 30 Goal Season",
     "team": "New Jersey Devils",
     "goalie": "Martin Brodeur",
     "month": "December",
@@ -4958,7 +4933,6 @@
   {
     "goal": 411,
     "link": "https://www.youtube.com/embed/0ItSn7Y-x6k?si=xWrmeB-deFsR17Yy",
-    "text": "6th 40 Goal Season",
     "team": "Winnipeg Jets",
     "goalie": "Ondřej Pavelec",
     "month": "February",
@@ -5080,7 +5054,6 @@
   {
     "goal": 421,
     "link": "https://www.youtube.com/embed/p3nZK5bIkbs?si=Ax5XeqedsZhSQXgr",
-    "text": "5th 50 Goal Season",
     "team": "St. Louis Blues",
     "goalie": "Ryan Miller",
     "month": "April",
@@ -5334,7 +5307,6 @@
   {
     "goal": 442,
     "link": "https://www.youtube.com/embed/kuXPwEt4CdY?si=JbovUYw7A5bmlPRg",
-    "text": "10th 20 Goal Season",
     "team": "Toronto Maple Leafs",
     "goalie": "",
     "month": "January",
@@ -5455,7 +5427,6 @@
   {
     "goal": 452,
     "link": "https://www.youtube.com/embed/hs0BtKcT5Gs?si=9mKuvY1kqMFipYLE",
-    "text": "10th 20 Goal Season",
     "team": "St. Louis Blues",
     "goalie": "Brian Elliott",
     "month": "February",
@@ -5576,7 +5547,6 @@
   {
     "goal": 462,
     "link": "https://www.youtube.com/embed/uJPl80Yqtjc?si=hgEnZ8XvI02I5LlS",
-    "text": "7th 40 Goal Season",
     "team": "Toronto Maple Leafs",
     "goalie": "James Reimer",
     "month": "March",
@@ -5697,7 +5667,6 @@
   {
     "goal": 472,
     "link": "https://www.youtube.com/embed/BcA10Izdnk8?si=yoZf8OJnBIjcLjI1",
-    "text": "6th 50 Goal Season",
     "team": "Carolina Hurricanes",
     "goalie": "Cam Ward",
     "month": "March",
@@ -5975,7 +5944,6 @@
   {
     "goal": 495,
     "link": "https://www.youtube.com/embed/KrtxkK232Es?si=5YC9ySsfnBQScjBo",
-    "text": "11th 20 Goal Season",
     "team": "Buffalo Sabres",
     "goalie": "",
     "month": "December",
@@ -6073,7 +6041,6 @@
   {
     "goal": 503,
     "link": "https://www.youtube.com/embed/jY8h52s7WJQ?si=ga6aKmLCu9Rn4wBH",
-    "text": "Peter Bondra",
     "team": "Columbus Blue Jackets",
     "goalie": "Sergei Bobrovsky",
     "month": "January",
@@ -6098,7 +6065,6 @@
   {
     "goal": 505,
     "link": "https://www.youtube.com/embed/fFtM-PUZ6mk?si=9F2AFYIALeY6IGTD",
-    "text": "11th 30 Goal Season",
     "team": "Philadelphia Flyers",
     "goalie": "Steve Mason",
     "month": "February",
@@ -6123,7 +6089,6 @@
   {
     "goal": 507,
     "link": "https://www.youtube.com/embed/upjgyckv9_I?si=V5miFNBJxY1tN_xj",
-    "text": "Jean Beliveau",
     "team": "Minnesota Wild",
     "goalie": "Devan Dubnyk",
     "month": "February",
@@ -6184,7 +6149,6 @@
   {
     "goal": 512,
     "link": "https://www.youtube.com/embed/9ow8kTz6_dI?si=MemCrljj68ah_5my",
-    "text": "Gilbert Perreault",
     "team": "New York Islanders",
     "goalie": "Thomas Greiss",
     "month": "February",
@@ -6197,7 +6161,6 @@
   {
     "goal": 513,
     "link": "https://www.youtube.com/embed/opOeY8HRUfo?si=z-PtG3wpLg32aOUm",
-    "text": "Jeremy Roenick",
     "team": "New Jersey Devils",
     "goalie": "Cory Schneider",
     "month": "February",
@@ -6222,7 +6185,6 @@
   {
     "goal": 515,
     "link": "https://www.youtube.com/embed/sRlC49q_Sb8?si=qsFyvfrOmDSoySat",
-    "text": "8th 40 Goal Season",
     "team": "Minnesota Wild",
     "goalie": "Darcy Kuemper",
     "month": "February",
@@ -6259,7 +6221,6 @@
   {
     "goal": 518,
     "link": "https://www.youtube.com/embed/olVhyIU1QQg?si=KcOGCQVv0lV4_QqG",
-    "text": "Dale Hawerchuk",
     "team": "Ottawa Senators",
     "goalie": "Craig Anderson",
     "month": "March",
@@ -6308,7 +6269,6 @@
   {
     "goal": 522,
     "link": "https://www.youtube.com/embed/SxW_PCwMHFI?si=9iLEUnQZJfbhRohu",
-    "text": "Pat Verbeek",
     "team": "New York Islanders",
     "goalie": "Christopher Gibson",
     "month": "April",
@@ -6333,7 +6293,6 @@
   {
     "goal": 524,
     "link": "https://www.youtube.com/embed/ilmDtkRjPGE?si=XX_OHmt0XVgEmBRH",
-    "text": "Bryan Trottier",
     "team": "St. Louis Blues",
     "goalie": "Brian Elliott",
     "month": "April",
@@ -6346,7 +6305,6 @@
   {
     "goal": 525,
     "link": "https://www.youtube.com/embed/7AAhV-wUuqY?si=-o7no9PxWXJKSHHW",
-    "text": "7th 50 Goal Season",
     "team": "St. Louis Blues",
     "goalie": "Anders Nilsson",
     "month": "April",
@@ -6503,7 +6461,6 @@
   {
     "goal": 538,
     "link": "https://www.youtube.com/embed/iGQ_kopx1-k?si=bdqj32H6LCMApVVa",
-    "text": "Keith Tkachuk",
     "team": "Vancouver Canucks",
     "goalie": "Jacob Markström",
     "month": "December",
@@ -6540,7 +6497,6 @@
   {
     "goal": 541,
     "link": "https://www.youtube.com/embed/G7l0i3XKhIo?si=jbIRfV8j3abQTBfk",
-    "text": "Stan Makita",
     "team": "New York Islanders",
     "goalie": "Jaroslav Halák",
     "month": "December",
@@ -6577,7 +6533,6 @@
   {
     "goal": 544,
     "link": "https://www.youtube.com/embed/i6fuPlv1REI?si=5aLhTt41UnwMKIuG",
-    "text": "Maurice Richard",
     "team": "Montreal Canadiens",
     "goalie": "Carey Price",
     "month": "January",
@@ -6711,7 +6666,6 @@
   {
     "goal": 555,
     "link": "https://www.youtube.com/embed/H4nqdkgGd6s?si=Mqxnb1ivFXi_-Mpt",
-    "text": "12th 30 Goal Season",
     "team": "Arizona Coyotes",
     "goalie": "Mike Smith",
     "month": "March",
@@ -6724,7 +6678,6 @@
   {
     "goal": 556,
     "link": "https://www.youtube.com/embed/ZCG6IwPlG5w?si=SMjJthXqwtZn3URv",
-    "text": "Johnny Bucyk",
     "team": "Minnesota Wild",
     "goalie": "Devan Dubnyk",
     "month": "March",
@@ -6773,7 +6726,6 @@
   {
     "goal": 560,
     "link": "https://www.youtube.com/embed/6xinVXeHth8?si=8OUEoe0osyOk6SDz",
-    "text": "Guy Lafleur",
     "team": "Ottawa Senators",
     "goalie": "Craig Anderson",
     "month": "October",
@@ -6834,7 +6786,7 @@
   {
     "goal": 565,
     "link": "https://www.youtube.com/embed/F46JbM9mAgI?si=KGFqWoSFx0DiJ86L",
-    "text": "4th Four Goal Game",
+    "text": "Four Goal Game",
     "team": "Montreal Canadiens",
     "goalie": "Al Montoya",
     "month": "October",
@@ -6847,7 +6799,6 @@
   {
     "goal": 566,
     "link": "https://www.youtube.com/embed/SGlkHy9qLkI?si=wlihCKZK39wkHhmz",
-    "text": "Patrick Marleau",
     "team": "Pittsburgh Penguins",
     "goalie": "Matt Murray",
     "month": "October",
@@ -6932,7 +6883,6 @@
   {
     "goal": 573,
     "link": "https://www.youtube.com/embed/U3LFeAj6Zw8?si=DN1Wl3dtG7lfboxi",
-    "text": "Mike Bossy",
     "team": "Tampa Bay Lightning",
     "goalie": "Andrei Vasilevskiy",
     "month": "November",
@@ -6969,7 +6919,6 @@
   {
     "goal": 576,
     "link": "https://www.youtube.com/embed/zm0nd76X2aY?si=xpxQVYXWdF2NyYhC",
-    "text": "20th Hat Trick",
     "team": "Toronto Maple Leafs",
     "goalie": "",
     "month": "November",
@@ -6982,7 +6931,6 @@
   {
     "goal": 577,
     "link": "https://www.youtube.com/embed/nzI31E5XoQg?si=qjnXN4FC-UTnmQty",
-    "text": "Mark Recchi",
     "team": "Columbus Blue Jackets",
     "goalie": "Sergei Bobrovsky",
     "month": "December",
@@ -6995,7 +6943,6 @@
   {
     "goal": 578,
     "link": "https://www.youtube.com/embed/MYsxXrWaIfg?si=xl4jnEEbBH6_tlhH",
-    "text": "13th 20 Goal Season",
     "team": "San Jose Sharks",
     "goalie": "Martin Jones",
     "month": "December",
@@ -7116,7 +7063,6 @@
   {
     "goal": 588,
     "link": "https://www.youtube.com/embed/BHh2RLW38eY?si=CgBgoqbV81x2Q0TJ",
-    "text": "13th 30 Goal Season",
     "team": "Florida Panthers",
     "goalie": "Harri Säteri",
     "month": "January",
@@ -7275,7 +7221,6 @@
   {
     "goal": 601,
     "link": "https://www.youtube.com/embed/B9cEiMpdpaQ?si=nmGLJ5bTmfpwHpJ2",
-    "text": "Jari Kurri",
     "team": "Philadelphia Flyers",
     "goalie": "Petr Mrázek",
     "month": "March",
@@ -7360,7 +7305,6 @@
   {
     "goal": 608,
     "link": "https://www.youtube.com/embed/2XwOvbeulaA?si=ACCLxiBQ6KaC7kux",
-    "text": "Dino Ciccarelli",
     "team": "Boston Bruins",
     "goalie": "Tuukka Rask",
     "month": "October",
@@ -7385,7 +7329,6 @@
   {
     "goal": 610,
     "link": "https://www.youtube.com/embed/-AFquTlI-BM?si=LCjhjfO61-YxK0re",
-    "text": "Bobby Hull",
     "team": "Vegas Golden Knights",
     "goalie": "Marc-André Fleury",
     "month": "October",
@@ -7566,7 +7509,6 @@
   {
     "goal": 625,
     "link": "https://www.youtube.com/embed/RAO1kZ2xf94?si=b28RXS-Gw-9HICqQ",
-    "text": "Jarome Iginla and Joe Sakic",
     "team": "New York Islanders",
     "goalie": "",
     "month": "November",
@@ -7591,7 +7533,6 @@
   {
     "goal": 627,
     "link": "https://www.youtube.com/embed/GuigoSYCyRs?si=gwmwZxjpaCKu0kgU",
-    "text": "14th 20 Goal Season",
     "team": "Vegas Golden Knights",
     "goalie": "Marc-André Fleury",
     "month": "December",
@@ -7652,7 +7593,6 @@
   {
     "goal": 632,
     "link": "https://www.youtube.com/embed/F5-6jSwab2I?si=alVX5Dk1GSMYpwou",
-    "text": "21st Hat Trick",
     "team": "Detroit Red Wings",
     "goalie": "Jimmy Howard",
     "month": "December",
@@ -7689,7 +7629,6 @@
   {
     "goal": 635,
     "link": "https://www.youtube.com/embed/zmngvH1X42I?si=BEzTfIU_2in_uGlu",
-    "text": "22nd Hat Trick",
     "team": "Carolina Hurricanes",
     "goalie": "Scott Darling",
     "month": "December",
@@ -7714,7 +7653,6 @@
   {
     "goal": 637,
     "link": "https://www.youtube.com/embed/emrBohNjRhQ?si=MoLhX3KnoqbUnp92",
-    "text": "14th 30 Goal Season",
     "team": "St. Louis Blues",
     "goalie": "Jake Allen",
     "month": "January",
@@ -7751,7 +7689,6 @@
   {
     "goal": 640,
     "link": "https://www.youtube.com/embed/7XqlLU5EUw0?si=KY-XlPPxJlTv9l27",
-    "text": "Dave Andreychuk",
     "team": "St. Louis Blues",
     "goalie": "Jake Allen",
     "month": "January",
@@ -7836,14 +7773,13 @@
   {
     "goal": 647,
     "link": "https://www.youtube.com/embed/fsHtr-JhQog?si=gNpnJ2Pv4GMr-YYB",
-    "text": "10th 40 Goal Season",
     "team": "Anaheim Ducks",
     "goalie": "Ryan Miller",
     "month": "February",
     "day": 17,
     "year": 2019,
     "type": "",
-    "tags": "Forty",
+    "tags": "Forty 40",
     "season": "regular"
   },
   {
@@ -7945,7 +7881,6 @@
   {
     "goal": 656,
     "link": "https://www.youtube.com/embed/KOmAR8sn72Y?si=DatbkCBaqkGhovrX",
-    "text": "Brendan Shanahan",
     "team": "Carolina Hurricanes",
     "goalie": "Petr Mrázek",
     "month": "March",
@@ -7958,7 +7893,6 @@
   {
     "goal": 657,
     "link": "https://www.youtube.com/embed/GytIIlQNFAY?si=1SjR9KKcwLiaZiGa",
-    "text": "8th 50 Goal Season",
     "team": "Tampa Bay Lightning",
     "goalie": "Andrei Vasilevskiy",
     "month": "March",
@@ -8091,7 +8025,6 @@
   {
     "goal": 668,
     "link": "https://www.youtube.com/embed/cqzCLsoc40c?si=-ims4Xo-5kmlfPbW",
-    "text": "Luc Robitaille",
     "team": "Toronto Maple Leafs",
     "goalie": "Frederik Andersen",
     "month": "October",
@@ -8284,7 +8217,6 @@
   {
     "goal": 684,
     "link": "https://www.youtube.com/embed/7LdHJ2Ib3tQ?si=SNuwqNgKHLXWD97k",
-    "text": "Teemu Selanne",
     "team": "Ottawa Senators",
     "goalie": "Marcus Högberg",
     "month": "January",
@@ -8333,7 +8265,6 @@
   {
     "goal": 688,
     "link": "https://www.youtube.com/embed/etON1_qvPbs?si=voBSMaUvmaPQS8Zz",
-    "text": "15th 30 Goal Season",
     "team": "New Jersey Devils",
     "goalie": "Louis Domingue",
     "month": "January",
@@ -8358,7 +8289,6 @@
   {
     "goal": 690,
     "link": "https://www.youtube.com/embed/ThErKIJAxp8?si=yDb5N0wWyETbe-d0",
-    "text": "Mario Lemieux",
     "team": "New York Islanders",
     "goalie": "Semyon Varlamov",
     "month": "January",
@@ -8383,7 +8313,6 @@
   {
     "goal": 692,
     "link": "https://www.youtube.com/embed/F3QmnTStPJM?si=CR_GQY5MFNvGlAfQ",
-    "text": "Steve Yzerman",
     "team": "New York Islanders",
     "goalie": "",
     "month": "January",
@@ -8408,7 +8337,6 @@
   {
     "goal": 694,
     "link": "https://www.youtube.com/embed/dMRfloiegWY?si=k0cMDoYgsqfPJfIc",
-    "text": "Mark Messier",
     "team": "Ottawa Senators",
     "goalie": "Marcus Högberg",
     "month": "January",
@@ -8578,7 +8506,6 @@
   {
     "goal": 708,
     "link": "https://www.youtube.com/embed/71t2fiiqk54?si=KPkQlRSGwkQemm8D",
-    "text": "Mike Gartner",
     "team": "Boston Bruins",
     "goalie": "Tuukka Rask",
     "month": "January",
@@ -8687,7 +8614,6 @@
   {
     "goal": 717,
     "link": "https://www.youtube.com/embed/cLOJDgfnIaA?si=wtXHdNSzcjnkY3FK",
-    "text": "Phil Esposito",
     "team": "Buffalo Sabres",
     "goalie": "Carter Hutton",
     "month": "March",
@@ -8797,7 +8723,6 @@
   {
     "goal": 726,
     "link": "https://www.youtube.com/embed/-trdGFtKKls?si=8MWJRtTJBclax557",
-    "text": "16th 20 Goal Season",
     "team": "Boston Bruins",
     "goalie": "Jeremy Swayman",
     "month": "April",
@@ -8858,7 +8783,6 @@
   {
     "goal": 731,
     "link": "https://www.youtube.com/embed/0jJECto6FRo?si=W77Tj8RbWR5P6VJD",
-    "text": "Marcel Dionne",
     "team": "New York Rangers",
     "goalie": "Alexandar Georgiev",
     "month": "October",
@@ -8979,7 +8903,6 @@
   {
     "goal": 741,
     "link": "https://www.youtube.com/embed/zFljJO1r0Dc?si=yQXzW2P9vK2_PmS6",
-    "text": "Brett Hull",
     "team": "Buffalo Sabres",
     "goalie": "Dustin Tokarski",
     "month": "November",
@@ -9088,7 +9011,6 @@
   {
     "goal": 750,
     "link": "https://www.youtube.com/embed/Q91QVND_OZ0?si=56cBPSidcc820Xdd",
-    "text": "17th 20 Goal Season",
     "team": "Columbus Blue Jackets",
     "goalie": "Daniil Tarasov",
     "month": "December",
@@ -9210,7 +9132,6 @@
   {
     "goal": 760,
     "link": "https://www.youtube.com/embed/gPVulAhPpK4?si=5tVTfVjo8OqgvqhW",
-    "text": "16th 30 Goal Season",
     "team": "Nashville Predators",
     "goalie": "Juuse Saros",
     "month": "February",
@@ -9283,7 +9204,6 @@
   {
     "goal": 766,
     "link": "https://www.youtube.com/embed/yK8BltbbhQ4?si=E0p0atYSOZ0bX3Oo",
-    "text": "Jaromir Jagr",
     "team": "Calgary Flames",
     "goalie": "",
     "month": "March",
@@ -9332,7 +9252,6 @@
   {
     "goal": 770,
     "link": "https://www.youtube.com/embed/Cf0GuRUblcU?si=zhkQmiYgTWuN-_b8",
-    "text": "12th 40 Goal Season",
     "team": "Dallas Stars",
     "goalie": "Jake Oettinger",
     "month": "March",
@@ -9453,7 +9372,6 @@
   {
     "goal": 780,
     "link": "https://www.youtube.com/embed/NCo2ycLKGxQ?si=1cfag75C6itL2-OV",
-    "text": "9th 50 Goal Season",
     "team": "Vegas Golden Knights",
     "goalie": "Logan Thompson",
     "month": "April",
@@ -9707,7 +9625,6 @@
   {
     "goal": 801,
     "link": "https://www.youtube.com/embed/jf8p8yd0zrs?si=vhep7No6tWW3FxXg",
-    "text": "Gordie Howe",
     "team": "Winnipeg Jets",
     "goalie": "David Rittich",
     "month": "December",
@@ -9768,7 +9685,6 @@
   {
     "goal": 806,
     "link": "https://www.youtube.com/embed/u1Xd9Awl1RU?si=fmWNmbNI_j81ofxG",
-    "text": "30th Hat Trick",
     "team": "Montreal Canadiens",
     "goalie": "Jake Allen",
     "month": "December",
@@ -9817,7 +9733,6 @@
   {
     "goal": 810,
     "link": "https://www.youtube.com/embed/eQbS7vc29E8?si=ZYcCNFES3Ak3sxkU",
-    "text": "19th 30 Goal Season",
     "team": "Philadelphia Flyers",
     "goalie": "Carter Hart",
     "month": "January",
@@ -9938,7 +9853,6 @@
   {
     "goal": 820,
     "link": "https://www.youtube.com/embed/taYoRVHKAQ8?si=dZrYImf6o4b4Qe8k",
-    "text": "13th 40 Goal Season",
     "team": "Columbus Blue Jackets",
     "goalie": "Daniil Tarasov",
     "month": "March",
@@ -10203,7 +10117,6 @@
   {
     "goal": 842,
     "link": "https://www.youtube.com/embed/BLvoWWPVNfQ?si=o3mceOxVwbJVa7Hi",
-    "text": "19th 20 Goal Season",
     "team": "Calgary Flames",
     "goalie": "Dustin Wolf",
     "month": "March",
@@ -10324,7 +10237,6 @@
   {
     "goal": 852,
     "link": "https://www.youtube.com/embed/wqaDEXKGsgA?si=TpksfFJoyubZXNp8",
-    "text": "18th 30 Goal Season",
     "team": "Detroit Red Wings",
     "goalie": "Alex Lyon",
     "month": "April",
@@ -10493,7 +10405,6 @@
   {
     "goal": 866,
     "link": "https://www.youtube.com/embed/5Z3YW4rA7gA?si=3W_ZpQWvdhcvu5ww&amp;start=113",
-    "text": "31st Hat Trick",
     "team": "Vegas Golden Knights",
     "goalie": "",
     "month": "November",
@@ -10578,7 +10489,6 @@
   {
     "goal": 873,
     "link": "https://www.youtube.com/embed/ym0gMGbHEW8?si=ss63_EgYrHGAaCUI",
-    "text": "20th 20 Goal Season",
     "team": "Nashville Predators",
     "goalie": "",
     "month": "January",
@@ -10687,7 +10597,6 @@
   {
     "goal": 882,
     "link": "https://www.youtube.com/embed/ECX9-sWcPNs?si=B8jDRyo2sXCrapQY",
-    "text": "32nd Hat Trick",
     "team": "Edmonton Oilers",
     "goalie": "",
     "month": "February",
@@ -10700,7 +10609,6 @@
   {
     "goal": 883,
     "link": "https://www.youtube.com/embed/CEM8-cDkvpk?si=v8o-tCO15DpsHZcU",
-    "text": "19th 30 Goal Season",
     "team": "Calgary Flames",
     "goalie": "Dan Vladar",
     "month": "February",
@@ -10822,7 +10730,6 @@
   {
     "goal": 893,
     "link": "https://www.youtube.com/embed/hx2UWo6_HHs?si=rPfsk1sGfhFbDW4a",
-    "text": "14th 40 Goal Season",
     "team": "Chicago Blackhawks",
     "goalie": "Spencer Knight",
     "month": "April",
