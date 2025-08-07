@@ -222,8 +222,8 @@ function SearchForm({jsonData}) {
                 </div>
                 <div>
                     <button onClick={randomGoal} name="Random Goal" type="button">Random Goal</button>/
-                    <button onClick={gameWinningGoal} name="Game Winning Goal" type="button">GWG</button>/
                     <button onClick={highlightGoal} name="Highlight Goal" type="button">Highlight Goal</button>/
+                    <button onClick={gameWinningGoal} name="Game Winning Goal" type="button">GWG</button>/
                     <button onClick={overtimeGoal} name="Overtime Goal" type="button">Overtime Goal</button>/
                     <button onClick={todayGoal} name="Today's Goal" type="button">Today's Goal</button>
                 </div>
