@@ -8,7 +8,8 @@
     "day": 5,
     "year": 2005,
     "type": "",
-    "tags": "Welcome On Board First"
+    "tags": "Welcome On Board First",
+    "season": "regular"
   },
   {
     "goal": 2,
@@ -19,7 +20,8 @@
     "day": 5,
     "year": 2005,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 3,
@@ -30,7 +32,8 @@
     "day": 10,
     "year": 2005,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 4,
@@ -41,7 +44,8 @@
     "day": 12,
     "year": 2005,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 5,
@@ -52,7 +56,8 @@
     "day": 20,
     "year": 2005,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 6,
@@ -63,7 +68,8 @@
     "day": 20,
     "year": 2005,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 7,
@@ -74,7 +80,8 @@
     "day": 28,
     "year": 2005,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 8,
@@ -85,7 +92,8 @@
     "day": 28,
     "year": 2005,
     "type": "SHG",
-    "tags": "Shorthanded"
+    "tags": "Shorthanded",
+    "season": "regular"
   },
   {
     "goal": 9,
@@ -96,7 +104,8 @@
     "day": 6,
     "year": 2005,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 10,
@@ -107,7 +116,8 @@
     "day": 6,
     "year": 2005,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 11,
@@ -118,7 +128,8 @@
     "day": 8,
     "year": 2005,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 12,
@@ -129,7 +140,8 @@
     "day": 8,
     "year": 2005,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 13,
@@ -140,7 +152,8 @@
     "day": 11,
     "year": 2005,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 14,
@@ -151,7 +164,8 @@
     "day": 15,
     "year": 2005,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 15,
@@ -162,7 +176,8 @@
     "day": 17,
     "year": 2005,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 16,
@@ -173,7 +188,8 @@
     "day": 3,
     "year": 2005,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 17,
@@ -184,7 +200,8 @@
     "day": 7,
     "year": 2005,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 18,
@@ -195,7 +212,8 @@
     "day": 9,
     "year": 2005,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 19,
@@ -206,7 +224,8 @@
     "day": 22,
     "year": 2005,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 20,
@@ -218,7 +237,8 @@
     "day": 23,
     "year": 2005,
     "type": "",
-    "tags": "Twenty 20"
+    "tags": "Twenty 20",
+    "season": "regular"
   },
   {
     "goal": 21,
@@ -229,7 +249,8 @@
     "day": 27,
     "year": 2005,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 22,
@@ -240,7 +261,8 @@
     "day": 28,
     "year": 2005,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 23,
@@ -251,7 +273,8 @@
     "day": 31,
     "year": 2005,
     "type": "",
-    "tags": "New Years Eve Antero Niittymaki"
+    "tags": "New Years Eve Antero Niittymaki",
+    "season": "regular"
   },
   {
     "goal": 24,
@@ -262,7 +285,8 @@
     "day": 1,
     "year": 2006,
     "type": "",
-    "tags": "New Years Day"
+    "tags": "New Years Day",
+    "season": "regular"
   },
   {
     "goal": 25,
@@ -273,7 +297,8 @@
     "day": 6,
     "year": 2006,
     "type": "",
-    "tags": "Antero Niittymaki"
+    "tags": "Antero Niittymaki",
+    "season": "regular"
   },
   {
     "goal": 26,
@@ -284,7 +309,8 @@
     "day": 10,
     "year": 2006,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 27,
@@ -295,7 +321,8 @@
     "day": 12,
     "year": 2006,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 28,
@@ -306,7 +333,8 @@
     "day": 13,
     "year": 2006,
     "type": "",
-    "tags": "Jean-Sebastien Giguere Anaheim Ducks"
+    "tags": "Jean-Sebastien Giguere Anaheim Ducks",
+    "season": "regular"
   },
   {
     "goal": 29,
@@ -317,7 +345,8 @@
     "day": 13,
     "year": 2006,
     "type": "",
-    "tags": "Jean-Sebastien Giguere Anaheim Ducks"
+    "tags": "Jean-Sebastien Giguere Anaheim Ducks",
+    "season": "regular"
   },
   {
     "goal": 30,
@@ -329,7 +358,8 @@
     "day": 13,
     "year": 2006,
     "type": "OT",
-    "tags": "Jean-Sebastien Giguere Hat Trick Overtime Game Winning Goal GWG Anaheim Ducks"
+    "tags": "Jean-Sebastien Giguere Hat Trick Overtime Game Winning Goal GWG Anaheim Ducks",
+    "season": "regular"
   },
   {
     "goal": 31,
@@ -340,7 +370,8 @@
     "day": 16,
     "year": 2006,
     "type": "",
-    "tags": "Arizona Coyotes"
+    "tags": "Arizona Coyotes",
+    "season": "regular"
   },
   {
     "goal": 32,
@@ -352,7 +383,8 @@
     "day": 16,
     "year": 2006,
     "type": "",
-    "tags": "Arizona Coyotes Simply Sensational"
+    "tags": "Arizona Coyotes Simply Sensational",
+    "season": "regular"
   },
   {
     "goal": 33,
@@ -363,7 +395,8 @@
     "day": 19,
     "year": 2006,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 34,
@@ -374,7 +407,8 @@
     "day": 25,
     "year": 2006,
     "type": "",
-    "tags": "Marc-Andre Fleury"
+    "tags": "Marc-Andre Fleury",
+    "season": "regular"
   },
   {
     "goal": 35,
@@ -385,7 +419,8 @@
     "day": 10,
     "year": 2006,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 36,
@@ -396,7 +431,8 @@
     "day": 11,
     "year": 2006,
     "type": "SHG",
-    "tags": "Marc-Andre Fleury Shorthanded"
+    "tags": "Marc-Andre Fleury Shorthanded",
+    "season": "regular"
   },
   {
     "goal": 37,
@@ -407,7 +443,8 @@
     "day": 28,
     "year": 2006,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 38,
@@ -418,7 +455,8 @@
     "day": 2,
     "year": 2006,
     "type": "SHG",
-    "tags": "Shorthanded"
+    "tags": "Shorthanded",
+    "season": "regular"
   },
   {
     "goal": 39,
@@ -429,7 +467,8 @@
     "day": 4,
     "year": 2006,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 40,
@@ -441,7 +480,8 @@
     "day": 6,
     "year": 2006,
     "type": "",
-    "tags": "Forty 40"
+    "tags": "Forty 40",
+    "season": "regular"
   },
   {
     "goal": 41,
@@ -452,7 +492,8 @@
     "day": 6,
     "year": 2006,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 42,
@@ -463,7 +504,8 @@
     "day": 8,
     "year": 2006,
     "type": "",
-    "tags": "Sebastien"
+    "tags": "Sebastien",
+    "season": "regular"
   },
   {
     "goal": 43,
@@ -474,7 +516,8 @@
     "day": 14,
     "year": 2006,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 44,
@@ -485,7 +528,8 @@
     "day": 20,
     "year": 2006,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 45,
@@ -496,7 +540,8 @@
     "day": 23,
     "year": 2006,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 46,
@@ -507,7 +552,8 @@
     "day": 23,
     "year": 2006,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 47,
@@ -518,7 +564,8 @@
     "day": 25,
     "year": 2006,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 48,
@@ -529,7 +576,8 @@
     "day": 29,
     "year": 2006,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 49,
@@ -541,7 +589,8 @@
     "day": 10,
     "year": 2006,
     "type": "OT",
-    "tags": "100th Point Overtime Game Winning Goal GWG"
+    "tags": "100th Point Overtime Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 50,
@@ -553,7 +602,8 @@
     "day": 13,
     "year": 2006,
     "type": "",
-    "tags": "Fifty 50"
+    "tags": "Fifty 50",
+    "season": "regular"
   },
   {
     "goal": 51,
@@ -564,7 +614,8 @@
     "day": 15,
     "year": 2006,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 52,
@@ -575,7 +626,8 @@
     "day": 17,
     "year": 2006,
     "type": "",
-    "tags": "Last"
+    "tags": "Last",
+    "season": "regular"
   },
   {
     "goal": 53,
@@ -586,7 +638,8 @@
     "day": 7,
     "year": 2006,
     "type": "GWG",
-    "tags": "First Game Winning Goal GWG"
+    "tags": "First Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 54,
@@ -597,7 +650,8 @@
     "day": 7,
     "year": 2006,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 55,
@@ -608,7 +662,8 @@
     "day": 19,
     "year": 2006,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 56,
@@ -619,7 +674,8 @@
     "day": 21,
     "year": 2006,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 57,
@@ -630,7 +686,8 @@
     "day": 25,
     "year": 2006,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 58,
@@ -641,7 +698,8 @@
     "day": 27,
     "year": 2006,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 59,
@@ -652,7 +710,8 @@
     "day": 4,
     "year": 2006,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 60,
@@ -663,7 +722,8 @@
     "day": 4,
     "year": 2006,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 61,
@@ -674,7 +734,8 @@
     "day": 6,
     "year": 2006,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 62,
@@ -685,7 +746,8 @@
     "day": 6,
     "year": 2006,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 63,
@@ -696,7 +758,8 @@
     "day": 11,
     "year": 2006,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 64,
@@ -707,7 +770,8 @@
     "day": 13,
     "year": 2006,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 65,
@@ -718,7 +782,8 @@
     "day": 18,
     "year": 2006,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 66,
@@ -729,7 +794,8 @@
     "day": 24,
     "year": 2006,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 67,
@@ -740,7 +806,8 @@
     "day": 25,
     "year": 2006,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 68,
@@ -751,7 +818,8 @@
     "day": 28,
     "year": 2006,
     "type": "",
-    "tags": "Empty Net"
+    "tags": "Empty Net",
+    "season": "regular"
   },
   {
     "goal": 69,
@@ -762,7 +830,8 @@
     "day": 2,
     "year": 2006,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 70,
@@ -773,7 +842,8 @@
     "day": 9,
     "year": 2006,
     "type": "",
-    "tags": "Antero Niittymaki"
+    "tags": "Antero Niittymaki",
+    "season": "regular"
   },
   {
     "goal": 71,
@@ -784,7 +854,8 @@
     "day": 15,
     "year": 2006,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 72,
@@ -796,7 +867,8 @@
     "day": 15,
     "year": 2006,
     "type": "",
-    "tags": "Twenty 20"
+    "tags": "Twenty 20",
+    "season": "regular"
   },
   {
     "goal": 73,
@@ -808,7 +880,8 @@
     "day": 15,
     "year": 2006,
     "type": "OT",
-    "tags": "Hat Trick Overtime Game Winning Goal GWG"
+    "tags": "Hat Trick Overtime Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 74,
@@ -819,7 +892,8 @@
     "day": 16,
     "year": 2006,
     "type": "",
-    "tags": "Antero Niittymaki"
+    "tags": "Antero Niittymaki",
+    "season": "regular"
   },
   {
     "goal": 75,
@@ -830,7 +904,8 @@
     "day": 19,
     "year": 2006,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 76,
@@ -841,7 +916,8 @@
     "day": 23,
     "year": 2006,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 77,
@@ -852,7 +928,8 @@
     "day": 26,
     "year": 2006,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 78,
@@ -863,7 +940,8 @@
     "day": 6,
     "year": 2007,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 79,
@@ -874,7 +952,8 @@
     "day": 9,
     "year": 2007,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 80,
@@ -885,7 +964,8 @@
     "day": 9,
     "year": 2007,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 81,
@@ -896,7 +976,8 @@
     "day": 18,
     "year": 2007,
     "type": "",
-    "tags": "Empty Net"
+    "tags": "Empty Net",
+    "season": "regular"
   },
   {
     "goal": 82,
@@ -908,7 +989,8 @@
     "day": 26,
     "year": 2007,
     "type": "",
-    "tags": "Thirty 30"
+    "tags": "Thirty 30",
+    "season": "regular"
   },
   {
     "goal": 83,
@@ -919,7 +1001,8 @@
     "day": 27,
     "year": 2007,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 84,
@@ -930,7 +1013,8 @@
     "day": 30,
     "year": 2007,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 85,
@@ -941,7 +1025,8 @@
     "day": 1,
     "year": 2007,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 86,
@@ -952,7 +1037,8 @@
     "day": 10,
     "year": 2007,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 87,
@@ -963,7 +1049,8 @@
     "day": 25,
     "year": 2007,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 88,
@@ -974,7 +1061,8 @@
     "day": 27,
     "year": 2007,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 89,
@@ -985,7 +1073,8 @@
     "day": 27,
     "year": 2007,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 90,
@@ -996,7 +1085,8 @@
     "day": 1,
     "year": 2007,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 91,
@@ -1007,7 +1097,8 @@
     "day": 10,
     "year": 2007,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 92,
@@ -1019,7 +1110,8 @@
     "day": 12,
     "year": 2007,
     "type": "",
-    "tags": "Forty 40"
+    "tags": "Forty 40",
+    "season": "regular"
   },
   {
     "goal": 93,
@@ -1030,7 +1122,8 @@
     "day": 12,
     "year": 2007,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 94,
@@ -1041,7 +1134,8 @@
     "day": 22,
     "year": 2007,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 95,
@@ -1052,7 +1146,8 @@
     "day": 22,
     "year": 2007,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 96,
@@ -1063,7 +1158,8 @@
     "day": 3,
     "year": 2007,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 97,
@@ -1074,7 +1170,8 @@
     "day": 4,
     "year": 2007,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 98,
@@ -1085,7 +1182,8 @@
     "day": 4,
     "year": 2007,
     "type": "GWG",
-    "tags": "Last Game Winning Goal GWG"
+    "tags": "Last Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 99,
@@ -1096,7 +1194,8 @@
     "day": 6,
     "year": 2007,
     "type": "GWG",
-    "tags": "First Game Winning Goal GWG"
+    "tags": "First Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 100,
@@ -1108,7 +1207,8 @@
     "day": 12,
     "year": 2007,
     "type": "",
-    "tags": "100th Goal Century"
+    "tags": "100th Goal Century",
+    "season": "regular"
   },
   {
     "goal": 101,
@@ -1119,7 +1219,8 @@
     "day": 13,
     "year": 2007,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 102,
@@ -1130,7 +1231,8 @@
     "day": 18,
     "year": 2007,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 103,
@@ -1141,7 +1243,8 @@
     "day": 24,
     "year": 2007,
     "type": "",
-    "tags": "Empty Net"
+    "tags": "Empty Net",
+    "season": "regular"
   },
   {
     "goal": 104,
@@ -1152,7 +1255,8 @@
     "day": 26,
     "year": 2007,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 105,
@@ -1163,7 +1267,8 @@
     "day": 29,
     "year": 2007,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 106,
@@ -1174,7 +1279,8 @@
     "day": 29,
     "year": 2007,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 107,
@@ -1185,7 +1291,8 @@
     "day": 2,
     "year": 2007,
     "type": "",
-    "tags": "Antero Niittymaki"
+    "tags": "Antero Niittymaki",
+    "season": "regular"
   },
   {
     "goal": 108,
@@ -1196,7 +1303,8 @@
     "day": 8,
     "year": 2007,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 109,
@@ -1207,7 +1315,8 @@
     "day": 10,
     "year": 2007,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 110,
@@ -1218,7 +1327,8 @@
     "day": 15,
     "year": 2007,
     "type": "",
-    "tags": "Tomas Vokoun"
+    "tags": "Tomas Vokoun",
+    "season": "regular"
   },
   {
     "goal": 111,
@@ -1229,7 +1339,8 @@
     "day": 16,
     "year": 2007,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 112,
@@ -1240,7 +1351,8 @@
     "day": 21,
     "year": 2007,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 113,
@@ -1251,7 +1363,8 @@
     "day": 24,
     "year": 2007,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 114,
@@ -1262,7 +1375,8 @@
     "day": 24,
     "year": 2007,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 115,
@@ -1273,7 +1387,8 @@
     "day": 26,
     "year": 2007,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 116,
@@ -1284,7 +1399,8 @@
     "day": 30,
     "year": 2007,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 117,
@@ -1295,7 +1411,8 @@
     "day": 30,
     "year": 2007,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 118,
@@ -1307,7 +1424,8 @@
     "day": 1,
     "year": 2007,
     "type": "GWG",
-    "tags": "Tomas Vokoun Twenty 20 Game Winning Goal GWG"
+    "tags": "Tomas Vokoun Twenty 20 Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 119,
@@ -1318,7 +1436,8 @@
     "day": 8,
     "year": 2007,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 120,
@@ -1329,7 +1448,8 @@
     "day": 12,
     "year": 2007,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 121,
@@ -1340,7 +1460,8 @@
     "day": 14,
     "year": 2007,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 122,
@@ -1351,7 +1472,8 @@
     "day": 17,
     "year": 2007,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 123,
@@ -1362,7 +1484,8 @@
     "day": 22,
     "year": 2007,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 124,
@@ -1373,7 +1496,8 @@
     "day": 27,
     "year": 2007,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 125,
@@ -1384,7 +1508,8 @@
     "day": 29,
     "year": 2007,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 126,
@@ -1395,7 +1520,8 @@
     "day": 29,
     "year": 2007,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 127,
@@ -1407,7 +1533,8 @@
     "day": 29,
     "year": 2007,
     "type": "GWG",
-    "tags": "Hat Trick Game Winning Goal GWG"
+    "tags": "Hat Trick Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 128,
@@ -1419,7 +1546,8 @@
     "day": 29,
     "year": 2007,
     "type": "",
-    "tags": "Empty Net Four 4"
+    "tags": "Empty Net Four 4",
+    "season": "regular"
   },
   {
     "goal": 129,
@@ -1430,7 +1558,8 @@
     "day": 5,
     "year": 2008,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 130,
@@ -1441,7 +1570,8 @@
     "day": 5,
     "year": 2008,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 131,
@@ -1452,7 +1582,8 @@
     "day": 13,
     "year": 2008,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 132,
@@ -1463,7 +1594,8 @@
     "day": 15,
     "year": 2008,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 133,
@@ -1474,7 +1606,8 @@
     "day": 17,
     "year": 2008,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 134,
@@ -1485,7 +1618,8 @@
     "day": 19,
     "year": 2008,
     "type": "",
-    "tags": "Tomas Vokoun"
+    "tags": "Tomas Vokoun",
+    "season": "regular"
   },
   {
     "goal": 135,
@@ -1496,7 +1630,8 @@
     "day": 21,
     "year": 2008,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 136,
@@ -1507,7 +1642,8 @@
     "day": 21,
     "year": 2008,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 137,
@@ -1518,7 +1654,8 @@
     "day": 23,
     "year": 2008,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 138,
@@ -1530,7 +1667,8 @@
     "day": 28,
     "year": 2008,
     "type": "",
-    "tags": "Forty 40"
+    "tags": "Forty 40",
+    "season": "regular"
   },
   {
     "goal": 139,
@@ -1541,7 +1679,8 @@
     "day": 28,
     "year": 2008,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 140,
@@ -1553,7 +1692,8 @@
     "day": 28,
     "year": 2008,
     "type": "",
-    "tags": "Hat Trick"
+    "tags": "Hat Trick",
+    "season": "regular"
   },
   {
     "goal": 141,
@@ -1565,7 +1705,8 @@
     "day": 28,
     "year": 2008,
     "type": "OT",
-    "tags": "Four 4 Overtime Game Winning Goal GWG"
+    "tags": "Four 4 Overtime Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 142,
@@ -1576,7 +1717,8 @@
     "day": 5,
     "year": 2008,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 143,
@@ -1587,7 +1729,8 @@
     "day": 5,
     "year": 2008,
     "type": "OT",
-    "tags": "Overtime Game Winning Goal GWG"
+    "tags": "Overtime Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 144,
@@ -1598,7 +1741,8 @@
     "day": 6,
     "year": 2008,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 145,
@@ -1609,7 +1753,8 @@
     "day": 10,
     "year": 2008,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 146,
@@ -1620,7 +1765,8 @@
     "day": 13,
     "year": 2008,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 147,
@@ -1631,7 +1777,8 @@
     "day": 1,
     "year": 2008,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 148,
@@ -1643,7 +1790,8 @@
     "day": 3,
     "year": 2008,
     "type": "",
-    "tags": "Fifty 50"
+    "tags": "Fifty 50",
+    "season": "regular"
   },
   {
     "goal": 149,
@@ -1654,7 +1802,8 @@
     "day": 3,
     "year": 2008,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 150,
@@ -1666,7 +1815,8 @@
     "day": 3,
     "year": 2008,
     "type": "",
-    "tags": "Hat Trick"
+    "tags": "Hat Trick",
+    "season": "regular"
   },
   {
     "goal": 151,
@@ -1677,7 +1827,8 @@
     "day": 8,
     "year": 2008,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 152,
@@ -1688,7 +1839,8 @@
     "day": 8,
     "year": 2008,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 153,
@@ -1699,7 +1851,8 @@
     "day": 12,
     "year": 2008,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 154,
@@ -1710,7 +1863,8 @@
     "day": 12,
     "year": 2008,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 155,
@@ -1721,7 +1875,8 @@
     "day": 14,
     "year": 2008,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 156,
@@ -1732,7 +1887,8 @@
     "day": 18,
     "year": 2008,
     "type": "",
-    "tags": "Empty Net"
+    "tags": "Empty Net",
+    "season": "regular"
   },
   {
     "goal": 157,
@@ -1743,7 +1899,8 @@
     "day": 21,
     "year": 2008,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 158,
@@ -1755,7 +1912,8 @@
     "day": 21,
     "year": 2008,
     "type": "",
-    "tags": "Sixty 60"
+    "tags": "Sixty 60",
+    "season": "regular"
   },
   {
     "goal": 159,
@@ -1766,7 +1924,8 @@
     "day": 25,
     "year": 2008,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 160,
@@ -1777,7 +1936,8 @@
     "day": 29,
     "year": 2008,
     "type": "",
-    "tags": "Tomas Vokoun"
+    "tags": "Tomas Vokoun",
+    "season": "regular"
   },
   {
     "goal": 161,
@@ -1788,7 +1948,8 @@
     "day": 1,
     "year": 2008,
     "type": "",
-    "tags": "Fools Day"
+    "tags": "Fools Day",
+    "season": "regular"
   },
   {
     "goal": 162,
@@ -1799,7 +1960,8 @@
     "day": 3,
     "year": 2008,
     "type": "",
-    "tags": "Karri Ramo"
+    "tags": "Karri Ramo",
+    "season": "regular"
   },
   {
     "goal": 163,
@@ -1810,7 +1972,8 @@
     "day": 3,
     "year": 2008,
     "type": "GWG",
-    "tags": "Karri Ramo Last Game Winning Goal GWG Rocket Richard Trophy"
+    "tags": "Karri Ramo Last Game Winning Goal GWG Rocket Richard Trophy",
+    "season": "regular"
   },
   {
     "goal": 164,
@@ -1821,7 +1984,8 @@
     "day": 11,
     "year": 2008,
     "type": "",
-    "tags": "First"
+    "tags": "First",
+    "season": "regular"
   },
   {
     "goal": 165,
@@ -1832,7 +1996,8 @@
     "day": 11,
     "year": 2008,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 166,
@@ -1843,7 +2008,8 @@
     "day": 10,
     "year": 2008,
     "type": "",
-    "tags": "Olaf Kolzig"
+    "tags": "Olaf Kolzig",
+    "season": "regular"
   },
   {
     "goal": 167,
@@ -1854,7 +2020,8 @@
     "day": 12,
     "year": 2008,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 168,
@@ -1865,7 +2032,8 @@
     "day": 14,
     "year": 2008,
     "type": "",
-    "tags": "Empty Net"
+    "tags": "Empty Net",
+    "season": "regular"
   },
   {
     "goal": 169,
@@ -1876,7 +2044,8 @@
     "day": 15,
     "year": 2008,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 170,
@@ -1887,7 +2056,8 @@
     "day": 15,
     "year": 2008,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 171,
@@ -1898,7 +2068,8 @@
     "day": 19,
     "year": 2008,
     "type": "",
-    "tags": "Jean-Sebastien Giguere"
+    "tags": "Jean-Sebastien Giguere",
+    "season": "regular"
   },
   {
     "goal": 172,
@@ -1909,7 +2080,8 @@
     "day": 24,
     "year": 2008,
     "type": "",
-    "tags": "Niklas Backstrom"
+    "tags": "Niklas Backstrom",
+    "season": "regular"
   },
   {
     "goal": 173,
@@ -1920,7 +2092,8 @@
     "day": 26,
     "year": 2008,
     "type": "",
-    "tags": "Ondrej Pavelec"
+    "tags": "Ondrej Pavelec",
+    "season": "regular"
   },
   {
     "goal": 174,
@@ -1931,7 +2104,8 @@
     "day": 26,
     "year": 2008,
     "type": "",
-    "tags": "Ondrej Pavelec"
+    "tags": "Ondrej Pavelec",
+    "season": "regular"
   },
   {
     "goal": 175,
@@ -1943,7 +2117,8 @@
     "day": 26,
     "year": 2008,
     "type": "GWG",
-    "tags": "Ondrej Pavelec Hat Trick Game Winning Goal GWG"
+    "tags": "Ondrej Pavelec Hat Trick Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 176,
@@ -1954,7 +2129,8 @@
     "day": 28,
     "year": 2008,
     "type": "",
-    "tags": "Jaroslav Halak"
+    "tags": "Jaroslav Halak",
+    "season": "regular"
   },
   {
     "goal": 177,
@@ -1965,7 +2141,8 @@
     "day": 4,
     "year": 2008,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 178,
@@ -1976,7 +2153,8 @@
     "day": 10,
     "year": 2008,
     "type": "",
-    "tags": "Empty Net"
+    "tags": "Empty Net",
+    "season": "regular"
   },
   {
     "goal": 179,
@@ -1987,7 +2165,8 @@
     "day": 12,
     "year": 2008,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 180,
@@ -1998,7 +2177,8 @@
     "day": 12,
     "year": 2008,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 181,
@@ -2009,7 +2189,8 @@
     "day": 16,
     "year": 2008,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 182,
@@ -2020,7 +2201,8 @@
     "day": 16,
     "year": 2008,
     "type": "OT",
-    "tags": "Overtime Game Winning Goal GWG"
+    "tags": "Overtime Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 183,
@@ -2032,7 +2214,8 @@
     "day": 18,
     "year": 2008,
     "type": "",
-    "tags": "Twenty 20"
+    "tags": "Twenty 20",
+    "season": "regular"
   },
   {
     "goal": 184,
@@ -2043,7 +2226,8 @@
     "day": 23,
     "year": 2008,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 185,
@@ -2054,7 +2238,8 @@
     "day": 23,
     "year": 2008,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 186,
@@ -2065,7 +2250,8 @@
     "day": 26,
     "year": 2008,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 187,
@@ -2076,7 +2262,8 @@
     "day": 28,
     "year": 2008,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 188,
@@ -2087,7 +2274,8 @@
     "day": 28,
     "year": 2008,
     "type": "",
-    "tags": "Empty Net"
+    "tags": "Empty Net",
+    "season": "regular"
   },
   {
     "goal": 189,
@@ -2098,7 +2286,8 @@
     "day": 1,
     "year": 2009,
     "type": "",
-    "tags": "New Years Day"
+    "tags": "New Years Day",
+    "season": "regular"
   },
   {
     "goal": 190,
@@ -2109,7 +2298,8 @@
     "day": 3,
     "year": 2009,
     "type": "SHG",
-    "tags": "Shorthanded Game Winning Goal GWG"
+    "tags": "Shorthanded Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 191,
@@ -2120,7 +2310,8 @@
     "day": 14,
     "year": 2009,
     "type": "",
-    "tags": "Marc-Andre Fleury"
+    "tags": "Marc-Andre Fleury",
+    "season": "regular"
   },
   {
     "goal": 192,
@@ -2131,7 +2322,8 @@
     "day": 14,
     "year": 2009,
     "type": "",
-    "tags": "Marc-Andre Fleury"
+    "tags": "Marc-Andre Fleury",
+    "season": "regular"
   },
   {
     "goal": 193,
@@ -2143,7 +2335,8 @@
     "day": 19,
     "year": 2009,
     "type": "",
-    "tags": "Thirty 30"
+    "tags": "Thirty 30",
+    "season": "regular"
   },
   {
     "goal": 194,
@@ -2154,7 +2347,8 @@
     "day": 19,
     "year": 2009,
     "type": "OT",
-    "tags": "Overtime Game Winning Goal GWG"
+    "tags": "Overtime Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 195,
@@ -2165,7 +2359,8 @@
     "day": 31,
     "year": 2009,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 196,
@@ -2176,7 +2371,8 @@
     "day": 31,
     "year": 2009,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 197,
@@ -2187,7 +2383,8 @@
     "day": 1,
     "year": 2009,
     "type": "",
-    "tags": "Superbowl Super Bowl Sunday"
+    "tags": "Superbowl Super Bowl Sunday",
+    "season": "regular"
   },
   {
     "goal": 198,
@@ -2198,7 +2395,8 @@
     "day": 1,
     "year": 2009,
     "type": "",
-    "tags": "Superbowl Super Bowl Sunday"
+    "tags": "Superbowl Super Bowl Sunday",
+    "season": "regular"
   },
   {
     "goal": 199,
@@ -2210,7 +2408,8 @@
     "day": 1,
     "year": 2009,
     "type": "",
-    "tags": "Hat Trick Superbowl Super Bowl Sunday"
+    "tags": "Hat Trick Superbowl Super Bowl Sunday",
+    "season": "regular"
   },
   {
     "goal": 200,
@@ -2222,7 +2421,8 @@
     "day": 5,
     "year": 2009,
     "type": "",
-    "tags": "200th Goal Century"
+    "tags": "200th Goal Century",
+    "season": "regular"
   },
   {
     "goal": 201,
@@ -2233,7 +2433,8 @@
     "day": 14,
     "year": 2009,
     "type": "GWG",
-    "tags": "Valentine's Valentines Day Game Winning Goal GWG"
+    "tags": "Valentine's Valentines Day Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 202,
@@ -2244,7 +2445,8 @@
     "day": 15,
     "year": 2009,
     "type": "",
-    "tags": "Tomas Vokoun"
+    "tags": "Tomas Vokoun",
+    "season": "regular"
   },
   {
     "goal": 203,
@@ -2256,7 +2458,8 @@
     "day": 15,
     "year": 2009,
     "type": "GWG",
-    "tags": "Tomas Vokoun Forty 40 Game Winning Goal GWG"
+    "tags": "Tomas Vokoun Forty 40 Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 204,
@@ -2268,7 +2471,8 @@
     "day": 15,
     "year": 2009,
     "type": "",
-    "tags": "Empty Net Hat Trick"
+    "tags": "Empty Net Hat Trick",
+    "season": "regular"
   },
   {
     "goal": 205,
@@ -2279,7 +2483,8 @@
     "day": 18,
     "year": 2009,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 206,
@@ -2290,7 +2495,8 @@
     "day": 22,
     "year": 2009,
     "type": "",
-    "tags": "Marc-Andre Fleury"
+    "tags": "Marc-Andre Fleury",
+    "season": "regular"
   },
   {
     "goal": 207,
@@ -2301,7 +2507,8 @@
     "day": 24,
     "year": 2009,
     "type": "",
-    "tags": "Antero Niittymaki"
+    "tags": "Antero Niittymaki",
+    "season": "regular"
   },
   {
     "goal": 208,
@@ -2312,7 +2519,8 @@
     "day": 28,
     "year": 2009,
     "type": "",
-    "tags": "Vezina Trophy"
+    "tags": "Vezina Trophy",
+    "season": "regular"
   },
   {
     "goal": 209,
@@ -2323,7 +2531,8 @@
     "day": 1,
     "year": 2009,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 210,
@@ -2334,7 +2543,8 @@
     "day": 8,
     "year": 2009,
     "type": "",
-    "tags": "Marc-Andre Fleury"
+    "tags": "Marc-Andre Fleury",
+    "season": "regular"
   },
   {
     "goal": 211,
@@ -2345,7 +2555,8 @@
     "day": 12,
     "year": 2009,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 212,
@@ -2356,7 +2567,8 @@
     "day": 14,
     "year": 2009,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 213,
@@ -2368,7 +2580,8 @@
     "day": 19,
     "year": 2009,
     "type": "",
-    "tags": "Fifty 50"
+    "tags": "Fifty 50",
+    "season": "regular"
   },
   {
     "goal": 214,
@@ -2379,7 +2592,8 @@
     "day": 24,
     "year": 2009,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 215,
@@ -2390,7 +2604,8 @@
     "day": 27,
     "year": 2009,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 216,
@@ -2401,7 +2616,8 @@
     "day": 27,
     "year": 2009,
     "type": "",
-    "tags": "Empty Net"
+    "tags": "Empty Net",
+    "season": "regular"
   },
   {
     "goal": 217,
@@ -2412,7 +2628,8 @@
     "day": 1,
     "year": 2009,
     "type": "",
-    "tags": "Fools Day"
+    "tags": "Fools Day",
+    "season": "regular"
   },
   {
     "goal": 218,
@@ -2423,7 +2640,8 @@
     "day": 3,
     "year": 2009,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 219,
@@ -2434,7 +2652,8 @@
     "day": 11,
     "year": 2009,
     "type": "",
-    "tags": "Tomas Vokoun Last Rocket Richard Trophy"
+    "tags": "Tomas Vokoun Last Rocket Richard Trophy",
+    "season": "regular"
   },
   {
     "goal": 220,
@@ -2445,7 +2664,8 @@
     "day": 1,
     "year": 2009,
     "type": "GWG",
-    "tags": "First Game Winning Goal GWG"
+    "tags": "First Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 221,
@@ -2456,7 +2676,8 @@
     "day": 1,
     "year": 2009,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 222,
@@ -2467,7 +2688,8 @@
     "day": 3,
     "year": 2009,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 223,
@@ -2478,7 +2700,8 @@
     "day": 6,
     "year": 2009,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 224,
@@ -2489,7 +2712,8 @@
     "day": 6,
     "year": 2009,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 225,
@@ -2500,7 +2724,8 @@
     "day": 15,
     "year": 2009,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 226,
@@ -2511,7 +2736,8 @@
     "day": 15,
     "year": 2009,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 227,
@@ -2522,7 +2748,8 @@
     "day": 17,
     "year": 2009,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 228,
@@ -2533,7 +2760,8 @@
     "day": 17,
     "year": 2009,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 229,
@@ -2544,7 +2772,8 @@
     "day": 27,
     "year": 2009,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 230,
@@ -2555,7 +2784,8 @@
     "day": 27,
     "year": 2009,
     "type": "",
-    "tags": "Empty Net"
+    "tags": "Empty Net",
+    "season": "regular"
   },
   {
     "goal": 231,
@@ -2566,7 +2796,8 @@
     "day": 29,
     "year": 2009,
     "type": "",
-    "tags": "Ondrej Pavelec"
+    "tags": "Ondrej Pavelec",
+    "season": "regular"
   },
   {
     "goal": 232,
@@ -2577,7 +2808,8 @@
     "day": 29,
     "year": 2009,
     "type": "",
-    "tags": "Ondrej Pavelec"
+    "tags": "Ondrej Pavelec",
+    "season": "regular"
   },
   {
     "goal": 233,
@@ -2588,7 +2820,8 @@
     "day": 30,
     "year": 2009,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 234,
@@ -2599,7 +2832,8 @@
     "day": 17,
     "year": 2009,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 235,
@@ -2610,7 +2844,8 @@
     "day": 21,
     "year": 2009,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 236,
@@ -2621,7 +2856,8 @@
     "day": 25,
     "year": 2009,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG Vezina Trophy"
+    "tags": "Game Winning Goal GWG Vezina Trophy",
+    "season": "regular"
   },
   {
     "goal": 237,
@@ -2632,7 +2868,8 @@
     "day": 28,
     "year": 2009,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 238,
@@ -2643,7 +2880,8 @@
     "day": 7,
     "year": 2009,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 239,
@@ -2655,7 +2893,8 @@
     "day": 7,
     "year": 2009,
     "type": "",
-    "tags": "Twenty 20"
+    "tags": "Twenty 20",
+    "season": "regular"
   },
   {
     "goal": 240,
@@ -2666,7 +2905,8 @@
     "day": 12,
     "year": 2009,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 241,
@@ -2677,7 +2917,8 @@
     "day": 19,
     "year": 2009,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 242,
@@ -2688,7 +2929,8 @@
     "day": 19,
     "year": 2009,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 243,
@@ -2699,7 +2941,8 @@
     "day": 23,
     "year": 2009,
     "type": "",
-    "tags": "Vezina Trophy"
+    "tags": "Vezina Trophy",
+    "season": "regular"
   },
   {
     "goal": 244,
@@ -2710,7 +2953,8 @@
     "day": 26,
     "year": 2009,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 245,
@@ -2721,7 +2965,8 @@
     "day": 30,
     "year": 2009,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 246,
@@ -2732,7 +2977,8 @@
     "day": 7,
     "year": 2010,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 247,
@@ -2743,7 +2989,8 @@
     "day": 13,
     "year": 2010,
     "type": "",
-    "tags": "Tomas Vokoun"
+    "tags": "Tomas Vokoun",
+    "season": "regular"
   },
   {
     "goal": 248,
@@ -2754,7 +3001,8 @@
     "day": 15,
     "year": 2010,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 249,
@@ -2766,7 +3014,8 @@
     "day": 17,
     "year": 2010,
     "type": "",
-    "tags": "Penalty Shot"
+    "tags": "Penalty Shot",
+    "season": "regular"
   },
   {
     "goal": 250,
@@ -2777,7 +3026,8 @@
     "day": 21,
     "year": 2010,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 251,
@@ -2788,7 +3038,8 @@
     "day": 21,
     "year": 2010,
     "type": "",
-    "tags": "Empty Net"
+    "tags": "Empty Net",
+    "season": "regular"
   },
   {
     "goal": 252,
@@ -2799,7 +3050,8 @@
     "day": 23,
     "year": 2010,
     "type": "",
-    "tags": "Arizona Coyotes Empty Net"
+    "tags": "Arizona Coyotes Empty Net",
+    "season": "regular"
   },
   {
     "goal": 253,
@@ -2810,7 +3062,8 @@
     "day": 27,
     "year": 2010,
     "type": "",
-    "tags": "Jean-Sebastien Giguere"
+    "tags": "Jean-Sebastien Giguere",
+    "season": "regular"
   },
   {
     "goal": 254,
@@ -2821,7 +3074,8 @@
     "day": 31,
     "year": 2010,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 255,
@@ -2832,7 +3086,8 @@
     "day": 2,
     "year": 2010,
     "type": "",
-    "tags": "Empty Net"
+    "tags": "Empty Net",
+    "season": "regular"
   },
   {
     "goal": 256,
@@ -2843,7 +3098,8 @@
     "day": 4,
     "year": 2010,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 257,
@@ -2855,7 +3111,8 @@
     "day": 4,
     "year": 2010,
     "type": "",
-    "tags": "500th Point"
+    "tags": "500th Point",
+    "season": "regular"
   },
   {
     "goal": 258,
@@ -2866,7 +3123,8 @@
     "day": 5,
     "year": 2010,
     "type": "",
-    "tags": "Ondrej Pavelec"
+    "tags": "Ondrej Pavelec",
+    "season": "regular"
   },
   {
     "goal": 259,
@@ -2878,7 +3136,8 @@
     "day": 7,
     "year": 2010,
     "type": "",
-    "tags": "Marc-Andre Fleury Forty 40 Superbowl Super Bowl Sunday"
+    "tags": "Marc-Andre Fleury Forty 40 Superbowl Super Bowl Sunday",
+    "season": "regular"
   },
   {
     "goal": 260,
@@ -2889,7 +3148,8 @@
     "day": 7,
     "year": 2010,
     "type": "",
-    "tags": "Marc-Andre Fleury Superbowl Super Bowl Sunday"
+    "tags": "Marc-Andre Fleury Superbowl Super Bowl Sunday",
+    "season": "regular"
   },
   {
     "goal": 261,
@@ -2901,7 +3161,8 @@
     "day": 7,
     "year": 2010,
     "type": "",
-    "tags": "Marc-Andre Fleury Hat Trick Superbowl Super Bowl Sunday"
+    "tags": "Marc-Andre Fleury Hat Trick Superbowl Super Bowl Sunday",
+    "season": "regular"
   },
   {
     "goal": 262,
@@ -2912,7 +3173,8 @@
     "day": 8,
     "year": 2010,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 263,
@@ -2923,7 +3185,8 @@
     "day": 8,
     "year": 2010,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 264,
@@ -2934,7 +3197,8 @@
     "day": 20,
     "year": 2010,
     "type": "GWG",
-    "tags": "Antero Niittymaki Game Winning Goal GWG"
+    "tags": "Antero Niittymaki Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 265,
@@ -2945,7 +3209,8 @@
     "day": 28,
     "year": 2010,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 266,
@@ -2956,7 +3221,8 @@
     "day": 6,
     "year": 2010,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 267,
@@ -2967,7 +3233,8 @@
     "day": 6,
     "year": 2010,
     "type": "",
-    "tags": "Empty Net"
+    "tags": "Empty Net",
+    "season": "regular"
   },
   {
     "goal": 268,
@@ -2978,7 +3245,8 @@
     "day": 9,
     "year": 2010,
     "type": "",
-    "tags": "Ondrej Pavelec"
+    "tags": "Ondrej Pavelec",
+    "season": "regular"
   },
   {
     "goal": 269,
@@ -2990,7 +3258,8 @@
     "day": 9,
     "year": 2010,
     "type": "GWG",
-    "tags": "Ondrej Pavelec Last Fifty 50 Game Winning Goal GWG"
+    "tags": "Ondrej Pavelec Last Fifty 50 Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 270,
@@ -3001,7 +3270,8 @@
     "day": 9,
     "year": 2010,
     "type": "GWG",
-    "tags": "First Game Winning Goal GWG"
+    "tags": "First Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 271,
@@ -3013,7 +3283,8 @@
     "day": 9,
     "year": 2010,
     "type": "",
-    "tags": "Penalty Shot"
+    "tags": "Penalty Shot",
+    "season": "regular"
   },
   {
     "goal": 272,
@@ -3024,7 +3295,8 @@
     "day": 11,
     "year": 2010,
     "type": "OT",
-    "tags": "Overtime Game Winning Goal GWG"
+    "tags": "Overtime Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 273,
@@ -3035,7 +3307,8 @@
     "day": 13,
     "year": 2010,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 274,
@@ -3046,7 +3319,8 @@
     "day": 28,
     "year": 2010,
     "type": "",
-    "tags": "Niklas Backstrom"
+    "tags": "Niklas Backstrom",
+    "season": "regular"
   },
   {
     "goal": 275,
@@ -3057,7 +3331,8 @@
     "day": 30,
     "year": 2010,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 276,
@@ -3068,7 +3343,8 @@
     "day": 30,
     "year": 2010,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 277,
@@ -3079,7 +3355,8 @@
     "day": 5,
     "year": 2010,
     "type": "",
-    "tags": "Empty Net"
+    "tags": "Empty Net",
+    "season": "regular"
   },
   {
     "goal": 278,
@@ -3090,7 +3367,8 @@
     "day": 11,
     "year": 2010,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 279,
@@ -3101,7 +3379,8 @@
     "day": 14,
     "year": 2010,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 280,
@@ -3112,7 +3391,8 @@
     "day": 4,
     "year": 2010,
     "type": "",
-    "tags": "Ondrej Pavelec"
+    "tags": "Ondrej Pavelec",
+    "season": "regular"
   },
   {
     "goal": 281,
@@ -3123,7 +3403,8 @@
     "day": 6,
     "year": 2010,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 282,
@@ -3134,7 +3415,8 @@
     "day": 26,
     "year": 2010,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 283,
@@ -3145,7 +3427,8 @@
     "day": 28,
     "year": 2010,
     "type": "",
-    "tags": "Empty Net"
+    "tags": "Empty Net",
+    "season": "regular"
   },
   {
     "goal": 284,
@@ -3156,7 +3439,8 @@
     "day": 8,
     "year": 2011,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 285,
@@ -3167,7 +3451,8 @@
     "day": 18,
     "year": 2011,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 286,
@@ -3178,7 +3463,8 @@
     "day": 22,
     "year": 2011,
     "type": "",
-    "tags": "Jean-Sebastien Giguere"
+    "tags": "Jean-Sebastien Giguere",
+    "season": "regular"
   },
   {
     "goal": 287,
@@ -3189,7 +3475,8 @@
     "day": 22,
     "year": 2011,
     "type": "GWG",
-    "tags": "Jean-Sebastien Giguere Game Winning Goal GWG"
+    "tags": "Jean-Sebastien Giguere Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 288,
@@ -3201,7 +3488,8 @@
     "day": 22,
     "year": 2011,
     "type": "",
-    "tags": "Empty Net Hat Trick"
+    "tags": "Empty Net Hat Trick",
+    "season": "regular"
   },
   {
     "goal": 289,
@@ -3213,7 +3501,8 @@
     "day": 4,
     "year": 2011,
     "type": "GWG",
-    "tags": "Twenty 20 Game Winning Goal GWG"
+    "tags": "Twenty 20 Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 290,
@@ -3224,7 +3513,8 @@
     "day": 12,
     "year": 2011,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 291,
@@ -3235,7 +3525,8 @@
     "day": 16,
     "year": 2011,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 292,
@@ -3246,7 +3537,8 @@
     "day": 17,
     "year": 2011,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 293,
@@ -3257,7 +3549,8 @@
     "day": 21,
     "year": 2011,
     "type": "GWG",
-    "tags": "Marc-Andre Fleury Game Winning Goal GWG"
+    "tags": "Marc-Andre Fleury Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 294,
@@ -3268,7 +3561,8 @@
     "day": 1,
     "year": 2011,
     "type": "OT",
-    "tags": "Overtime Game Winning Goal GWG"
+    "tags": "Overtime Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 295,
@@ -3279,7 +3573,8 @@
     "day": 9,
     "year": 2011,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 296,
@@ -3290,7 +3585,8 @@
     "day": 9,
     "year": 2011,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 297,
@@ -3301,7 +3597,8 @@
     "day": 11,
     "year": 2011,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 298,
@@ -3312,7 +3609,8 @@
     "day": 16,
     "year": 2011,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 299,
@@ -3324,7 +3622,8 @@
     "day": 2,
     "year": 2011,
     "type": "OT",
-    "tags": "Thirty 30 Overtime Game Winning Goal GWG"
+    "tags": "Thirty 30 Overtime Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 300,
@@ -3336,7 +3635,8 @@
     "day": 5,
     "year": 2011,
     "type": "",
-    "tags": "300th Goal Century"
+    "tags": "300th Goal Century",
+    "season": "regular"
   },
   {
     "goal": 301,
@@ -3347,7 +3647,8 @@
     "day": 6,
     "year": 2011,
     "type": "",
-    "tags": "Empty Net Last"
+    "tags": "Empty Net Last",
+    "season": "regular"
   },
   {
     "goal": 302,
@@ -3358,7 +3659,8 @@
     "day": 13,
     "year": 2011,
     "type": "",
-    "tags": "First"
+    "tags": "First",
+    "season": "regular"
   },
   {
     "goal": 303,
@@ -3369,7 +3671,8 @@
     "day": 20,
     "year": 2011,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 304,
@@ -3380,7 +3683,8 @@
     "day": 20,
     "year": 2011,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 305,
@@ -3391,7 +3695,8 @@
     "day": 29,
     "year": 2011,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 306,
@@ -3402,7 +3707,8 @@
     "day": 29,
     "year": 2011,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 307,
@@ -3413,7 +3719,8 @@
     "day": 5,
     "year": 2011,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 308,
@@ -3424,7 +3731,8 @@
     "day": 11,
     "year": 2011,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 309,
@@ -3435,7 +3743,8 @@
     "day": 25,
     "year": 2011,
     "type": "",
-    "tags": "Vezina Trophy"
+    "tags": "Vezina Trophy",
+    "season": "regular"
   },
   {
     "goal": 310,
@@ -3446,7 +3755,8 @@
     "day": 7,
     "year": 2011,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 311,
@@ -3457,7 +3767,8 @@
     "day": 15,
     "year": 2011,
     "type": "GWG",
-    "tags": "Ondrej Pavelec Game Winning Goal GWG"
+    "tags": "Ondrej Pavelec Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 312,
@@ -3468,7 +3779,8 @@
     "day": 20,
     "year": 2011,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 313,
@@ -3479,7 +3791,8 @@
     "day": 26,
     "year": 2011,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 314,
@@ -3490,7 +3803,8 @@
     "day": 30,
     "year": 2011,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 315,
@@ -3501,7 +3815,8 @@
     "day": 30,
     "year": 2011,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 316,
@@ -3512,7 +3827,8 @@
     "day": 31,
     "year": 2011,
     "type": "",
-    "tags": "New Years Eve"
+    "tags": "New Years Eve",
+    "season": "regular"
   },
   {
     "goal": 317,
@@ -3523,7 +3839,8 @@
     "day": 31,
     "year": 2011,
     "type": "",
-    "tags": "New Years Eve"
+    "tags": "New Years Eve",
+    "season": "regular"
   },
   {
     "goal": 318,
@@ -3534,7 +3851,8 @@
     "day": 3,
     "year": 2012,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 319,
@@ -3545,7 +3863,8 @@
     "day": 13,
     "year": 2012,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 320,
@@ -3556,7 +3875,8 @@
     "day": 18,
     "year": 2012,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 321,
@@ -3568,7 +3888,8 @@
     "day": 22,
     "year": 2012,
     "type": "",
-    "tags": "Marc-Andre Fleury Twenty 20"
+    "tags": "Marc-Andre Fleury Twenty 20",
+    "season": "regular"
   },
   {
     "goal": 322,
@@ -3579,7 +3900,8 @@
     "day": 7,
     "year": 2012,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 323,
@@ -3590,7 +3912,8 @@
     "day": 7,
     "year": 2012,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 324,
@@ -3601,7 +3924,8 @@
     "day": 9,
     "year": 2012,
     "type": "",
-    "tags": "Ondrej Pavelec"
+    "tags": "Ondrej Pavelec",
+    "season": "regular"
   },
   {
     "goal": 325,
@@ -3612,7 +3936,8 @@
     "day": 17,
     "year": 2012,
     "type": "",
-    "tags": "Jose Theodore"
+    "tags": "Jose Theodore",
+    "season": "regular"
   },
   {
     "goal": 326,
@@ -3623,7 +3948,8 @@
     "day": 24,
     "year": 2012,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 327,
@@ -3634,7 +3960,8 @@
     "day": 28,
     "year": 2012,
     "type": "OT",
-    "tags": "Overtime Game Winning Goal GWG"
+    "tags": "Overtime Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 328,
@@ -3645,7 +3972,8 @@
     "day": 8,
     "year": 2012,
     "type": "OT",
-    "tags": "Overtime Game Winning Goal GWG"
+    "tags": "Overtime Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 329,
@@ -3656,7 +3984,8 @@
     "day": 13,
     "year": 2012,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 330,
@@ -3667,7 +3996,8 @@
     "day": 13,
     "year": 2012,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 331,
@@ -3678,7 +4008,8 @@
     "day": 18,
     "year": 2012,
     "type": "",
-    "tags": "Thirty 30"
+    "tags": "Thirty 30",
+    "season": "regular"
   },
   {
     "goal": 332,
@@ -3689,7 +4020,8 @@
     "day": 19,
     "year": 2012,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 333,
@@ -3700,7 +4032,8 @@
     "day": 19,
     "year": 2012,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 334,
@@ -3711,7 +4044,8 @@
     "day": 22,
     "year": 2012,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 335,
@@ -3722,7 +4056,8 @@
     "day": 23,
     "year": 2012,
     "type": "",
-    "tags": "Ondrej Pavelec"
+    "tags": "Ondrej Pavelec",
+    "season": "regular"
   },
   {
     "goal": 336,
@@ -3733,7 +4068,8 @@
     "day": 23,
     "year": 2012,
     "type": "",
-    "tags": "Ondrej Pavelec"
+    "tags": "Ondrej Pavelec",
+    "season": "regular"
   },
   {
     "goal": 337,
@@ -3744,7 +4080,8 @@
     "day": 25,
     "year": 2012,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 338,
@@ -3755,7 +4092,8 @@
     "day": 5,
     "year": 2012,
     "type": "",
-    "tags": "Jose Theodore"
+    "tags": "Jose Theodore",
+    "season": "regular"
   },
   {
     "goal": 339,
@@ -3766,7 +4104,8 @@
     "day": 7,
     "year": 2012,
     "type": "",
-    "tags": "Last Vezina Trophy"
+    "tags": "Last Vezina Trophy",
+    "season": "regular"
   },
   {
     "goal": 340,
@@ -3777,7 +4116,8 @@
     "day": 27,
     "year": 2013,
     "type": "GWG",
-    "tags": "First Game Winning Goal GWG"
+    "tags": "First Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 341,
@@ -3788,7 +4128,8 @@
     "day": 31,
     "year": 2013,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 342,
@@ -3799,7 +4140,8 @@
     "day": 7,
     "year": 2013,
     "type": "",
-    "tags": "Marc-Andre Fleury"
+    "tags": "Marc-Andre Fleury",
+    "season": "regular"
   },
   {
     "goal": 343,
@@ -3810,7 +4152,8 @@
     "day": 12,
     "year": 2013,
     "type": "",
-    "tags": "Jose Theodore"
+    "tags": "Jose Theodore",
+    "season": "regular"
   },
   {
     "goal": 344,
@@ -3821,7 +4164,8 @@
     "day": 13,
     "year": 2013,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 345,
@@ -3832,7 +4176,8 @@
     "day": 23,
     "year": 2013,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 346,
@@ -3843,7 +4188,8 @@
     "day": 23,
     "year": 2013,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 347,
@@ -3855,7 +4201,8 @@
     "day": 23,
     "year": 2013,
     "type": "",
-    "tags": "Hat Trick"
+    "tags": "Hat Trick",
+    "season": "regular"
   },
   {
     "goal": 348,
@@ -3866,7 +4213,8 @@
     "day": 7,
     "year": 2013,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 349,
@@ -3877,7 +4225,8 @@
     "day": 14,
     "year": 2013,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 350,
@@ -3888,7 +4237,8 @@
     "day": 17,
     "year": 2013,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 351,
@@ -3899,7 +4249,8 @@
     "day": 19,
     "year": 2013,
     "type": "",
-    "tags": "Marc-Andre Fleury"
+    "tags": "Marc-Andre Fleury",
+    "season": "regular"
   },
   {
     "goal": 352,
@@ -3910,7 +4261,8 @@
     "day": 21,
     "year": 2013,
     "type": "",
-    "tags": "Ondrej Pavelec"
+    "tags": "Ondrej Pavelec",
+    "season": "regular"
   },
   {
     "goal": 353,
@@ -3921,7 +4273,8 @@
     "day": 22,
     "year": 2013,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 354,
@@ -3932,7 +4285,8 @@
     "day": 22,
     "year": 2013,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 355,
@@ -3943,7 +4297,8 @@
     "day": 24,
     "year": 2013,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 356,
@@ -3954,7 +4309,8 @@
     "day": 30,
     "year": 2013,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 357,
@@ -3965,7 +4321,8 @@
     "day": 31,
     "year": 2013,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 358,
@@ -3976,7 +4333,8 @@
     "day": 2,
     "year": 2013,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 359,
@@ -3988,7 +4346,8 @@
     "day": 2,
     "year": 2013,
     "type": "GWG",
-    "tags": "700th Point Game Winning Goal GWG"
+    "tags": "700th Point Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 360,
@@ -3999,7 +4358,8 @@
     "day": 6,
     "year": 2013,
     "type": "",
-    "tags": "Markstrom"
+    "tags": "Markstrom",
+    "season": "regular"
   },
   {
     "goal": 361,
@@ -4010,7 +4370,8 @@
     "day": 6,
     "year": 2013,
     "type": "",
-    "tags": "Markstrom"
+    "tags": "Markstrom",
+    "season": "regular"
   },
   {
     "goal": 362,
@@ -4022,7 +4383,8 @@
     "day": 6,
     "year": 2013,
     "type": "GWG",
-    "tags": "Markstrom Hat Trick Game Winning Goal GWG"
+    "tags": "Markstrom Hat Trick Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 363,
@@ -4033,7 +4395,8 @@
     "day": 7,
     "year": 2013,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 364,
@@ -4044,7 +4407,8 @@
     "day": 7,
     "year": 2013,
     "type": "",
-    "tags": "Empty Net"
+    "tags": "Empty Net",
+    "season": "regular"
   },
   {
     "goal": 365,
@@ -4055,7 +4419,8 @@
     "day": 9,
     "year": 2013,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 366,
@@ -4066,7 +4431,8 @@
     "day": 13,
     "year": 2013,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 367,
@@ -4077,7 +4443,8 @@
     "day": 16,
     "year": 2013,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 368,
@@ -4088,7 +4455,8 @@
     "day": 20,
     "year": 2013,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 369,
@@ -4100,7 +4468,8 @@
     "day": 20,
     "year": 2013,
     "type": "",
-    "tags": "Thirty 30"
+    "tags": "Thirty 30",
+    "season": "regular"
   },
   {
     "goal": 370,
@@ -4111,7 +4480,8 @@
     "day": 23,
     "year": 2013,
     "type": "",
-    "tags": "Empty Net"
+    "tags": "Empty Net",
+    "season": "regular"
   },
   {
     "goal": 371,
@@ -4122,7 +4492,8 @@
     "day": 25,
     "year": 2013,
     "type": "",
-    "tags": "Last Rocket Richard Trophy"
+    "tags": "Last Rocket Richard Trophy",
+    "season": "regular"
   },
   {
     "goal": 372,
@@ -4133,7 +4504,8 @@
     "day": 1,
     "year": 2013,
     "type": "",
-    "tags": "First"
+    "tags": "First",
+    "season": "regular"
   },
   {
     "goal": 373,
@@ -4144,7 +4516,8 @@
     "day": 3,
     "year": 2013,
     "type": "",
-    "tags": "Karri Ramo"
+    "tags": "Karri Ramo",
+    "season": "regular"
   },
   {
     "goal": 374,
@@ -4155,7 +4528,8 @@
     "day": 3,
     "year": 2013,
     "type": "",
-    "tags": "Karri Ramo"
+    "tags": "Karri Ramo",
+    "season": "regular"
   },
   {
     "goal": 375,
@@ -4166,7 +4540,8 @@
     "day": 5,
     "year": 2013,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 376,
@@ -4177,7 +4552,8 @@
     "day": 10,
     "year": 2013,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 377,
@@ -4188,7 +4564,8 @@
     "day": 14,
     "year": 2013,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 378,
@@ -4199,7 +4576,8 @@
     "day": 19,
     "year": 2013,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 379,
@@ -4210,7 +4588,8 @@
     "day": 22,
     "year": 2013,
     "type": "",
-    "tags": "Ondrej Pavelec"
+    "tags": "Ondrej Pavelec",
+    "season": "regular"
   },
   {
     "goal": 380,
@@ -4221,7 +4600,8 @@
     "day": 22,
     "year": 2013,
     "type": "",
-    "tags": "Ondrej Pavelec"
+    "tags": "Ondrej Pavelec",
+    "season": "regular"
   },
   {
     "goal": 381,
@@ -4232,7 +4612,8 @@
     "day": 24,
     "year": 2013,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 382,
@@ -4243,7 +4624,8 @@
     "day": 5,
     "year": 2013,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 383,
@@ -4254,7 +4636,8 @@
     "day": 5,
     "year": 2013,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 384,
@@ -4265,7 +4648,8 @@
     "day": 7,
     "year": 2013,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 385,
@@ -4276,7 +4660,8 @@
     "day": 12,
     "year": 2013,
     "type": "OT",
-    "tags": "Overtime Game Winning Goal GWG"
+    "tags": "Overtime Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 386,
@@ -4287,7 +4672,8 @@
     "day": 15,
     "year": 2013,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 387,
@@ -4298,7 +4684,8 @@
     "day": 17,
     "year": 2013,
     "type": "",
-    "tags": "Jaroslav Halak"
+    "tags": "Jaroslav Halak",
+    "season": "regular"
   },
   {
     "goal": 388,
@@ -4309,7 +4696,8 @@
     "day": 17,
     "year": 2013,
     "type": "GWG",
-    "tags": "Jaroslav Halak Game Winning Goal GWG"
+    "tags": "Jaroslav Halak Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 389,
@@ -4320,7 +4708,8 @@
     "day": 22,
     "year": 2013,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 390,
@@ -4331,7 +4720,8 @@
     "day": 22,
     "year": 2013,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 391,
@@ -4343,7 +4733,8 @@
     "day": 23,
     "year": 2013,
     "type": "",
-    "tags": "Twenty 20"
+    "tags": "Twenty 20",
+    "season": "regular"
   },
   {
     "goal": 392,
@@ -4354,7 +4745,8 @@
     "day": 30,
     "year": 2013,
     "type": "OT",
-    "tags": "Overtime Game Winning Goal GWG"
+    "tags": "Overtime Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 393,
@@ -4365,7 +4757,8 @@
     "day": 7,
     "year": 2013,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 394,
@@ -4376,7 +4769,8 @@
     "day": 10,
     "year": 2013,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 395,
@@ -4387,7 +4781,8 @@
     "day": 10,
     "year": 2013,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 396,
@@ -4399,7 +4794,8 @@
     "day": 10,
     "year": 2013,
     "type": "",
-    "tags": "Hat Trick"
+    "tags": "Hat Trick",
+    "season": "regular"
   },
   {
     "goal": 397,
@@ -4411,7 +4807,8 @@
     "day": 10,
     "year": 2013,
     "type": "",
-    "tags": "Four 4"
+    "tags": "Four 4",
+    "season": "regular"
   },
   {
     "goal": 398,
@@ -4422,7 +4819,8 @@
     "day": 15,
     "year": 2013,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 399,
@@ -4433,7 +4831,8 @@
     "day": 17,
     "year": 2013,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 400,
@@ -4445,7 +4844,8 @@
     "day": 20,
     "year": 2013,
     "type": "",
-    "tags": "Empty Net 400th Goal Century"
+    "tags": "Empty Net 400th Goal Century",
+    "season": "regular"
   },
   {
     "goal": 401,
@@ -4457,7 +4857,8 @@
     "day": 21,
     "year": 2013,
     "type": "",
-    "tags": "Thirty 30"
+    "tags": "Thirty 30",
+    "season": "regular"
   },
   {
     "goal": 402,
@@ -4468,7 +4869,8 @@
     "day": 2,
     "year": 2014,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 403,
@@ -4479,7 +4881,8 @@
     "day": 10,
     "year": 2014,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 404,
@@ -4490,7 +4893,8 @@
     "day": 14,
     "year": 2014,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 405,
@@ -4501,7 +4905,8 @@
     "day": 15,
     "year": 2014,
     "type": "",
-    "tags": "Marc-Andre Fleury"
+    "tags": "Marc-Andre Fleury",
+    "season": "regular"
   },
   {
     "goal": 406,
@@ -4512,7 +4917,8 @@
     "day": 19,
     "year": 2014,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 407,
@@ -4523,7 +4929,8 @@
     "day": 25,
     "year": 2014,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 408,
@@ -4534,7 +4941,8 @@
     "day": 28,
     "year": 2014,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 409,
@@ -4545,7 +4953,8 @@
     "day": 28,
     "year": 2014,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 410,
@@ -4556,7 +4965,8 @@
     "day": 2,
     "year": 2014,
     "type": "OT",
-    "tags": "Overtime Superbowl Super Bowl Sunday Game Winning Goal GWG"
+    "tags": "Overtime Superbowl Super Bowl Sunday Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 411,
@@ -4568,7 +4978,8 @@
     "day": 6,
     "year": 2014,
     "type": "GWG",
-    "tags": "Ondrej Pavelec Forty 40 Game Winning Goal GWG"
+    "tags": "Ondrej Pavelec Forty 40 Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 412,
@@ -4579,7 +4990,8 @@
     "day": 27,
     "year": 2014,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 413,
@@ -4590,7 +5002,8 @@
     "day": 1,
     "year": 2014,
     "type": "",
-    "tags": "Vezina Trophy"
+    "tags": "Vezina Trophy",
+    "season": "regular"
   },
   {
     "goal": 414,
@@ -4602,7 +5015,8 @@
     "day": 1,
     "year": 2014,
     "type": "",
-    "tags": "800th Point Vezina Trophy"
+    "tags": "800th Point Vezina Trophy",
+    "season": "regular"
   },
   {
     "goal": 415,
@@ -4613,7 +5027,8 @@
     "day": 5,
     "year": 2014,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 416,
@@ -4624,7 +5039,8 @@
     "day": 14,
     "year": 2014,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 417,
@@ -4635,7 +5051,8 @@
     "day": 18,
     "year": 2014,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 418,
@@ -4646,7 +5063,8 @@
     "day": 25,
     "year": 2014,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 419,
@@ -4657,7 +5075,8 @@
     "day": 25,
     "year": 2014,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 420,
@@ -4668,7 +5087,8 @@
     "day": 4,
     "year": 2014,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 421,
@@ -4680,7 +5100,8 @@
     "day": 8,
     "year": 2014,
     "type": "",
-    "tags": "Fifty 50"
+    "tags": "Fifty 50",
+    "season": "regular"
   },
   {
     "goal": 422,
@@ -4691,7 +5112,8 @@
     "day": 11,
     "year": 2014,
     "type": "GWG",
-    "tags": "Last Game Winning Goal GWG Rocket Richard Trophy"
+    "tags": "Last Game Winning Goal GWG Rocket Richard Trophy",
+    "season": "regular"
   },
   {
     "goal": 423,
@@ -4702,7 +5124,8 @@
     "day": 11,
     "year": 2014,
     "type": "GWG",
-    "tags": "First Game Winning Goal GWG"
+    "tags": "First Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 424,
@@ -4713,7 +5136,8 @@
     "day": 11,
     "year": 2014,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 425,
@@ -4724,7 +5148,8 @@
     "day": 14,
     "year": 2014,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 426,
@@ -4735,7 +5160,8 @@
     "day": 14,
     "year": 2014,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 427,
@@ -4746,7 +5172,8 @@
     "day": 16,
     "year": 2014,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 428,
@@ -4757,7 +5184,8 @@
     "day": 2,
     "year": 2014,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 429,
@@ -4768,7 +5196,8 @@
     "day": 11,
     "year": 2014,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 430,
@@ -4779,7 +5208,8 @@
     "day": 11,
     "year": 2014,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 431,
@@ -4790,7 +5220,8 @@
     "day": 20,
     "year": 2014,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 432,
@@ -4801,7 +5232,8 @@
     "day": 26,
     "year": 2014,
     "type": "",
-    "tags": "Jaroslav Halak"
+    "tags": "Jaroslav Halak",
+    "season": "regular"
   },
   {
     "goal": 433,
@@ -4812,7 +5244,8 @@
     "day": 26,
     "year": 2014,
     "type": "",
-    "tags": "Jaroslav Halak"
+    "tags": "Jaroslav Halak",
+    "season": "regular"
   },
   {
     "goal": 434,
@@ -4823,7 +5256,8 @@
     "day": 28,
     "year": 2014,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 435,
@@ -4834,7 +5268,8 @@
     "day": 9,
     "year": 2014,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 436,
@@ -4845,7 +5280,8 @@
     "day": 9,
     "year": 2014,
     "type": "",
-    "tags": "Empty Net"
+    "tags": "Empty Net",
+    "season": "regular"
   },
   {
     "goal": 437,
@@ -4856,7 +5292,8 @@
     "day": 20,
     "year": 2014,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 438,
@@ -4867,7 +5304,8 @@
     "day": 23,
     "year": 2014,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 439,
@@ -4878,7 +5316,8 @@
     "day": 29,
     "year": 2014,
     "type": "",
-    "tags": "Jaroslav Halak"
+    "tags": "Jaroslav Halak",
+    "season": "regular"
   },
   {
     "goal": 440,
@@ -4890,7 +5329,8 @@
     "day": 1,
     "year": 2015,
     "type": "",
-    "tags": "New Years Day Outdoor"
+    "tags": "New Years Day Outdoor",
+    "season": "regular"
   },
   {
     "goal": 441,
@@ -4901,7 +5341,8 @@
     "day": 4,
     "year": 2015,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 442,
@@ -4913,7 +5354,8 @@
     "day": 7,
     "year": 2015,
     "type": "",
-    "tags": "Empty Net Twenty 20"
+    "tags": "Empty Net Twenty 20",
+    "season": "regular"
   },
   {
     "goal": 443,
@@ -4924,7 +5366,8 @@
     "day": 8,
     "year": 2015,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 444,
@@ -4935,7 +5378,8 @@
     "day": 12,
     "year": 2015,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 445,
@@ -4946,7 +5390,8 @@
     "day": 16,
     "year": 2015,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 446,
@@ -4957,7 +5402,8 @@
     "day": 16,
     "year": 2015,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 447,
@@ -4968,7 +5414,8 @@
     "day": 17,
     "year": 2015,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 448,
@@ -4979,7 +5426,8 @@
     "day": 20,
     "year": 2015,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 449,
@@ -4990,7 +5438,8 @@
     "day": 20,
     "year": 2015,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 450,
@@ -5001,7 +5450,8 @@
     "day": 28,
     "year": 2015,
     "type": "GWG",
-    "tags": "Marc-Andre Fleury Game Winning Goal GWG"
+    "tags": "Marc-Andre Fleury Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 451,
@@ -5012,7 +5462,8 @@
     "day": 28,
     "year": 2015,
     "type": "",
-    "tags": "Marc-Andre Fleury"
+    "tags": "Marc-Andre Fleury",
+    "season": "regular"
   },
   {
     "goal": 452,
@@ -5024,7 +5475,8 @@
     "day": 1,
     "year": 2015,
     "type": "",
-    "tags": "Thirty 30 Superbowl Super Bowl Sunday"
+    "tags": "Thirty 30 Superbowl Super Bowl Sunday",
+    "season": "regular"
   },
   {
     "goal": 453,
@@ -5035,7 +5487,8 @@
     "day": 1,
     "year": 2015,
     "type": "",
-    "tags": "Superbowl Super Bowl Sunday"
+    "tags": "Superbowl Super Bowl Sunday",
+    "season": "regular"
   },
   {
     "goal": 454,
@@ -5046,7 +5499,8 @@
     "day": 5,
     "year": 2015,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 455,
@@ -5057,7 +5511,8 @@
     "day": 8,
     "year": 2015,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 456,
@@ -5068,7 +5523,8 @@
     "day": 14,
     "year": 2015,
     "type": "",
-    "tags": "Valentine's Valentines Day"
+    "tags": "Valentine's Valentines Day",
+    "season": "regular"
   },
   {
     "goal": 457,
@@ -5079,7 +5535,8 @@
     "day": 15,
     "year": 2015,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 458,
@@ -5090,7 +5547,8 @@
     "day": 15,
     "year": 2015,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 459,
@@ -5101,7 +5559,8 @@
     "day": 17,
     "year": 2015,
     "type": "",
-    "tags": "Marc-Andre Fleury"
+    "tags": "Marc-Andre Fleury",
+    "season": "regular"
   },
   {
     "goal": 460,
@@ -5112,7 +5571,8 @@
     "day": 19,
     "year": 2015,
     "type": "GWG",
-    "tags": "Ondrej Pavelec Game Winning Goal GWG"
+    "tags": "Ondrej Pavelec Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 461,
@@ -5123,7 +5583,8 @@
     "day": 25,
     "year": 2015,
     "type": "",
-    "tags": "Marc-Andre Fleury"
+    "tags": "Marc-Andre Fleury",
+    "season": "regular"
   },
   {
     "goal": 462,
@@ -5135,7 +5596,8 @@
     "day": 1,
     "year": 2015,
     "type": "GWG",
-    "tags": "Forty 40 Game Winning Goal GWG"
+    "tags": "Forty 40 Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 463,
@@ -5146,7 +5608,8 @@
     "day": 1,
     "year": 2015,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 464,
@@ -5157,7 +5620,8 @@
     "day": 3,
     "year": 2015,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 465,
@@ -5168,7 +5632,8 @@
     "day": 3,
     "year": 2015,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 466,
@@ -5179,7 +5644,8 @@
     "day": 7,
     "year": 2015,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 467,
@@ -5190,7 +5656,8 @@
     "day": 11,
     "year": 2015,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 468,
@@ -5201,7 +5668,8 @@
     "day": 19,
     "year": 2015,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 469,
@@ -5212,7 +5680,8 @@
     "day": 19,
     "year": 2015,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 470,
@@ -5223,7 +5692,8 @@
     "day": 29,
     "year": 2015,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 471,
@@ -5234,7 +5704,8 @@
     "day": 29,
     "year": 2015,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 472,
@@ -5246,7 +5717,8 @@
     "day": 31,
     "year": 2015,
     "type": "",
-    "tags": "Fifty 50"
+    "tags": "Fifty 50",
+    "season": "regular"
   },
   {
     "goal": 473,
@@ -5257,7 +5729,8 @@
     "day": 2,
     "year": 2015,
     "type": "",
-    "tags": "Hart Trophy Vezina Trophy"
+    "tags": "Hart Trophy Vezina Trophy",
+    "season": "regular"
   },
   {
     "goal": 474,
@@ -5268,7 +5741,8 @@
     "day": 2,
     "year": 2015,
     "type": "",
-    "tags": "Hart Trophy Vezina Trophy"
+    "tags": "Hart Trophy Vezina Trophy",
+    "season": "regular"
   },
   {
     "goal": 475,
@@ -5279,7 +5753,8 @@
     "day": 11,
     "year": 2015,
     "type": "",
-    "tags": "Last Rocket Richard Trophy"
+    "tags": "Last Rocket Richard Trophy",
+    "season": "regular"
   },
   {
     "goal": 476,
@@ -5290,7 +5765,8 @@
     "day": 10,
     "year": 2015,
     "type": "",
-    "tags": "First"
+    "tags": "First",
+    "season": "regular"
   },
   {
     "goal": 477,
@@ -5301,7 +5777,8 @@
     "day": 15,
     "year": 2015,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 478,
@@ -5312,7 +5789,8 @@
     "day": 17,
     "year": 2015,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 479,
@@ -5324,7 +5802,8 @@
     "day": 20,
     "year": 2015,
     "type": "",
-    "tags": "Karri Ramo 900th Point"
+    "tags": "Karri Ramo 900th Point",
+    "season": "regular"
   },
   {
     "goal": 480,
@@ -5335,7 +5814,8 @@
     "day": 22,
     "year": 2015,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 481,
@@ -5346,7 +5826,8 @@
     "day": 3,
     "year": 2015,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 482,
@@ -5357,7 +5838,8 @@
     "day": 5,
     "year": 2015,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 483,
@@ -5368,7 +5850,8 @@
     "day": 7,
     "year": 2015,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 484,
@@ -5379,7 +5862,8 @@
     "day": 19,
     "year": 2015,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 485,
@@ -5390,7 +5874,8 @@
     "day": 21,
     "year": 2015,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 486,
@@ -5401,7 +5886,8 @@
     "day": 25,
     "year": 2015,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 487,
@@ -5412,7 +5898,8 @@
     "day": 27,
     "year": 2015,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 488,
@@ -5423,7 +5910,8 @@
     "day": 8,
     "year": 2015,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 489,
@@ -5434,7 +5922,8 @@
     "day": 10,
     "year": 2015,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 490,
@@ -5445,7 +5934,8 @@
     "day": 18,
     "year": 2015,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 491,
@@ -5456,7 +5946,8 @@
     "day": 18,
     "year": 2015,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 492,
@@ -5467,7 +5958,8 @@
     "day": 20,
     "year": 2015,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 493,
@@ -5478,7 +5970,8 @@
     "day": 28,
     "year": 2015,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 494,
@@ -5489,7 +5982,8 @@
     "day": 30,
     "year": 2015,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 495,
@@ -5501,7 +5995,8 @@
     "day": 30,
     "year": 2015,
     "type": "",
-    "tags": "Empty Net Twenty 20"
+    "tags": "Empty Net Twenty 20",
+    "season": "regular"
   },
   {
     "goal": 496,
@@ -5512,7 +6007,8 @@
     "day": 31,
     "year": 2015,
     "type": "",
-    "tags": "New Years Eve"
+    "tags": "New Years Eve",
+    "season": "regular"
   },
   {
     "goal": 497,
@@ -5523,7 +6019,8 @@
     "day": 7,
     "year": 2016,
     "type": "GWG",
-    "tags": "Jaroslav Halak Game Winning Goal GWG"
+    "tags": "Jaroslav Halak Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 498,
@@ -5534,7 +6031,8 @@
     "day": 9,
     "year": 2016,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 499,
@@ -5545,7 +6043,8 @@
     "day": 9,
     "year": 2016,
     "type": "OT",
-    "tags": "Overtime Game Winning Goal GWG"
+    "tags": "Overtime Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 500,
@@ -5557,7 +6056,8 @@
     "day": 10,
     "year": 2016,
     "type": "",
-    "tags": "500th Goal Century"
+    "tags": "500th Goal Century",
+    "season": "regular"
   },
   {
     "goal": 501,
@@ -5568,7 +6068,8 @@
     "day": 10,
     "year": 2016,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 502,
@@ -5579,7 +6080,8 @@
     "day": 17,
     "year": 2016,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 503,
@@ -5591,7 +6093,8 @@
     "day": 19,
     "year": 2016,
     "type": "",
-    "tags": "Peter Bondra"
+    "tags": "Peter Bondra",
+    "season": "regular"
   },
   {
     "goal": 504,
@@ -5602,7 +6105,8 @@
     "day": 4,
     "year": 2016,
     "type": "GWG",
-    "tags": "Jaroslav Halak Game Winning Goal GWG"
+    "tags": "Jaroslav Halak Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 505,
@@ -5614,7 +6118,8 @@
     "day": 7,
     "year": 2016,
     "type": "",
-    "tags": "Thirty 30 Superbowl Super Bowl Sunday"
+    "tags": "Thirty 30 Superbowl Super Bowl Sunday",
+    "season": "regular"
   },
   {
     "goal": 506,
@@ -5625,7 +6130,8 @@
     "day": 9,
     "year": 2016,
     "type": "",
-    "tags": "Empty Net"
+    "tags": "Empty Net",
+    "season": "regular"
   },
   {
     "goal": 507,
@@ -5637,7 +6143,8 @@
     "day": 11,
     "year": 2016,
     "type": "",
-    "tags": "Jean Beliveau"
+    "tags": "Jean Beliveau",
+    "season": "regular"
   },
   {
     "goal": 508,
@@ -5648,7 +6155,8 @@
     "day": 11,
     "year": 2016,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 509,
@@ -5660,7 +6168,8 @@
     "day": 11,
     "year": 2016,
     "type": "",
-    "tags": "Hat Trick"
+    "tags": "Hat Trick",
+    "season": "regular"
   },
   {
     "goal": 510,
@@ -5671,7 +6180,8 @@
     "day": 13,
     "year": 2016,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 511,
@@ -5682,7 +6192,8 @@
     "day": 18,
     "year": 2016,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 512,
@@ -5694,7 +6205,8 @@
     "day": 18,
     "year": 2016,
     "type": "",
-    "tags": "Gilbert Perreault"
+    "tags": "Gilbert Perreault",
+    "season": "regular"
   },
   {
     "goal": 513,
@@ -5706,7 +6218,8 @@
     "day": 20,
     "year": 2016,
     "type": "",
-    "tags": "Jeremy Roenick"
+    "tags": "Jeremy Roenick",
+    "season": "regular"
   },
   {
     "goal": 514,
@@ -5717,7 +6230,8 @@
     "day": 22,
     "year": 2016,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 515,
@@ -5729,7 +6243,8 @@
     "day": 26,
     "year": 2016,
     "type": "",
-    "tags": "Forty 40"
+    "tags": "Forty 40",
+    "season": "regular"
   },
   {
     "goal": 516,
@@ -5740,7 +6255,8 @@
     "day": 2,
     "year": 2016,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 517,
@@ -5751,7 +6267,8 @@
     "day": 15,
     "year": 2016,
     "type": "OT",
-    "tags": "Overtime Game Winning Goal GWG"
+    "tags": "Overtime Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 518,
@@ -5763,7 +6280,8 @@
     "day": 22,
     "year": 2016,
     "type": "",
-    "tags": "Dale Hawerchuk"
+    "tags": "Dale Hawerchuk",
+    "season": "regular"
   },
   {
     "goal": 519,
@@ -5774,7 +6292,8 @@
     "day": 30,
     "year": 2016,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 520,
@@ -5785,7 +6304,8 @@
     "day": 1,
     "year": 2016,
     "type": "",
-    "tags": "Fools Day"
+    "tags": "Fools Day",
+    "season": "regular"
   },
   {
     "goal": 521,
@@ -5796,7 +6316,8 @@
     "day": 5,
     "year": 2016,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 522,
@@ -5808,7 +6329,8 @@
     "day": 5,
     "year": 2016,
     "type": "",
-    "tags": "Pat Verbeek"
+    "tags": "Pat Verbeek",
+    "season": "regular"
   },
   {
     "goal": 523,
@@ -5819,7 +6341,8 @@
     "day": 9,
     "year": 2016,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 524,
@@ -5831,7 +6354,8 @@
     "day": 9,
     "year": 2016,
     "type": "GWG",
-    "tags": "Bryan Trottier Game Winning Goal GWG"
+    "tags": "Bryan Trottier Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 525,
@@ -5843,7 +6367,8 @@
     "day": 9,
     "year": 2016,
     "type": "",
-    "tags": "Last Fifty 50 Hat Trick Rocket Richard Trophy"
+    "tags": "Last Fifty 50 Hat Trick Rocket Richard Trophy",
+    "season": "regular"
   },
   {
     "goal": 526,
@@ -5854,7 +6379,8 @@
     "day": 18,
     "year": 2016,
     "type": "GWG",
-    "tags": "First Game Winning Goal GWG"
+    "tags": "First Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 527,
@@ -5865,7 +6391,8 @@
     "day": 20,
     "year": 2016,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 528,
@@ -5876,7 +6403,8 @@
     "day": 22,
     "year": 2016,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 529,
@@ -5887,7 +6415,8 @@
     "day": 26,
     "year": 2016,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 530,
@@ -5898,7 +6427,8 @@
     "day": 3,
     "year": 2016,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 531,
@@ -5909,7 +6439,8 @@
     "day": 3,
     "year": 2016,
     "type": "OT",
-    "tags": "Overtime Game Winning Goal GWG"
+    "tags": "Overtime Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 532,
@@ -5920,7 +6451,8 @@
     "day": 5,
     "year": 2016,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 533,
@@ -5931,7 +6463,8 @@
     "day": 16,
     "year": 2016,
     "type": "",
-    "tags": "Marc-Andre Fleury"
+    "tags": "Marc-Andre Fleury",
+    "season": "regular"
   },
   {
     "goal": 534,
@@ -5942,7 +6475,8 @@
     "day": 20,
     "year": 2016,
     "type": "",
-    "tags": "Vezina Trophy"
+    "tags": "Vezina Trophy",
+    "season": "regular"
   },
   {
     "goal": 535,
@@ -5953,7 +6487,8 @@
     "day": 23,
     "year": 2016,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 536,
@@ -5964,7 +6499,8 @@
     "day": 23,
     "year": 2016,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 537,
@@ -5976,7 +6512,8 @@
     "day": 23,
     "year": 2016,
     "type": "GWG",
-    "tags": "Hat Trick Game Winning Goal GWG"
+    "tags": "Hat Trick Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 538,
@@ -5988,7 +6525,8 @@
     "day": 11,
     "year": 2016,
     "type": "GWG",
-    "tags": "Markstrom Keith Tkachuk Game Winning Goal GWG"
+    "tags": "Markstrom Keith Tkachuk Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 539,
@@ -5999,7 +6537,8 @@
     "day": 16,
     "year": 2016,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 540,
@@ -6010,7 +6549,8 @@
     "day": 23,
     "year": 2016,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 541,
@@ -6022,7 +6562,8 @@
     "day": 27,
     "year": 2016,
     "type": "",
-    "tags": "Jaroslav Halak Stan Makita"
+    "tags": "Jaroslav Halak Stan Makita",
+    "season": "regular"
   },
   {
     "goal": 542,
@@ -6033,7 +6574,8 @@
     "day": 31,
     "year": 2016,
     "type": "",
-    "tags": "New Years Eve"
+    "tags": "New Years Eve",
+    "season": "regular"
   },
   {
     "goal": 543,
@@ -6044,7 +6586,8 @@
     "day": 3,
     "year": 2017,
     "type": "OT",
-    "tags": "Overtime Game Winning Goal GWG"
+    "tags": "Overtime Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 544,
@@ -6056,7 +6599,8 @@
     "day": 9,
     "year": 2017,
     "type": "",
-    "tags": "Maurice Richard"
+    "tags": "Maurice Richard",
+    "season": "regular"
   },
   {
     "goal": 545,
@@ -6068,7 +6612,8 @@
     "day": 11,
     "year": 2017,
     "type": "",
-    "tags": "Marc-Andre Fleury 1000th Point"
+    "tags": "Marc-Andre Fleury 1000th Point",
+    "season": "regular"
   },
   {
     "goal": 546,
@@ -6079,7 +6624,8 @@
     "day": 11,
     "year": 2017,
     "type": "",
-    "tags": "Marc-Andre Fleury"
+    "tags": "Marc-Andre Fleury",
+    "season": "regular"
   },
   {
     "goal": 547,
@@ -6090,7 +6636,8 @@
     "day": 21,
     "year": 2017,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 548,
@@ -6101,7 +6648,8 @@
     "day": 26,
     "year": 2017,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 549,
@@ -6112,7 +6660,8 @@
     "day": 31,
     "year": 2017,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 550,
@@ -6123,7 +6672,8 @@
     "day": 1,
     "year": 2017,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 551,
@@ -6134,7 +6684,8 @@
     "day": 7,
     "year": 2017,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 552,
@@ -6145,7 +6696,8 @@
     "day": 19,
     "year": 2017,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 553,
@@ -6156,7 +6708,8 @@
     "day": 14,
     "year": 2017,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 554,
@@ -6167,7 +6720,8 @@
     "day": 21,
     "year": 2017,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 555,
@@ -6179,7 +6733,8 @@
     "day": 25,
     "year": 2017,
     "type": "",
-    "tags": "Thirty 30"
+    "tags": "Thirty 30",
+    "season": "regular"
   },
   {
     "goal": 556,
@@ -6191,7 +6746,8 @@
     "day": 28,
     "year": 2017,
     "type": "",
-    "tags": "Johnny Bucyk"
+    "tags": "Johnny Bucyk",
+    "season": "regular"
   },
   {
     "goal": 557,
@@ -6202,7 +6758,8 @@
     "day": 28,
     "year": 2017,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 558,
@@ -6214,7 +6771,8 @@
     "day": 28,
     "year": 2017,
     "type": "",
-    "tags": "Hat Trick Last"
+    "tags": "Hat Trick Last",
+    "season": "regular"
   },
   {
     "goal": 559,
@@ -6225,7 +6783,8 @@
     "day": 5,
     "year": 2017,
     "type": "",
-    "tags": "First"
+    "tags": "First",
+    "season": "regular"
   },
   {
     "goal": 560,
@@ -6237,7 +6796,8 @@
     "day": 5,
     "year": 2017,
     "type": "",
-    "tags": "Guy Lafleur"
+    "tags": "Guy Lafleur",
+    "season": "regular"
   },
   {
     "goal": 561,
@@ -6249,7 +6809,8 @@
     "day": 5,
     "year": 2017,
     "type": "",
-    "tags": "Hat Trick"
+    "tags": "Hat Trick",
+    "season": "regular"
   },
   {
     "goal": 562,
@@ -6260,7 +6821,8 @@
     "day": 7,
     "year": 2017,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 563,
@@ -6271,7 +6833,8 @@
     "day": 7,
     "year": 2017,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 564,
@@ -6283,7 +6846,8 @@
     "day": 7,
     "year": 2017,
     "type": "",
-    "tags": "Hat Trick"
+    "tags": "Hat Trick",
+    "season": "regular"
   },
   {
     "goal": 565,
@@ -6295,7 +6859,8 @@
     "day": 7,
     "year": 2017,
     "type": "",
-    "tags": "Four 4"
+    "tags": "Four 4",
+    "season": "regular"
   },
   {
     "goal": 566,
@@ -6307,7 +6872,8 @@
     "day": 11,
     "year": 2017,
     "type": "",
-    "tags": "Patrick Marleau"
+    "tags": "Patrick Marleau",
+    "season": "regular"
   },
   {
     "goal": 567,
@@ -6318,7 +6884,8 @@
     "day": 13,
     "year": 2017,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 568,
@@ -6329,7 +6896,8 @@
     "day": 20,
     "year": 2017,
     "type": "OT",
-    "tags": "Petr Mrazek Overtime Game Winning Goal GWG"
+    "tags": "Petr Mrazek Overtime Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 569,
@@ -6340,7 +6908,8 @@
     "day": 4,
     "year": 2017,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 570,
@@ -6351,7 +6920,8 @@
     "day": 6,
     "year": 2017,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 571,
@@ -6362,7 +6932,8 @@
     "day": 7,
     "year": 2017,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 572,
@@ -6373,7 +6944,8 @@
     "day": 22,
     "year": 2017,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 573,
@@ -6385,7 +6957,8 @@
     "day": 24,
     "year": 2017,
     "type": "",
-    "tags": "Mike Bossy"
+    "tags": "Mike Bossy",
+    "season": "regular"
   },
   {
     "goal": 574,
@@ -6396,7 +6969,8 @@
     "day": 30,
     "year": 2017,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 575,
@@ -6407,7 +6981,8 @@
     "day": 30,
     "year": 2017,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 576,
@@ -6419,7 +6994,8 @@
     "day": 30,
     "year": 2017,
     "type": "",
-    "tags": "Empty Net Hat Trick"
+    "tags": "Empty Net Hat Trick",
+    "season": "regular"
   },
   {
     "goal": 577,
@@ -6431,7 +7007,8 @@
     "day": 2,
     "year": 2017,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 578,
@@ -6443,7 +7020,8 @@
     "day": 4,
     "year": 2017,
     "type": "GWG",
-    "tags": "Twenty 20 Game Winning Goal GWG"
+    "tags": "Twenty 20 Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 579,
@@ -6454,7 +7032,8 @@
     "day": 6,
     "year": 2017,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 580,
@@ -6465,7 +7044,8 @@
     "day": 14,
     "year": 2017,
     "type": "",
-    "tags": "Empty Net"
+    "tags": "Empty Net",
+    "season": "regular"
   },
   {
     "goal": 581,
@@ -6476,7 +7056,8 @@
     "day": 16,
     "year": 2017,
     "type": "OT",
-    "tags": "Overtime Game Winning Goal GWG"
+    "tags": "Overtime Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 582,
@@ -6487,7 +7068,8 @@
     "day": 28,
     "year": 2017,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 583,
@@ -6498,7 +7080,8 @@
     "day": 2,
     "year": 2018,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 584,
@@ -6509,7 +7092,8 @@
     "day": 2,
     "year": 2018,
     "type": "OT",
-    "tags": "Overtime Game Winning Goal GWG"
+    "tags": "Overtime Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 585,
@@ -6520,7 +7104,8 @@
     "day": 7,
     "year": 2018,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 586,
@@ -6531,7 +7116,8 @@
     "day": 12,
     "year": 2018,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 587,
@@ -6542,7 +7128,8 @@
     "day": 21,
     "year": 2018,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 588,
@@ -6554,7 +7141,8 @@
     "day": 25,
     "year": 2018,
     "type": "",
-    "tags": "Harri Sateri Thirty 30"
+    "tags": "Harri Sateri Thirty 30",
+    "season": "regular"
   },
   {
     "goal": 589,
@@ -6565,7 +7153,8 @@
     "day": 2,
     "year": 2018,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 590,
@@ -6576,7 +7165,8 @@
     "day": 2,
     "year": 2018,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 591,
@@ -6587,7 +7177,8 @@
     "day": 11,
     "year": 2018,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 592,
@@ -6598,7 +7189,8 @@
     "day": 15,
     "year": 2018,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 593,
@@ -6609,7 +7201,8 @@
     "day": 19,
     "year": 2018,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 594,
@@ -6620,7 +7213,8 @@
     "day": 20,
     "year": 2018,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 595,
@@ -6631,7 +7225,8 @@
     "day": 24,
     "year": 2018,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 596,
@@ -6642,7 +7237,8 @@
     "day": 24,
     "year": 2018,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 597,
@@ -6653,7 +7249,8 @@
     "day": 26,
     "year": 2018,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 598,
@@ -6665,7 +7262,8 @@
     "day": 3,
     "year": 2018,
     "type": "",
-    "tags": "Outdoor"
+    "tags": "Outdoor",
+    "season": "regular"
   },
   {
     "goal": 599,
@@ -6676,7 +7274,8 @@
     "day": 12,
     "year": 2018,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 600,
@@ -6688,7 +7287,8 @@
     "day": 12,
     "year": 2018,
     "type": "",
-    "tags": "600th Goal Century"
+    "tags": "600th Goal Century",
+    "season": "regular"
   },
   {
     "goal": 601,
@@ -6700,7 +7300,8 @@
     "day": 18,
     "year": 2018,
     "type": "",
-    "tags": "Petr Mrazek Jari Kurri"
+    "tags": "Petr Mrazek Jari Kurri",
+    "season": "regular"
   },
   {
     "goal": 602,
@@ -6711,7 +7312,8 @@
     "day": 20,
     "year": 2018,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 603,
@@ -6722,7 +7324,8 @@
     "day": 26,
     "year": 2018,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 604,
@@ -6733,7 +7336,8 @@
     "day": 2,
     "year": 2018,
     "type": "",
-    "tags": "Empty Net"
+    "tags": "Empty Net",
+    "season": "regular"
   },
   {
     "goal": 605,
@@ -6744,7 +7348,8 @@
     "day": 5,
     "year": 2018,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 606,
@@ -6755,7 +7360,8 @@
     "day": 7,
     "year": 2018,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 607,
@@ -6766,7 +7372,8 @@
     "day": 7,
     "year": 2018,
     "type": "GWG",
-    "tags": "Last Game Winning Goal GWG Rocket Richard Trophy"
+    "tags": "Last Game Winning Goal GWG Rocket Richard Trophy",
+    "season": "regular"
   },
   {
     "goal": 608,
@@ -6778,7 +7385,8 @@
     "day": 3,
     "year": 2018,
     "type": "",
-    "tags": "First Dino Ciccarelli"
+    "tags": "First Dino Ciccarelli",
+    "season": "regular"
   },
   {
     "goal": 609,
@@ -6789,7 +7397,8 @@
     "day": 4,
     "year": 2018,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 610,
@@ -6801,7 +7410,8 @@
     "day": 10,
     "year": 2018,
     "type": "",
-    "tags": "Marc-Andre Fleury Bobby Hull"
+    "tags": "Marc-Andre Fleury Bobby Hull",
+    "season": "regular"
   },
   {
     "goal": 611,
@@ -6812,7 +7422,8 @@
     "day": 10,
     "year": 2018,
     "type": "",
-    "tags": "Marc-Andre Fleury"
+    "tags": "Marc-Andre Fleury",
+    "season": "regular"
   },
   {
     "goal": 612,
@@ -6823,7 +7434,8 @@
     "day": 17,
     "year": 2018,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 613,
@@ -6834,7 +7446,8 @@
     "day": 17,
     "year": 2018,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 614,
@@ -6845,7 +7458,8 @@
     "day": 22,
     "year": 2018,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 615,
@@ -6856,7 +7470,8 @@
     "day": 22,
     "year": 2018,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 616,
@@ -6867,7 +7482,8 @@
     "day": 1,
     "year": 2018,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 617,
@@ -6878,7 +7494,8 @@
     "day": 1,
     "year": 2018,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 618,
@@ -6889,7 +7506,8 @@
     "day": 5,
     "year": 2018,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 619,
@@ -6900,7 +7518,8 @@
     "day": 7,
     "year": 2018,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 620,
@@ -6911,7 +7530,8 @@
     "day": 16,
     "year": 2018,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 621,
@@ -6922,7 +7542,8 @@
     "day": 19,
     "year": 2018,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 622,
@@ -6933,7 +7554,8 @@
     "day": 19,
     "year": 2018,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 623,
@@ -6944,7 +7566,8 @@
     "day": 23,
     "year": 2018,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 624,
@@ -6955,7 +7578,8 @@
     "day": 24,
     "year": 2018,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 625,
@@ -6967,7 +7591,8 @@
     "day": 26,
     "year": 2018,
     "type": "",
-    "tags": "Empty Net Jarome Iginla Joe Sakic"
+    "tags": "Empty Net Jarome Iginla Joe Sakic",
+    "season": "regular"
   },
   {
     "goal": 626,
@@ -6978,7 +7603,8 @@
     "day": 30,
     "year": 2018,
     "type": "",
-    "tags": "Empty Net"
+    "tags": "Empty Net",
+    "season": "regular"
   },
   {
     "goal": 627,
@@ -6990,7 +7616,8 @@
     "day": 4,
     "year": 2018,
     "type": "",
-    "tags": "Marc-Andre Fleury Twenty 20"
+    "tags": "Marc-Andre Fleury Twenty 20",
+    "season": "regular"
   },
   {
     "goal": 628,
@@ -7001,7 +7628,8 @@
     "day": 6,
     "year": 2018,
     "type": "",
-    "tags": "Empty Net"
+    "tags": "Empty Net",
+    "season": "regular"
   },
   {
     "goal": 629,
@@ -7012,7 +7640,8 @@
     "day": 8,
     "year": 2018,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 630,
@@ -7023,7 +7652,8 @@
     "day": 11,
     "year": 2018,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 631,
@@ -7034,7 +7664,8 @@
     "day": 11,
     "year": 2018,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 632,
@@ -7046,7 +7677,8 @@
     "day": 11,
     "year": 2018,
     "type": "",
-    "tags": "Hat Trick"
+    "tags": "Hat Trick",
+    "season": "regular"
   },
   {
     "goal": 633,
@@ -7057,7 +7689,8 @@
     "day": 14,
     "year": 2018,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 634,
@@ -7068,7 +7701,8 @@
     "day": 14,
     "year": 2018,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 635,
@@ -7080,7 +7714,8 @@
     "day": 14,
     "year": 2018,
     "type": "",
-    "tags": "Hat Trick"
+    "tags": "Hat Trick",
+    "season": "regular"
   },
   {
     "goal": 636,
@@ -7091,7 +7726,8 @@
     "day": 15,
     "year": 2018,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 637,
@@ -7103,7 +7739,8 @@
     "day": 3,
     "year": 2019,
     "type": "",
-    "tags": "Thirty 30"
+    "tags": "Thirty 30",
+    "season": "regular"
   },
   {
     "goal": 638,
@@ -7114,7 +7751,8 @@
     "day": 10,
     "year": 2019,
     "type": "",
-    "tags": "Jaroslav Halak"
+    "tags": "Jaroslav Halak",
+    "season": "regular"
   },
   {
     "goal": 639,
@@ -7125,7 +7763,8 @@
     "day": 10,
     "year": 2019,
     "type": "",
-    "tags": "Empty Net"
+    "tags": "Empty Net",
+    "season": "regular"
   },
   {
     "goal": 640,
@@ -7137,7 +7776,8 @@
     "day": 14,
     "year": 2019,
     "type": "",
-    "tags": "Dave Andreychuk"
+    "tags": "Dave Andreychuk",
+    "season": "regular"
   },
   {
     "goal": 641,
@@ -7148,7 +7788,8 @@
     "day": 22,
     "year": 2019,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 642,
@@ -7159,7 +7800,8 @@
     "day": 22,
     "year": 2019,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 643,
@@ -7171,7 +7813,8 @@
     "day": 22,
     "year": 2019,
     "type": "",
-    "tags": "Hat Trick"
+    "tags": "Hat Trick",
+    "season": "regular"
   },
   {
     "goal": 644,
@@ -7182,7 +7825,8 @@
     "day": 23,
     "year": 2019,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 645,
@@ -7193,7 +7837,8 @@
     "day": 11,
     "year": 2019,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 646,
@@ -7204,7 +7849,8 @@
     "day": 14,
     "year": 2019,
     "type": "",
-    "tags": "Valentine's Valentines Day"
+    "tags": "Valentine's Valentines Day",
+    "season": "regular"
   },
   {
     "goal": 647,
@@ -7216,7 +7862,8 @@
     "day": 17,
     "year": 2019,
     "type": "",
-    "tags": "Forty"
+    "tags": "Forty",
+    "season": "regular"
   },
   {
     "goal": 648,
@@ -7227,7 +7874,8 @@
     "day": 18,
     "year": 2019,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 649,
@@ -7238,7 +7886,8 @@
     "day": 18,
     "year": 2019,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 650,
@@ -7249,7 +7898,8 @@
     "day": 21,
     "year": 2019,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 651,
@@ -7260,7 +7910,8 @@
     "day": 23,
     "year": 2019,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 652,
@@ -7271,7 +7922,8 @@
     "day": 1,
     "year": 2019,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 653,
@@ -7282,7 +7934,8 @@
     "day": 6,
     "year": 2019,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 654,
@@ -7293,7 +7946,8 @@
     "day": 16,
     "year": 2019,
     "type": "",
-    "tags": "Vezina Trophy"
+    "tags": "Vezina Trophy",
+    "season": "regular"
   },
   {
     "goal": 655,
@@ -7304,7 +7958,8 @@
     "day": 16,
     "year": 2019,
     "type": "",
-    "tags": "Vezina Trophy"
+    "tags": "Vezina Trophy",
+    "season": "regular"
   },
   {
     "goal": 656,
@@ -7316,7 +7971,8 @@
     "day": 26,
     "year": 2019,
     "type": "GWG",
-    "tags": "Petr Mrazek Brendan Shanahan Game Winning Goal GWG"
+    "tags": "Petr Mrazek Brendan Shanahan Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 657,
@@ -7328,7 +7984,8 @@
     "day": 30,
     "year": 2019,
     "type": "",
-    "tags": "Fifty 50 Vezina Trophy"
+    "tags": "Fifty 50 Vezina Trophy",
+    "season": "regular"
   },
   {
     "goal": 658,
@@ -7339,7 +7996,8 @@
     "day": 30,
     "year": 2019,
     "type": "",
-    "tags": "Last Vezina Trophy Rocket Richard Trophy"
+    "tags": "Last Vezina Trophy Rocket Richard Trophy",
+    "season": "regular"
   },
   {
     "goal": 659,
@@ -7350,7 +8008,8 @@
     "day": 2,
     "year": 2019,
     "type": "",
-    "tags": "First"
+    "tags": "First",
+    "season": "regular"
   },
   {
     "goal": 660,
@@ -7361,7 +8020,8 @@
     "day": 10,
     "year": 2019,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 661,
@@ -7372,7 +8032,8 @@
     "day": 10,
     "year": 2019,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 662,
@@ -7383,7 +8044,8 @@
     "day": 12,
     "year": 2019,
     "type": "",
-    "tags": "Empty Net"
+    "tags": "Empty Net",
+    "season": "regular"
   },
   {
     "goal": 663,
@@ -7394,7 +8056,8 @@
     "day": 14,
     "year": 2019,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 664,
@@ -7405,7 +8068,8 @@
     "day": 20,
     "year": 2019,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 665,
@@ -7416,7 +8080,8 @@
     "day": 22,
     "year": 2019,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 666,
@@ -7427,7 +8092,8 @@
     "day": 24,
     "year": 2019,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 667,
@@ -7438,7 +8104,8 @@
     "day": 24,
     "year": 2019,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 668,
@@ -7450,7 +8117,8 @@
     "day": 29,
     "year": 2019,
     "type": "",
-    "tags": "Luc Robitaille"
+    "tags": "Luc Robitaille",
+    "season": "regular"
   },
   {
     "goal": 669,
@@ -7461,7 +8129,8 @@
     "day": 29,
     "year": 2019,
     "type": "OT",
-    "tags": "Overtime Game Winning Goal GWG"
+    "tags": "Overtime Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 670,
@@ -7472,7 +8141,8 @@
     "day": 7,
     "year": 2019,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 671,
@@ -7483,7 +8153,8 @@
     "day": 7,
     "year": 2019,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 672,
@@ -7494,7 +8165,8 @@
     "day": 15,
     "year": 2019,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 673,
@@ -7505,7 +8177,8 @@
     "day": 18,
     "year": 2019,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 674,
@@ -7516,7 +8189,8 @@
     "day": 27,
     "year": 2019,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 675,
@@ -7527,7 +8201,8 @@
     "day": 29,
     "year": 2019,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 676,
@@ -7538,7 +8213,8 @@
     "day": 30,
     "year": 2019,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 677,
@@ -7549,7 +8225,8 @@
     "day": 30,
     "year": 2019,
     "type": "",
-    "tags": "Empty Net"
+    "tags": "Empty Net",
+    "season": "regular"
   },
   {
     "goal": 678,
@@ -7561,7 +8238,8 @@
     "day": 30,
     "year": 2019,
     "type": "",
-    "tags": "Empty Net Hat Trick"
+    "tags": "Empty Net Hat Trick",
+    "season": "regular"
   },
   {
     "goal": 679,
@@ -7572,7 +8250,8 @@
     "day": 9,
     "year": 2019,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 680,
@@ -7583,7 +8262,8 @@
     "day": 20,
     "year": 2019,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 681,
@@ -7594,7 +8274,8 @@
     "day": 23,
     "year": 2019,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 682,
@@ -7605,7 +8286,8 @@
     "day": 28,
     "year": 2019,
     "type": "",
-    "tags": "Petr Mrazek"
+    "tags": "Petr Mrazek",
+    "season": "regular"
   },
   {
     "goal": 683,
@@ -7616,7 +8298,8 @@
     "day": 7,
     "year": 2020,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 684,
@@ -7628,7 +8311,8 @@
     "day": 7,
     "year": 2020,
     "type": "",
-    "tags": "Marcus Hogberg Teemu Selanne"
+    "tags": "Marcus Hogberg Teemu Selanne",
+    "season": "regular"
   },
   {
     "goal": 685,
@@ -7639,7 +8323,8 @@
     "day": 13,
     "year": 2020,
     "type": "GWG",
-    "tags": "Petr Mrazek Game Winning Goal GWG"
+    "tags": "Petr Mrazek Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 686,
@@ -7650,7 +8335,8 @@
     "day": 13,
     "year": 2020,
     "type": "",
-    "tags": "Petr Mrazek"
+    "tags": "Petr Mrazek",
+    "season": "regular"
   },
   {
     "goal": 687,
@@ -7661,7 +8347,8 @@
     "day": 16,
     "year": 2020,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 688,
@@ -7673,7 +8360,8 @@
     "day": 16,
     "year": 2020,
     "type": "",
-    "tags": "Thirty 30"
+    "tags": "Thirty 30",
+    "season": "regular"
   },
   {
     "goal": 689,
@@ -7685,7 +8373,8 @@
     "day": 16,
     "year": 2020,
     "type": "",
-    "tags": "Hat Trick"
+    "tags": "Hat Trick",
+    "season": "regular"
   },
   {
     "goal": 690,
@@ -7697,7 +8386,8 @@
     "day": 18,
     "year": 2020,
     "type": "",
-    "tags": "Mario Lemieux"
+    "tags": "Mario Lemieux",
+    "season": "regular"
   },
   {
     "goal": 691,
@@ -7708,7 +8398,8 @@
     "day": 18,
     "year": 2020,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 692,
@@ -7720,7 +8411,8 @@
     "day": 18,
     "year": 2020,
     "type": "",
-    "tags": "Empty Net Steve Yzerman"
+    "tags": "Empty Net Steve Yzerman",
+    "season": "regular"
   },
   {
     "goal": 693,
@@ -7731,7 +8423,8 @@
     "day": 29,
     "year": 2020,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 694,
@@ -7743,7 +8436,8 @@
     "day": 31,
     "year": 2020,
     "type": "",
-    "tags": "Marcus Hogberg Mark Messier"
+    "tags": "Marcus Hogberg Mark Messier",
+    "season": "regular"
   },
   {
     "goal": 695,
@@ -7754,7 +8448,8 @@
     "day": 31,
     "year": 2020,
     "type": "",
-    "tags": "Empty Net"
+    "tags": "Empty Net",
+    "season": "regular"
   },
   {
     "goal": 696,
@@ -7765,7 +8460,8 @@
     "day": 4,
     "year": 2020,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 697,
@@ -7776,7 +8472,8 @@
     "day": 4,
     "year": 2020,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 698,
@@ -7788,7 +8485,8 @@
     "day": 4,
     "year": 2020,
     "type": "",
-    "tags": "Empty Net Hat Trick"
+    "tags": "Empty Net Hat Trick",
+    "season": "regular"
   },
   {
     "goal": 699,
@@ -7799,7 +8497,8 @@
     "day": 20,
     "year": 2020,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 700,
@@ -7811,7 +8510,8 @@
     "day": 22,
     "year": 2020,
     "type": "",
-    "tags": "700th Goal Century"
+    "tags": "700th Goal Century",
+    "season": "regular"
   },
   {
     "goal": 701,
@@ -7822,7 +8522,8 @@
     "day": 25,
     "year": 2020,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 702,
@@ -7833,7 +8534,8 @@
     "day": 1,
     "year": 2020,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 703,
@@ -7844,7 +8546,8 @@
     "day": 1,
     "year": 2020,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 704,
@@ -7855,7 +8558,8 @@
     "day": 5,
     "year": 2020,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 705,
@@ -7866,7 +8570,8 @@
     "day": 5,
     "year": 2020,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 706,
@@ -7877,7 +8582,8 @@
     "day": 9,
     "year": 2020,
     "type": "",
-    "tags": "Last Rocket Richard Trophy"
+    "tags": "Last Rocket Richard Trophy",
+    "season": "regular"
   },
   {
     "goal": 707,
@@ -7888,7 +8594,8 @@
     "day": 17,
     "year": 2021,
     "type": "",
-    "tags": "First"
+    "tags": "First",
+    "season": "regular"
   },
   {
     "goal": 708,
@@ -7900,7 +8607,8 @@
     "day": 30,
     "year": 2021,
     "type": "OT",
-    "tags": "Mike Gartner Overtime Game Winning Goal GWG"
+    "tags": "Mike Gartner Overtime Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 709,
@@ -7911,7 +8619,8 @@
     "day": 4,
     "year": 2021,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 710,
@@ -7922,7 +8631,8 @@
     "day": 7,
     "year": 2021,
     "type": "",
-    "tags": "Superbowl Super Bowl Sunday"
+    "tags": "Superbowl Super Bowl Sunday",
+    "season": "regular"
   },
   {
     "goal": 711,
@@ -7933,7 +8643,8 @@
     "day": 7,
     "year": 2021,
     "type": "",
-    "tags": "Superbowl Super Bowl Sunday"
+    "tags": "Superbowl Super Bowl Sunday",
+    "season": "regular"
   },
   {
     "goal": 712,
@@ -7944,7 +8655,8 @@
     "day": 21,
     "year": 2021,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 713,
@@ -7955,7 +8667,8 @@
     "day": 28,
     "year": 2021,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 714,
@@ -7966,7 +8679,8 @@
     "day": 7,
     "year": 2021,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 715,
@@ -7977,7 +8691,8 @@
     "day": 11,
     "year": 2021,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 716,
@@ -7988,7 +8703,8 @@
     "day": 13,
     "year": 2021,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 717,
@@ -8000,7 +8716,8 @@
     "day": 15,
     "year": 2021,
     "type": "",
-    "tags": "Phil Esposito"
+    "tags": "Phil Esposito",
+    "season": "regular"
   },
   {
     "goal": 718,
@@ -8012,7 +8729,8 @@
     "day": 16,
     "year": 2021,
     "type": "GWG",
-    "tags": "1300th Point Game Winning Goal GWG"
+    "tags": "1300th Point Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 719,
@@ -8023,7 +8741,8 @@
     "day": 19,
     "year": 2021,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 720,
@@ -8034,7 +8753,8 @@
     "day": 19,
     "year": 2021,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 721,
@@ -8045,7 +8765,8 @@
     "day": 25,
     "year": 2021,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 722,
@@ -8056,7 +8777,8 @@
     "day": 26,
     "year": 2021,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 723,
@@ -8067,7 +8789,8 @@
     "day": 26,
     "year": 2021,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 724,
@@ -8078,7 +8801,8 @@
     "day": 28,
     "year": 2021,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 725,
@@ -8089,7 +8813,8 @@
     "day": 4,
     "year": 2021,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 726,
@@ -8101,7 +8826,8 @@
     "day": 8,
     "year": 2021,
     "type": "",
-    "tags": "Twenty 20"
+    "tags": "Twenty 20",
+    "season": "regular"
   },
   {
     "goal": 727,
@@ -8112,7 +8838,8 @@
     "day": 9,
     "year": 2021,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 728,
@@ -8123,7 +8850,8 @@
     "day": 13,
     "year": 2021,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 729,
@@ -8134,7 +8862,8 @@
     "day": 17,
     "year": 2021,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 730,
@@ -8145,7 +8874,8 @@
     "day": 17,
     "year": 2021,
     "type": "",
-    "tags": "Last"
+    "tags": "Last",
+    "season": "regular"
   },
   {
     "goal": 731,
@@ -8157,7 +8887,8 @@
     "day": 13,
     "year": 2021,
     "type": "",
-    "tags": "First Marcel Dionne"
+    "tags": "First Marcel Dionne",
+    "season": "regular"
   },
   {
     "goal": 732,
@@ -8168,7 +8899,8 @@
     "day": 13,
     "year": 2021,
     "type": "SHG",
-    "tags": "Shorthanded"
+    "tags": "Shorthanded",
+    "season": "regular"
   },
   {
     "goal": 733,
@@ -8179,7 +8911,8 @@
     "day": 16,
     "year": 2021,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 734,
@@ -8190,7 +8923,8 @@
     "day": 19,
     "year": 2021,
     "type": "",
-    "tags": "Empty Net"
+    "tags": "Empty Net",
+    "season": "regular"
   },
   {
     "goal": 735,
@@ -8201,7 +8935,8 @@
     "day": 23,
     "year": 2021,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 736,
@@ -8212,7 +8947,8 @@
     "day": 25,
     "year": 2021,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 737,
@@ -8223,7 +8959,8 @@
     "day": 25,
     "year": 2021,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 738,
@@ -8234,7 +8971,8 @@
     "day": 27,
     "year": 2021,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 739,
@@ -8245,7 +8983,8 @@
     "day": 29,
     "year": 2021,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 740,
@@ -8256,7 +8995,8 @@
     "day": 4,
     "year": 2021,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 741,
@@ -8268,7 +9008,8 @@
     "day": 8,
     "year": 2021,
     "type": "",
-    "tags": "Brett Hull"
+    "tags": "Brett Hull",
+    "season": "regular"
   },
   {
     "goal": 742,
@@ -8279,7 +9020,8 @@
     "day": 12,
     "year": 2021,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 743,
@@ -8290,7 +9032,8 @@
     "day": 20,
     "year": 2021,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 744,
@@ -8301,7 +9044,8 @@
     "day": 20,
     "year": 2021,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 745,
@@ -8312,7 +9056,8 @@
     "day": 21,
     "year": 2021,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 746,
@@ -8323,7 +9068,8 @@
     "day": 26,
     "year": 2021,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 747,
@@ -8334,7 +9080,8 @@
     "day": 26,
     "year": 2021,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 748,
@@ -8346,7 +9093,8 @@
     "day": 26,
     "year": 2021,
     "type": "GWG",
-    "tags": "Hat Trick Game Winning Goal GWG"
+    "tags": "Hat Trick Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 749,
@@ -8357,7 +9105,8 @@
     "day": 28,
     "year": 2021,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 750,
@@ -8369,7 +9118,8 @@
     "day": 4,
     "year": 2021,
     "type": "GWG",
-    "tags": "Twenty 20 Game Winning Goal GWG"
+    "tags": "Twenty 20 Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 751,
@@ -8380,7 +9130,8 @@
     "day": 15,
     "year": 2021,
     "type": "",
-    "tags": "Marc-Andre Fleury"
+    "tags": "Marc-Andre Fleury",
+    "season": "regular"
   },
   {
     "goal": 752,
@@ -8391,7 +9142,8 @@
     "day": 17,
     "year": 2021,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 753,
@@ -8403,7 +9155,8 @@
     "day": 31,
     "year": 2021,
     "type": "GWG",
-    "tags": "275th Power Play Goal New Years Eve Game Winning Goal GWG"
+    "tags": "275th Power Play Goal New Years Eve Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 754,
@@ -8414,7 +9167,8 @@
     "day": 31,
     "year": 2021,
     "type": "",
-    "tags": "New Years Eve"
+    "tags": "New Years Eve",
+    "season": "regular"
   },
   {
     "goal": 755,
@@ -8425,7 +9179,8 @@
     "day": 15,
     "year": 2022,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 756,
@@ -8436,7 +9191,8 @@
     "day": 16,
     "year": 2022,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 757,
@@ -8447,7 +9203,8 @@
     "day": 18,
     "year": 2022,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 758,
@@ -8458,7 +9215,8 @@
     "day": 22,
     "year": 2022,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 759,
@@ -8469,7 +9227,8 @@
     "day": 22,
     "year": 2022,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 760,
@@ -8481,7 +9240,8 @@
     "day": 15,
     "year": 2022,
     "type": "",
-    "tags": "Thirty 30"
+    "tags": "Thirty 30",
+    "season": "regular"
   },
   {
     "goal": 761,
@@ -8492,7 +9252,8 @@
     "day": 15,
     "year": 2022,
     "type": "",
-    "tags": "Empty Net"
+    "tags": "Empty Net",
+    "season": "regular"
   },
   {
     "goal": 762,
@@ -8503,7 +9264,8 @@
     "day": 24,
     "year": 2022,
     "type": "",
-    "tags": "Vezina Trophy"
+    "tags": "Vezina Trophy",
+    "season": "regular"
   },
   {
     "goal": 763,
@@ -8514,7 +9276,8 @@
     "day": 3,
     "year": 2022,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 764,
@@ -8525,7 +9288,8 @@
     "day": 5,
     "year": 2022,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 765,
@@ -8536,7 +9300,8 @@
     "day": 8,
     "year": 2022,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 766,
@@ -8548,7 +9313,8 @@
     "day": 8,
     "year": 2022,
     "type": "GWG",
-    "tags": "Empty Net Jaromir Jagr Game Winning Goal GWG"
+    "tags": "Empty Net Jaromir Jagr Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 767,
@@ -8559,7 +9325,8 @@
     "day": 15,
     "year": 2022,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 768,
@@ -8570,7 +9337,8 @@
     "day": 17,
     "year": 2022,
     "type": "",
-    "tags": "Elvis Merzlikins"
+    "tags": "Elvis Merzlikins",
+    "season": "regular"
   },
   {
     "goal": 769,
@@ -8581,7 +9349,8 @@
     "day": 18,
     "year": 2022,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 770,
@@ -8593,7 +9362,8 @@
     "day": 20,
     "year": 2022,
     "type": "",
-    "tags": "Forty 40"
+    "tags": "Forty 40",
+    "season": "regular"
   },
   {
     "goal": 771,
@@ -8604,7 +9374,8 @@
     "day": 25,
     "year": 2022,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 772,
@@ -8615,7 +9386,8 @@
     "day": 26,
     "year": 2022,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 773,
@@ -8626,7 +9398,8 @@
     "day": 6,
     "year": 2022,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 774,
@@ -8637,7 +9410,8 @@
     "day": 9,
     "year": 2022,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 775,
@@ -8648,7 +9422,8 @@
     "day": 10,
     "year": 2022,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 776,
@@ -8659,7 +9434,8 @@
     "day": 12,
     "year": 2022,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 777,
@@ -8670,7 +9446,8 @@
     "day": 16,
     "year": 2022,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 778,
@@ -8681,7 +9458,8 @@
     "day": 18,
     "year": 2022,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 779,
@@ -8692,7 +9470,8 @@
     "day": 20,
     "year": 2022,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 780,
@@ -8704,7 +9483,8 @@
     "day": 20,
     "year": 2022,
     "type": "",
-    "tags": "Last Fifty 50"
+    "tags": "Last Fifty 50",
+    "season": "regular"
   },
   {
     "goal": 781,
@@ -8715,7 +9495,8 @@
     "day": 17,
     "year": 2022,
     "type": "",
-    "tags": "First"
+    "tags": "First",
+    "season": "regular"
   },
   {
     "goal": 782,
@@ -8726,7 +9507,8 @@
     "day": 17,
     "year": 2022,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 783,
@@ -8737,7 +9519,8 @@
     "day": 24,
     "year": 2022,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 784,
@@ -8748,7 +9531,8 @@
     "day": 29,
     "year": 2022,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 785,
@@ -8759,7 +9543,8 @@
     "day": 31,
     "year": 2022,
     "type": "",
-    "tags": "Halloween"
+    "tags": "Halloween",
+    "season": "regular"
   },
   {
     "goal": 786,
@@ -8770,7 +9555,8 @@
     "day": 3,
     "year": 2022,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 787,
@@ -8781,7 +9567,8 @@
     "day": 5,
     "year": 2022,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 788,
@@ -8792,7 +9579,8 @@
     "day": 7,
     "year": 2022,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 789,
@@ -8803,7 +9591,8 @@
     "day": 17,
     "year": 2022,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 790,
@@ -8814,7 +9603,8 @@
     "day": 23,
     "year": 2022,
     "type": "OT",
-    "tags": "Felix Sandstrom Overtime Game Winning Goal GWG"
+    "tags": "Felix Sandstrom Overtime Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 791,
@@ -8825,7 +9615,8 @@
     "day": 25,
     "year": 2022,
     "type": "",
-    "tags": "Jacob Markstrom"
+    "tags": "Jacob Markstrom",
+    "season": "regular"
   },
   {
     "goal": 792,
@@ -8836,7 +9627,8 @@
     "day": 29,
     "year": 2022,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 793,
@@ -8847,7 +9639,8 @@
     "day": 29,
     "year": 2022,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 794,
@@ -8858,7 +9651,8 @@
     "day": 7,
     "year": 2022,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 795,
@@ -8869,7 +9663,8 @@
     "day": 7,
     "year": 2022,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 796,
@@ -8880,7 +9675,8 @@
     "day": 9,
     "year": 2022,
     "type": "",
-    "tags": "Empty Net"
+    "tags": "Empty Net",
+    "season": "regular"
   },
   {
     "goal": 797,
@@ -8891,7 +9687,8 @@
     "day": 11,
     "year": 2022,
     "type": "",
-    "tags": "Empty Net"
+    "tags": "Empty Net",
+    "season": "regular"
   },
   {
     "goal": 798,
@@ -8902,7 +9699,8 @@
     "day": 13,
     "year": 2022,
     "type": "",
-    "tags": "Petr Mrazek"
+    "tags": "Petr Mrazek",
+    "season": "regular"
   },
   {
     "goal": 799,
@@ -8913,7 +9711,8 @@
     "day": 13,
     "year": 2022,
     "type": "",
-    "tags": "Petr Mrazek"
+    "tags": "Petr Mrazek",
+    "season": "regular"
   },
   {
     "goal": 800,
@@ -8925,7 +9724,8 @@
     "day": 13,
     "year": 2022,
     "type": "",
-    "tags": "Petr Mrazek 800th Goal Century"
+    "tags": "Petr Mrazek 800th Goal Century",
+    "season": "regular"
   },
   {
     "goal": 801,
@@ -8937,7 +9737,8 @@
     "day": 23,
     "year": 2022,
     "type": "",
-    "tags": "Gordie Howe"
+    "tags": "Gordie Howe",
+    "season": "regular"
   },
   {
     "goal": 802,
@@ -8948,7 +9749,8 @@
     "day": 23,
     "year": 2022,
     "type": "",
-    "tags": "Empty Net"
+    "tags": "Empty Net",
+    "season": "regular"
   },
   {
     "goal": 803,
@@ -8959,7 +9761,8 @@
     "day": 29,
     "year": 2022,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 804,
@@ -8970,7 +9773,8 @@
     "day": 31,
     "year": 2022,
     "type": "",
-    "tags": "New Years Eve"
+    "tags": "New Years Eve",
+    "season": "regular"
   },
   {
     "goal": 805,
@@ -8981,7 +9785,8 @@
     "day": 31,
     "year": 2022,
     "type": "",
-    "tags": "New Years Eve"
+    "tags": "New Years Eve",
+    "season": "regular"
   },
   {
     "goal": 806,
@@ -8993,7 +9798,8 @@
     "day": 31,
     "year": 2022,
     "type": "",
-    "tags": "Hat Trick New Years Eve"
+    "tags": "Hat Trick New Years Eve",
+    "season": "regular"
   },
   {
     "goal": 807,
@@ -9004,7 +9810,8 @@
     "day": 3,
     "year": 2023,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 808,
@@ -9015,7 +9822,8 @@
     "day": 3,
     "year": 2023,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 809,
@@ -9026,7 +9834,8 @@
     "day": 5,
     "year": 2023,
     "type": "",
-    "tags": "Elvis Merzlikins"
+    "tags": "Elvis Merzlikins",
+    "season": "regular"
   },
   {
     "goal": 810,
@@ -9038,7 +9847,8 @@
     "day": 14,
     "year": 2023,
     "type": "",
-    "tags": "Thirty 30"
+    "tags": "Thirty 30",
+    "season": "regular"
   },
   {
     "goal": 811,
@@ -9049,7 +9859,8 @@
     "day": 24,
     "year": 2023,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 812,
@@ -9060,7 +9871,8 @@
     "day": 26,
     "year": 2023,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 813,
@@ -9071,7 +9883,8 @@
     "day": 26,
     "year": 2023,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 814,
@@ -9082,7 +9895,8 @@
     "day": 4,
     "year": 2023,
     "type": "",
-    "tags": "Kaapo Kahkonen"
+    "tags": "Kaapo Kahkonen",
+    "season": "regular"
   },
   {
     "goal": 815,
@@ -9093,7 +9907,8 @@
     "day": 4,
     "year": 2023,
     "type": "",
-    "tags": "Kaapo Kahkonen"
+    "tags": "Kaapo Kahkonen",
+    "season": "regular"
   },
   {
     "goal": 816,
@@ -9104,7 +9919,8 @@
     "day": 6,
     "year": 2023,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 817,
@@ -9115,7 +9931,8 @@
     "day": 15,
     "year": 2023,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 818,
@@ -9126,7 +9943,8 @@
     "day": 19,
     "year": 2023,
     "type": "",
-    "tags": "Marc-Andre Fleury"
+    "tags": "Marc-Andre Fleury",
+    "season": "regular"
   },
   {
     "goal": 819,
@@ -9137,7 +9955,8 @@
     "day": 19,
     "year": 2023,
     "type": "",
-    "tags": "Marc-Andre Fleury"
+    "tags": "Marc-Andre Fleury",
+    "season": "regular"
   },
   {
     "goal": 820,
@@ -9149,7 +9968,8 @@
     "day": 21,
     "year": 2023,
     "type": "",
-    "tags": "Forty 40"
+    "tags": "Forty 40",
+    "season": "regular"
   },
   {
     "goal": 821,
@@ -9160,7 +9980,8 @@
     "day": 23,
     "year": 2023,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 822,
@@ -9171,7 +9992,8 @@
     "day": 25,
     "year": 2023,
     "type": "",
-    "tags": "Last"
+    "tags": "Last",
+    "season": "regular"
   },
   {
     "goal": 823,
@@ -9182,7 +10004,8 @@
     "day": 24,
     "year": 2023,
     "type": "",
-    "tags": "First"
+    "tags": "First",
+    "season": "regular"
   },
   {
     "goal": 824,
@@ -9193,7 +10016,8 @@
     "day": 25,
     "year": 2023,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 825,
@@ -9204,7 +10028,8 @@
     "day": 11,
     "year": 2023,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 826,
@@ -9215,7 +10040,8 @@
     "day": 11,
     "year": 2023,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 827,
@@ -9226,7 +10052,8 @@
     "day": 18,
     "year": 2023,
     "type": "",
-    "tags": "Elvis Merzlikins"
+    "tags": "Elvis Merzlikins",
+    "season": "regular"
   },
   {
     "goal": 828,
@@ -9237,7 +10064,8 @@
     "day": 21,
     "year": 2023,
     "type": "OT",
-    "tags": "Elvis Merzlikins Overtime Game Winning Goal GWG"
+    "tags": "Elvis Merzlikins Overtime Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 829,
@@ -9248,7 +10076,8 @@
     "day": 30,
     "year": 2023,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 830,
@@ -9259,7 +10088,8 @@
     "day": 2,
     "year": 2024,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 831,
@@ -9270,7 +10100,8 @@
     "day": 27,
     "year": 2024,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 832,
@@ -9281,7 +10112,8 @@
     "day": 6,
     "year": 2024,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 833,
@@ -9292,7 +10124,8 @@
     "day": 8,
     "year": 2024,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 834,
@@ -9303,7 +10136,8 @@
     "day": 10,
     "year": 2024,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 835,
@@ -9314,7 +10148,8 @@
     "day": 11,
     "year": 2024,
     "type": "",
-    "tags": "Superbowl Super Bowl Sunday"
+    "tags": "Superbowl Super Bowl Sunday",
+    "season": "regular"
   },
   {
     "goal": 836,
@@ -9325,7 +10160,8 @@
     "day": 13,
     "year": 2024,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 837,
@@ -9336,7 +10172,8 @@
     "day": 20,
     "year": 2024,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 838,
@@ -9347,7 +10184,8 @@
     "day": 20,
     "year": 2024,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 839,
@@ -9358,7 +10196,8 @@
     "day": 1,
     "year": 2024,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 840,
@@ -9369,7 +10208,8 @@
     "day": 7,
     "year": 2024,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 841,
@@ -9380,7 +10220,8 @@
     "day": 16,
     "year": 2024,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 842,
@@ -9392,7 +10233,8 @@
     "day": 18,
     "year": 2024,
     "type": "",
-    "tags": "Twenty 20"
+    "tags": "Twenty 20",
+    "season": "regular"
   },
   {
     "goal": 843,
@@ -9403,7 +10245,8 @@
     "day": 18,
     "year": 2024,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 844,
@@ -9414,7 +10257,8 @@
     "day": 20,
     "year": 2024,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 845,
@@ -9425,7 +10269,8 @@
     "day": 20,
     "year": 2024,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 846,
@@ -9436,7 +10281,8 @@
     "day": 22,
     "year": 2024,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 847,
@@ -9447,7 +10293,8 @@
     "day": 24,
     "year": 2024,
     "type": "",
-    "tags": "Vezina Trophy"
+    "tags": "Vezina Trophy",
+    "season": "regular"
   },
   {
     "goal": 848,
@@ -9458,7 +10305,8 @@
     "day": 24,
     "year": 2024,
     "type": "",
-    "tags": "Vezina Trophy"
+    "tags": "Vezina Trophy",
+    "season": "regular"
   },
   {
     "goal": 849,
@@ -9469,7 +10317,8 @@
     "day": 4,
     "year": 2024,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 850,
@@ -9480,7 +10329,8 @@
     "day": 5,
     "year": 2024,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 851,
@@ -9491,7 +10341,8 @@
     "day": 5,
     "year": 2024,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 852,
@@ -9503,7 +10354,8 @@
     "day": 9,
     "year": 2024,
     "type": "GWG",
-    "tags": "Thirty 30 Game Winning Goal GWG"
+    "tags": "Thirty 30 Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 853,
@@ -9514,7 +10366,8 @@
     "day": 16,
     "year": 2024,
     "type": "",
-    "tags": "Last"
+    "tags": "Last",
+    "season": "regular"
   },
   {
     "goal": 854,
@@ -9525,7 +10378,8 @@
     "day": 19,
     "year": 2024,
     "type": "",
-    "tags": "Markstrom First"
+    "tags": "Markstrom First",
+    "season": "regular"
   },
   {
     "goal": 855,
@@ -9536,7 +10390,8 @@
     "day": 23,
     "year": 2024,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 856,
@@ -9547,7 +10402,8 @@
     "day": 29,
     "year": 2024,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 857,
@@ -9558,7 +10414,8 @@
     "day": 29,
     "year": 2024,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 858,
@@ -9569,7 +10426,8 @@
     "day": 31,
     "year": 2024,
     "type": "",
-    "tags": "Halloween"
+    "tags": "Halloween",
+    "season": "regular"
   },
   {
     "goal": 859,
@@ -9580,7 +10438,8 @@
     "day": 2,
     "year": 2024,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 860,
@@ -9591,7 +10450,8 @@
     "day": 3,
     "year": 2024,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 861,
@@ -9602,7 +10462,8 @@
     "day": 6,
     "year": 2024,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 862,
@@ -9613,7 +10474,8 @@
     "day": 9,
     "year": 2024,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 863,
@@ -9624,7 +10486,8 @@
     "day": 9,
     "year": 2024,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 864,
@@ -9635,7 +10498,8 @@
     "day": 17,
     "year": 2024,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 865,
@@ -9646,7 +10510,8 @@
     "day": 17,
     "year": 2024,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 866,
@@ -9658,7 +10523,8 @@
     "day": 17,
     "year": 2024,
     "type": "",
-    "tags": "Hat Trick"
+    "tags": "Hat Trick",
+    "season": "regular"
   },
   {
     "goal": 867,
@@ -9669,7 +10535,8 @@
     "day": 18,
     "year": 2024,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 868,
@@ -9680,7 +10547,8 @@
     "day": 18,
     "year": 2024,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 869,
@@ -9691,7 +10559,8 @@
     "day": 28,
     "year": 2024,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 870,
@@ -9702,7 +10571,8 @@
     "day": 29,
     "year": 2024,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 871,
@@ -9713,7 +10583,8 @@
     "day": 2,
     "year": 2025,
     "type": "",
-    "tags": "Marc-Andre Fleury"
+    "tags": "Marc-Andre Fleury",
+    "season": "regular"
   },
   {
     "goal": 872,
@@ -9724,7 +10595,8 @@
     "day": 4,
     "year": 2025,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 873,
@@ -9736,7 +10608,8 @@
     "day": 11,
     "year": 2025,
     "type": "",
-    "tags": "Twenty 20"
+    "tags": "Twenty 20",
+    "season": "regular"
   },
   {
     "goal": 874,
@@ -9747,7 +10620,8 @@
     "day": 16,
     "year": 2025,
     "type": "OT",
-    "tags": "Merilainen Overtime Game Winning Goal GWG"
+    "tags": "Merilainen Overtime Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 875,
@@ -9758,7 +10632,8 @@
     "day": 23,
     "year": 2025,
     "type": "",
-    "tags": "Empty Net"
+    "tags": "Empty Net",
+    "season": "regular"
   },
   {
     "goal": 876,
@@ -9769,7 +10644,8 @@
     "day": 30,
     "year": 2025,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 877,
@@ -9780,7 +10656,8 @@
     "day": 1,
     "year": 2025,
     "type": "",
-    "tags": "Hart Trophy Vezina Trophy"
+    "tags": "Hart Trophy Vezina Trophy",
+    "season": "regular"
   },
   {
     "goal": 878,
@@ -9791,7 +10668,8 @@
     "day": 4,
     "year": 2025,
     "type": "",
-    "tags": "Empty Net"
+    "tags": "Empty Net",
+    "season": "regular"
   },
   {
     "goal": 879,
@@ -9802,7 +10680,8 @@
     "day": 6,
     "year": 2025,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 880,
@@ -9813,7 +10692,8 @@
     "day": 23,
     "year": 2025,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 881,
@@ -9824,7 +10704,8 @@
     "day": 23,
     "year": 2025,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG"
+    "tags": "Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 882,
@@ -9836,7 +10717,8 @@
     "day": 23,
     "year": 2025,
     "type": "",
-    "tags": "Empty Net Hat Trick"
+    "tags": "Empty Net Hat Trick",
+    "season": "regular"
   },
   {
     "goal": 883,
@@ -9848,7 +10730,8 @@
     "day": 25,
     "year": 2025,
     "type": "",
-    "tags": "Thirty 30"
+    "tags": "Thirty 30",
+    "season": "regular"
   },
   {
     "goal": 884,
@@ -9859,7 +10742,8 @@
     "day": 1,
     "year": 2025,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 885,
@@ -9870,7 +10754,8 @@
     "day": 5,
     "year": 2025,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 886,
@@ -9882,7 +10767,8 @@
     "day": 9,
     "year": 2025,
     "type": "",
-    "tags": "Empty Net 1600th Point"
+    "tags": "Empty Net 1600th Point",
+    "season": "regular"
   },
   {
     "goal": 887,
@@ -9893,7 +10779,8 @@
     "day": 15,
     "year": 2025,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 888,
@@ -9904,7 +10791,8 @@
     "day": 20,
     "year": 2025,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 889,
@@ -9915,7 +10803,8 @@
     "day": 25,
     "year": 2025,
     "type": "",
-    "tags": "Hart Trophy Vezina Trophy"
+    "tags": "Hart Trophy Vezina Trophy",
+    "season": "regular"
   },
   {
     "goal": 890,
@@ -9926,7 +10815,8 @@
     "day": 30,
     "year": 2025,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 891,
@@ -9937,7 +10827,8 @@
     "day": 1,
     "year": 2025,
     "type": "",
-    "tags": "Fools Day"
+    "tags": "Fools Day",
+    "season": "regular"
   },
   {
     "goal": 892,
@@ -9948,7 +10839,8 @@
     "day": 2,
     "year": 2025,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 893,
@@ -9960,7 +10852,8 @@
     "day": 4,
     "year": 2025,
     "type": "",
-    "tags": "Forty 40"
+    "tags": "Forty 40",
+    "season": "regular"
   },
   {
     "goal": 894,
@@ -9972,7 +10865,8 @@
     "day": 4,
     "year": 2025,
     "type": "GWG",
-    "tags": "Wayne Gretzky Game Winning Goal GWG"
+    "tags": "Wayne Gretzky Game Winning Goal GWG",
+    "season": "regular"
   },
   {
     "goal": 895,
@@ -9984,7 +10878,8 @@
     "day": 6,
     "year": 2025,
     "type": "",
-    "tags": "Wayne Gretzky The Chasing Days Are Done"
+    "tags": "Wayne Gretzky The Chasing Days Are Done",
+    "season": "regular"
   },
   {
     "goal": 896,
@@ -9995,7 +10890,8 @@
     "day": 13,
     "year": 2025,
     "type": "",
-    "tags": ""
+    "tags": "",
+    "season": "regular"
   },
   {
     "goal": 897,
@@ -10006,7 +10902,8 @@
     "day": 17,
     "year": 2025,
     "type": "",
-    "tags": "Last"
+    "tags": "Last",
+    "season": "regular"
   },
   {
     "goal": 1001,
@@ -10017,7 +10914,8 @@
     "day": 11,
     "year": 2008,
     "type": "",
-    "tags": "Playoffs Quarterfinals Game 1"
+    "tags": "Quarterfinals Game 1",
+    "season": "playoff"
   },
   {
     "goal": 1002,
@@ -10028,7 +10926,8 @@
     "day": 21,
     "year": 2008,
     "type": "",
-    "tags": "Playoffs Quarterfinals Game 6"
+    "tags": "Quarterfinals Game 6",
+    "season": "playoff"
   },
   {
     "goal": 1003,
@@ -10039,7 +10938,8 @@
     "day": 21,
     "year": 2008,
     "type": "",
-    "tags": "Playoffs Quarterfinals Game 6"
+    "tags": "Quarterfinals Game 6",
+    "season": "playoff"
   },
   {
     "goal": 1004,
@@ -10050,7 +10950,8 @@
     "day": 22,
     "year": 2008,
     "type": "",
-    "tags": "Playoffs Quarterfinals Game 7"
+    "tags": "Quarterfinals Game 7",
+    "season": "playoff"
   },
   {
     "goal": 1005,
@@ -10061,7 +10962,8 @@
     "day": 22,
     "year": 2009,
     "type": "",
-    "tags": "Playoffs Quarterfinals Game 4"
+    "tags": "Quarterfinals Game 4",
+    "season": "playoff"
   },
   {
     "goal": 1006,
@@ -10072,7 +10974,8 @@
     "day": 24,
     "year": 2009,
     "type": "",
-    "tags": "Playoffs Quarterfinals Game 5"
+    "tags": "Quarterfinals Game 5",
+    "season": "playoff"
   },
   {
     "goal": 1007,
@@ -10083,7 +10986,8 @@
     "day": 26,
     "year": 2009,
     "type": "",
-    "tags": "Playoffs Quarterfinals Game 6"
+    "tags": "Quarterfinals Game 6",
+    "season": "playoff"
   },
   {
     "goal": 1008,
@@ -10094,7 +10998,8 @@
     "day": 2,
     "year": 2009,
     "type": "",
-    "tags": "Marc-Andre Fleury Playoffs Semifinals Game 1"
+    "tags": "Marc-Andre Fleury Semifinals Game 1",
+    "season": "playoff"
   },
   {
     "goal": 1009,
@@ -10105,7 +11010,8 @@
     "day": 4,
     "year": 2009,
     "type": "",
-    "tags": "Marc-Andre Fleury Playoffs Semifinals Game 2"
+    "tags": "Marc-Andre Fleury Semifinals Game 2",
+    "season": "playoff"
   },
   {
     "goal": 1010,
@@ -10116,7 +11022,8 @@
     "day": 4,
     "year": 2009,
     "type": "",
-    "tags": "Marc-Andre Fleury Playoffs Semifinals Game 2"
+    "tags": "Marc-Andre Fleury Semifinals Game 2",
+    "season": "playoff"
   },
   {
     "goal": 1011,
@@ -10127,7 +11034,8 @@
     "day": 4,
     "year": 2009,
     "type": "",
-    "tags": "Marc-Andre Fleury Playoffs Semifinals Game 2 Hat Trick"
+    "tags": "Marc-Andre Fleury Semifinals Game 2 Hat Trick",
+    "season": "playoff"
   },
   {
     "goal": 1012,
@@ -10138,7 +11046,8 @@
     "day": 6,
     "year": 2009,
     "type": "",
-    "tags": "Marc-Andre Fleury Playoffs Semifinals Game 3"
+    "tags": "Marc-Andre Fleury Semifinals Game 3",
+    "season": "playoff"
   },
   {
     "goal": 1013,
@@ -10149,7 +11058,8 @@
     "day": 9,
     "year": 2009,
     "type": "",
-    "tags": "Marc-Andre Fleury Playoffs Semifinals Game 5"
+    "tags": "Marc-Andre Fleury Semifinals Game 5",
+    "season": "playoff"
   },
   {
     "goal": 1014,
@@ -10160,7 +11070,8 @@
     "day": 9,
     "year": 2009,
     "type": "",
-    "tags": "Marc-Andre Fleury Playoffs Semifinals Game 5"
+    "tags": "Marc-Andre Fleury Semifinals Game 5",
+    "season": "playoff"
   },
   {
     "goal": 1015,
@@ -10171,7 +11082,8 @@
     "day": 13,
     "year": 2009,
     "type": "",
-    "tags": "Marc-Andre Fleury Playoffs Semifinals Game 7"
+    "tags": "Marc-Andre Fleury Semifinals Game 7",
+    "season": "playoff"
   },
   {
     "goal": 1016,
@@ -10182,7 +11094,8 @@
     "day": 17,
     "year": 2010,
     "type": "",
-    "tags": "Jaroslav Halak Playoffs Quarterfinals Game 2"
+    "tags": "Jaroslav Halak Quarterfinals Game 2",
+    "season": "playoff"
   },
   {
     "goal": 1017,
@@ -10193,7 +11106,8 @@
     "day": 19,
     "year": 2010,
     "type": "",
-    "tags": "Playoffs Quarterfinals Game 3"
+    "tags": "Quarterfinals Game 3",
+    "season": "playoff"
   },
   {
     "goal": 1018,
@@ -10204,7 +11118,8 @@
     "day": 21,
     "year": 2010,
     "type": "",
-    "tags": "Playoffs Quarterfinals Game 4"
+    "tags": "Quarterfinals Game 4",
+    "season": "playoff"
   },
   {
     "goal": 1019,
@@ -10215,7 +11130,8 @@
     "day": 21,
     "year": 2010,
     "type": "",
-    "tags": "Playoffs Quarterfinals Game 4"
+    "tags": "Quarterfinals Game 4",
+    "season": "playoff"
   },
   {
     "goal": 1020,
@@ -10226,7 +11142,8 @@
     "day": 23,
     "year": 2010,
     "type": "",
-    "tags": "Jaroslav Halak Playoffs Quarterfinals Game 5"
+    "tags": "Jaroslav Halak Quarterfinals Game 5",
+    "season": "playoff"
   },
   {
     "goal": 1021,
@@ -10237,7 +11154,8 @@
     "day": 13,
     "year": 2011,
     "type": "",
-    "tags": "Playoffs Quarterfinals Game 1"
+    "tags": "Quarterfinals Game 1",
+    "season": "playoff"
   },
   {
     "goal": 1022,
@@ -10248,7 +11166,8 @@
     "day": 17,
     "year": 2011,
     "type": "",
-    "tags": "Playoffs Quarterfinals Game 3"
+    "tags": "Quarterfinals Game 3",
+    "season": "playoff"
   },
   {
     "goal": 1023,
@@ -10259,7 +11178,8 @@
     "day": 23,
     "year": 2011,
     "type": "",
-    "tags": "Playoffs Quarterfinals Game 5"
+    "tags": "Quarterfinals Game 5",
+    "season": "playoff"
   },
   {
     "goal": 1024,
@@ -10270,7 +11190,8 @@
     "day": 1,
     "year": 2011,
     "type": "",
-    "tags": "Playoffs Semifinals Game 2"
+    "tags": "Semifinals Game 2",
+    "season": "playoff"
   },
   {
     "goal": 1025,
@@ -10281,7 +11202,8 @@
     "day": 3,
     "year": 2011,
     "type": "",
-    "tags": "Playoffs Semifinals Game 3"
+    "tags": "Semifinals Game 3",
+    "season": "playoff"
   },
   {
     "goal": 1026,
@@ -10292,7 +11214,8 @@
     "day": 16,
     "year": 2012,
     "type": "",
-    "tags": "Playoffs Quarterfinals Game 3"
+    "tags": "Quarterfinals Game 3",
+    "season": "playoff"
   },
   {
     "goal": 1027,
@@ -10303,7 +11226,8 @@
     "day": 22,
     "year": 2012,
     "type": "",
-    "tags": "Playoffs Quarterfinals Game 6"
+    "tags": "Quarterfinals Game 6",
+    "season": "playoff"
   },
   {
     "goal": 1028,
@@ -10314,7 +11238,8 @@
     "day": 30,
     "year": 2012,
     "type": "",
-    "tags": "Playoffs Semifinals Game 2"
+    "tags": "Semifinals Game 2",
+    "season": "playoff"
   },
   {
     "goal": 1029,
@@ -10325,7 +11250,8 @@
     "day": 5,
     "year": 2012,
     "type": "",
-    "tags": "Playoffs Semifinals Game 5"
+    "tags": "Semifinals Game 5",
+    "season": "playoff"
   },
   {
     "goal": 1030,
@@ -10336,7 +11262,8 @@
     "day": 9,
     "year": 2012,
     "type": "",
-    "tags": "Playoffs Quarterfinals Game 6"
+    "tags": "Quarterfinals Game 6",
+    "season": "playoff"
   },
   {
     "goal": 1031,
@@ -10347,7 +11274,8 @@
     "day": 2,
     "year": 2013,
     "type": "",
-    "tags": "Playoffs Quarterfinals Game 1"
+    "tags": "Quarterfinals Game 1",
+    "season": "playoff"
   },
   {
     "goal": 1032,
@@ -10358,7 +11286,8 @@
     "day": 17,
     "year": 2015,
     "type": "",
-    "tags": "Playoffs Quarterfinals Game 2"
+    "tags": "Quarterfinals Game 2",
+    "season": "playoff"
   },
   {
     "goal": 1033,
@@ -10369,7 +11298,8 @@
     "day": 21,
     "year": 2015,
     "type": "",
-    "tags": "Playoffs Quarterfinals Game 4"
+    "tags": "Quarterfinals Game 4",
+    "season": "playoff"
   },
   {
     "goal": 1034,
@@ -10380,7 +11310,8 @@
     "day": 30,
     "year": 2015,
     "type": "",
-    "tags": "Playoffs Semifinals Game 1"
+    "tags": "Semifinals Game 1",
+    "season": "playoff"
   },
   {
     "goal": 1035,
@@ -10391,7 +11322,8 @@
     "day": 2,
     "year": 2015,
     "type": "",
-    "tags": "Playoffs Semifinals Game 2"
+    "tags": "Semifinals Game 2",
+    "season": "playoff"
   },
   {
     "goal": 1036,
@@ -10402,7 +11334,8 @@
     "day": 13,
     "year": 2015,
     "type": "",
-    "tags": "Playoffs Semifinals Game 7"
+    "tags": "Semifinals Game 7",
+    "season": "playoff"
   },
   {
     "goal": 1037,
@@ -10413,7 +11346,8 @@
     "day": 16,
     "year": 2016,
     "type": "",
-    "tags": "Playoffs Quarterfinals Game 2"
+    "tags": "Quarterfinals Game 2",
+    "season": "playoff"
   },
   {
     "goal": 1038,
@@ -10424,7 +11358,8 @@
     "day": 18,
     "year": 2016,
     "type": "",
-    "tags": "Playoffs Quarterfinals Game 3"
+    "tags": "Quarterfinals Game 3",
+    "season": "playoff"
   },
   {
     "goal": 1039,
@@ -10435,7 +11370,8 @@
     "day": 18,
     "year": 2016,
     "type": "",
-    "tags": "Playoffs Quarterfinals Game 3"
+    "tags": "Quarterfinals Game 3",
+    "season": "playoff"
   },
   {
     "goal": 1040,
@@ -10446,7 +11382,8 @@
     "day": 2,
     "year": 2016,
     "type": "",
-    "tags": "Marc-Andre Fleury Playoffs Semifinals Game 3"
+    "tags": "Marc-Andre Fleury Semifinals Game 3",
+    "season": "playoff"
   },
   {
     "goal": 1041,
@@ -10457,7 +11394,8 @@
     "day": 7,
     "year": 2016,
     "type": "",
-    "tags": "Marc-Andre Fleury Playoffs Semifinals Game 5"
+    "tags": "Marc-Andre Fleury Semifinals Game 5",
+    "season": "playoff"
   },
   {
     "goal": 1042,
@@ -10468,7 +11406,8 @@
     "day": 15,
     "year": 2017,
     "type": "",
-    "tags": "Playoffs Quarterfinals Game 2"
+    "tags": "Quarterfinals Game 2",
+    "season": "playoff"
   },
   {
     "goal": 1043,
@@ -10479,7 +11418,8 @@
     "day": 17,
     "year": 2017,
     "type": "",
-    "tags": "Playoffs Quarterfinals Game 3"
+    "tags": "Quarterfinals Game 3",
+    "season": "playoff"
   },
   {
     "goal": 1044,
@@ -10490,7 +11430,8 @@
     "day": 19,
     "year": 2017,
     "type": "",
-    "tags": "Playoffs Quarterfinals Game 4"
+    "tags": "Quarterfinals Game 4",
+    "season": "playoff"
   },
   {
     "goal": 1045,
@@ -10501,7 +11442,8 @@
     "day": 27,
     "year": 2017,
     "type": "",
-    "tags": "Marc-Andre Fleury Playoffs Semifinals Game 1"
+    "tags": "Marc-Andre Fleury Semifinals Game 1",
+    "season": "playoff"
   },
   {
     "goal": 1046,
@@ -10512,7 +11454,8 @@
     "day": 6,
     "year": 2017,
     "type": "",
-    "tags": "Marc-Andre Fleury Playoffs Semifinals Game 5"
+    "tags": "Marc-Andre Fleury Semifinals Game 5",
+    "season": "playoff"
   },
   {
     "goal": 1047,
@@ -10523,7 +11466,8 @@
     "day": 15,
     "year": 2018,
     "type": "",
-    "tags": "Playoffs Quarterfinals Game 2"
+    "tags": "Quarterfinals Game 2",
+    "season": "playoff"
   },
   {
     "goal": 1048,
@@ -10534,7 +11478,8 @@
     "day": 15,
     "year": 2018,
     "type": "",
-    "tags": "Playoffs Quarterfinals Game 2"
+    "tags": "Quarterfinals Game 2",
+    "season": "playoff"
   },
   {
     "goal": 1049,
@@ -10545,7 +11490,8 @@
     "day": 19,
     "year": 2018,
     "type": "",
-    "tags": "Playoffs Quarterfinals Game 4"
+    "tags": "Quarterfinals Game 4",
+    "season": "playoff"
   },
   {
     "goal": 1050,
@@ -10556,7 +11502,8 @@
     "day": 23,
     "year": 2018,
     "type": "",
-    "tags": "Playoffs Quarterfinals Game 6"
+    "tags": "Quarterfinals Game 6",
+    "season": "playoff"
   },
   {
     "goal": 1051,
@@ -10567,7 +11514,8 @@
     "day": 23,
     "year": 2018,
     "type": "",
-    "tags": "Playoffs Quarterfinals Game 6"
+    "tags": "Quarterfinals Game 6",
+    "season": "playoff"
   },
   {
     "goal": 1052,
@@ -10578,7 +11526,8 @@
     "day": 26,
     "year": 2018,
     "type": "",
-    "tags": "Marc-Andre Fleury Playoffs Semifinals Game 1 100th Playoff Point"
+    "tags": "Marc-Andre Fleury Semifinals Game 1 100th Playoff Point",
+    "season": "playoff"
   },
   {
     "goal": 1053,
@@ -10589,7 +11538,8 @@
     "day": 29,
     "year": 2018,
     "type": "",
-    "tags": "Marc-Andre Fleury Playoffs Semifinals Game 2"
+    "tags": "Marc-Andre Fleury Semifinals Game 2",
+    "season": "playoff"
   },
   {
     "goal": 1054,
@@ -10600,7 +11550,8 @@
     "day": 1,
     "year": 2018,
     "type": "",
-    "tags": "Marc-Andre Fleury Playoffs Semifinals Game 3"
+    "tags": "Marc-Andre Fleury Semifinals Game 3",
+    "season": "playoff"
   },
   {
     "goal": 1055,
@@ -10611,7 +11562,8 @@
     "day": 11,
     "year": 2018,
     "type": "",
-    "tags": "Playoffs Eastern Conference Finals Game 1"
+    "tags": "Eastern Conference Finals Game 1",
+    "season": "playoff"
   },
   {
     "goal": 1056,
@@ -10622,7 +11574,8 @@
     "day": 13,
     "year": 2018,
     "type": "",
-    "tags": "Playoffs Eastern Conference Finals Game 2"
+    "tags": "Eastern Conference Finals Game 2",
+    "season": "playoff"
   },
   {
     "goal": 1057,
@@ -10633,7 +11586,8 @@
     "day": 19,
     "year": 2018,
     "type": "",
-    "tags": "Playoffs Eastern Conference Finals Game 5"
+    "tags": "Eastern Conference Finals Game 5",
+    "season": "playoff"
   },
   {
     "goal": 1058,
@@ -10644,7 +11598,8 @@
     "day": 23,
     "year": 2018,
     "type": "",
-    "tags": "Playoffs Eastern Conference Finals Game 7"
+    "tags": "Eastern Conference Finals Game 7",
+    "season": "playoff"
   },
   {
     "goal": 1059,
@@ -10655,7 +11610,8 @@
     "day": 30,
     "year": 2018,
     "type": "",
-    "tags": "Marc-Andre Fleury Playoffs Stanley Cup Finals Game 2"
+    "tags": "Marc-Andre Fleury Stanley Cup Finals Game 2",
+    "season": "playoff"
   },
   {
     "goal": 1060,
@@ -10666,7 +11622,8 @@
     "day": 2,
     "year": 2018,
     "type": "",
-    "tags": "Marc-Andre Fleury Playoffs Stanley Cup Finals Game 3"
+    "tags": "Marc-Andre Fleury Stanley Cup Finals Game 3",
+    "season": "playoff"
   },
   {
     "goal": 1061,
@@ -10677,6 +11634,7 @@
     "day": 7,
     "year": 2018,
     "type": "",
-    "tags": "Marc-Andre Fleury Playoffs Stanley Cup Finals Game 5"
+    "tags": "Marc-Andre Fleury Stanley Cup Finals Game 5",
+    "season": "playoff"
   }
 ]
