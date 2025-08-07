@@ -195,9 +195,12 @@ function SearchForm({jsonData}) {
 
     const todayGoal = () => {
         resultsHide();
-        const date = new Date();
-        const hash = (date.getMonth() + 1) * date.getDate();
-        const goal = hash * 2.41129;
+        var now = new Date();
+        var start = new Date(now.getFullYear(), 0, 0);
+        var diff = now - start;
+        var oneDay = 1000 * 60 * 60 * 24;
+        var day = Math.floor(diff / oneDay);
+        var goal = parseInt(day * 2.45);
         setSearchGoal(Math.trunc(goal));
         
         if (!window.location.hostname.includes('localhost')) {
