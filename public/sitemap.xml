@@ -40,6 +40,18 @@
 
     <url>
 
+        <loc>https://ovechkin.cam/goals.html</loc>
+
+        <lastmod>2025-08-05</lastmod>
+
+        <changefreq>monthly</changefreq>
+
+        <priority>0.8</priority>
+
+    </url>
+
+    <url>
+
         <loc>https://ovechkin.cam/thanks.html</loc>
 
         <lastmod>2025-08-05</lastmod>

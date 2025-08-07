@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <title>All Goals | Ovechkin Cam</title>
+    <link rel="icon" href="/favicon.ico"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="theme-color" content="#000000"/>
+    <meta name="description" content="A chronological list of all Ovechkin goals."/>
+    <meta name="keywords" content="Alex Ovechkin, NHL, goal video, goal catalog, goal index, log, career, greatest goal scorer, Washington Capitals, Caps, Gr8, OV, Ovi, Ovie, Ovy, Alexander, Mikhailovich, Sasha, Russian Machine, Ovechkam, OviCastАлексaндр Михайлович Овечкин"/>
+    <meta name="author" content="Geoff Thompson"/>
+    <meta property="og:image" content="/ovechkin.jpg"/>
+    <meta property="twitter:image" content="/ovechkin.jpg"/>
+    <link rel="stylesheet" href="/modern-normalize.css">
+    <link rel="stylesheet" href="/style.css"/>
+    <link rel="manifest" href="/manifest.json"/>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-5RVBYX6N0S"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-5RVBYX6N0S');
+    </script>
+    <script>
+        async function fetchDataAndCreateTable() {
+            try {
+                const response = await fetch('/goals.json');
+                const data = await response.json();
+
+                const tableBody = document.querySelector('tbody');
+
+                data.forEach(item => {
+                    const row = tableBody.insertRow();
+                    const goalCell = row.insertCell();
+                    goalCell.textContent = item.goal;
+                    const teamCell = row.insertCell();
+                    teamCell.textContent = item.team;
+                    const goalieCell = row.insertCell();
+                    goalieCell.textContent = item.goalie;
+                    const monthCell = row.insertCell();
+                    monthCell.textContent = item.month;
+                    const dayCell = row.insertCell();
+                    dayCell.textContent = item.day;
+                    const yearCell = row.insertCell();
+                    yearCell.textContent = item.year;
+                    const typeCell = row.insertCell();
+                    typeCell.textContent = item.type;
+                    const linkCell = row.insertCell();
+                    const linkHTML = '<a href="' + item.link.replace('embed/', 'watch?v=') + '" target="_blank">Watch Goal</a>' ;
+                    linkCell.innerHTML = linkHTML;
+                });
+            } catch (error) {
+                console.error('Error fetching data:', error);
+            }
+        }
+
+        // Call the function to fetch data and create the table when the page loads
+        document.addEventListener('DOMContentLoaded', fetchDataAndCreateTable);
+    </script>
+  </head>
+  <body>
+    <header>
+      <h1>All Ovechkin Goals</h1>
+    </header>
+    <main>
+        <table>
+            <thead>
+              <tr>
+                  <th>Goal</th>
+                  <th>Team</th>
+                  <th>Goalie</th>
+                  <th>Month</th>
+                  <th>Day</th>
+                  <th>Year</th>
+                  <th>Type</th>
+                  <th>Link</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </main>
+    <footer>
+        <a href="/">Home</a>
+        &nbsp;|&nbsp;
+        <a href="/about.html">About</a>
+        &nbsp;|&nbsp;
+        <a href="/contact.html">Contact</a>
+        &nbsp;|&nbsp;
+        <a href="/goals.html">Goals</a>
+        &nbsp;|&nbsp;
+        <a href="/thanks.html">Thanks</a>
+    </footer>
+  </body>
+</html>
