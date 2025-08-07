@@ -46,7 +46,7 @@ function SearchForm({jsonData}) {
         if (searchText) {
             const results = jsonData.filter((item) => {
                 const search =
-                    item.month + ' ' + item.day + ' ' + item.year + ' ' + item.season + ' ' + item.goalie + ' ' + item.tags + ' ' + item.team;
+                    item.month + ' ' + item.day + ' ' + item.year + ' ' + item.goalie + ' ' + item.tags + ' ' + item.team;
                 return (
                     search.toLowerCase().includes(searchText) && item.season.includes(document.getElementById('season').value)
                 );
@@ -110,10 +110,8 @@ function SearchForm({jsonData}) {
     };
 
     const handleTextChange = (event) => {
-        setSearchText(event.target.value);
-    };
-    const handleTextInput = () => {
         setSearchGoal('');
+        setSearchText(event.target.value);
     };
 
     const highlightGoal = () => {
@@ -219,7 +217,7 @@ function SearchForm({jsonData}) {
                     <label htmlFor="search-goal">Goal</label>
                     <input min="1" max="897" id="search-goal" type="number" placeholder="#" value={searchGoal} onChange={handleGoalChange}/>
                     <label htmlFor="search-text">Text</label>
-                    <input id="search-text" type="text" placeholder="Date, Goalie, Team, etc." value={searchText} onChange={handleTextChange} onKeyDown={handleTextInput}/>
+                    <input id="search-text" type="text" placeholder="Date, Goalie, Team, etc." value={searchText} onChange={handleTextChange}/>
                     <button onClick={reset} name="Reset" type="button">Reset</button>
                 </div>
                 <div>
@@ -232,11 +230,11 @@ function SearchForm({jsonData}) {
             </form>
 
             <div id="advanced">
-                <label htmlFor="season">Season</label>
+                <label htmlFor="season" hidden>Season</label>
                 <select id="season" name="Season" onChange={handleSeasonChange}>
-                    <option name="Regular Season" value="regular" selected>Regular</option>
-                    <option name="Playoff Season" value="playoff">Playoff</option>
-                    <option name="All Seasons" value="">All</option>
+                    <option name="Regular Season" value="regular" selected>Regular Season</option>
+                    <option name="Playoffs" value="playoff">Playoffs</option>
+                    <option name="All" value="">All</option>
                 </select>
                 <strong id="count"></strong>
             </div>
