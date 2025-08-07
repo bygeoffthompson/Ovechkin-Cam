@@ -48,11 +48,11 @@ function SearchForm({jsonData}) {
                 const search =
                     item.month + ' ' + item.day + ' ' + item.year + ' ' + item.goalie + ' ' + item.tags + ' ' + item.team;
                 return (
-                    search.toLowerCase().includes(searchText) && item.season === "regular"
+                    search.toLowerCase().includes(searchText) && item.season.includes(document.getElementById('season').value)
                 );
             });
             if (results.length > 0) {
-                document.querySelector('#count').classList.add('show');
+                document.querySelector('#advanced').classList.add('show');
             }
             if (results.length === 1) {
                 document.querySelector('#count').innerHTML = results.length + ' Result';
@@ -102,6 +102,11 @@ function SearchForm({jsonData}) {
 
     const handleGoalChange = (event) => {
         setSearchGoal(event.target.value);
+    };
+
+    const handleSeasonChange = (event) => {
+        const query = document.getElementById('search-text').value;
+        setSearchText([query]);
     };
 
     const handleTextChange = (event) => {
@@ -167,7 +172,7 @@ function SearchForm({jsonData}) {
 
     function resultsHide() {
         setSearchText('');
-        document.querySelector('#count').classList.remove('show');
+        document.querySelector('#advanced').classList.remove('show');
     }
 
     const randomGoal = () => {
@@ -226,7 +231,16 @@ function SearchForm({jsonData}) {
                 </div>
             </form>
 
-            <strong id="count"></strong>
+            <div id="advanced">
+                <label htmlFor="season">Season</label>
+                <select id="season" name="Season" onChange={handleSeasonChange}>
+                    <option name="Regular Season" value="regular" selected>Regular</option>
+                    <option name="Playoff Season" value="playoff">Playoff</option>
+                    <option name="All Seasons" value="">All</option>
+                </select>
+                <strong id="count"></strong>
+            </div>
+
 
             {searchResults.map((result, index) => (
                 <div className="frame" key={index}>

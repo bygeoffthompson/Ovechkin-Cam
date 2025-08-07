@@ -1,11 +1,27 @@
-#count {
-  font-size: 1.5rem;
+#advanced {
+  align-items: center;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  margin: 0 0 1rem;
   opacity: 0;
   transition: all 250ms;
 }
 
-#count.show {
+#advanced.show {
   opacity: 1;
+}
+
+#advanced label {
+    font-size: 1.5rem;
+}
+
+#count {
+    font-size: 1.5rem;
+}
+
+#season {
+    font-size: 1.25rem;
 }
 
 .copy {
