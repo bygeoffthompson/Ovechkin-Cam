@@ -76,6 +76,20 @@ iframe {
     width: 100%;
 }
 
+table {
+    text-align: left;
+}
+
+td,
+th {
+    padding: 2px 1rem;
+    max-width: 250px;
+}
+
+tr:nth-child(odd) {
+    background: rgba(41,41,41,.1);
+}
+
 @media (min-width:576px) {
     header {
         flex-direction: row;
