@@ -48,7 +48,7 @@ function SearchForm({jsonData}) {
                 const search =
                     item.month + ' ' + item.day + ' ' + item.year + ' ' + item.goalie + ' ' + item.tags + ' ' + item.team;
                 return (
-                    search.toLowerCase().includes(searchText) && item.goal <= 897
+                    search.toLowerCase().includes(searchText) && item.season === "regular"
                 );
             });
             if (results.length > 0) {
