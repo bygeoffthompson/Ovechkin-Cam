@@ -269,11 +269,6 @@ input[type="text"] {
   text-transform: uppercase;
 }
 
-input[type="text"]::placeholder {
-  font-size: 1.25rem;
-  font-weight: 400;
-}
-
 input[type="number"]:focus-visible {
   border-bottom: 2px solid #C8102E;
 }

@@ -217,7 +217,7 @@ function SearchForm({jsonData}) {
                     <label htmlFor="search-goal">Goal</label>
                     <input min="1" max="897" id="search-goal" type="number" placeholder="#" value={searchGoal} onChange={handleGoalChange}/>
                     <label htmlFor="search-text">Text</label>
-                    <input id="search-text" type="text" placeholder="Date, Goalie, Team, etc." value={searchText} onChange={handleTextChange}/>
+                    <input id="search-text" type="text" placeholder="" value={searchText} onChange={handleTextChange}/>
                     <button onClick={reset} name="Reset" type="button">Reset</button>
                 </div>
                 <div>
@@ -238,7 +238,6 @@ function SearchForm({jsonData}) {
                 </select>
                 <strong id="count"></strong>
             </div>
-
 
             {searchResults.map((result, index) => (
                 <div className="frame" key={index}>
