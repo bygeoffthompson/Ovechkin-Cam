@@ -82,6 +82,26 @@ function SearchForm({jsonData}) {
         navigator.clipboard.writeText(link);
     };
 
+    const emptyNetGoal = () => {
+        resultsHide();
+        const eng = ['ENG'];
+
+        const result = jsonData.filter(item =>
+            Object.values(item).some(value =>
+                eng.includes(value)
+            )
+        );
+
+        const goal = Object.values(result[random(1, Object.keys(result).length)]);
+        setSearchGoal(goal[0]);
+
+        ReactGA.event({
+            category: 'Click',
+            action: 'Empty Net Goal Click',
+            value: 1
+        });
+    };
+
     const gameWinningGoal = () => {
         resultsHide();
         const gwg = ['OT', 'GWG'];
@@ -257,11 +277,12 @@ function SearchForm({jsonData}) {
                 </div>
                 <div>
                     <button onClick={randomGoal} name="Goal" title="A Random Goal" type="button">Goal</button>
-                    <button onClick={powerPlayGoal} name="Power Play Goal" title="A Random Power Play Goal" type="button">PPG</button>
-                    <button onClick={gameWinningGoal} name="Game Winning Goal" title="A Random Game Winning Goal" type="button">GWG</button>
-                    <button onClick={overtimeGoal} name="Overtime Goal" title="A Random Overtime Goal" type="button">Overtime Goal</button>
-                    <button onClick={hatTrickGoal} name="Hat Trick Goal" title="A Random Hat Trick Goal" type="button">Hat Trick Goal</button>
-                    <button onClick={todayGoal} name="Today's Goal" title="A Goal That Changes Everyday" type="button">Today's Goal</button>
+                    <button onClick={powerPlayGoal} name="Power Play Goal" title="A Power Play Goal" type="button">PPG</button>
+                    <button onClick={gameWinningGoal} name="Game Winning Goal" title="A Game Winning Goal" type="button">GWG</button>
+                    <button onClick={emptyNetGoal} name="Empty Net Goal" title="An Empty Net Goal" type="button">ENG</button>
+                    <button onClick={overtimeGoal} name="Overtime Goal" title="An Overtime Goal" type="button">OT Goal</button>
+                    <button onClick={hatTrickGoal} name="Hat Trick Goal" title="A Hat Trick Goal" type="button">Hat Trick Goal</button>
+                    <button onClick={todayGoal} name="Today's Goal" title="A New Goal Chosen Daily" type="button">Today's Goal</button>
                     <button onClick={reset} name="Reset" type="button">Reset</button>
                 </div>
             </form>
