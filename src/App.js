@@ -5,7 +5,9 @@ ReactGA.initialize('G-5RVBYX6N0S');
 
 function SearchForm({jsonData}) {
     const [searchGoal, setSearchGoal] = useState('');
-    const [searchText, setSearchText] = useState('');
+    const [searchText1, setSearchText1] = useState('');
+    const [searchText2, setSearchText2] = useState('');
+    const [searchText3, setSearchText3] = useState('');
     const [searchResults, setSearchResults] = useState([]);
 
     useEffect(() => {
@@ -40,12 +42,15 @@ function SearchForm({jsonData}) {
                 value: 1
             });
         }
-        if (searchText) {
+        if (searchText1 || searchText2 || searchText3) {
             const results = jsonData.filter((item) => {
                 const search =
                     item.month + ' ' + item.day + ' ' + item.year + ' ' + item.goalie + ' ' + item.tags + ' ' + item.type + ' ' + item.team;
                 return (
-                    search.toLowerCase().includes(searchText) && item.season.includes(document.getElementById('season').value)
+                    search.toLowerCase().includes(searchText1) &&
+                    search.toLowerCase().includes(searchText2) &&
+                    search.toLowerCase().includes(searchText3) &&
+                    item.season.includes(document.getElementById('season').value)
                 );
             });
             if (results.length > 0) {
@@ -58,7 +63,7 @@ function SearchForm({jsonData}) {
             }
             setSearchResults(results);
         }
-    }, [searchGoal, searchText, jsonData]);
+    }, [searchGoal, searchText1, searchText2, searchText3, jsonData]);
 
     useEffect(() => {
         const query = window.location.search.slice(1);
@@ -66,7 +71,9 @@ function SearchForm({jsonData}) {
         if (queryInteger >= 1 && queryInteger <= 897) {
             setSearchGoal(queryInteger);
         } else {
-            setSearchText(query);
+            setSearchText1(query);
+            setSearchText2('');
+            setSearchText3('');
         }
     },[]);
 
@@ -100,13 +107,27 @@ function SearchForm({jsonData}) {
     };
 
     const handleSeasonChange = (event) => {
-        const query = document.getElementById('search-text').value;
-        setSearchText([query]);
+        const searchText1 = document.getElementById('search-text-1').value;
+        const searchText2 = document.getElementById('search-text-2').value;
+        const searchText3 = document.getElementById('search-text-3').value;
+        setSearchText1([searchText1]);
+        setSearchText2([searchText2]);
+        setSearchText3([searchText3]);
     };
 
-    const handleTextChange = (event) => {
+    const handleText1 = (event) => {
         setSearchGoal('');
-        setSearchText(event.target.value);
+        setSearchText1(event.target.value);
+    };
+
+    const handleText2 = (event) => {
+        setSearchGoal('');
+        setSearchText2(event.target.value);
+    };
+
+    const handleText3 = (event) => {
+        setSearchGoal('');
+        setSearchText3(event.target.value);
     };
 
     const hatTrickGoal = () => {
@@ -143,8 +164,8 @@ function SearchForm({jsonData}) {
         setSearchGoal(goal[0]);
 
         ReactGA.event({
-            category: "Click",
-            action: "Overtime Goal Click",
+            category: 'Click',
+            action: 'Overtime Goal Click',
             value: 1
         });
     };
@@ -180,7 +201,9 @@ function SearchForm({jsonData}) {
     }
 
     function resultsHide() {
-        setSearchText('');
+        setSearchText1('');
+        setSearchText2('');
+        setSearchText3('');
         document.querySelector('#advanced').classList.remove('show');
     }
 
@@ -198,7 +221,6 @@ function SearchForm({jsonData}) {
 
     const reset = () => {
         setSearchResults([]);
-        setSearchGoal('');
         resultsHide();
     };
 
@@ -227,7 +249,9 @@ function SearchForm({jsonData}) {
                     <label htmlFor="search-goal">Goal</label>
                     <input min="1" max="897" id="search-goal" type="number" placeholder="#" value={searchGoal} onChange={handleGoalChange}/>
                     <label htmlFor="search-text">Text</label>
-                    <input id="search-text" type="text" placeholder="" value={searchText} onChange={handleTextChange}/>
+                    <input id="search-text-1" type="text" placeholder="" value={searchText1} onChange={handleText1}/>
+                    <input id="search-text-2" type="text" placeholder="" value={searchText2} onChange={handleText2}/>
+                    <input id="search-text-3" type="text" placeholder="" value={searchText3} onChange={handleText3}/>
                     <button onClick={reset} name="Reset" type="button">Reset</button>
                 </div>
                 <div>
