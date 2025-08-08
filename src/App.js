@@ -248,19 +248,21 @@ function SearchForm({jsonData}) {
                     <h2>Search</h2>
                     <label htmlFor="search-goal">Goal</label>
                     <input min="1" max="897" id="search-goal" type="number" placeholder="#" value={searchGoal} onChange={handleGoalChange}/>
-                    <label htmlFor="search-text">Text</label>
+                    <label htmlFor="search-text-1">Text</label>
                     <input id="search-text-1" type="text" placeholder="" value={searchText1} onChange={handleText1}/>
+                    <label htmlFor="search-text-2" hidden>More Text</label>
                     <input id="search-text-2" type="text" placeholder="" value={searchText2} onChange={handleText2}/>
+                    <label htmlFor="search-text-3" hidden>More Text</label>
                     <input id="search-text-3" type="text" placeholder="" value={searchText3} onChange={handleText3}/>
-                    <button onClick={reset} name="Reset" type="button">Reset</button>
                 </div>
                 <div>
-                    <button onClick={randomGoal} name="Random Goal" title="A Random Goal" type="button">Random Goal</button>
+                    <button onClick={randomGoal} name="Goal" title="A Random Goal" type="button">Goal</button>
                     <button onClick={powerPlayGoal} name="Power Play Goal" title="A Random Power Play Goal" type="button">PPG</button>
                     <button onClick={gameWinningGoal} name="Game Winning Goal" title="A Random Game Winning Goal" type="button">GWG</button>
                     <button onClick={overtimeGoal} name="Overtime Goal" title="A Random Overtime Goal" type="button">Overtime Goal</button>
                     <button onClick={hatTrickGoal} name="Hat Trick Goal" title="A Random Hat Trick Goal" type="button">Hat Trick Goal</button>
                     <button onClick={todayGoal} name="Today's Goal" title="A Goal That Changes Everyday" type="button">Today's Goal</button>
+                    <button onClick={reset} name="Reset" type="button">Reset</button>
                 </div>
             </form>
 
