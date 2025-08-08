@@ -30,18 +30,16 @@ function SearchForm({jsonData}) {
             const results = jsonData.filter(item => item.goal <= 897 && item.goal === goalQuery)
             setSearchResults(results);
 
-            if (!window.location.hostname.includes('localhost')) {
-                ReactGA.event({
-                    category: "Goals",
-                    action: "Goal " + goalQuery,
-                    value: 1
-                });
-                ReactGA.event({
-                    category: "Total",
-                    action: "Total Goals",
-                    value: 1
-                });
-            }
+            ReactGA.event({
+                category: "Goals",
+                action: "Goal " + goalQuery,
+                value: 1
+            });
+            ReactGA.event({
+                category: "Total",
+                action: "Total Goals",
+                value: 1
+            });
         }
         if (searchText) {
             const results = jsonData.filter((item) => {
@@ -91,13 +89,11 @@ function SearchForm({jsonData}) {
         const goal = Object.values(result[random(1, Object.keys(result).length)]);
         setSearchGoal(goal[0]);
 
-        if (!window.location.hostname.includes('localhost')) {
-            ReactGA.event({
-                category: "Click",
-                action: "Game Winning Goal Click",
-                value: 1
-            });
-        }
+        ReactGA.event({
+            category: "Click",
+            action: "Game Winning Goal Click",
+            value: 1
+        });
     };
 
     const handleGoalChange = (event) => {
@@ -127,13 +123,11 @@ function SearchForm({jsonData}) {
         const goal = Object.values(result[random(1, Object.keys(result).length)]);
         setSearchGoal(goal[0]);
 
-        if (!window.location.hostname.includes('localhost')) {
-            ReactGA.event({
-                category: "Click",
-                action: "Hat Trick Goal Click",
-                value: 1
-            });
-        }
+        ReactGA.event({
+            category: "Click",
+            action: "Hat Trick Goal Click",
+            value: 1
+        });
     };
 
     const overtimeGoal = () => {
@@ -149,13 +143,31 @@ function SearchForm({jsonData}) {
         const goal = Object.values(result[random(1, Object.keys(result).length)]);
         setSearchGoal(goal[0]);
 
-        if (!window.location.hostname.includes('localhost')) {
-            ReactGA.event({
-                category: "Click",
-                action: "Overtime Goal Click",
-                value: 1
-            });
-        }
+        ReactGA.event({
+            category: "Click",
+            action: "Overtime Goal Click",
+            value: 1
+        });
+    };
+
+    const powerPlayGoal = () => {
+        resultsHide();
+        const ppg = ['PPG'];
+
+        const result = jsonData.filter(item =>
+            Object.values(item).some(value =>
+                ppg.includes(value)
+            )
+        );
+
+        const goal = Object.values(result[random(1, Object.keys(result).length)]);
+        setSearchGoal(goal[0]);
+
+        ReactGA.event({
+             category: "Click",
+            action: "Power Play Goal Click",
+            value: 1
+        });
     };
 
     const preventSubmit = (event) => {
@@ -178,13 +190,11 @@ function SearchForm({jsonData}) {
         const randomGoal = random(1, 897);
         setSearchGoal(randomGoal);
 
-        if (!window.location.hostname.includes('localhost')) {
-            ReactGA.event({
-                category: "Click",
-                action: "Random Goal Click",
-                value: 1
-            });
-        }
+        ReactGA.event({
+            category: "Click",
+            action: "Random Goal Click",
+            value: 1
+        });
     };
 
     const reset = () => {
@@ -203,13 +213,11 @@ function SearchForm({jsonData}) {
         var goal = parseInt(day * 2.45);
         setSearchGoal(Math.trunc(goal));
         
-        if (!window.location.hostname.includes('localhost')) {
-            ReactGA.event({
-                category: "Click",
-                action: "Today's Goal Click",
-                value: 1
-            });
-        }
+        ReactGA.event({
+            category: "Click",
+            action: "Today's Goal Click",
+            value: 1
+        });
     };
 
     return (
@@ -225,6 +233,7 @@ function SearchForm({jsonData}) {
                 </div>
                 <div>
                     <button onClick={randomGoal} name="Random Goal" title="A Random Goal" type="button">Random Goal</button>
+                    <button onClick={powerPlayGoal} name="Power Play Goal" title="A Random Power Play Goal" type="button">PPG</button>
                     <button onClick={gameWinningGoal} name="Game Winning Goal" title="A Random Game Winning Goal" type="button">GWG</button>
                     <button onClick={overtimeGoal} name="Overtime Goal" title="A Random Overtime Goal" type="button">Overtime Goal</button>
                     <button onClick={hatTrickGoal} name="Hat Trick Goal" title="A Random Hat Trick Goal" type="button">Hat Trick Goal</button>
@@ -235,8 +244,8 @@ function SearchForm({jsonData}) {
             <div id="advanced">
                 <label htmlFor="season" hidden>Filter By Season</label>
                 <select id="season" name="Season" onChange={handleSeasonChange}>
-                    <option name="Regular Season" value="regular" selected>Regular Season</option>
-                    <option name="Playoffs" value="playoff">Playoffs</option>
+                    <option name="Regular Season" value="Regular" selected>Regular Season</option>
+                    <option name="Playoffs" value="Playoff">Playoffs</option>
                     <option name="All" value="">All</option>
                 </select>
                 <strong id="count"></strong>
