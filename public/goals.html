@@ -47,7 +47,7 @@
                     const typeCell = row.insertCell();
                     typeCell.textContent = item.type;
                     const linkCell = row.insertCell();
-                    const linkHTML = '<a href="' + item.link.replace('embed/', 'watch?v=') + '" target="_blank">Watch Goal</a>' ;
+                    const linkHTML = '<a href="/?' + item.goal + '" target="_blank">Watch Goal</a>' ;
                     linkCell.innerHTML = linkHTML;
                 });
             } catch (error) {
@@ -58,6 +58,13 @@
         // Call the function to fetch data and create the table when the page loads
         document.addEventListener('DOMContentLoaded', fetchDataAndCreateTable);
     </script>
+    <style>
+        @media (max-width:768px) {
+            body {
+                align-items: start;
+            }
+        }
+    </style>
   </head>
   <body>
     <header>
