@@ -296,7 +296,7 @@ label[for="search-text-1"]:before {
 }
 
 label[for="search-text-1"]:after {
-    content: 's';
+    content: '(s)';
 }
 
 @media (min-width: 768px) {
