@@ -1,7 +1,7 @@
 import React, {useState, useEffect} from 'react';
-import ReactGA from "react-ga4";
+import ReactGA from 'react-ga4';
 
-ReactGA.initialize("G-5RVBYX6N0S");
+ReactGA.initialize('G-5RVBYX6N0S');
 
 function SearchForm({jsonData}) {
     const [searchGoal, setSearchGoal] = useState('');
@@ -10,34 +10,33 @@ function SearchForm({jsonData}) {
 
     useEffect(() => {
         if (searchGoal) {
-            setSearchText('');
             resultsHide();
             const goalQuery = parseInt(searchGoal);
             function suffix(goal) {
                 const j = goal % 10;
                 const k = goal % 100;
                 if (j === 1 && k !== 11) {
-                    return goal + "st";
+                    return goal + 'st';
                 }
                 if (j === 2 && k !== 12) {
-                    return goal + "nd";
+                    return goal + 'nd';
                 }
                 if (j === 3 && k !== 13) {
-                    return goal + "rd";
+                    return goal + 'rd';
                 }
-                return goal + "th";
+                return goal + 'th';
             }
-            const results = jsonData.filter(item => item.goal <= 897 && item.goal === goalQuery)
+            const results = jsonData.filter(item => item.goal === goalQuery && item.season === 'Regular')
             setSearchResults(results);
 
             ReactGA.event({
-                category: "Goals",
-                action: "Goal " + goalQuery,
+                category: 'Goals',
+                action: 'Goal ' + goalQuery,
                 value: 1
             });
             ReactGA.event({
-                category: "Total",
-                action: "Total Goals",
+                category: 'Total',
+                action: 'Total Goals',
                 value: 1
             });
         }
@@ -72,7 +71,7 @@ function SearchForm({jsonData}) {
     },[]);
 
     const copyFunction = () => {
-        var link = document.querySelector(".link strong").innerHTML;
+        var link = document.querySelector('.link strong').innerHTML;
         navigator.clipboard.writeText(link);
     };
 
@@ -90,8 +89,8 @@ function SearchForm({jsonData}) {
         setSearchGoal(goal[0]);
 
         ReactGA.event({
-            category: "Click",
-            action: "Game Winning Goal Click",
+            category: 'Click',
+            action: 'Game Winning Goal Click',
             value: 1
         });
     };
@@ -124,8 +123,8 @@ function SearchForm({jsonData}) {
         setSearchGoal(goal[0]);
 
         ReactGA.event({
-            category: "Click",
-            action: "Hat Trick Goal Click",
+            category: 'Click',
+            action: 'Hat Trick Goal Click',
             value: 1
         });
     };
@@ -164,8 +163,8 @@ function SearchForm({jsonData}) {
         setSearchGoal(goal[0]);
 
         ReactGA.event({
-             category: "Click",
-            action: "Power Play Goal Click",
+             category: 'Click',
+            action: 'Power Play Goal Click',
             value: 1
         });
     };
@@ -191,8 +190,8 @@ function SearchForm({jsonData}) {
         setSearchGoal(randomGoal);
 
         ReactGA.event({
-            category: "Click",
-            action: "Random Goal Click",
+            category: 'Click',
+            action: 'Random Goal Click',
             value: 1
         });
     };
@@ -214,8 +213,8 @@ function SearchForm({jsonData}) {
         setSearchGoal(Math.trunc(goal));
         
         ReactGA.event({
-            category: "Click",
-            action: "Today's Goal Click",
+            category: 'Click',
+            action: 'Today\'s Goal Click',
             value: 1
         });
     };
