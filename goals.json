@@ -20,7 +20,7 @@
     "day": 5,
     "year": 2005,
     "type": "PPG",
-    "tags": "PPG",
+    "tags": "",
     "season": "regular"
   },
   {
@@ -104,7 +104,7 @@
     "day": 6,
     "year": 2005,
     "type": "PPG",
-    "tags": "PPG",
+    "tags": "",
     "season": "regular"
   },
   {
@@ -140,7 +140,7 @@
     "day": 8,
     "year": 2005,
     "type": "PPG",
-    "tags": "PPG",
+    "tags": "",
     "season": "regular"
   },
   {
@@ -176,7 +176,7 @@
     "day": 17,
     "year": 2005,
     "type": "PPG",
-    "tags": "PPG",
+    "tags": "",
     "season": "regular"
   },
   {
@@ -200,7 +200,7 @@
     "day": 7,
     "year": 2005,
     "type": "PPG",
-    "tags": "PPG",
+    "tags": "",
     "season": "regular"
   },
   {
@@ -212,7 +212,7 @@
     "day": 9,
     "year": 2005,
     "type": "PPG",
-    "tags": "PPG",
+    "tags": "",
     "season": "regular"
   },
   {
@@ -224,7 +224,7 @@
     "day": 22,
     "year": 2005,
     "type": "PPG",
-    "tags": "PPG",
+    "tags": "",
     "season": "regular"
   },
   {
@@ -260,7 +260,7 @@
     "day": 28,
     "year": 2005,
     "type": "PPG",
-    "tags": "PPG",
+    "tags": "",
     "season": "regular"
   },
   {
@@ -417,7 +417,7 @@
     "day": 10,
     "year": 2006,
     "type": "PPG",
-    "tags": "PPG",
+    "tags": "",
     "season": "regular"
   },
   {
@@ -441,7 +441,7 @@
     "day": 28,
     "year": 2006,
     "type": "PPG",
-    "tags": "PPG",
+    "tags": "",
     "season": "regular"
   },
   {
@@ -465,7 +465,7 @@
     "day": 4,
     "year": 2006,
     "type": "PPG",
-    "tags": "PPG",
+    "tags": "",
     "season": "regular"
   },
   {
@@ -513,7 +513,7 @@
     "day": 14,
     "year": 2006,
     "type": "PPG",
-    "tags": "PPG",
+    "tags": "",
     "season": "regular"
   },
   {
@@ -525,7 +525,7 @@
     "day": 20,
     "year": 2006,
     "type": "PPG",
-    "tags": "PPG",
+    "tags": "",
     "season": "regular"
   },
   {
@@ -573,7 +573,7 @@
     "day": 29,
     "year": 2006,
     "type": "PPG",
-    "tags": "PPG",
+    "tags": "",
     "season": "regular"
   },
   {
@@ -646,7 +646,7 @@
     "day": 7,
     "year": 2006,
     "type": "PPG",
-    "tags": "PPG",
+    "tags": "",
     "season": "regular"
   },
   {
@@ -670,7 +670,7 @@
     "day": 21,
     "year": 2006,
     "type": "PPG",
-    "tags": "PPG",
+    "tags": "",
     "season": "regular"
   },
   {
@@ -682,7 +682,7 @@
     "day": 25,
     "year": 2006,
     "type": "PPG",
-    "tags": "PPG",
+    "tags": "",
     "season": "regular"
   },
   {
@@ -742,7 +742,7 @@
     "day": 6,
     "year": 2006,
     "type": "PPG",
-    "tags": "PPG",
+    "tags": "",
     "season": "regular"
   },
   {
@@ -778,7 +778,7 @@
     "day": 18,
     "year": 2006,
     "type": "PPG",
-    "tags": "PPG",
+    "tags": "",
     "season": "regular"
   },
   {
@@ -790,7 +790,7 @@
     "day": 24,
     "year": 2006,
     "type": "PPG",
-    "tags": "PPG",
+    "tags": "",
     "season": "regular"
   },
   {
@@ -802,7 +802,7 @@
     "day": 25,
     "year": 2006,
     "type": "PPG",
-    "tags": "PPG",
+    "tags": "",
     "season": "regular"
   },
   {
@@ -850,7 +850,7 @@
     "day": 15,
     "year": 2006,
     "type": "PPG",
-    "tags": "PPG",
+    "tags": "",
     "season": "regular"
   },
   {
@@ -910,7 +910,7 @@
     "day": 23,
     "year": 2006,
     "type": "PPG",
-    "tags": "PPG",
+    "tags": "",
     "season": "regular"
   },
   {
@@ -934,7 +934,7 @@
     "day": 6,
     "year": 2007,
     "type": "PPG",
-    "tags": "PPG",
+    "tags": "",
     "season": "regular"
   },
   {
@@ -994,7 +994,7 @@
     "day": 27,
     "year": 2007,
     "type": "PPG",
-    "tags": "PPG",
+    "tags": "",
     "season": "regular"
   },
   {
@@ -1030,7 +1030,7 @@
     "day": 10,
     "year": 2007,
     "type": "PPG",
-    "tags": "PPG",
+    "tags": "",
     "season": "regular"
   },
   {
@@ -1162,7 +1162,7 @@
     "day": 4,
     "year": 2007,
     "type": "PPG",
-    "tags": "PPG",
+    "tags": "",
     "season": "regular"
   },
   {
@@ -1198,8 +1198,8 @@
     "month": "October",
     "day": 12,
     "year": 2007,
-    "type": "",
-    "tags": "100th Goal Century",
+    "type": "PPG",
+    "tags": "100th Goal Century PPG",
     "season": "regular"
   },
   {
@@ -1210,7 +1210,7 @@
     "month": "October",
     "day": 13,
     "year": 2007,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -1246,7 +1246,7 @@
     "month": "October",
     "day": 26,
     "year": 2007,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -1270,7 +1270,7 @@
     "month": "October",
     "day": 29,
     "year": 2007,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -1282,8 +1282,8 @@
     "month": "November",
     "day": 2,
     "year": 2007,
-    "type": "",
-    "tags": "Antero Niittymaki",
+    "type": "PPG",
+    "tags": "Antero Niittymaki PPG",
     "season": "regular"
   },
   {
@@ -1342,7 +1342,7 @@
     "month": "November",
     "day": 21,
     "year": 2007,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -1354,7 +1354,7 @@
     "month": "November",
     "day": 24,
     "year": 2007,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -1390,7 +1390,7 @@
     "month": "November",
     "day": 30,
     "year": 2007,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -1402,7 +1402,7 @@
     "month": "November",
     "day": 30,
     "year": 2007,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -1450,7 +1450,7 @@
     "month": "December",
     "day": 14,
     "year": 2007,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -1462,7 +1462,7 @@
     "month": "December",
     "day": 17,
     "year": 2007,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -1498,7 +1498,7 @@
     "month": "December",
     "day": 29,
     "year": 2007,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -1547,7 +1547,7 @@
     "month": "January",
     "day": 5,
     "year": 2008,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -1584,7 +1584,7 @@
     "day": 15,
     "year": 2008,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG",
+    "tags": "Game Winning Goal GWG PPG",
     "season": "regular"
   },
   {
@@ -1607,8 +1607,8 @@
     "month": "January",
     "day": 19,
     "year": 2008,
-    "type": "",
-    "tags": "Tomas Vokoun",
+    "type": "PPG",
+    "tags": "Tomas Vokoun PPG",
     "season": "regular"
   },
   {
@@ -1619,7 +1619,7 @@
     "month": "January",
     "day": 21,
     "year": 2008,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -1740,7 +1740,7 @@
     "month": "February",
     "day": 10,
     "year": 2008,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -1800,8 +1800,8 @@
     "month": "March",
     "day": 3,
     "year": 2008,
-    "type": "",
-    "tags": "Hat Trick",
+    "type": "PPG",
+    "tags": "Hat Trick PPG",
     "season": "regular"
   },
   {
@@ -1836,7 +1836,7 @@
     "month": "March",
     "day": 12,
     "year": 2008,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -1849,7 +1849,7 @@
     "day": 12,
     "year": 2008,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG",
+    "tags": "Game Winning Goal GWG PPG",
     "season": "regular"
   },
   {
@@ -1860,7 +1860,7 @@
     "month": "March",
     "day": 14,
     "year": 2008,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -1957,7 +1957,7 @@
     "day": 3,
     "year": 2008,
     "type": "GWG",
-    "tags": "Karri Ramo Last Game Winning Goal GWG Rocket Richard Trophy",
+    "tags": "Karri Ramo Last Game Winning Goal GWG Rocket Richard Trophy PPG",
     "season": "regular"
   },
   {
@@ -2052,8 +2052,8 @@
     "month": "November",
     "day": 19,
     "year": 2008,
-    "type": "",
-    "tags": "Jean-Sebastien Giguere",
+    "type": "PPG",
+    "tags": "Jean-Sebastien Giguere PPG",
     "season": "regular"
   },
   {
@@ -2076,7 +2076,7 @@
     "month": "November",
     "day": 26,
     "year": 2008,
-    "type": "",
+    "type": "PPG",
     "tags": "Ondrej Pavelec",
     "season": "regular"
   },
@@ -2088,7 +2088,7 @@
     "month": "November",
     "day": 26,
     "year": 2008,
-    "type": "",
+    "type": "PPG",
     "tags": "Ondrej Pavelec",
     "season": "regular"
   },
@@ -2124,7 +2124,7 @@
     "month": "December",
     "day": 4,
     "year": 2008,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -2148,7 +2148,7 @@
     "month": "December",
     "day": 12,
     "year": 2008,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -2160,7 +2160,7 @@
     "month": "December",
     "day": 12,
     "year": 2008,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -2196,8 +2196,8 @@
     "month": "December",
     "day": 18,
     "year": 2008,
-    "type": "",
-    "tags": "Twenty 20",
+    "type": "PPG",
+    "tags": "Twenty 20 PPG",
     "season": "regular"
   },
   {
@@ -2292,8 +2292,8 @@
     "month": "January",
     "day": 14,
     "year": 2009,
-    "type": "",
-    "tags": "Marc-Andre Fleury",
+    "type": "PPG",
+    "tags": "Marc-Andre Fleury PPG",
     "season": "regular"
   },
   {
@@ -2316,7 +2316,7 @@
     "month": "January",
     "day": 19,
     "year": 2009,
-    "type": "",
+    "type": "PPG",
     "tags": "Thirty 30",
     "season": "regular"
   },
@@ -2329,7 +2329,7 @@
     "day": 19,
     "year": 2009,
     "type": "OT",
-    "tags": "Overtime Game Winning Goal GWG",
+    "tags": "Overtime Game Winning Goal GWG PPG",
     "season": "regular"
   },
   {
@@ -2352,7 +2352,7 @@
     "month": "January",
     "day": 31,
     "year": 2009,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -2364,8 +2364,8 @@
     "month": "February",
     "day": 1,
     "year": 2009,
-    "type": "",
-    "tags": "Superbowl Super Bowl Sunday",
+    "type": "PPG",
+    "tags": "Superbowl Super Bowl Sunday PPG",
     "season": "regular"
   },
   {
@@ -2425,8 +2425,8 @@
     "month": "February",
     "day": 15,
     "year": 2009,
-    "type": "",
-    "tags": "Tomas Vokoun",
+    "type": "PPG",
+    "tags": "Tomas Vokoun PPG",
     "season": "regular"
   },
   {
@@ -2473,8 +2473,8 @@
     "month": "February",
     "day": 22,
     "year": 2009,
-    "type": "",
-    "tags": "Marc-Andre Fleury",
+    "type": "PPG",
+    "tags": "Marc-Andre Fleury PPG",
     "season": "regular"
   },
   {
@@ -2521,8 +2521,8 @@
     "month": "March",
     "day": 8,
     "year": 2009,
-    "type": "",
-    "tags": "Marc-Andre Fleury",
+    "type": "PPG",
+    "tags": "Marc-Andre Fleury PPG",
     "season": "regular"
   },
   {
@@ -2545,7 +2545,7 @@
     "month": "March",
     "day": 14,
     "year": 2009,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -2569,7 +2569,7 @@
     "month": "March",
     "day": 24,
     "year": 2009,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -2581,7 +2581,7 @@
     "month": "March",
     "day": 27,
     "year": 2009,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -2617,7 +2617,7 @@
     "month": "April",
     "day": 3,
     "year": 2009,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
