@@ -1933,7 +1933,7 @@
     "day": 1,
     "year": 2008,
     "type": "",
-    "tags": "Fools Day",
+    "tags": "April Fools Day",
     "season": "regular"
   },
   {
@@ -2606,7 +2606,7 @@
     "day": 1,
     "year": 2009,
     "type": "",
-    "tags": "Fools Day",
+    "tags": "April Fools Day",
     "season": "regular"
   },
   {
@@ -2725,7 +2725,7 @@
     "month": "October",
     "day": 17,
     "year": 2009,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -2773,7 +2773,7 @@
     "month": "October",
     "day": 29,
     "year": 2009,
-    "type": "",
+    "type": "PPG",
     "tags": "Ondrej Pavelec",
     "season": "regular"
   },
@@ -2797,7 +2797,7 @@
     "month": "October",
     "day": 30,
     "year": 2009,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -2809,7 +2809,7 @@
     "month": "November",
     "day": 17,
     "year": 2009,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -2869,7 +2869,7 @@
     "month": "December",
     "day": 7,
     "year": 2009,
-    "type": "",
+    "type": "PPG",
     "tags": "Twenty 20",
     "season": "regular"
   },
@@ -2881,7 +2881,7 @@
     "month": "December",
     "day": 12,
     "year": 2009,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -2917,7 +2917,7 @@
     "month": "December",
     "day": 23,
     "year": 2009,
-    "type": "",
+    "type": "PPG",
     "tags": "Vezina Trophy",
     "season": "regular"
   },
@@ -3001,7 +3001,7 @@
     "month": "January",
     "day": 21,
     "year": 2010,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -3073,7 +3073,7 @@
     "month": "February",
     "day": 4,
     "year": 2010,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -3098,7 +3098,7 @@
     "month": "February",
     "day": 5,
     "year": 2010,
-    "type": "",
+    "type": "PPG",
     "tags": "Ondrej Pavelec",
     "season": "regular"
   },
@@ -3146,7 +3146,7 @@
     "month": "March",
     "day": 8,
     "year": 2010,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -3182,7 +3182,7 @@
     "month": "March",
     "day": 28,
     "year": 2010,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -3194,7 +3194,7 @@
     "month": "April",
     "day": 6,
     "year": 2010,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -3302,7 +3302,7 @@
     "month": "October",
     "day": 30,
     "year": 2010,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -3315,7 +3315,7 @@
     "day": 30,
     "year": 2010,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG",
+    "tags": "Game Winning Goal GWG PPG",
     "season": "regular"
   },
   {
@@ -3471,7 +3471,7 @@
     "day": 4,
     "year": 2011,
     "type": "GWG",
-    "tags": "Twenty 20 Game Winning Goal GWG",
+    "tags": "Twenty 20 Game Winning Goal GWG PPG",
     "season": "regular"
   },
   {
@@ -3506,7 +3506,7 @@
     "month": "February",
     "day": 17,
     "year": 2011,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -3519,7 +3519,7 @@
     "day": 21,
     "year": 2011,
     "type": "GWG",
-    "tags": "Marc-Andre Fleury Game Winning Goal GWG",
+    "tags": "Marc-Andre Fleury Game Winning Goal GWG PPG",
     "season": "regular"
   },
   {
@@ -3554,7 +3554,7 @@
     "month": "March",
     "day": 9,
     "year": 2011,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -3603,7 +3603,7 @@
     "month": "April",
     "day": 5,
     "year": 2011,
-    "type": "",
+    "type": "PPG",
     "tags": "300th Goal Century",
     "season": "regular"
   },
@@ -3651,7 +3651,7 @@
     "month": "October",
     "day": 20,
     "year": 2011,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -3675,7 +3675,7 @@
     "month": "October",
     "day": 29,
     "year": 2011,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -3759,7 +3759,7 @@
     "month": "December",
     "day": 26,
     "year": 2011,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -3771,7 +3771,7 @@
     "month": "December",
     "day": 30,
     "year": 2011,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -3807,7 +3807,7 @@
     "month": "December",
     "day": 31,
     "year": 2011,
-    "type": "",
+    "type": "PPG",
     "tags": "New Years Eve",
     "season": "regular"
   },
@@ -3819,7 +3819,7 @@
     "month": "January",
     "day": 3,
     "year": 2012,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -3831,7 +3831,7 @@
     "month": "January",
     "day": 13,
     "year": 2012,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -3843,7 +3843,7 @@
     "month": "January",
     "day": 18,
     "year": 2012,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -3879,7 +3879,7 @@
     "month": "February",
     "day": 7,
     "year": 2012,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -3891,7 +3891,7 @@
     "month": "February",
     "day": 9,
     "year": 2012,
-    "type": "",
+    "type": "PPG",
     "tags": "Ondrej Pavelec",
     "season": "regular"
   },
@@ -3903,7 +3903,7 @@
     "month": "February",
     "day": 17,
     "year": 2012,
-    "type": "",
+    "type": "PPG",
     "tags": "Jose Theodore",
     "season": "regular"
   },
@@ -3987,7 +3987,7 @@
     "month": "March",
     "day": 19,
     "year": 2012,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -3999,7 +3999,7 @@
     "month": "March",
     "day": 19,
     "year": 2012,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -4084,7 +4084,7 @@
     "day": 27,
     "year": 2013,
     "type": "GWG",
-    "tags": "First Game Winning Goal GWG",
+    "tags": "First Game Winning Goal GWG PPG",
     "season": "regular"
   },
   {
@@ -4095,7 +4095,7 @@
     "month": "January",
     "day": 31,
     "year": 2013,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -4107,7 +4107,7 @@
     "month": "February",
     "day": 7,
     "year": 2013,
-    "type": "",
+    "type": "PPG",
     "tags": "Marc-Andre Fleury",
     "season": "regular"
   },
@@ -4119,7 +4119,7 @@
     "month": "February",
     "day": 12,
     "year": 2013,
-    "type": "",
+    "type": "PPG",
     "tags": "Jose Theodore",
     "season": "regular"
   },
@@ -4167,7 +4167,7 @@
     "month": "February",
     "day": 23,
     "year": 2013,
-    "type": "",
+    "type": "PPG",
     "tags": "Hat Trick",
     "season": "regular"
   },
@@ -4179,7 +4179,7 @@
     "month": "March",
     "day": 7,
     "year": 2013,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -4191,7 +4191,7 @@
     "month": "March",
     "day": 14,
     "year": 2013,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -4215,7 +4215,7 @@
     "month": "March",
     "day": 19,
     "year": 2013,
-    "type": "",
+    "type": "PPG",
     "tags": "Marc-Andre Fleury",
     "season": "regular"
   },
@@ -4251,7 +4251,7 @@
     "month": "March",
     "day": 22,
     "year": 2013,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -4275,7 +4275,7 @@
     "month": "March",
     "day": 30,
     "year": 2013,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -4287,7 +4287,7 @@
     "month": "March",
     "day": 31,
     "year": 2013,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -4324,7 +4324,7 @@
     "month": "April",
     "day": 6,
     "year": 2013,
-    "type": "",
+    "type": "PPG",
     "tags": "Markstrom",
     "season": "regular"
   },
@@ -4349,7 +4349,7 @@
     "day": 6,
     "year": 2013,
     "type": "GWG",
-    "tags": "Markstrom Hat Trick Game Winning Goal GWG",
+    "tags": "Markstrom Hat Trick Game Winning Goal GWG PPG",
     "season": "regular"
   },
   {
@@ -4408,7 +4408,7 @@
     "month": "April",
     "day": 16,
     "year": 2013,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -4432,7 +4432,7 @@
     "month": "April",
     "day": 20,
     "year": 2013,
-    "type": "",
+    "type": "PPG",
     "tags": "Thirty 30",
     "season": "regular"
   },
@@ -4468,7 +4468,7 @@
     "month": "October",
     "day": 1,
     "year": 2013,
-    "type": "",
+    "type": "PPG",
     "tags": "First",
     "season": "regular"
   },
@@ -4492,7 +4492,7 @@
     "month": "October",
     "day": 3,
     "year": 2013,
-    "type": "",
+    "type": "PPG",
     "tags": "Karri Ramo",
     "season": "regular"
   },
@@ -4504,7 +4504,7 @@
     "month": "October",
     "day": 5,
     "year": 2013,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -4540,7 +4540,7 @@
     "month": "October",
     "day": 19,
     "year": 2013,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -4588,7 +4588,7 @@
     "month": "November",
     "day": 5,
     "year": 2013,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -4600,7 +4600,7 @@
     "month": "November",
     "day": 5,
     "year": 2013,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -4612,7 +4612,7 @@
     "month": "November",
     "day": 7,
     "year": 2013,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -4672,7 +4672,7 @@
     "month": "November",
     "day": 22,
     "year": 2013,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -4720,7 +4720,7 @@
     "month": "December",
     "day": 7,
     "year": 2013,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -4744,7 +4744,7 @@
     "month": "December",
     "day": 10,
     "year": 2013,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -4756,7 +4756,7 @@
     "month": "December",
     "day": 10,
     "year": 2013,
-    "type": "",
+    "type": "PPG",
     "tags": "Hat Trick",
     "season": "regular"
   },
@@ -4793,7 +4793,7 @@
     "month": "December",
     "day": 17,
     "year": 2013,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -4878,7 +4878,7 @@
     "month": "January",
     "day": 19,
     "year": 2014,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -4902,7 +4902,7 @@
     "month": "January",
     "day": 28,
     "year": 2014,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -4927,7 +4927,7 @@
     "day": 2,
     "year": 2014,
     "type": "OT",
-    "tags": "Overtime Superbowl Super Bowl Sunday Game Winning Goal GWG",
+    "tags": "Overtime Superbowl Super Bowl Sunday Game Winning Goal GWG PPG",
     "season": "regular"
   },
   {
@@ -4962,7 +4962,7 @@
     "month": "March",
     "day": 1,
     "year": 2014,
-    "type": "",
+    "type": "PPG",
     "tags": "Vezina Trophy",
     "season": "regular"
   },
@@ -4975,7 +4975,7 @@
     "month": "March",
     "day": 1,
     "year": 2014,
-    "type": "",
+    "type": "PPG",
     "tags": "800th Point Vezina Trophy",
     "season": "regular"
   },
@@ -4987,7 +4987,7 @@
     "month": "March",
     "day": 5,
     "year": 2014,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -4999,7 +4999,7 @@
     "month": "March",
     "day": 14,
     "year": 2014,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -5012,7 +5012,7 @@
     "day": 18,
     "year": 2014,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG",
+    "tags": "Game Winning Goal GWG PPG",
     "season": "regular"
   },
   {
@@ -5023,7 +5023,7 @@
     "month": "March",
     "day": 25,
     "year": 2014,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -5035,7 +5035,7 @@
     "month": "March",
     "day": 25,
     "year": 2014,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -5059,7 +5059,7 @@
     "month": "April",
     "day": 8,
     "year": 2014,
-    "type": "",
+    "type": "PPG",
     "tags": "Fifty 50",
     "season": "regular"
   },
@@ -5072,7 +5072,7 @@
     "day": 11,
     "year": 2014,
     "type": "GWG",
-    "tags": "Last Game Winning Goal GWG Rocket Richard Trophy",
+    "tags": "Last Game Winning Goal GWG Rocket Richard Trophy PPG",
     "season": "regular"
   },
   {
@@ -5084,7 +5084,7 @@
     "day": 11,
     "year": 2014,
     "type": "GWG",
-    "tags": "First Game Winning Goal GWG",
+    "tags": "First Game Winning Goal GWG PPG",
     "season": "regular"
   },
   {
@@ -5119,7 +5119,7 @@
     "month": "October",
     "day": 14,
     "year": 2014,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -5143,7 +5143,7 @@
     "month": "November",
     "day": 2,
     "year": 2014,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -5155,7 +5155,7 @@
     "month": "November",
     "day": 11,
     "year": 2014,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -5191,7 +5191,7 @@
     "month": "November",
     "day": 26,
     "year": 2014,
-    "type": "",
+    "type": "PPG",
     "tags": "Jaroslav Halak",
     "season": "regular"
   },
@@ -5203,7 +5203,7 @@
     "month": "November",
     "day": 26,
     "year": 2014,
-    "type": "",
+    "type": "PPG",
     "tags": "Jaroslav Halak",
     "season": "regular"
   },
@@ -5263,7 +5263,7 @@
     "month": "December",
     "day": 23,
     "year": 2014,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -5300,7 +5300,7 @@
     "month": "January",
     "day": 4,
     "year": 2015,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -5324,7 +5324,7 @@
     "month": "January",
     "day": 8,
     "year": 2015,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -5337,7 +5337,7 @@
     "day": 12,
     "year": 2015,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG",
+    "tags": "Game Winning Goal GWG PPG",
     "season": "regular"
   },
   {
@@ -5360,7 +5360,7 @@
     "month": "January",
     "day": 16,
     "year": 2015,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -5396,7 +5396,7 @@
     "month": "January",
     "day": 20,
     "year": 2015,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -5420,7 +5420,7 @@
     "month": "January",
     "day": 28,
     "year": 2015,
-    "type": "",
+    "type": "PPG",
     "tags": "Marc-Andre Fleury",
     "season": "regular"
   },
@@ -5432,7 +5432,7 @@
     "month": "February",
     "day": 1,
     "year": 2015,
-    "type": "",
+    "type": "PPG",
     "tags": "Thirty 30 Superbowl Super Bowl Sunday",
     "season": "regular"
   },
@@ -5468,7 +5468,7 @@
     "month": "February",
     "day": 8,
     "year": 2015,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -5504,7 +5504,7 @@
     "month": "February",
     "day": 15,
     "year": 2015,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -5516,7 +5516,7 @@
     "month": "February",
     "day": 17,
     "year": 2015,
-    "type": "",
+    "type": "PPG",
     "tags": "Marc-Andre Fleury",
     "season": "regular"
   },
@@ -5540,7 +5540,7 @@
     "month": "February",
     "day": 25,
     "year": 2015,
-    "type": "",
+    "type": "PPG",
     "tags": "Marc-Andre Fleury",
     "season": "regular"
   },
@@ -5589,7 +5589,7 @@
     "day": 3,
     "year": 2015,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG",
+    "tags": "Game Winning Goal GWG PPG",
     "season": "regular"
   },
   {
@@ -5600,7 +5600,7 @@
     "month": "March",
     "day": 7,
     "year": 2015,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -5612,7 +5612,7 @@
     "month": "March",
     "day": 11,
     "year": 2015,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -5648,7 +5648,7 @@
     "month": "March",
     "day": 29,
     "year": 2015,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -5684,7 +5684,7 @@
     "month": "April",
     "day": 2,
     "year": 2015,
-    "type": "",
+    "type": "PPG",
     "tags": "Hart Trophy Vezina Trophy",
     "season": "regular"
   },
@@ -5696,7 +5696,7 @@
     "month": "April",
     "day": 2,
     "year": 2015,
-    "type": "",
+    "type": "PPG",
     "tags": "Hart Trophy Vezina Trophy",
     "season": "regular"
   },
@@ -5708,7 +5708,7 @@
     "month": "April",
     "day": 11,
     "year": 2015,
-    "type": "",
+    "type": "PPG",
     "tags": "Last Rocket Richard Trophy",
     "season": "regular"
   },
@@ -5805,7 +5805,7 @@
     "month": "November",
     "day": 7,
     "year": 2015,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -5841,7 +5841,7 @@
     "month": "November",
     "day": 25,
     "year": 2015,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -5853,7 +5853,7 @@
     "month": "November",
     "day": 27,
     "year": 2015,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -5865,7 +5865,7 @@
     "month": "December",
     "day": 8,
     "year": 2015,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -5889,7 +5889,7 @@
     "month": "December",
     "day": 18,
     "year": 2015,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -5901,7 +5901,7 @@
     "month": "December",
     "day": 18,
     "year": 2015,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -5914,7 +5914,7 @@
     "day": 20,
     "year": 2015,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG",
+    "tags": "Game Winning Goal GWG PPG",
     "season": "regular"
   },
   {
@@ -5985,7 +5985,7 @@
     "month": "January",
     "day": 9,
     "year": 2016,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -6010,7 +6010,7 @@
     "month": "January",
     "day": 10,
     "year": 2016,
-    "type": "",
+    "type": "PPG",
     "tags": "500th Goal Century",
     "season": "regular"
   },
@@ -6034,7 +6034,7 @@
     "month": "January",
     "day": 17,
     "year": 2016,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -6046,7 +6046,7 @@
     "month": "January",
     "day": 19,
     "year": 2016,
-    "type": "",
+    "type": "PPG",
     "tags": "Peter Bondra",
     "season": "regular"
   },
@@ -6082,7 +6082,7 @@
     "month": "February",
     "day": 9,
     "year": 2016,
-    "type": "",
+    "type": "PPG",
     "tags": "Empty Net",
     "season": "regular"
   },
@@ -6106,7 +6106,7 @@
     "month": "February",
     "day": 11,
     "year": 2016,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -6130,7 +6130,7 @@
     "month": "February",
     "day": 13,
     "year": 2016,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -6154,7 +6154,7 @@
     "month": "February",
     "day": 18,
     "year": 2016,
-    "type": "",
+    "type": "PPG",
     "tags": "Gilbert Perreault",
     "season": "regular"
   },
@@ -6190,7 +6190,7 @@
     "month": "February",
     "day": 26,
     "year": 2016,
-    "type": "",
+    "type": "PPG",
     "tags": "Forty 40",
     "season": "regular"
   },
@@ -6226,7 +6226,7 @@
     "month": "March",
     "day": 22,
     "year": 2016,
-    "type": "",
+    "type": "PPG",
     "tags": "Dale Hawerchuk",
     "season": "regular"
   },
@@ -6238,7 +6238,7 @@
     "month": "March",
     "day": 30,
     "year": 2016,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -6250,8 +6250,8 @@
     "month": "April",
     "day": 1,
     "year": 2016,
-    "type": "",
-    "tags": "Fools Day",
+    "type": "PPG",
+    "tags": "April Fools Day",
     "season": "regular"
   },
   {
@@ -6323,7 +6323,7 @@
     "day": 18,
     "year": 2016,
     "type": "GWG",
-    "tags": "First Game Winning Goal GWG",
+    "tags": "First Game Winning Goal GWG PPG",
     "season": "regular"
   },
   {
@@ -6383,7 +6383,7 @@
     "day": 3,
     "year": 2016,
     "type": "OT",
-    "tags": "Overtime Game Winning Goal GWG",
+    "tags": "Overtime Game Winning Goal GWG PPG",
     "season": "regular"
   },
   {
@@ -6418,7 +6418,7 @@
     "month": "November",
     "day": 20,
     "year": 2016,
-    "type": "",
+    "type": "PPG",
     "tags": "Vezina Trophy",
     "season": "regular"
   },
@@ -6430,7 +6430,7 @@
     "month": "November",
     "day": 23,
     "year": 2016,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -6467,7 +6467,7 @@
     "day": 11,
     "year": 2016,
     "type": "GWG",
-    "tags": "Markstrom Keith Tkachuk Game Winning Goal GWG",
+    "tags": "Markstrom Keith Tkachuk Game Winning Goal GWG PPG",
     "season": "regular"
   },
   {
@@ -6478,7 +6478,7 @@
     "month": "December",
     "day": 16,
     "year": 2016,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -6538,7 +6538,7 @@
     "month": "January",
     "day": 9,
     "year": 2017,
-    "type": "",
+    "type": "PPG",
     "tags": "Maurice Richard",
     "season": "regular"
   },
@@ -6563,7 +6563,7 @@
     "month": "January",
     "day": 11,
     "year": 2017,
-    "type": "",
+    "type": "PPG",
     "tags": "Marc-Andre Fleury",
     "season": "regular"
   },
@@ -6575,7 +6575,7 @@
     "month": "January",
     "day": 21,
     "year": 2017,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -6611,7 +6611,7 @@
     "month": "February",
     "day": 1,
     "year": 2017,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -6624,7 +6624,7 @@
     "day": 7,
     "year": 2017,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG",
+    "tags": "Game Winning Goal GWG PPG",
     "season": "regular"
   },
   {
@@ -6635,7 +6635,7 @@
     "month": "February",
     "day": 19,
     "year": 2017,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -6659,7 +6659,7 @@
     "month": "March",
     "day": 21,
     "year": 2017,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -6671,7 +6671,7 @@
     "month": "March",
     "day": 25,
     "year": 2017,
-    "type": "",
+    "type": "PPG",
     "tags": "Thirty 30",
     "season": "regular"
   },
@@ -6683,7 +6683,7 @@
     "month": "March",
     "day": 28,
     "year": 2017,
-    "type": "",
+    "type": "PPG",
     "tags": "Johnny Bucyk",
     "season": "regular"
   },
@@ -6695,7 +6695,7 @@
     "month": "March",
     "day": 28,
     "year": 2017,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -6707,7 +6707,7 @@
     "month": "March",
     "day": 28,
     "year": 2017,
-    "type": "",
+    "type": "PPG",
     "tags": "Hat Trick Last",
     "season": "regular"
   },
@@ -6767,7 +6767,7 @@
     "month": "October",
     "day": 7,
     "year": 2017,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -6816,7 +6816,7 @@
     "month": "October",
     "day": 13,
     "year": 2017,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -6829,7 +6829,7 @@
     "day": 20,
     "year": 2017,
     "type": "OT",
-    "tags": "Petr Mrazek Overtime Game Winning Goal GWG",
+    "tags": "Petr Mrazek Overtime Game Winning Goal GWG PPG",
     "season": "regular"
   },
   {
@@ -6852,7 +6852,7 @@
     "month": "November",
     "day": 6,
     "year": 2017,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -6898,7 +6898,7 @@
     "team": "Toronto Maple Leafs",
     "goalie": "Curtis McElhinney",
     "month": "November",
-    "day": 30,
+    "day": 25,
     "year": 2017,
     "type": "",
     "tags": "",
@@ -6910,9 +6910,9 @@
     "team": "Toronto Maple Leafs",
     "goalie": "Curtis McElhinney",
     "month": "November",
-    "day": 30,
+    "day": 25,
     "year": 2017,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -6922,7 +6922,7 @@
     "team": "Toronto Maple Leafs",
     "goalie": "",
     "month": "November",
-    "day": 30,
+    "day": 25,
     "year": 2017,
     "type": "",
     "tags": "Empty Net Hat Trick",
@@ -6936,7 +6936,7 @@
     "month": "December",
     "day": 2,
     "year": 2017,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -6996,7 +6996,7 @@
     "month": "December",
     "day": 28,
     "year": 2017,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -7032,7 +7032,7 @@
     "month": "January",
     "day": 7,
     "year": 2018,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -7056,7 +7056,7 @@
     "month": "January",
     "day": 21,
     "year": 2018,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -7104,7 +7104,7 @@
     "month": "February",
     "day": 11,
     "year": 2018,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -7152,7 +7152,7 @@
     "month": "February",
     "day": 24,
     "year": 2018,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -7201,7 +7201,7 @@
     "month": "March",
     "day": 12,
     "year": 2018,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -7238,7 +7238,7 @@
     "month": "March",
     "day": 20,
     "year": 2018,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -7251,7 +7251,7 @@
     "day": 26,
     "year": 2018,
     "type": "GWG",
-    "tags": "Game Winning Goal GWG",
+    "tags": "Game Winning Goal GWG PPG",
     "season": "regular"
   },
   {
@@ -7262,7 +7262,7 @@
     "month": "April",
     "day": 2,
     "year": 2018,
-    "type": "",
+    "type": "PPG",
     "tags": "Empty Net",
     "season": "regular"
   },
@@ -7274,7 +7274,7 @@
     "month": "April",
     "day": 5,
     "year": 2018,
-    "type": "",
+    "type": "PPG",
     "tags": "",
     "season": "regular"
   },
@@ -10712,7 +10712,7 @@
     "day": 1,
     "year": 2025,
     "type": "",
-    "tags": "Fools Day",
+    "tags": "April Fools Day",
     "season": "regular"
   },
   {
