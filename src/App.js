@@ -14,20 +14,6 @@ function SearchForm({jsonData}) {
         if (searchGoal) {
             resultsHide();
             const goalQuery = parseInt(searchGoal);
-            function suffix(goal) {
-                const j = goal % 10;
-                const k = goal % 100;
-                if (j === 1 && k !== 11) {
-                    return goal + 'st';
-                }
-                if (j === 2 && k !== 12) {
-                    return goal + 'nd';
-                }
-                if (j === 3 && k !== 13) {
-                    return goal + 'rd';
-                }
-                return goal + 'th';
-            }
             const results = jsonData.filter(item => item.goal === goalQuery && item.season === 'Regular')
             setSearchResults(results);
 
