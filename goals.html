@@ -38,16 +38,12 @@
                     teamCell.textContent = item.team;
                     const goalieCell = row.insertCell();
                     goalieCell.textContent = item.goalie;
-                    const monthCell = row.insertCell();
-                    monthCell.textContent = item.month;
-                    const dayCell = row.insertCell();
-                    dayCell.textContent = item.day;
-                    const yearCell = row.insertCell();
-                    yearCell.textContent = item.year;
+                    const dateCell = row.insertCell();
+                    dateCell.textContent = item.month + ' ' + item.day + ', ' + item.year;
                     const typeCell = row.insertCell();
                     typeCell.textContent = item.type;
                     const linkCell = row.insertCell();
-                    const linkHTML = '<a href="/?' + item.goal + '" target="_blank">Watch Goal</a>' ;
+                    const linkHTML = '<a href="/?' + item.goal + '" target="_blank">Video</a>' ;
                     linkCell.innerHTML = linkHTML;
                 });
             } catch (error) {
@@ -77,9 +73,7 @@
                   <th>Goal</th>
                   <th>Team</th>
                   <th>Goalie</th>
-                  <th>Month</th>
-                  <th>Day</th>
-                  <th>Year</th>
+                  <th>Date</th>
                   <th>Type</th>
                   <th>Link</th>
               </tr>
