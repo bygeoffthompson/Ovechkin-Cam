@@ -239,7 +239,7 @@ function SearchForm({jsonData}) {
         var day = Math.floor(diff / oneDay);
         var goal = parseInt(day * 2.45);
         setSearchGoal(Math.trunc(goal));
-        
+
         ReactGA.event({
             category: 'Click',
             action: 'Today\'s Goal Click',
@@ -254,12 +254,12 @@ function SearchForm({jsonData}) {
                     <h2>Search</h2>
                     <label htmlFor="search-goal">Goal</label>
                     <input min="1" max="897" id="search-goal" type="number" placeholder="#" value={searchGoal} onChange={handleGoalChange}/>
-                    <label htmlFor="search-text-1">Text</label>
-                    <input id="search-text-1" type="text" placeholder="" value={searchText1} onChange={handleText1}/>
+                    <label htmlFor="search-text-1">Word</label>
                     <label htmlFor="search-text-2" hidden>More Text</label>
-                    <input id="search-text-2" type="text" placeholder="" value={searchText2} onChange={handleText2}/>
                     <label htmlFor="search-text-3" hidden>More Text</label>
-                    <input id="search-text-3" type="text" placeholder="" value={searchText3} onChange={handleText3}/>
+                    <input id="search-text-1" type="text" placeholder="Search" value={searchText1} onChange={handleText1}/>
+                    <input id="search-text-2" type="text" placeholder="And" value={searchText2} onChange={handleText2}/>
+                    <input id="search-text-3" type="text" placeholder="And" value={searchText3} onChange={handleText3}/>
                 </div>
                 <div>
                     <button onClick={randomGoal} name="Goal" title="A Random Goal" type="button">Goal</button>
