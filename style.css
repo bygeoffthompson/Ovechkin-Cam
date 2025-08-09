@@ -76,6 +76,10 @@ iframe {
     width: 100%;
 }
 
+main {
+    max-width: 1024px;
+}
+
 table {
     margin-bottom: 50px;
     text-align: left;
@@ -89,6 +93,11 @@ th {
 
 tr:nth-child(odd) td {
     background: rgba(41,41,41,.1);
+}
+
+ul {
+  margin: 0 auto;
+  max-width: 300px;
 }
 
 @media (min-width:576px) {
