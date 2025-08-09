@@ -31,7 +31,7 @@ function SearchForm({jsonData}) {
         if (searchText1 || searchText2 || searchText3) {
             const results = jsonData.filter((item) => {
                 const search =
-                    item.month + ' ' + item.day + ' ' + item.year + ' ' + item.goalie + ' ' + item.tags + ' ' + item.type + ' ' + item.team;
+                    item.month + ' ' + item.day + ' ' + item.year + ' ' + item.goalie + ' ' + item.team + item.tags + ' ' + item.type + ' ' + item.season;
                 return (
                     search.toLowerCase().includes(searchText1) &&
                     search.toLowerCase().includes(searchText2) &&
@@ -279,7 +279,7 @@ function SearchForm({jsonData}) {
                     <option name="All" value="" selected>All</option>
                     <option name="Regular Season" value="Regular">Regular Season</option>
                     <option name="AllStar" value="All Star">All Star Game</option>
-                    <option name="Playoffs" value="Playoff">Playoffs</option>
+                    <option name="Playoffs" value="Playoffs">Playoffs</option>
                 </select>
                 <strong id="count"></strong>
             </div>

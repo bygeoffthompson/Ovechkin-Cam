@@ -1659,7 +1659,7 @@
     "season": "Regular"
   },
   {
-    "goal": 137.1,
+    "goal": 137.2,
     "link": "https://www.youtube.com/embed/sFz5srKPlRM?si=eVVigyX9Yhunm4tF&amp;start=33",
     "team": "NHL",
     "goalie": "Chris Osgood",
@@ -1671,7 +1671,7 @@
     "season": "All Star"
   },
   {
-    "goal": 137.2,
+    "goal": 137.3,
     "link": "https://www.youtube.com/embed/sFz5srKPlRM?si=eVVigyX9Yhunm4tF&amp;start=102",
     "team": "NHL",
     "goalie": "Chris Osgood",
@@ -2367,7 +2367,7 @@
     "season": "Regular"
   },
   {
-    "goal": 194.1,
+    "goal": 194.4,
     "link": "https://www.youtube.com/embed/zwaFycf2iP0?si=7WsHJESGP1ytM88p&amp;start=2086",
     "team": "NHL",
     "goalie": "Jean-Sébastien Giguère",
@@ -3509,7 +3509,7 @@
     "season": "Regular"
   },
   {
-    "goal": 288.1,
+    "goal": 288.5,
     "link": "https://www.youtube.com/embed/UF-oqPdmLSo?si=Z8HEoSbZaNMWheVg&amp;start=30",
     "team": "NHL",
     "goalie": "Marc-André Fleury",
@@ -6649,7 +6649,7 @@
     "season": "Regular"
   },
   {
-    "goal": 548.1,
+    "goal": 548.6,
     "link": "https://www.youtube.com/embed/Uc9PcE458p4?si=z6XvuOrkQcTTQq2e&amp;start=569",
     "team": "NHL",
     "goalie": "Tuukka Rask",
@@ -7141,7 +7141,7 @@
     "season": "Regular"
   },
   {
-    "goal": 588.1,
+    "goal": 588.7,
     "link": "https://www.youtube.com/embed/EYNL3TGlFOI?si=E8UFgLBFF-A5CP5v&amp;start=410",
     "team": "NHL",
     "goalie": "Andrei Vasilevskiy",
@@ -9847,7 +9847,7 @@
     "season": "Regular"
   },
   {
-    "goal": 813.1,
+    "goal": 813.8,
     "link": "https://www.youtube.com/embed/7n6PUBU_pRc?si=g_v8eX-IkFbx7ZzW&amp;start=302",
     "team": "NHL",
     "goalie": "Andrei Vasilevskiy",
@@ -10891,7 +10891,7 @@
     "year": 2008,
     "type": "",
     "tags": "Quarterfinals Game 1",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 163.2,
@@ -10903,7 +10903,7 @@
     "year": 2008,
     "type": "",
     "tags": "Quarterfinals Game 6",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 163.3,
@@ -10915,7 +10915,7 @@
     "year": 2008,
     "type": "",
     "tags": "Quarterfinals Game 6",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 163.4,
@@ -10927,7 +10927,7 @@
     "year": 2008,
     "type": "",
     "tags": "Quarterfinals Game 7",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 219.5,
@@ -10939,7 +10939,7 @@
     "year": 2009,
     "type": "",
     "tags": "Quarterfinals Game 4",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 219.6,
@@ -10951,7 +10951,7 @@
     "year": 2009,
     "type": "",
     "tags": "Quarterfinals Game 5",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 219.7,
@@ -10963,7 +10963,7 @@
     "year": 2009,
     "type": "",
     "tags": "Quarterfinals Game 6",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 219.8,
@@ -10975,7 +10975,7 @@
     "year": 2009,
     "type": "",
     "tags": "Marc-Andre Fleury Semifinals Game 1",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 219.9,
@@ -10987,7 +10987,7 @@
     "year": 2009,
     "type": "",
     "tags": "Marc-Andre Fleury Semifinals Game 2",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": "219.10",
@@ -10999,7 +10999,7 @@
     "year": 2009,
     "type": "",
     "tags": "Marc-Andre Fleury Semifinals Game 2",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 219.11,
@@ -11011,7 +11011,7 @@
     "year": 2009,
     "type": "",
     "tags": "Marc-Andre Fleury Semifinals Game 2 Hat Trick",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 219.12,
@@ -11023,7 +11023,7 @@
     "year": 2009,
     "type": "",
     "tags": "Marc-Andre Fleury Semifinals Game 3",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 219.13,
@@ -11035,7 +11035,7 @@
     "year": 2009,
     "type": "",
     "tags": "Marc-Andre Fleury Semifinals Game 5",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 219.14,
@@ -11047,7 +11047,7 @@
     "year": 2009,
     "type": "",
     "tags": "Marc-Andre Fleury Semifinals Game 5",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 219.15,
@@ -11059,7 +11059,7 @@
     "year": 2009,
     "type": "",
     "tags": "Marc-Andre Fleury Semifinals Game 7",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 269.16,
@@ -11071,7 +11071,7 @@
     "year": 2010,
     "type": "",
     "tags": "Jaroslav Halak Quarterfinals Game 2",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 269.17,
@@ -11083,7 +11083,7 @@
     "year": 2010,
     "type": "",
     "tags": "Quarterfinals Game 3",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 269.18,
@@ -11095,7 +11095,7 @@
     "year": 2010,
     "type": "",
     "tags": "Quarterfinals Game 4",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 269.19,
@@ -11107,7 +11107,7 @@
     "year": 2010,
     "type": "",
     "tags": "Quarterfinals Game 4",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": "269.20",
@@ -11119,7 +11119,7 @@
     "year": 2010,
     "type": "",
     "tags": "Jaroslav Halak Quarterfinals Game 5",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 301.21,
@@ -11131,7 +11131,7 @@
     "year": 2011,
     "type": "",
     "tags": "Quarterfinals Game 1",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 301.22,
@@ -11143,7 +11143,7 @@
     "year": 2011,
     "type": "",
     "tags": "Quarterfinals Game 3",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 301.23,
@@ -11155,7 +11155,7 @@
     "year": 2011,
     "type": "",
     "tags": "Quarterfinals Game 5",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 301.24,
@@ -11167,7 +11167,7 @@
     "year": 2011,
     "type": "",
     "tags": "Semifinals Game 2",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 301.25,
@@ -11179,7 +11179,7 @@
     "year": 2011,
     "type": "",
     "tags": "Semifinals Game 3",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 339.26,
@@ -11191,7 +11191,7 @@
     "year": 2012,
     "type": "",
     "tags": "Quarterfinals Game 3",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 339.27,
@@ -11203,7 +11203,7 @@
     "year": 2012,
     "type": "",
     "tags": "Quarterfinals Game 6",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 339.28,
@@ -11215,7 +11215,7 @@
     "year": 2012,
     "type": "",
     "tags": "Semifinals Game 2 Vezina",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 339.29,
@@ -11227,7 +11227,7 @@
     "year": 2012,
     "type": "",
     "tags": "Semifinals Game 5 Vezina",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": "339.30",
@@ -11239,7 +11239,7 @@
     "year": 2012,
     "type": "",
     "tags": "Quarterfinals Game 6 Vezina",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 371.31,
@@ -11251,7 +11251,7 @@
     "year": 2013,
     "type": "",
     "tags": "Quarterfinals Game 1",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 475.32,
@@ -11263,7 +11263,7 @@
     "year": 2015,
     "type": "",
     "tags": "Quarterfinals Game 2",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 475.33,
@@ -11275,7 +11275,7 @@
     "year": 2015,
     "type": "",
     "tags": "Quarterfinals Game 4",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 475.34,
@@ -11287,7 +11287,7 @@
     "year": 2015,
     "type": "",
     "tags": "Semifinals Game 1",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 475.35,
@@ -11299,7 +11299,7 @@
     "year": 2015,
     "type": "",
     "tags": "Semifinals Game 2",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 475.36,
@@ -11311,7 +11311,7 @@
     "year": 2015,
     "type": "",
     "tags": "Semifinals Game 7",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 525.37,
@@ -11323,7 +11323,7 @@
     "year": 2016,
     "type": "",
     "tags": "Quarterfinals Game 2",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 525.38,
@@ -11335,7 +11335,7 @@
     "year": 2016,
     "type": "",
     "tags": "Quarterfinals Game 3",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 525.39,
@@ -11347,7 +11347,7 @@
     "year": 2016,
     "type": "",
     "tags": "Quarterfinals Game 3",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": "525.40",
@@ -11359,7 +11359,7 @@
     "year": 2016,
     "type": "",
     "tags": "Marc-Andre Fleury Semifinals Game 3",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 525.41,
@@ -11371,7 +11371,7 @@
     "year": 2016,
     "type": "",
     "tags": "Marc-Andre Fleury Semifinals Game 5",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 558.42,
@@ -11383,7 +11383,7 @@
     "year": 2017,
     "type": "",
     "tags": "Quarterfinals Game 2",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 558.43,
@@ -11395,7 +11395,7 @@
     "year": 2017,
     "type": "",
     "tags": "Quarterfinals Game 3",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 558.44,
@@ -11407,7 +11407,7 @@
     "year": 2017,
     "type": "",
     "tags": "Quarterfinals Game 4",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 558.45,
@@ -11419,7 +11419,7 @@
     "year": 2017,
     "type": "",
     "tags": "Marc-Andre Fleury Semifinals Game 1",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 558.46,
@@ -11431,7 +11431,7 @@
     "year": 2017,
     "type": "",
     "tags": "Marc-Andre Fleury Semifinals Game 5",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 607.47,
@@ -11443,7 +11443,7 @@
     "year": 2018,
     "type": "",
     "tags": "Quarterfinals Game 2",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 607.48,
@@ -11455,7 +11455,7 @@
     "year": 2018,
     "type": "",
     "tags": "Quarterfinals Game 2",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 607.49,
@@ -11467,7 +11467,7 @@
     "year": 2018,
     "type": "",
     "tags": "Quarterfinals Game 4",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": "607.50",
@@ -11479,7 +11479,7 @@
     "year": 2018,
     "type": "",
     "tags": "Quarterfinals Game 6",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 607.51,
@@ -11491,7 +11491,7 @@
     "year": 2018,
     "type": "",
     "tags": "Quarterfinals Game 6",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 607.52,
@@ -11503,7 +11503,7 @@
     "year": 2018,
     "type": "",
     "tags": "Marc-Andre Fleury Semifinals Game 1 100th Postseason Point",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 607.53,
@@ -11515,7 +11515,7 @@
     "year": 2018,
     "type": "",
     "tags": "Marc-Andre Fleury Semifinals Game 2",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 607.54,
@@ -11527,7 +11527,7 @@
     "year": 2018,
     "type": "",
     "tags": "Marc-Andre Fleury Semifinals Game 3",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 607.55,
@@ -11539,7 +11539,7 @@
     "year": 2018,
     "type": "",
     "tags": "Eastern Conference Finals Game 1",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 607.56,
@@ -11551,7 +11551,7 @@
     "year": 2018,
     "type": "",
     "tags": "Eastern Conference Finals Game 2",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 607.57,
@@ -11563,7 +11563,7 @@
     "year": 2018,
     "type": "",
     "tags": "Eastern Conference Finals Game 5",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 607.58,
@@ -11575,7 +11575,7 @@
     "year": 2018,
     "type": "",
     "tags": "Eastern Conference Finals Game 7",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 607.59,
@@ -11587,7 +11587,7 @@
     "year": 2018,
     "type": "",
     "tags": "Marc-Andre Fleury Stanley Cup Finals Game 2",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": "607.60",
@@ -11599,7 +11599,7 @@
     "year": 2018,
     "type": "",
     "tags": "Marc-Andre Fleury Stanley Cup Finals Game 3",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 607.61,
@@ -11611,7 +11611,7 @@
     "year": 2018,
     "type": "",
     "tags": "Marc-Andre Fleury Stanley Cup Finals Game 5",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 999.62,
@@ -11623,7 +11623,7 @@
     "year": 2019,
     "type": "",
     "tags": "Quarterfinals Game 1",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 999.63,
@@ -11635,7 +11635,7 @@
     "year": 2019,
     "type": "",
     "tags": "Quarterfinals Game 4",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 999.64,
@@ -11647,7 +11647,7 @@
     "year": 2019,
     "type": "",
     "tags": "Quarterfinals Game 5",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 999.65,
@@ -11659,7 +11659,7 @@
     "year": 2019,
     "type": "",
     "tags": "Quarterfinals Game 6",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 999.66,
@@ -11671,7 +11671,7 @@
     "year": 2020,
     "type": "",
     "tags": "Quarterfinals Game 2",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 999.67,
@@ -11683,7 +11683,7 @@
     "year": 2020,
     "type": "",
     "tags": "Quarterfinals Game 2",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 999.68,
@@ -11695,7 +11695,7 @@
     "year": 2020,
     "type": "",
     "tags": "Quarterfinals Game 4",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 999.69,
@@ -11707,7 +11707,7 @@
     "year": 2020,
     "type": "",
     "tags": "Quarterfinals Game 4",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": "999.70",
@@ -11719,7 +11719,7 @@
     "year": 2021,
     "type": "",
     "tags": "Quarterfinals Game 3",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 999.71,
@@ -11731,7 +11731,7 @@
     "year": 2021,
     "type": "",
     "tags": "Quarterfinals Game 4",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 999.72,
@@ -11743,7 +11743,7 @@
     "year": 2022,
     "type": "",
     "tags": "Quarterfinals Game 3",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 999.73,
@@ -11755,7 +11755,7 @@
     "year": 2025,
     "type": "",
     "tags": "Quarterfinals Game 1",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 999.74,
@@ -11767,7 +11767,7 @@
     "year": 2025,
     "type": "OT",
     "tags": "Quarterfinals Game 1 GWG Overtime",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 999.75,
@@ -11779,7 +11779,7 @@
     "year": 2025,
     "type": "",
     "tags": "Quarterfinals Game 3",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 999.76,
@@ -11791,7 +11791,7 @@
     "year": 2025,
     "type": "",
     "tags": "Quarterfinals Game 5",
-    "season": "Playoff"
+    "season": "Playoffs"
   },
   {
     "goal": 999.77,
@@ -11803,6 +11803,6 @@
     "year": 2025,
     "type": "",
     "tags": "Semifinals Game 4",
-    "season": "Playoff"
+    "season": "Playoffs"
   }
 ]
