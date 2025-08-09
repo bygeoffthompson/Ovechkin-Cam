@@ -76,6 +76,10 @@ iframe {
     width: 100%;
 }
 
+main {
+    max-width: 1024px;
+}
+
 table {
     margin-bottom: 50px;
     text-align: left;
