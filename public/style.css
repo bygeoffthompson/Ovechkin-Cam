@@ -95,6 +95,11 @@ tr:nth-child(odd) td {
     background: rgba(41,41,41,.1);
 }
 
+ul {
+  margin: 0 auto;
+  max-width: 300px;
+}
+
 @media (min-width:576px) {
     header {
         flex-direction: row;
