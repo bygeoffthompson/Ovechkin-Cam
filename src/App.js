@@ -276,9 +276,10 @@ function SearchForm({jsonData}) {
             <div id="advanced">
                 <label htmlFor="season" hidden>Filter By Season</label>
                 <select id="season" name="Season" onChange={handleSeasonChange}>
-                    <option name="Regular Season" value="Regular" selected>Regular Season</option>
+                    <option name="All" value="" selected>All</option>
+                    <option name="Regular Season" value="Regular">Regular Season</option>
+                    <option name="AllStar" value="All Star">All Star Game</option>
                     <option name="Playoffs" value="Playoff">Playoffs</option>
-                    <option name="All" value="">All</option>
                 </select>
                 <strong id="count"></strong>
             </div>
