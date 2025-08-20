@@ -325,7 +325,6 @@ function App() {
             const json = await response.json();
             setData(json);
         }
-
         fetchData();
     }, []);
 
