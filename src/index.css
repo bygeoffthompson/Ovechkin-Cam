@@ -237,6 +237,12 @@ form h2 {
   margin: 0;
 }
 
+form strong {
+  border-bottom: 3px solid #CE8946;
+  color: #1E3673;
+  font-size: 1.33rem;
+}
+
 header {
   margin: 2rem 0;
 }
@@ -319,11 +325,15 @@ input[type="text"]::placeholder {
 }
 
 label {
-  min-width: 100px;
+  min-width: 68px;
 }
 
 label[for="search-goal"]:before {
   content: 'by ';
+}
+
+label[for="search-text-1"] {
+    min-width: 96px;
 }
 
 label[for="search-text-1"]:before {

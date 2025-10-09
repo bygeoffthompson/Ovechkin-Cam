@@ -262,7 +262,10 @@ function SearchForm({jsonData}) {
                     <input id="search-text-3" type="text" placeholder="And" value={searchText3} onChange={handleText3}/>
                 </div>
                 <div>
-                    <button onClick={randomGoal} name="Goal" title="A Random Goal" type="button">Goal</button>
+                    <strong>or Randomize</strong>
+                </div>
+                <div>
+                    <button onClick={randomGoal} name="Goal" title="Any Goal" type="button">Any Goal</button>
                     <button onClick={powerPlayGoal} name="Power Play Goal" title="A Power Play Goal" type="button">PPG</button>
                     <button onClick={gameWinningGoal} name="Game Winning Goal" title="A Game Winning Goal" type="button">GWG</button>
                     <button onClick={emptyNetGoal} name="Empty Net Goal" title="An Empty Net Goal" type="button">ENG</button>
