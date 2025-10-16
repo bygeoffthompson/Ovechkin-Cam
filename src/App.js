@@ -56,7 +56,7 @@ function SearchForm({jsonData}) {
         const queryInteger = parseInt(query);
         if (queryInteger >= 1 && queryInteger <= 897) {
             setSearchGoal(queryInteger);
-        } else {
+        } else if (query) {
             setSearchText1(query.replace(/-/g, ' ').split('&', 1));
             setSearchText2('');
             setSearchText3('');
