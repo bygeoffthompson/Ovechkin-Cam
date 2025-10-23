@@ -52,12 +52,19 @@ function SearchForm({jsonData}) {
     }, [searchGoal, searchText1, searchText2, searchText3, jsonData]);
 
     useEffect(() => {
-        const query = window.location.search.slice(1);
+        const query = window.location.search.slice(1).replace(/-/g, ' ');
         const queryInteger = parseInt(query);
         if (queryInteger >= 1 && queryInteger <= 898) {
             setSearchGoal(queryInteger);
+        } else if (query.includes('+')) {
+            const multipleSearch = query.split('+');
+            setSearchText1(multipleSearch[0]);
+            setSearchText2(multipleSearch[1]);
+            if (multipleSearch[2]) {
+                setSearchText3(multipleSearch[2]);
+            }
         } else if (query) {
-            setSearchText1(query.replace(/-/g, ' ').split('&', 1));
+            setSearchText1(query);
             setSearchText2('');
             setSearchText3('');
         }
