@@ -325,7 +325,7 @@ input[type="text"]::placeholder {
 }
 
 label {
-  min-width: 68px;
+  min-width: 105px;
 }
 
 label[for="search-goal"]:before {
@@ -333,15 +333,11 @@ label[for="search-goal"]:before {
 }
 
 label[for="search-text-1"] {
-    min-width: 96px;
+  min-width: 65px;
 }
 
 label[for="search-text-1"]:before {
   content: 'or ';
-}
-
-label[for="search-text-1"]:after {
-    content: '(s)';
 }
 
 @media (min-width: 768px) {

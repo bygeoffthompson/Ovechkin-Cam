@@ -259,11 +259,11 @@ function SearchForm({jsonData}) {
             <form onSubmit={preventSubmit}>
                 <div>
                     <h2>Search</h2>
-                    <label htmlFor="search-goal">Goal</label>
+                    <label htmlFor="search-goal">Number</label>
                     <input min="1" max="898" id="search-goal" type="number" placeholder="#" value={searchGoal} onChange={handleGoalChange}/>
-                    <label htmlFor="search-text-1">Word</label>
-                    <label htmlFor="search-text-2" hidden>More Text</label>
-                    <label htmlFor="search-text-3" hidden>More Text</label>
+                    <label htmlFor="search-text-1">Text</label>
+                    <label htmlFor="search-text-2" hidden>Text</label>
+                    <label htmlFor="search-text-3" hidden>Text</label>
                     <input id="search-text-1" type="text" placeholder="Search" value={searchText1} onChange={handleText1}/>
                     <input id="search-text-2" type="text" placeholder="And" value={searchText2} onChange={handleText2}/>
                     <input id="search-text-3" type="text" placeholder="And" value={searchText3} onChange={handleText3}/>
