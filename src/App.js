@@ -54,7 +54,7 @@ function SearchForm({jsonData}) {
     useEffect(() => {
         const query = window.location.search.slice(1).replace(/-/g, ' ');
         const queryInteger = parseInt(query);
-        if (queryInteger >= 1 && queryInteger <= 898) {
+        if (queryInteger >= 1 && queryInteger <= 899) {
             setSearchGoal(queryInteger);
         } else if (query.includes('+')) {
             const multipleSearch = query.split('+');
@@ -222,7 +222,7 @@ function SearchForm({jsonData}) {
 
     const randomGoal = () => {
         resultsHide();
-        const randomGoal = random(1, 898);
+        const randomGoal = random(1, 899);
         setSearchGoal(randomGoal);
 
         ReactGA.event({
@@ -260,7 +260,7 @@ function SearchForm({jsonData}) {
                 <div>
                     <h2>Search</h2>
                     <label htmlFor="search-goal">Number</label>
-                    <input min="1" max="898" id="search-goal" type="number" placeholder="#" value={searchGoal} onChange={handleGoalChange}/>
+                    <input min="1" max="899" id="search-goal" type="number" placeholder="#" value={searchGoal} onChange={handleGoalChange}/>
                     <label htmlFor="search-text-1">Text</label>
                     <label htmlFor="search-text-2" hidden>Text</label>
                     <label htmlFor="search-text-3" hidden>Text</label>
