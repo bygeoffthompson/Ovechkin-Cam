@@ -76,32 +76,12 @@ function SearchForm({jsonData}) {
     };
 
     const emptyNetGoal = () => {
-        resultsHide();
-        const eng = ['ENG'];
-
-        const result = jsonData.filter(item =>
-            Object.values(item).some(value =>
-                eng.includes(value)
-            )
-        );
-
-        const goal = Object.values(result[random(1, Object.keys(result).length)]);
-        setSearchGoal(goal[0]);
+        goalButton(['ENG']);
         clickTrack('Empty Net');
     };
 
     const gameWinningGoal = () => {
-        resultsHide();
-        const gwg = ['OT', 'GWG'];
-
-        const result = jsonData.filter(item =>
-            Object.values(item).some(value =>
-                gwg.includes(value)
-            )
-        );
-
-        const goal = Object.values(result[random(1, Object.keys(result).length)]);
-        setSearchGoal(goal[0]);
+        goalButton(['OT', 'GWG']);
         clickTrack('Game Winning');
     };
 
@@ -134,53 +114,34 @@ function SearchForm({jsonData}) {
     };
 
     const hatTrickGoal = () => {
-        resultsHide();
-        const hat = ['Hat Trick'];
-
-        const result = jsonData.filter(item =>
-            Object.values(item).some(value =>
-                hat.includes(item.tags)
-            )
-        );
-
-        const goal = Object.values(result[random(1, Object.keys(result).length)]);
-        setSearchGoal(goal[0]);
+        goalButton(['Hat Trick']);
         clickTrack('Hat Trick');
     };
 
     const overtimeGoal = () => {
-        resultsHide();
-        const ot = ['OT'];
-
-        const result = jsonData.filter(item =>
-            Object.values(item).some(value =>
-                ot.includes(item.type)
-            )
-        );
-
-        const goal = Object.values(result[random(1, Object.keys(result).length)]);
-        setSearchGoal(goal[0]);
+        goalButton(['OT']);
         clickTrack('Overtime');
     };
 
     const powerPlayGoal = () => {
-        resultsHide();
-        const ppg = ['PPG'];
-
-        const result = jsonData.filter(item =>
-            Object.values(item).some(value =>
-                ppg.includes(value)
-            )
-        );
-
-        const goal = Object.values(result[random(1, Object.keys(result).length)]);
-        setSearchGoal(goal[0]);
+        goalButton(['PPG']);
         clickTrack('Power Play');
     };
 
     const preventSubmit = (event) => {
         event.preventDefault();
     };
+
+    function goalButton(type) {
+        resultsHide();
+        const result = jsonData.filter(item =>
+            Object.values(item).some(value =>
+                type.includes(value)
+            )
+        );
+        const goal = Object.values(result[random(1, Object.keys(result).length)]);
+        setSearchGoal(goal[0]);
+    }
 
     function clickTrack(btn) {
         ReactGA.event({
