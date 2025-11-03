@@ -87,7 +87,7 @@ function SearchForm({jsonData}) {
 
         const goal = Object.values(result[random(1, Object.keys(result).length)]);
         setSearchGoal(goal[0]);
-        reactGA('Empty Net');
+        clickTrack('Empty Net');
     };
 
     const gameWinningGoal = () => {
@@ -102,7 +102,7 @@ function SearchForm({jsonData}) {
 
         const goal = Object.values(result[random(1, Object.keys(result).length)]);
         setSearchGoal(goal[0]);
-        reactGA('Game Winning');
+        clickTrack('Game Winning');
     };
 
     const handleGoalChange = (event) => {
@@ -145,7 +145,7 @@ function SearchForm({jsonData}) {
 
         const goal = Object.values(result[random(1, Object.keys(result).length)]);
         setSearchGoal(goal[0]);
-        reactGA('Hat Trick');
+        clickTrack('Hat Trick');
     };
 
     const overtimeGoal = () => {
@@ -160,7 +160,7 @@ function SearchForm({jsonData}) {
 
         const goal = Object.values(result[random(1, Object.keys(result).length)]);
         setSearchGoal(goal[0]);
-        reactGA('Overtime');
+        clickTrack('Overtime');
     };
 
     const powerPlayGoal = () => {
@@ -175,14 +175,14 @@ function SearchForm({jsonData}) {
 
         const goal = Object.values(result[random(1, Object.keys(result).length)]);
         setSearchGoal(goal[0]);
-        reactGA('Power Play');
+        clickTrack('Power Play');
     };
 
     const preventSubmit = (event) => {
         event.preventDefault();
     };
 
-    function reactGA(btn) {
+    function clickTrack(btn) {
         ReactGA.event({
             category: 'Click',
             action: btn + ' Goal Click',
@@ -207,24 +207,12 @@ function SearchForm({jsonData}) {
         resultsHide();
         const randomGoal = random(1, 899);
         setSearchGoal(randomGoal);
-        reactGA('Random');
+        clickTrack('Random');
     };
 
     const reset = () => {
         setSearchResults([]);
         resultsHide();
-    };
-
-    const todayGoal = () => {
-        resultsHide();
-        var now = new Date();
-        var start = new Date(now.getFullYear(), 0, 0);
-        var diff = now - start;
-        var oneDay = 1000 * 60 * 60 * 24;
-        var day = Math.floor(diff / oneDay);
-        var goal = parseInt(day * 2.45);
-        setSearchGoal(Math.trunc(goal));
-        reactGA('Today\'s');
     };
 
     return (
@@ -251,7 +239,6 @@ function SearchForm({jsonData}) {
                     <button onClick={emptyNetGoal} name="Empty Net Goal" title="An Empty Net Goal" type="button">ENG</button>
                     <button onClick={overtimeGoal} name="Overtime Goal" title="An Overtime Goal" type="button">OT Goal</button>
                     <button onClick={hatTrickGoal} name="Hat Trick Goal" title="A Hat Trick Goal" type="button">Hat Trick Goal</button>
-                    <button onClick={todayGoal} name="Today's Goal" title="A New Goal Chosen Daily" type="button">Today's Goal</button>
                     <button onClick={reset} name="Reset" type="button">Reset</button>
                 </div>
             </form>
@@ -261,7 +248,7 @@ function SearchForm({jsonData}) {
                 <select id="season" name="Season" onChange={handleSeasonChange}>
                     <option name="All" value="" selected>All</option>
                     <option name="Regular Season" value="Regular">Regular Season</option>
-                    <option name="AllStar" value="All Star">All Star Game</option>
+                    <option name="All Star Game" value="All Star Game">All Star Game</option>
                     <option name="Playoffs" value="Playoffs">Playoffs</option>
                 </select>
                 <strong id="count"></strong>
