@@ -52,7 +52,7 @@ function SearchForm({jsonData}) {
     }, [searchGoal, searchText1, searchText2, searchText3, jsonData]);
 
     useEffect(() => {
-        const query = window.location.search.slice(1).replace(/-/g, ' ');
+        const query = window.location.search.slice(1).replace(/-/g, ' ').split('&', 1);
         const queryInteger = parseInt(query);
         if (queryInteger >= 1 && queryInteger <= 899) {
             setSearchGoal(queryInteger);
@@ -73,16 +73,6 @@ function SearchForm({jsonData}) {
     const copyFunction = () => {
         var link = document.querySelector('.link strong').innerHTML;
         navigator.clipboard.writeText(link);
-    };
-
-    const emptyNetGoal = () => {
-        goalButton(['ENG']);
-        clickTrack('Empty Net');
-    };
-
-    const gameWinningGoal = () => {
-        goalButton(['OT', 'GWG']);
-        clickTrack('Game Winning');
     };
 
     const handleGoalChange = (event) => {
@@ -111,6 +101,16 @@ function SearchForm({jsonData}) {
     const handleText3 = (event) => {
         setSearchGoal('');
         setSearchText3(event.target.value);
+    };
+
+    const emptyNetGoal = () => {
+        goalButton(['ENG']);
+        clickTrack('Empty Net');
+    };
+
+    const gameWinningGoal = () => {
+        goalButton(['OT', 'GWG']);
+        clickTrack('Game Winning');
     };
 
     const hatTrickGoal = () => {
