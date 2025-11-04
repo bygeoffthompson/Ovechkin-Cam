@@ -222,14 +222,15 @@ function SearchForm({jsonData}) {
                             <img alt="Goal Siren icon" className="goal-siren" src="/icons/goal-siren.svg" />
                             <strong className="type">{result.type}</strong>
                         </div>
-                        <h3>#{result.goal}</h3>
+                        <strong id="goal-count">#{result.goal}</strong>
                         <div>
                             <strong>{result.month} {result.day} {result.year}</strong>
+                        </div>
+                        <div>
                             <img alt={result.team + ' logo'} className="logo" src={'/teams/' + result.team + '.svgz'} />
                         </div>
                         <div>
                             <strong className="goalie">{result.goalie}</strong>
-                            <span className="mask"></span>
                         </div>
                         <strong>{result.text}</strong>
                     </div>
