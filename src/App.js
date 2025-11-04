@@ -33,9 +33,9 @@ function SearchForm({jsonData}) {
                 const search =
                     item.month + ' ' + item.day + ' ' + item.year + ' ' + item.goalie + ' ' + item.team + item.tags + ' ' + item.type + ' ' + item.season;
                 return (
-                    search.toLowerCase().includes(searchText1) &&
-                    search.toLowerCase().includes(searchText2) &&
-                    search.toLowerCase().includes(searchText3) &&
+                    search.toLowerCase().includes(searchText1.toLowerCase()) &&
+                    search.toLowerCase().includes(searchText2.toLowerCase()) &&
+                    search.toLowerCase().includes(searchText3.toLowerCase()) &&
                     item.season.includes(document.getElementById('season').value)
                 );
             });
