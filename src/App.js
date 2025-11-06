@@ -182,7 +182,7 @@ function SearchForm({jsonData}) {
                 <div>
                     <h2>Search</h2>
                     <label htmlFor="search-goal">Number</label>
-                    <input min="1" max="900" id="search-goal" type="number" placeholder="#" value={searchGoal} onChange={handleGoalChange}/>
+                    <input min="1" max="900" id="search-goal" type="number" placeholder="#" value={searchGoal} onBlur={handleGoalChange} onChange={handleGoalChange}/>
                     <label htmlFor="search-text-1">Text</label>
                     <label htmlFor="search-text-2" hidden>Text</label>
                     <label htmlFor="search-text-3" hidden>Text</label>
