@@ -234,6 +234,10 @@ header {
   margin: 2rem 0;
 }
 
+header a:hover {
+  color: #C8102E;
+}
+
 iframe {
   aspect-ratio: 16 / 9;
   background: #000;
