@@ -224,13 +224,13 @@ function SearchForm({jsonData}) {
                         </div>
                         <strong id="goal-count">#{result.goal}</strong>
                         <div>
-                            <strong>{result.month} {result.day} {result.year}</strong>
+                            <strong className="goalie">{result.goalie}</strong>
                         </div>
                         <div>
                             <img alt={result.team + ' logo'} className="logo" src={'/teams/' + result.team + '.svgz'} />
                         </div>
                         <div>
-                            <strong className="goalie">{result.goalie}</strong>
+                            <strong><i>{result.month} {result.day} {result.year}</i></strong>
                         </div>
                         <strong>{result.text}</strong>
                     </div>
