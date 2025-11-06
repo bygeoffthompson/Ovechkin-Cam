@@ -33,9 +33,9 @@ function SearchForm({jsonData}) {
                 const search =
                     item.month + ' ' + item.day + ' ' + item.year + ' ' + item.goalie + ' ' + item.team + item.tags + ' ' + item.type + ' ' + item.season;
                 return (
-                    search.toLowerCase().includes(searchText1.toLowerCase()) &&
-                    search.toLowerCase().includes(searchText2.toLowerCase()) &&
-                    search.toLowerCase().includes(searchText3.toLowerCase()) &&
+                    search.toLowerCase().includes(searchText1) &&
+                    search.toLowerCase().includes(searchText2) &&
+                    search.toLowerCase().includes(searchText3) &&
                     item.season.includes(document.getElementById('season').value)
                 );
             });
@@ -52,7 +52,7 @@ function SearchForm({jsonData}) {
     }, [searchGoal, searchText1, searchText2, searchText3, jsonData]);
 
     useEffect(() => {
-        const query = window.location.search.slice(1).replace(/-/g, ' ');
+        const query = window.location.search.slice(1).replace(/-/g, ' ').toLowerCase();
         const queryInteger = parseInt(query);
         if (queryInteger >= 1 && queryInteger <= 900) {
             setSearchGoal(queryInteger);
@@ -90,17 +90,17 @@ function SearchForm({jsonData}) {
 
     const handleText1 = (event) => {
         setSearchGoal('');
-        setSearchText1(event.target.value);
+        setSearchText1(event.target.value.toLowerCase());
     };
 
     const handleText2 = (event) => {
         setSearchGoal('');
-        setSearchText2(event.target.value);
+        setSearchText2(event.target.value.toLowerCase());
     };
 
     const handleText3 = (event) => {
         setSearchGoal('');
-        setSearchText3(event.target.value);
+        setSearchText3(event.target.value.toLowerCase());
     };
 
     const emptyNetGoal = () => {
