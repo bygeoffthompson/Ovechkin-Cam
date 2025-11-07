@@ -232,11 +232,13 @@ function SearchForm({jsonData}) {
                         <div>
                             <strong><i>{result.month} {result.day} {result.year}</i></strong>
                         </div>
-                        <strong>{result.text}</strong>
                     </div>
                     <div className="shadow">
                         <iframe width="560" height="315" src={result.link.replace(/"/g, "")} title="Alex Ovechkin Goal Video"
                             referrerPolicy="cross-origin-with-strict-origin" allowFullScreen loading="lazy"></iframe>
+                    </div>
+                    <div className="goal-text">
+                        <strong>{result.text}</strong>
                     </div>
                     <div className="link">
                         <strong>ovechkin.cam/?{result.goal}</strong>
