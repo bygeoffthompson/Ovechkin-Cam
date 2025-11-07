@@ -164,10 +164,10 @@ function SearchForm({jsonData}) {
         document.querySelector('#advanced').classList.remove('show');
     }
 
-    const randomGoal = () => {
+    const anyGoal = () => {
         resultsHide();
-        const randomGoal = random(1, 900);
-        setSearchGoal(randomGoal);
+        const anyGoal = random(1, 900);
+        setSearchGoal(anyGoal);
         clickTrack('Random');
     };
 
@@ -194,7 +194,7 @@ function SearchForm({jsonData}) {
                     <strong>or Randomize</strong>
                 </div>
                 <div>
-                    <button onClick={randomGoal} name="Goal" title="Any Goal" type="button">Any Goal</button>
+                    <button onClick={anyGoal} name="Goal" title="Any Goal" type="button">Any Goal</button>
                     <button onClick={powerPlayGoal} name="Power Play Goal" title="A Power Play Goal" type="button">PPG</button>
                     <button onClick={gameWinningGoal} name="Game Winning Goal" title="A Game Winning Goal" type="button">GWG</button>
                     <button onClick={emptyNetGoal} name="Empty Net Goal" title="An Empty Net Goal" type="button">ENG</button>
