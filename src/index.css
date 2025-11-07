@@ -30,8 +30,17 @@
 }
 
 #cracked-ice {
+  animation: iceChange 6s infinite alternate;
   background: url('../public/bg/cracked-ice.jpg');
-  opacity: .34;
+}
+
+@keyframes iceChange {
+  0% {
+    opacity: .25;
+  }
+  100% {
+    opacity: .66;
+  }
 }
 
 #goal-count {
