@@ -17,6 +17,23 @@
   font-size: 1.5rem;
 }
 
+#cracked-ice,
+#ice {
+  background: url('../public/bg/ice.jpg');
+  height: 100vh;
+  left: 0;
+  opacity: .5;
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  z-index: -1;
+}
+
+#cracked-ice {
+  background: url('../public/bg/cracked-ice.jpg');
+  opacity: .34;
+}
+
 #goal-count {
   font-size: 2.75rem;
 }
