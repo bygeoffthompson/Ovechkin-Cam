@@ -268,7 +268,7 @@ input[placeholder] {
   width: 100%;
 }
 
-input[type="number"] {
+#search-goal {
   caret-color: #C8102E;
   color: #C8102E;
   max-width: 90px;
