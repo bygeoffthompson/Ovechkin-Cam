@@ -30,16 +30,18 @@
 }
 
 #cracked-ice {
-  animation: iceChange 6s infinite alternate;
+  animation: iceChange 8s infinite alternate;
   background: url('../public/bg/cracked-ice.jpg');
 }
 
 @keyframes iceChange {
   0% {
-    opacity: .25;
+    opacity: .5;
+    transform: scale(1.0);
   }
   100% {
-    opacity: .66;
+    opacity: .25;
+    transform: scale(1.125);
   }
 }
 
