@@ -176,8 +176,18 @@ function SearchForm({jsonData}) {
         resultsHide();
     };
 
+    const mouseGoalOn = () => {
+        document.querySelector('body').classList.add('goal-lights');
+        setTimeout(function() {
+            document.querySelector('body').classList.remove('goal-lights');
+        }, 2000);
+    }
+
     return (
         <div>
+            <div id="goal">
+                <img alt="Goal Net" src="icons/net.svg" onMouseEnter={mouseGoalOn}/>
+            </div>
             <form onSubmit={preventSubmit}>
                 <div>
                     <h2>Search</h2>

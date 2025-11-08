@@ -45,6 +45,17 @@
   }
 }
 
+#goal {
+  height: 75px;
+  position: relative;
+  width: 75px;
+}
+
+#goal img {
+  height: auto;
+  width: 100%;
+}
+
 #goal-count {
   font-size: 2.75rem;
 }
@@ -192,6 +203,42 @@
 .record-light {
   height: auto;
   width: 30px;
+}
+
+body {
+  cursor: url('../public/bg/puck.png'), auto;
+}
+
+
+body.goal-lights {
+  animation: goalLights 1s infinite ease-in;
+  cursor: auto;
+}
+
+body.goal-lights #goal:before {
+  background: url('../public/bg/puck.png') no-repeat;
+  bottom: 20px;
+  content: '';
+  display: block;
+  left: 22px;
+  height: 16px;
+  position: absolute;
+  width: 30px;
+}
+
+@keyframes goalLights {
+  0% {
+    background: radial-gradient(transparent 90%, #C8102E 100%);
+  }
+  33% {
+    background: radial-gradient(transparent 60%, #C8102E 100%);
+  }
+  66% {
+    background: radial-gradient(transparent 90%, #C8102E 100%);
+  }
+  100% {
+    background: radial-gradient(transparent 60%, #C8102E 100%);
+  }
 }
 
 button {
@@ -352,6 +399,7 @@ input[type="text"]::placeholder {
 }
 
 label {
+  cursor: url('../public/bg/puck.png'), auto;
   min-width: 105px;
 }
 
