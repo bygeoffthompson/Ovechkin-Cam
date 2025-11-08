@@ -33,6 +33,7 @@ footer {
     background: #041E42;
     bottom: 0;
     color: #fff;
+    cursor: default;
     display: flex;
     justify-content: center;
     left: 0;

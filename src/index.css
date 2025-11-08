@@ -73,16 +73,25 @@
   font-size: 2.75rem;
 }
 
+#ovi {
+  display: block;
+  margin-left: -90px;
+  margin-top: -90px;
+  pointer-events: none;
+  position: fixed;
+  z-index: 0;
+}
+
 #puck {
-  background: url('../public/bg/puck.png') no-repeat;
-  height: 11px;
+  background: url('../public/icons/puck.png') no-repeat;
+  height: 8px;
   left: initial;
   opacity: 0;
   pointer-events: none;
   position: absolute;
   transform: translate(-50%, -50%);
   top: initial;
-  width: 20px;
+  width: 14px;
   z-index: 3;
 }
 
@@ -250,7 +259,7 @@
 }
 
 body {
-  cursor: url('../public/bg/puck.png') 12 5, auto;
+  cursor: url('../public/icons/puck.png') 7 3, auto;
 }
 
 body.cursor {
@@ -281,14 +290,14 @@ body.goal-lights {
 }
 
 body.goal-lights #goal:before {
-  background: url('../public/bg/puck.png') no-repeat;
-  bottom: 22px;
+  background: url('../public/icons/puck.png') no-repeat;
+  bottom: 23px;
   content: '';
   display: block;
-  left: 28px;
-  height: 11px;
+  left: 30px;
+  height: 8px;
   position: absolute;
-  width: 20px;
+  width: 14px;
 }
 
 button {
@@ -343,6 +352,7 @@ form {
   margin-bottom: 2rem;
   padding: 2rem;
   position: relative;
+  z-index: 1;
 }
 
 form > div {
@@ -470,7 +480,7 @@ input[type="text"]::placeholder {
 }
 
 label {
-  cursor: url('../public/bg/puck.png') 12 5, auto;
+  cursor: url('../public/icons/puck.png') 7 3, auto;
   min-width: 105px;
 }
 
