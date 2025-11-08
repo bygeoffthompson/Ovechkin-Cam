@@ -40,6 +40,7 @@ footer {
     padding: .5rem 1rem;
     position: fixed;
     width: auto;
+    z-index: 1;
 }
 
 footer a {
