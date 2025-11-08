@@ -202,10 +202,13 @@ function SearchForm({jsonData}) {
                     document.querySelector('body').classList.remove('goal-lights');
                 }, 1500);
             }, 750);
+            ReactGA.event({
+                category: 'Shots',
+                action: 'Shots Taken',
+                value: 1
+            });
         });
     };
-
-
 
     return (
         <div>
