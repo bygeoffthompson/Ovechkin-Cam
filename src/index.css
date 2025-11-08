@@ -365,6 +365,12 @@ form strong {
   font-size: 1.33rem;
 }
 
+@media (max-width: 400px) {
+  h1 {
+    font-size: 20px;
+  }
+}
+
 header {
   margin: 2rem 0;
   position: relative;
