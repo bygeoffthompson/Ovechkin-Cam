@@ -57,7 +57,7 @@
 #goal-click {
   height: 100vh;
   left: 0;
-  position: fixed;
+  position: absolute;
   top: 0;
   width: 100vw;
   z-index: 0;
@@ -330,7 +330,7 @@ button[name="Reset"]:active {
 
 form {
   align-items: center;
-  background: #F2F0EF;
+  background: rgba(242,240,239,.5);
   box-shadow: 0 .5rem 1rem rgba(41,41,41,.25);
   display: flex;
   flex-direction: column;
