@@ -183,6 +183,22 @@ function SearchForm({jsonData}) {
         }, 1500);
     }
 
+    const clickGoal = () => {
+        document.getElementById('goal-click').addEventListener('click', function(event) {
+            const x = event.offsetX + 10;
+            const y = event.offsetY + 4;
+            document.getElementById('puck').setAttribute('style', 'left:' + x + 'px;top:' + y + 'px;');
+            document.querySelector('body').classList.add('cursor');
+            document.getElementById('puck').classList.add('shot');
+            setTimeout(function() {
+                document.querySelector('body').classList.remove('cursor');
+                document.getElementById('puck').classList.remove('shot');
+                document.getElementById('puck').setAttribute('style', 'left:initial;top:initial;');
+                mouseGoalOn();
+            }, 500);
+        });
+    };
+
     return (
         <div>
             <div id="goal">
@@ -224,6 +240,8 @@ function SearchForm({jsonData}) {
                 </select>
                 <strong id="count"></strong>
             </div>
+
+            <div id="goal-click" onClick={clickGoal}></div>
 
             {searchResults.map((result, index) => (
                 <div className="frame" key={index}>
