@@ -351,8 +351,6 @@ form {
   justify-content: center;
   margin-bottom: 2rem;
   padding: 2rem;
-  position: relative;
-  z-index: 1;
 }
 
 form > div {
