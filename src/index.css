@@ -48,6 +48,7 @@
 }
 
 #goal {
+  cursor: none;
   height: 75px;
   position: relative;
   width: 75px;
@@ -249,7 +250,7 @@
 }
 
 body {
-  cursor: url('../public/bg/puck.png'), auto;
+  cursor: url('../public/bg/puck.png') 12 5, auto;
 }
 
 body.cursor {
@@ -458,7 +459,7 @@ input[type="text"]::placeholder {
 }
 
 label {
-  cursor: url('../public/bg/puck.png'), auto;
+  cursor: url('../public/bg/puck.png') 12 5, auto;
   min-width: 105px;
 }
 

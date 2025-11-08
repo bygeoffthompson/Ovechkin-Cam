@@ -176,20 +176,13 @@ function SearchForm({jsonData}) {
         resultsHide();
     };
 
-    const mouseGoalOn = () => {
-        document.querySelector('body').classList.add('goal-lights');
-        setTimeout(function() {
-            document.querySelector('body').classList.remove('goal-lights');
-        }, 1500);
-    }
-
     const clickGoal = () => {
         document.getElementById('goal-click').addEventListener('click', function(event) {
             const page = document.querySelector('body').getBoundingClientRect();
             const x = event.clientX - page.left;
             const y = event.clientY - page.top;
             document.getElementById('puck').setAttribute('style', 'left:' + x + 'px;top:' + y + 'px;');
-            document.querySelector('body').classList.add('cursor');
+            document.querySelector('body').classList.add('cursor',);
             document.getElementById('puck').classList.add('shot');
             setTimeout(function() {
                 window.scrollTo({
@@ -199,10 +192,13 @@ function SearchForm({jsonData}) {
                 });
             }, 150);
             setTimeout(function() {
+                document.querySelector('body').classList.add('goal-lights');
                 document.querySelector('body').classList.remove('cursor');
                 document.getElementById('puck').classList.remove('shot');
                 document.getElementById('puck').setAttribute('style', 'left:initial;top:initial;');
-                mouseGoalOn();
+                setTimeout(function() {
+                    document.querySelector('body').classList.remove('goal-lights');
+                }, 1500);
             }, 750);
         });
     };
@@ -210,7 +206,7 @@ function SearchForm({jsonData}) {
     return (
         <div>
             <div id="goal">
-                <img alt="Goal Net" src="icons/net.svg" onMouseEnter={mouseGoalOn}/>
+                <img alt="Goal Net" src="icons/net.svg"/>
             </div>
             <form onSubmit={preventSubmit}>
                 <div>
