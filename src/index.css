@@ -5,11 +5,13 @@
   justify-content: center;
   margin: 0 0 1rem;
   opacity: 0;
+  pointer-events: none;
   transition: all 250ms;
 }
 
 #advanced.show {
   opacity: 1;
+  pointer-events: all;
 }
 
 #advanced label,
@@ -211,34 +213,37 @@ body {
 
 
 body.goal-lights {
-  animation: goalLights 1s infinite ease-in;
+  animation: goalLights .5s linear infinite;
   cursor: auto;
-}
-
-body.goal-lights #goal:before {
-  background: url('../public/bg/puck.png') no-repeat;
-  bottom: 20px;
-  content: '';
-  display: block;
-  left: 22px;
-  height: 16px;
-  position: absolute;
-  width: 30px;
 }
 
 @keyframes goalLights {
   0% {
-    background: radial-gradient(transparent 90%, #C8102E 100%);
+    background: rgba(200,16,46,.8);
   }
-  33% {
-    background: radial-gradient(transparent 60%, #C8102E 100%);
+  25% {
+    background: rgba(200,16,46,.2);
   }
-  66% {
-    background: radial-gradient(transparent 90%, #C8102E 100%);
+  50% {
+    background: rgba(200,16,46,.8);
+  }
+  75% {
+    background: rgba(200,16,46,.2);
   }
   100% {
-    background: radial-gradient(transparent 60%, #C8102E 100%);
+    background: rgba(200,16,46,.8);
   }
+}
+
+body.goal-lights #goal:before {
+  background: url('../public/bg/puck.png') no-repeat;
+  bottom: 22px;
+  content: '';
+  display: block;
+  left: 28px;
+  height: 11px;
+  position: absolute;
+  width: 20px;
 }
 
 button {

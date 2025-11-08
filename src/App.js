@@ -180,7 +180,7 @@ function SearchForm({jsonData}) {
         document.querySelector('body').classList.add('goal-lights');
         setTimeout(function() {
             document.querySelector('body').classList.remove('goal-lights');
-        }, 2000);
+        }, 1500);
     }
 
     return (
