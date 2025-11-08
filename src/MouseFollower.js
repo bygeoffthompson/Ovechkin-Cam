@@ -19,8 +19,7 @@ const MouseFollower = () => {
     }, []); // The empty dependency array ensures this effect runs only once
 
     return (
-
-        <img alt="Alex Ovechkin" id="ovi" src="../icons/ovi-stick.png" style={{left: position.x, top: position.y, }} />
+        <img alt="Alex Ovechkin" id="ovi" src="../icons/ovi-stick.png" style={{left: position.x, top: position.y }} />
     );
 };
 
