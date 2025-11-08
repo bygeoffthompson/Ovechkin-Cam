@@ -57,7 +57,7 @@
 #goal-click {
   height: 100vh;
   left: 0;
-  position: absolute;
+  position: fixed;
   top: 0;
   width: 100vw;
   z-index: 0;
@@ -86,7 +86,7 @@
 }
 
 #puck.shot {
-  animation: goalClick 500ms ease-in 1;
+  animation: goalClick 750ms ease-in 1;
   opacity: 1;
 }
 
@@ -157,6 +157,7 @@
 
 .link {
   align-items: center;
+  cursor: default;
   display: flex;
   flex-direction: row;
   gap: 8px;
@@ -170,6 +171,7 @@
 
 .note {
   align-items: center;
+  cursor: default;
   display: flex;
   flex-direction: column-reverse;
   gap: 8px;
