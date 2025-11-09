@@ -1,5 +1,4 @@
 import React, {useState, useEffect} from 'react';
-import MouseFollower from './MouseFollower'
 import ReactGA from 'react-ga4';
 
 ReactGA.initialize('G-5RVBYX6N0S');
