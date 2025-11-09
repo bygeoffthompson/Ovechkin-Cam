@@ -253,7 +253,6 @@ function SearchForm({jsonData}) {
             </div>
 
             <div id="goal-click" onClick={clickGoal}></div>
-            <MouseFollower />
 
             {searchResults.map((result, index) => (
                 <div className="frame" key={index}>
