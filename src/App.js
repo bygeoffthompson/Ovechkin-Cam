@@ -191,7 +191,7 @@ function SearchForm({jsonData}) {
                     left: 0,
                     behavior: 'smooth',
                 });
-            }, 150);
+            }, 300);
             setTimeout(function() {
                 document.querySelector('body').classList.add('goal-lights');
                 document.querySelector('body').classList.remove('cursor');
