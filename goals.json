@@ -10901,8 +10901,8 @@
     "month": "October",
     "day": 24,
     "year": 2025,
-    "type": "",
-    "tags": "",
+    "type": "GWG",
+    "tags": "GWG",
     "season": "Regular"
   },
   {
@@ -10913,8 +10913,8 @@
     "month": "November",
     "day": 5,
     "year": 2025,
-    "type": "",
-    "tags": "900th Goal Century",
+    "type": "GWG",
+    "tags": "900th Goal Century GWG",
     "season": "Regular"
   },
   {
