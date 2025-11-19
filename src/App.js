@@ -247,6 +247,7 @@ function SearchForm({jsonData}) {
                     <option name="Regular Season" value="Regular">Regular Season</option>
                     <option name="All Star Game" value="All Star Game">All Star Game</option>
                     <option name="Playoffs" value="Playoffs">Playoffs</option>
+                    <option name="KHL" value="KHL">KHL</option>
                 </select>
                 <strong id="count"></strong>
             </div>
