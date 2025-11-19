@@ -11878,6 +11878,30 @@
     "season": "Playoffs"
   },
   {
+    "goal": 9999.1,
+    "link": "https://www.youtube.com/embed/K4-EvleBUHU?si=pgp7URA7M3RdQXiP&amp;start=59",
+    "team": "SKA St. Petersburg",
+    "goalie": "Ilya Yezhov",
+    "month": "September",
+    "day": 23,
+    "year": 2012,
+    "type": "PPG",
+    "tags": "Dynamo Moscow KHL",
+    "season": "KHL"
+  },
+  {
+    "goal": 9999.2,
+    "link": "https://www.youtube.com/embed/OPwtTJQ-uWQ?si=39Kp5tDi1xFcXSZL&amp;start=244",
+    "team": "Neftekhimik Nizhnekamsk",
+    "goalie": "Maxim Sokolov",
+    "month": "October",
+    "day": 1,
+    "year": 2012,
+    "type": "",
+    "tags": "Dynamo Moscow KHL",
+    "season": "KHL"
+  },
+  {
     "goal": 9999.3,
     "link": "https://www.youtube.com/embed/DJhUvaAggCM?si=S4BEctHXGGbWl3nr",
     "team": "HC Slovan Bratislava",
@@ -11890,8 +11914,20 @@
     "season": "KHL"
   },
   {
+    "goal": 9999.4,
+    "link": "https://www.youtube.com/embed/K4-EvleBUHU?si=PT3ACz-3_3MSwXZj&amp;start=87",
+    "team": "HC LEV Praha",
+    "goalie": "Tomáš Pöpperle",
+    "month": "October",
+    "day": 9,
+    "year": 2012,
+    "type": "",
+    "tags": "Dynamo Moscow KHL Tomas Popperle",
+    "season": "KHL"
+  },
+  {
     "goal": 9999.5,
-    "link": "https://www.youtube.com/embed/qUF7MwxjKys?si=3Xj7nB_C7pZeZYXB",
+    "link": "https://www.youtube.com/embed/gzdTnwOiDGE?si=8gNxgJeVM49XnK3-",
     "team": "Atlant",
     "goalie": "Anton Khudobin",
     "month": "October",
@@ -11903,7 +11939,7 @@
   },
   {
     "goal": 9999.6,
-    "link": "https://www.youtube.com/embed/x2zOrk4BWmQ?si=rQowE9gIyxzglWqT&amp;start=12",
+    "link": "https://www.youtube.com/embed/LI_UySNpA7Y?si=YkLW0w-sgqo8K0U3",
     "team": "Yaroslavl Lokomotiv",
     "goalie": "Semyon Varlamov",
     "month": "October",
@@ -11915,21 +11951,21 @@
   },
   {
     "goal": 9999.7,
-    "link": "https://www.youtube.com/embed/635JzIrgLSQ?si=4gG107uwL4T5X0tF&amp;start=68",
+    "link": "https://www.youtube.com/embed/K_Isls9iUIw?si=n2OHphewSayA5e02",
     "team": "Dynamo Minsk",
     "goalie": "Pekka Rinne",
     "month": "November",
     "day": 18,
     "year": 2012,
     "type": "OT",
-    "tags": "Dynamo Moscow KHL Game Winning Goal Overtime",
+    "tags": "Dynamo Moscow KHL Game Winning Goal Overtime PPG",
     "season": "KHL"
   },
   {
     "goal": 9999.8,
-    "link": "https://www.youtube.com/embed/fmuF2UqV380?si=0YVVFzr0rTQTM4ki&amp;start=10",
-    "team": "",
-    "goalie": "",
+    "link": "https://www.youtube.com/embed/XzM0XGq-nfA?si=7WlB0OThX8sqVM88",
+    "team": "Cherepovets Severstal",
+    "goalie": "Vasily Koshechkin",
     "month": "November",
     "day": 23,
     "year": 2012,
@@ -11939,9 +11975,9 @@
   },
   {
     "goal": 9999.9,
-    "link": "",
-    "team": "",
-    "goalie": "",
+    "link": "https://www.youtube.com/embed/4wnkc447gB0?si=csQNNMvtuAOYh5Bn&amp;start=79",
+    "team": "Cherepovets Severstal",
+    "goalie": "Vasily Koshechkin",
     "month": "November",
     "day": 23,
     "year": 2012,
@@ -11987,7 +12023,7 @@
   },
   {
     "goal": 9999.13,
-    "link": "https://www.youtube.com/embed/QGMBL6dmGfo?si=124KXLDmAvUdhWxo&amp;start=13",
+    "link": "https://www.youtube.com/embed/HaKTJs4ti14?si=bHiCy7acRIs6lls4",
     "team": "CSKA Moskva",
     "goalie": "Rastislav Staňa",
     "month": "December",
@@ -11995,6 +12031,18 @@
     "year": 2012,
     "type": "PPG",
     "tags": "Dynamo Moscow KHL Rastislav Stana",
+    "season": "KHL"
+  },
+  {
+    "goal": 9999.14,
+    "link": "https://www.youtube.com/embed/Ju6pn0iWEb0?si=40E4_o2hdXO-3FY4&amp;start=3",
+    "team": "Sibir Novosibirsk",
+    "goalie": "Jeff Glass",
+    "month": "December",
+    "day": 19,
+    "year": 2012,
+    "type": "",
+    "tags": "Dynamo Moscow KHL",
     "season": "KHL"
   },
   {
@@ -12047,7 +12095,7 @@
   },
   {
     "goal": 9999.19,
-    "link": "https://www.youtube.com/embed/2LNzNqorQI8?si=E_3snWBcii5WmsWa&amp;start=29",
+    "link": "https://www.youtube.com/embed/BE1UHsrLMP4?si=I4edJZPSgIHj1l61",
     "team": "Torpedo Nizhny Novgorod",
     "goalie": "Vitali Koval",
     "month": "January",
