@@ -70,7 +70,32 @@
 }
 
 #goal-count {
-  font-size: 2.75rem;
+  font-size: 3rem;
+}
+
+#goal-count[data-season="All Star"]:before {
+  content: "All Star ";
+}
+
+#goal-count[data-season="KHL"]:before {
+    content: "KHL ";
+}
+
+#goal-count[data-season="Playoffs"]:before {
+    content: "Playoff ";
+}
+
+#goal-count span {
+  display: inline-flex;
+}
+
+#goal-count[data-season="All Star"] span,
+#goal-count[data-season="KHL"] span,
+#goal-count[data-season="Playoffs"] span {
+  font-family: monospace;
+  overflow: hidden;
+  text-indent: -5ch;
+  white-space: nowrap;
 }
 
 #ovi {
