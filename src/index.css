@@ -74,23 +74,15 @@
 }
 
 .goal-count[data-season="All Star"]:before {
-  content: "All Star ";
-}
-
-.goal-count[data-season="Preseason"] span {
-  display: none;
-}
-
-.goal-count[data-season="Preseason"]:before {
-  content: "Preseason";
+  content: "All Star #";
 }
 
 .goal-count[data-season="KHL"]:before {
-  content: "KHL ";
+  content: "KHL #";
 }
 
 .goal-count[data-season="Playoffs"]:before {
-  content: "Playoff ";
+  content: "Playoff #";
 }
 
 .goal-count span {
