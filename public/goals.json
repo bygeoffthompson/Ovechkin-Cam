@@ -1,5 +1,41 @@
 [
   {
+    "goal": 0.1,
+    "link": "https://www.youtube.com/embed/-4Qpd8lGxeQ?si=Sj5979cY76HA58T5&amp;start=139",
+    "team": "Pittsburgh Penguins",
+    "goalie": "Sébastien Caron",
+    "month": "September",
+    "day": 30,
+    "year": 2005,
+    "type": "",
+    "tags": "Sebastien Caron",
+    "season": "Preseason"
+  },
+  {
+    "goal": 0.2,
+    "link": "https://www.youtube.com/embed/-4Qpd8lGxeQ?si=Sj5979cY76HA58T5&amp;start=367",
+    "team": "Pittsburgh Penguins",
+    "goalie": "Sébastien Caron",
+    "month": "September",
+    "day": 30,
+    "year": 2005,
+    "type": "SHG",
+    "tags": "Sebastien Caron",
+    "season": "Preseason"
+  },
+  {
+    "goal": 0.3,
+    "link": "https://www.youtube.com/embed/-4Qpd8lGxeQ?si=Sj5979cY76HA58T5&amp;start=448",
+    "team": "Pittsburgh Penguins",
+    "goalie": "Sébastien Caron",
+    "month": "September",
+    "day": 30,
+    "year": 2005,
+    "type": "",
+    "tags": "Sebastien Caron",
+    "season": "Preseason"
+  },
+  {
     "goal": 1,
     "link": "https://www.youtube.com/embed/BoGOoO9WTOE?si=78xJy_OXwYKSNK4j",
     "team": "Columbus Blue Jackets",
@@ -7611,6 +7647,18 @@
     "season": "Regular"
   },
   {
+    "goal": 607.000,
+    "link": "https://www.youtube.com/embed/TuzhcrRNt4Y?si=Oix95GGgdXijh9uL",
+    "team": "Montreal Canadiens",
+    "goalie": "Charlie Lindgren",
+    "month": "September",
+    "day": 20,
+    "year": 2018,
+    "type": "PPG",
+    "tags": "",
+    "season": "Preseason"
+  },
+  {
     "goal": 608,
     "link": "https://www.youtube.com/embed/2XwOvbeulaA?si=ACCLxiBQ6KaC7kux",
     "team": "Boston Bruins",
@@ -10579,6 +10627,18 @@
     "season": "Regular"
   },
   {
+    "goal": 853.000,
+    "link": "https://www.youtube.com/embed/aOWCij_q91w?si=s703iheRkcOyL4QU&amp;start=363",
+    "team": "Columbus Blue Jackets",
+    "goalie": "Daniil Tarasov",
+    "month": "September",
+    "day": 27,
+    "year": 2024,
+    "type": "",
+    "tags": "",
+    "season": "Preseason"
+  },
+  {
     "goal": 854,
     "link": "https://www.youtube.com/embed/abOQGjzrMtk?si=__UtUuJTh4DwmH2H",
     "team": "New Jersey Devils",
@@ -11183,7 +11243,7 @@
   },
   {
     "goal": 904,
-    "link": "https://www.youtube.com/embed/dy25kS4EAMI?si=k5VE-svvki9EOBCA",
+    "link": "https://www.youtube.com/embed/fHLN3BWuurw?si=-_d17UJDyRhkRMO7",
     "team": "Edmonton Oilers",
     "goalie": "Stuart Skinner",
     "month": "November",
