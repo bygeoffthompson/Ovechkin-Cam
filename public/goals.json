@@ -981,8 +981,8 @@
     "month": "January",
     "day": 24,
     "year": 2007,
-    "type": "ASG",
-    "tags": "All Star Game",
+    "type": "",
+    "tags": "All Star Game ASG",
     "season": "All Star"
   },
   {
@@ -1659,27 +1659,27 @@
     "season": "Regular"
   },
   {
-    "goal": 137.2,
+    "goal": 137.02,
     "link": "https://www.youtube.com/embed/sFz5srKPlRM?si=eVVigyX9Yhunm4tF&amp;start=33",
     "team": "NHL",
     "goalie": "Chris Osgood",
     "month": "January",
     "day": 27,
     "year": 2008,
-    "type": "ASG",
-    "tags": "All Star Game",
+    "type": "",
+    "tags": "All Star Game ASG",
     "season": "All Star"
   },
   {
-    "goal": 137.3,
+    "goal": 137.03,
     "link": "https://www.youtube.com/embed/sFz5srKPlRM?si=eVVigyX9Yhunm4tF&amp;start=102",
     "team": "NHL",
     "goalie": "Chris Osgood",
     "month": "January",
     "day": 27,
     "year": 2008,
-    "type": "ASG",
-    "tags": "All Star Game",
+    "type": "",
+    "tags": "All Star Game ASG",
     "season": "All Star"
   },
   {
@@ -2367,15 +2367,15 @@
     "season": "Regular"
   },
   {
-    "goal": 194.4,
+    "goal": 194.04,
     "link": "https://www.youtube.com/embed/zwaFycf2iP0?si=7WsHJESGP1ytM88p&amp;start=2086",
     "team": "NHL",
     "goalie": "Jean-Sébastien Giguère",
     "month": "January",
     "day": 25,
     "year": 2009,
-    "type": "ASG",
-    "tags": "All Star Game Jean-Sebastien Giguere Jean Sebastien Giguere",
+    "type": "",
+    "tags": "All Star Game ASG Jean-Sebastien Giguere Jean Sebastien Giguere",
     "season": "All Star"
   },
   {
@@ -3509,15 +3509,15 @@
     "season": "Regular"
   },
   {
-    "goal": 288.5,
+    "goal": 288.05,
     "link": "https://www.youtube.com/embed/UF-oqPdmLSo?si=Z8HEoSbZaNMWheVg&amp;start=30",
     "team": "NHL",
     "goalie": "Marc-André Fleury",
     "month": "January",
     "day": 30,
     "year": 2011,
-    "type": "ASG",
-    "tags": "All Star Game Marc-Andre Fleury",
+    "type": "",
+    "tags": "All Star Game ASG Marc-Andre Fleury",
     "season": "All Star"
   },
   {
@@ -4134,7 +4134,7 @@
     "season": "Regular"
   },
   {
-    "goal": 339.1,
+    "goal": 339.01,
     "link": "https://www.youtube.com/embed/K4-EvleBUHU?si=pgp7URA7M3RdQXiP&amp;start=60",
     "team": "SKA St. Petersburg",
     "goalie": "Ilya Yezhov",
@@ -4146,7 +4146,7 @@
     "season": "KHL"
   },
   {
-    "goal": 339.2,
+    "goal": 339.02,
     "link": "https://www.youtube.com/embed/OPwtTJQ-uWQ?si=39Kp5tDi1xFcXSZL&amp;start=244",
     "team": "Neftekhimik Nizhnekamsk",
     "goalie": "Maxim Sokolov",
@@ -4158,7 +4158,7 @@
     "season": "KHL"
   },
   {
-    "goal": 339.3,
+    "goal": 339.03,
     "link": "https://www.youtube.com/embed/DJhUvaAggCM?si=S4BEctHXGGbWl3nr",
     "team": "HC Slovan Bratislava",
     "goalie": "Jaroslav Janus",
@@ -4170,7 +4170,7 @@
     "season": "KHL"
   },
   {
-    "goal": 339.4,
+    "goal": 339.04,
     "link": "https://www.youtube.com/embed/K4-EvleBUHU?si=PT3ACz-3_3MSwXZj&amp;start=87",
     "team": "HC LEV Praha",
     "goalie": "Tomáš Pöpperle",
@@ -4182,7 +4182,7 @@
     "season": "KHL"
   },
   {
-    "goal": 339.5,
+    "goal": 339.05,
     "link": "https://www.youtube.com/embed/gzdTnwOiDGE?si=8gNxgJeVM49XnK3-",
     "team": "Atlant Mytishchi",
     "goalie": "Anton Khudobin",
@@ -4194,7 +4194,7 @@
     "season": "KHL"
   },
   {
-    "goal": 339.6,
+    "goal": 339.06,
     "link": "https://www.youtube.com/embed/LI_UySNpA7Y?si=YkLW0w-sgqo8K0U3",
     "team": "Yaroslavl Lokomotiv",
     "goalie": "Semyon Varlamov",
@@ -4206,7 +4206,7 @@
     "season": "KHL"
   },
   {
-    "goal": 339.7,
+    "goal": 339.07,
     "link": "https://www.youtube.com/embed/K_Isls9iUIw?si=n2OHphewSayA5e02",
     "team": "Dynamo Minsk",
     "goalie": "Pekka Rinne",
@@ -4218,7 +4218,7 @@
     "season": "KHL"
   },
   {
-    "goal": 339.8,
+    "goal": 339.08,
     "link": "https://www.youtube.com/embed/XzM0XGq-nfA?si=7WlB0OThX8sqVM88",
     "team": "Cherepovets Severstal",
     "goalie": "Vasily Koshechkin",
@@ -4230,7 +4230,7 @@
     "season": "KHL"
   },
   {
-    "goal": 339.9,
+    "goal": 339.09,
     "link": "https://www.youtube.com/embed/4wnkc447gB0?si=csQNNMvtuAOYh5Bn&amp;start=79",
     "team": "Cherepovets Severstal",
     "goalie": "Vasily Koshechkin",
@@ -4242,7 +4242,7 @@
     "season": "KHL"
   },
   {
-    "goal": 339.10,
+    "goal": "339.10",
     "link": "https://www.youtube.com/embed/FcE6z5zDaKw?si=_0WtOWZGR0WeelX8&amp;start=10",
     "team": "HC Donbass",
     "goalie": "Ján Laco",
@@ -6877,15 +6877,15 @@
     "season": "Regular"
   },
   {
-    "goal": 548.6,
+    "goal": 548.06,
     "link": "https://www.youtube.com/embed/Uc9PcE458p4?si=z6XvuOrkQcTTQq2e&amp;start=569",
     "team": "NHL",
     "goalie": "Tuukka Rask",
     "month": "January",
     "day": 29,
     "year": 2017,
-    "type": "ASG",
-    "tags": "All Star Game",
+    "type": "",
+    "tags": "All Star Game ASG",
     "season": "All Star"
   },
   {
@@ -7369,15 +7369,15 @@
     "season": "Regular"
   },
   {
-    "goal": 588.7,
+    "goal": 588.07,
     "link": "https://www.youtube.com/embed/EYNL3TGlFOI?si=E8UFgLBFF-A5CP5v&amp;start=410",
     "team": "NHL",
     "goalie": "Andrei Vasilevskiy",
     "month": "January",
     "day": 28,
     "year": 2018,
-    "type": "ASG",
-    "tags": "All Star Game",
+    "type": "",
+    "tags": "All Star Game ASG",
     "season": "All Star"
   },
   {
@@ -10075,15 +10075,15 @@
     "season": "Regular"
   },
   {
-    "goal": 813.8,
+    "goal": 813.08,
     "link": "https://www.youtube.com/embed/7n6PUBU_pRc?si=g_v8eX-IkFbx7ZzW&amp;start=302",
     "team": "NHL",
     "goalie": "Andrei Vasilevskiy",
     "month": "February",
     "day": 4,
     "year": 2023,
-    "type": "ASG",
-    "tags": "All Star Game",
+    "type": "",
+    "tags": "All Star Game ASG",
     "season": "All Star"
   },
   {
@@ -11194,7 +11194,7 @@
     "season": "Regular"
   },
   {
-    "goal": 163.1,
+    "goal": 163.01,
     "link": "https://www.youtube.com/embed/U2YfpnGKmc0?si=HgSvypArMArobARR",
     "team": "Philadelphia Flyers",
     "goalie": "Martin Biron",
@@ -11206,7 +11206,7 @@
     "season": "Playoffs"
   },
   {
-    "goal": 163.2,
+    "goal": 163.02,
     "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=36",
     "team": "Philadelphia Flyers",
     "goalie": "Martin Biron",
@@ -11218,7 +11218,7 @@
     "season": "Playoffs"
   },
   {
-    "goal": 163.3,
+    "goal": 163.03,
     "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=60",
     "team": "Philadelphia Flyers",
     "goalie": "Martin Biron",
@@ -11230,7 +11230,7 @@
     "season": "Playoffs"
   },
   {
-    "goal": 163.4,
+    "goal": 163.04,
     "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=105",
     "team": "Philadelphia Flyers",
     "goalie": "Martin Biron",
@@ -11242,7 +11242,7 @@
     "season": "Playoffs"
   },
   {
-    "goal": 219.5,
+    "goal": 219.05,
     "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=168",
     "team": "New York Rangers",
     "goalie": "Henrik Lundqvist",
@@ -11254,7 +11254,7 @@
     "season": "Playoffs"
   },
   {
-    "goal": 219.6,
+    "goal": 219.06,
     "link": "https://www.youtube.com/embed/5DxTJmOCn5U?si=dGC5rJ84wmZztk3P&amp;start=41",
     "team": "New York Rangers",
     "goalie": "Henrik Lundqvist",
@@ -11266,7 +11266,7 @@
     "season": "Playoffs"
   },
   {
-    "goal": 219.7,
+    "goal": 219.07,
     "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=257",
     "team": "New York Rangers",
     "goalie": "Henrik Lundqvist",
@@ -11278,7 +11278,7 @@
     "season": "Playoffs"
   },
   {
-    "goal": 219.8,
+    "goal": 219.08,
     "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=306",
     "team": "Pittsburgh Penguins",
     "goalie": "Marc-André Fleury",
@@ -11290,7 +11290,7 @@
     "season": "Playoffs"
   },
   {
-    "goal": 219.9,
+    "goal": 219.09,
     "link": "https://www.youtube.com/embed/pfU8Dvort5k?si=25h9BElV-oEh3Zfp&amp;start=165",
     "team": "Pittsburgh Penguins",
     "goalie": "Marc-André Fleury",

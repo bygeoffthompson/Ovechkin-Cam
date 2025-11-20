@@ -6,8 +6,8 @@
     <link rel="icon" href="/favicon.ico"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <meta name="theme-color" content="#000000"/>
-    <meta name="description" content="A chronological list of all Ovechkin goals."/>
-    <meta name="keywords" content="Alex Ovechkin, NHL, goal video, goal catalog, goal index, log, career, greatest goal scorer, Washington Capitals, Caps, Gr8, OV, Ovi, Ovie, Ovy, Alexander, Mikhailovich, Sasha, Russian Machine, Ovechkam, OviCastАлексaндр Михайлович Овечкин"/>
+    <meta name="description" content="A chronological and comprehensive list of Ovechkin goals with supporting details."/>
+    <meta name="keywords" content="Alex Ovechkin, NHL, KHL, goal video, goal catalog, goal index, log, career, greatest goal scorer, Washington Capitals, Caps, Gr8, OV, Ovi, Ovie, Ovy, Alexander, Mikhailovich, Sasha, Russian Machine, Ovechkam, OviCastАлексaндр Михайлович Овечкин"/>
     <meta name="author" content="Geoff Thompson"/>
     <meta property="og:image" content="/ovechkin.jpg"/>
     <meta property="twitter:image" content="/ovechkin.jpg"/>
@@ -32,6 +32,8 @@
 
                 data.forEach(item => {
                     const row = tableBody.insertRow();
+                    const seasonCell = row.insertCell();
+                    seasonCell.textContent = item.season;
                     const goalCell = row.insertCell();
                     goalCell.textContent = item.goal;
                     const teamCell = row.insertCell();
@@ -52,6 +54,9 @@
         document.addEventListener('DOMContentLoaded', fetchDataAndCreateTable);
     </script>
     <style>
+        .dt-empty {
+            display: none;
+        }
         @media (max-width:768px) {
             body {
                 align-items: start;
@@ -64,18 +69,19 @@
   </head>
   <body>
     <header>
-      <h1>A Chronological List of Ovechkin Goals</h1>
+      <h1>The Complete List of Ovechkin Goals</h1>
     </header>
     <main>
-        <p style="margin-bottom:2rem;">Alex Ovechkin goals with supporting details including date, opponent, goalie, goal type, and a video link.</p>
+        <p style="margin-bottom:2rem;">A chronological and comprehensive list of Ovechkin goals with supporting details.</p>
         <table id="ovechkin-goals">
             <thead>
               <tr>
+                  <th>Type</th>
                   <th>Goal</th>
                   <th>Team</th>
                   <th>Goalie</th>
                   <th>Date</th>
-                  <th>Type</th>
+                  <th>Note</th>
               </tr>
             </thead>
             <tbody></tbody>
@@ -97,10 +103,7 @@
               info: false,
               paging: false,
               responsive: true,
-              searching: false,
-              'columnDefs': [
-                  { targets: [3], orderable: false }
-              ]
+              'order': [[ 1, 'asc' ]]
           });
       });
   </script>
