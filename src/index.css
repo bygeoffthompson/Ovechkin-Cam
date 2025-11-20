@@ -69,29 +69,29 @@
   width: 100%;
 }
 
-#goal-count {
+.goal-count {
   font-size: 3rem;
 }
 
-#goal-count[data-season="All Star"]:before {
+.goal-count[data-season="All Star"]:before {
   content: "All Star ";
 }
 
-#goal-count[data-season="KHL"]:before {
+.goal-count[data-season="KHL"]:before {
     content: "KHL ";
 }
 
-#goal-count[data-season="Playoffs"]:before {
+.goal-count[data-season="Playoffs"]:before {
     content: "Playoff ";
 }
 
-#goal-count span {
+.goal-count span {
   display: inline-flex;
 }
 
-#goal-count[data-season="All Star"] span,
-#goal-count[data-season="KHL"] span,
-#goal-count[data-season="Playoffs"] span {
+.goal-count[data-season="All Star"] span,
+.goal-count[data-season="KHL"] span,
+.goal-count[data-season="Playoffs"] span {
   font-family: monospace;
   overflow: hidden;
   text-indent: -5ch;

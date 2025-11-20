@@ -261,7 +261,7 @@ function SearchForm({jsonData}) {
                             <img alt="Goal Siren icon" className="goal-siren" src="/icons/goal-siren.svg" />
                             <strong className="type">{result.type}</strong>
                         </div>
-                        <strong id="goal-count" data-season={result.season}><span>#{result.goal}</span></strong>
+                        <strong class="goal-count" data-season={result.season}><span>#{result.goal}</span></strong>
                         <div>
                             <strong className="goalie">{result.goalie}</strong>
                         </div>
