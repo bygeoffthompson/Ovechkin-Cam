@@ -1,3 +1,8 @@
+::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
 #advanced {
   align-items: center;
   display: flex;
@@ -345,24 +350,23 @@ button {
   z-index: 1;
 }
 
-button:hover {
-  box-shadow: 0 .5rem 2.5rem #041E42;
+button:hover,
+button:active {
+  background: #292929;
+  color: #EFEFEF;
+  box-shadow: 0 .5rem 3rem #CE8946;
   transform: scale(1.05);
 }
 
-button:active {
-  box-shadow: 0 .5rem 1rem #041E42;
-  transform: scale(1.05) translateY(.125rem);
-}
-
 button[name="Reset"] {
-  background: transparent;
-  font-size: .875rem
+  background: #EFEFEF;
 }
 
 button[name="Reset"]:hover,
 button[name="Reset"]:active {
-  box-shadow: 0 .5rem 1rem rgba(41,41,41,.25);
+  box-shadow: 0 .5rem 2.5rem #041E42;
+  color: #292929;
+  transform: none;
 }
 
 form {
@@ -376,6 +380,7 @@ form {
   justify-content: center;
   margin-bottom: 2rem;
   padding: 2rem;
+  position: relative;
 }
 
 form > div {
@@ -522,6 +527,12 @@ label[for="search-text-1"]:before {
 @media (min-width: 768px) {
   button {
     min-width: 80px;
+  }
+
+  button[name="Reset"] {
+    bottom: 0;
+    position: absolute;
+    right: 0;
   }
 
   form > div {

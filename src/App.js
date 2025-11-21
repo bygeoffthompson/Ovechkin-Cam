@@ -110,6 +110,16 @@ function SearchForm({jsonData}) {
         clickTrack('Empty Net');
     };
 
+    const awayGoal = () => {
+        goalButton(['Away']);
+        clickTrack('Away');
+    };
+
+    const homeGoal = () => {
+        goalButton(['Home']);
+        clickTrack('Home');
+    };
+
     const gameWinningGoal = () => {
         goalButton(['OT', 'GWG']);
         clickTrack('Game Winning');
@@ -232,7 +242,9 @@ function SearchForm({jsonData}) {
                     <strong>or Randomize</strong>
                 </div>
                 <div>
-                    <button onClick={anyGoal} name="Goal" title="Any Goal" type="button">Any Goal</button>
+                    <button onClick={anyGoal} name="Goal" title="Any Goal" type="button">Any</button>
+                    <button onClick={homeGoal} name="Home Goal" title="Home Goal" type="button">Home</button>
+                    <button onClick={awayGoal} name="Away Goal" title="Away Goal" type="button">Away</button>
                     <button onClick={powerPlayGoal} name="Power Play Goal" title="A Power Play Goal" type="button">PPG</button>
                     <button onClick={gameWinningGoal} name="Game Winning Goal" title="A Game Winning Goal" type="button">GWG</button>
                     <button onClick={emptyNetGoal} name="Empty Net Goal" title="An Empty Net Goal" type="button">ENG</button>
@@ -247,8 +259,8 @@ function SearchForm({jsonData}) {
                 <select id="season" name="Season" onChange={handleSeasonChange}>
                     <option name="All" value="" selected>All</option>
                     <option name="Regular Season" value="Regular">Regular Season</option>
-                    <option name="All Star Game" value="All Star Game">All Star Game</option>
                     <option name="Playoffs" value="Playoffs">Playoffs</option>
+                    <option name="All Star Game" value="All Star">All Star Game</option>
                     <option name="KHL" value="KHL">KHL</option>
                 </select>
                 <strong id="count"></strong>
