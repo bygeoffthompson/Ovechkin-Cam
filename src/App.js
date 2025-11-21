@@ -54,7 +54,7 @@ function SearchForm({jsonData}) {
     useEffect(() => {
         const query = window.location.search.slice(1).replace(/-/g, ' ').toLowerCase();
         const queryInteger = parseInt(query);
-        if (queryInteger >= 1 && queryInteger <= 904) {
+        if (queryInteger >= 1 && queryInteger <= 905) {
             setSearchGoal(queryInteger);
         } else if (query.includes('+')) {
             const multipleSearch = query.split('+');
@@ -166,7 +166,7 @@ function SearchForm({jsonData}) {
 
     const anyGoal = () => {
         resultsHide();
-        const anyGoal = random(1, 904);
+        const anyGoal = random(1, 905);
         setSearchGoal(anyGoal);
         clickTrack('Random');
     };
@@ -218,7 +218,7 @@ function SearchForm({jsonData}) {
                 <div>
                     <h2>Search</h2>
                     <label htmlFor="search-goal">Number</label>
-                    <input id="search-goal" min="1" max="904" tabIndex="0" type="number" placeholder="#" value={searchGoal} onChange={handleGoalChange}/>
+                    <input id="search-goal" min="1" max="905" tabIndex="0" type="number" placeholder="#" value={searchGoal} onChange={handleGoalChange}/>
                     <label htmlFor="search-text-1">Text</label>
                     <label htmlFor="search-text-2" hidden>Text</label>
                     <label htmlFor="search-text-3" hidden>Text</label>
