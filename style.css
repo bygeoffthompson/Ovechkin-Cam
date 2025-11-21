@@ -81,6 +81,7 @@ iframe {
 
 main {
     max-width: 1024px;
+    width: 100%;
 }
 
 table {
@@ -99,8 +100,8 @@ tr:nth-child(odd) td {
 }
 
 ul {
-  margin: 0 auto;
-  max-width: 300px;
+    margin: 0 auto;
+    max-width: 300px;
 }
 
 @media (min-width:576px) {
