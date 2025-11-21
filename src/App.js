@@ -237,7 +237,7 @@ function SearchForm({jsonData}) {
                     <button onClick={gameWinningGoal} name="Game Winning Goal" title="A Game Winning Goal" type="button">GWG</button>
                     <button onClick={emptyNetGoal} name="Empty Net Goal" title="An Empty Net Goal" type="button">ENG</button>
                     <button onClick={overtimeGoal} name="Overtime Goal" title="An Overtime Goal" type="button">OT Goal</button>
-                    <button onClick={hatTrickGoal} name="Hat Trick Goal" title="A Hat Trick Goal" type="button">Hat Trick Goal</button>
+                    <button onClick={hatTrickGoal} name="Hat Trick Goal" title="A Hat Trick Goal" type="button">Hat Trick</button>
                     <button onClick={reset} name="Reset" type="button">Reset</button>
                 </div>
             </form>
