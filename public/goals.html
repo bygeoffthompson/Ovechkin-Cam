@@ -42,6 +42,8 @@
                     goalieCell.textContent = item.goalie;
                     const dateCell = row.insertCell();
                     dateCell.textContent = item.month + ' ' + item.day + ', ' + item.year;
+                    const arenaCell = row.insertCell();
+                    arenaCell.textContent = item.arena;
                     const typeCell = row.insertCell();
                     typeCell.textContent = item.type;
                 });
@@ -81,6 +83,7 @@
                   <th>Team</th>
                   <th>Goalie</th>
                   <th>Date</th>
+                  <th>Home/Away</th>
                   <th>Note</th>
               </tr>
             </thead>
@@ -100,7 +103,6 @@
   <script>
       jQuery(window).on('load', function() {
           let table = new DataTable('#ovechkin-goals', {
-              info: false,
               paging: false,
               responsive: true,
               'order': [[ 1, 'asc' ]]
