@@ -11206,6 +11206,30 @@
     "season": "Regular"
   },
   {
+    "goal": 906,
+    "link": "https://www.youtube.com/embed/vMUXJQdL1Co?si=_OyrZyLPqcuREC3A",
+    "team": "Montreal Canadiens",
+    "goalie": "Jakub Dobeš",
+    "month": "November",
+    "day": 20,
+    "year": 2025,
+    "type": "",
+    "tags": "Jakub Dobes",
+    "season": "Regular"
+  },
+  {
+    "goal": 907,
+    "link": "https://www.youtube.com/embed/vMUXJQdL1Co?si=_OyrZyLPqcuREC3A",
+    "team": "Montreal Canadiens",
+    "goalie": "",
+    "month": "November",
+    "day": 20,
+    "year": 2025,
+    "type": "ENG",
+    "tags": "Hat Trick",
+    "season": "Regular"
+  },
+  {
     "goal": 163.01,
     "link": "https://www.youtube.com/embed/U2YfpnGKmc0?si=HgSvypArMArobARR",
     "team": "Philadelphia Flyers",
