@@ -1065,7 +1065,7 @@
     "type": "",
     "tags": "All Star Game ASG",
     "season": "All Star",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 82,
@@ -2184,7 +2184,7 @@
     "type": "GWG",
     "tags": "Quarterfinals Game 6 GWG",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 163.03,
@@ -2197,7 +2197,7 @@
     "type": "",
     "tags": "Quarterfinals Game 6",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 163.04,
@@ -2965,7 +2965,7 @@
     "type": "",
     "tags": "Quarterfinals Game 4",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 219.06,
@@ -2991,7 +2991,7 @@
     "type": "",
     "tags": "Quarterfinals Game 6",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 219.08,
@@ -3056,7 +3056,7 @@
     "type": "",
     "tags": "Marc-Andre Fleury Semifinals Game 3",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 219.13,
@@ -3772,7 +3772,7 @@
     "type": "",
     "tags": "Quarterfinals Game 3",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 269.18,
@@ -3785,7 +3785,7 @@
     "type": "",
     "tags": "Quarterfinals Game 4",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 269.19,
@@ -3798,7 +3798,7 @@
     "type": "",
     "tags": "Quarterfinals Game 4",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": "269.20",
@@ -4071,7 +4071,7 @@
     "type": "",
     "tags": "All Star Game ASG Marc-Andre Fleury",
     "season": "All Star",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 289,
@@ -4267,7 +4267,7 @@
     "type": "",
     "tags": "Quarterfinals Game 3",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 301.23,
@@ -4306,7 +4306,7 @@
     "type": "",
     "tags": "Semifinals Game 3",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 302,
@@ -4839,7 +4839,7 @@
     "type": "",
     "tags": "Semifinals Game 2 Vezina",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 339.29,
@@ -4904,7 +4904,7 @@
     "type": "",
     "tags": "Dynamo Moscow KHL",
     "season": "KHL",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 339.04,
@@ -4917,7 +4917,7 @@
     "type": "",
     "tags": "Dynamo Moscow KHL Tomas Popperle",
     "season": "KHL",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 339.05,
@@ -4930,7 +4930,7 @@
     "type": "",
     "tags": "Dynamo Moscow KHL",
     "season": "KHL",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 339.06,
@@ -4943,7 +4943,7 @@
     "type": "",
     "tags": "Dynamo Moscow KHL",
     "season": "KHL",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 339.07,
@@ -4956,7 +4956,7 @@
     "type": "OT",
     "tags": "Dynamo Moscow KHL Game Winning Goal Overtime PPG",
     "season": "KHL",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 339.08,
@@ -4995,7 +4995,7 @@
     "type": "",
     "tags": "Dynamo Moscow Jan Laco KHL",
     "season": "KHL",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 339.11,
@@ -5008,7 +5008,7 @@
     "type": "",
     "tags": "Dynamo Moscow Jan Laco KHL",
     "season": "KHL",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 339.12,
@@ -5021,7 +5021,7 @@
     "type": "ENG",
     "tags": "Dynamo Moscow Empty Net Hat Trick KHL",
     "season": "KHL",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 339.13,
@@ -5034,7 +5034,7 @@
     "type": "PPG",
     "tags": "Dynamo Moscow KHL Rastislav Stana",
     "season": "KHL",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 339.14,
@@ -5047,7 +5047,7 @@
     "type": "",
     "tags": "Dynamo Moscow KHL",
     "season": "KHL",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 339.15,
@@ -5060,7 +5060,7 @@
     "type": "",
     "tags": "Dynamo Moscow KHL",
     "season": "KHL",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 339.16,
@@ -5073,7 +5073,7 @@
     "type": "",
     "tags": "Dynamo Moscow KHL",
     "season": "KHL",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 339.17,
@@ -6923,7 +6923,7 @@
     "type": "",
     "tags": "Quarterfinals Game 4",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 475.34,
@@ -6936,7 +6936,7 @@
     "type": "",
     "tags": "Semifinals Game 1",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 475.35,
@@ -6949,7 +6949,7 @@
     "type": "",
     "tags": "Semifinals Game 2",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 475.36,
@@ -6962,7 +6962,7 @@
     "type": "",
     "tags": "Semifinals Game 7",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 476,
@@ -7328,7 +7328,7 @@
     "type": "PPG",
     "tags": "Peter Bondra",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 504,
@@ -7367,7 +7367,7 @@
     "type": "PPG",
     "tags": "Empty Net ENG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 507,
@@ -7380,7 +7380,7 @@
     "type": "",
     "tags": "Jean Beliveau",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 508,
@@ -7393,7 +7393,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 509,
@@ -7406,7 +7406,7 @@
     "type": "",
     "tags": "Hat Trick",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 510,
@@ -7419,7 +7419,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 511,
@@ -7432,7 +7432,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 512,
@@ -7445,7 +7445,7 @@
     "type": "PPG",
     "tags": "Gilbert Perreault",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 513,
@@ -7523,7 +7523,7 @@
     "type": "PPG",
     "tags": "Dale Hawerchuk",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 519,
@@ -7536,7 +7536,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 520,
@@ -7549,7 +7549,7 @@
     "type": "PPG",
     "tags": "April Fools Day",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 521,
@@ -7588,7 +7588,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 524,
@@ -7601,7 +7601,7 @@
     "type": "GWG",
     "tags": "Bryan Trottier GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 525,
@@ -7614,7 +7614,7 @@
     "type": "",
     "tags": "Last 50th Hat Trick Rocket Richard Trophy",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 525.37,
@@ -7640,7 +7640,7 @@
     "type": "",
     "tags": "Quarterfinals Game 3",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 525.39,
@@ -7653,7 +7653,7 @@
     "type": "",
     "tags": "Quarterfinals Game 3",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": "525.40",
@@ -7666,7 +7666,7 @@
     "type": "",
     "tags": "Marc-Andre Fleury Semifinals Game 3",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 525.41,
@@ -7705,7 +7705,7 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 528,
@@ -7731,7 +7731,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 530,
@@ -7861,7 +7861,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 540,
@@ -7887,7 +7887,7 @@
     "type": "",
     "tags": "Jaroslav Halak Stan Makita",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 542,
@@ -7900,7 +7900,7 @@
     "type": "",
     "tags": "New Years Eve",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 543,
@@ -7926,7 +7926,7 @@
     "type": "PPG",
     "tags": "Maurice Richard",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 545,
@@ -7966,7 +7966,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 548,
@@ -7979,7 +7979,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 548.06,
@@ -7992,7 +7992,7 @@
     "type": "",
     "tags": "All Star Game ASG",
     "season": "All Star",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 549,
@@ -8005,7 +8005,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 550,
@@ -8044,7 +8044,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 553,
@@ -8096,7 +8096,7 @@
     "type": "PPG",
     "tags": "Johnny Bucyk",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 557,
@@ -8109,7 +8109,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 558,
@@ -8122,7 +8122,7 @@
     "type": "PPG",
     "tags": "Hat Trick Last",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 558.42,
@@ -8148,7 +8148,7 @@
     "type": "",
     "tags": "Quarterfinals Game 3",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 558.44,
@@ -8161,7 +8161,7 @@
     "type": "",
     "tags": "Quarterfinals Game 4",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 558.45,
@@ -8200,7 +8200,7 @@
     "type": "",
     "tags": "First",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 560,
@@ -8213,7 +8213,7 @@
     "type": "",
     "tags": "Guy Lafleur",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 561,
@@ -8226,7 +8226,7 @@
     "type": "",
     "tags": "Hat Trick",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 562,
@@ -8304,7 +8304,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 568,
@@ -8317,7 +8317,7 @@
     "type": "OT",
     "tags": "Petr Mrazek Overtime GWG PPG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 569,
@@ -8330,7 +8330,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 570,
@@ -8356,7 +8356,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 572,
@@ -8395,7 +8395,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 575,
@@ -8408,7 +8408,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 576,
@@ -8421,7 +8421,7 @@
     "type": "ENG",
     "tags": "Empty Net Hat Trick",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 577,
@@ -8473,7 +8473,7 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 581,
@@ -8512,7 +8512,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 584,
@@ -8525,7 +8525,7 @@
     "type": "OT",
     "tags": "Overtime GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 585,
@@ -8551,7 +8551,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 587,
@@ -8577,7 +8577,7 @@
     "type": "",
     "tags": "Harri Sateri 30th",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 588.07,
@@ -8603,7 +8603,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 590,
@@ -8616,7 +8616,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 591,
@@ -8642,7 +8642,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 593,
@@ -8707,7 +8707,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 598,
@@ -8761,7 +8761,7 @@
     "type": "",
     "tags": "Petr Mrazek Jari Kurri",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 602,
@@ -8787,7 +8787,7 @@
     "type": "GWG",
     "tags": "GWG PPG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 604,
@@ -8800,7 +8800,7 @@
     "type": "PPG",
     "tags": "Empty Net ENG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 605,
@@ -8878,7 +8878,7 @@
     "type": "",
     "tags": "Quarterfinals Game 4",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": "607.50",
@@ -8891,7 +8891,7 @@
     "type": "",
     "tags": "Quarterfinals Game 6",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 607.51,
@@ -8904,7 +8904,7 @@
     "type": "",
     "tags": "Quarterfinals Game 6",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 607.52,
@@ -8943,7 +8943,7 @@
     "type": "GWG",
     "tags": "Marc-Andre Fleury Semifinals Game 3 GWG",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 607.55,
@@ -8956,7 +8956,7 @@
     "type": "",
     "tags": "Eastern Conference Finals Game 1",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 607.56,
@@ -8969,7 +8969,7 @@
     "type": "",
     "tags": "Eastern Conference Finals Game 2",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 607.57,
@@ -8982,7 +8982,7 @@
     "type": "",
     "tags": "Eastern Conference Finals Game 5",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 607.58,
@@ -8995,7 +8995,7 @@
     "type": "GWG",
     "tags": "Eastern Conference Finals Game 7 GWG",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 607.59,
@@ -9008,7 +9008,7 @@
     "type": "",
     "tags": "Marc-Andre Fleury Stanley Cup Finals Game 2",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": "607.60",
@@ -9034,7 +9034,7 @@
     "type": "",
     "tags": "Marc-Andre Fleury Stanley Cup Finals Game 5",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 608,
@@ -9060,7 +9060,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 610,
@@ -9125,7 +9125,7 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 615,
@@ -9138,7 +9138,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 616,
@@ -9151,7 +9151,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 617,
@@ -9164,7 +9164,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 618,
@@ -9203,7 +9203,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 621,
@@ -9216,7 +9216,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 622,
@@ -9229,7 +9229,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 623,
@@ -9255,7 +9255,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 625,
@@ -9268,7 +9268,7 @@
     "type": "ENG",
     "tags": "Empty Net Jarome Iginla Joe Sakic",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 626,
@@ -9294,7 +9294,7 @@
     "type": "",
     "tags": "Marc-Andre Fleury 20th",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 628,
@@ -9307,7 +9307,7 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 629,
@@ -9320,7 +9320,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 630,
@@ -9372,7 +9372,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 634,
@@ -9385,7 +9385,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 635,
@@ -9398,7 +9398,7 @@
     "type": "PPG",
     "tags": "Hat Trick",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 636,
@@ -9424,7 +9424,7 @@
     "type": "",
     "tags": "30th",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 638,
@@ -9437,7 +9437,7 @@
     "type": "",
     "tags": "Jaroslav Halak",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 639,
@@ -9450,7 +9450,7 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 640,
@@ -9515,7 +9515,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 645,
@@ -9541,7 +9541,7 @@
     "type": "",
     "tags": "Valentine's Valentines Day",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 647,
@@ -9554,7 +9554,7 @@
     "type": "",
     "tags": "40th",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 648,
@@ -9567,7 +9567,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 649,
@@ -9580,7 +9580,7 @@
     "type": "GWG",
     "tags": "GWG PPG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 650,
@@ -9593,7 +9593,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 651,
@@ -9606,7 +9606,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 652,
@@ -9619,7 +9619,7 @@
     "type": "GWG",
     "tags": "GWG PPG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 653,
@@ -9632,7 +9632,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 654,
@@ -9645,7 +9645,7 @@
     "type": "PPG",
     "tags": "Vezina Trophy",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 655,
@@ -9658,7 +9658,7 @@
     "type": "",
     "tags": "Vezina Trophy",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 656,
@@ -9684,7 +9684,7 @@
     "type": "",
     "tags": "50th Vezina Trophy",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 658,
@@ -9697,7 +9697,7 @@
     "type": "PPG",
     "tags": "Last Vezina Trophy Rocket Richard Trophy",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 658.62,
@@ -9723,7 +9723,7 @@
     "type": "",
     "tags": "Quarterfinals Game 4",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 658.64,
@@ -9749,7 +9749,7 @@
     "type": "",
     "tags": "Quarterfinals Game 6",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 659,
@@ -9762,7 +9762,7 @@
     "type": "",
     "tags": "First",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 660,
@@ -9775,7 +9775,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 661,
@@ -9788,7 +9788,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 662,
@@ -9801,7 +9801,7 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 663,
@@ -9827,7 +9827,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 665,
@@ -9840,7 +9840,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 666,
@@ -9853,7 +9853,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 667,
@@ -9866,7 +9866,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 668,
@@ -9879,7 +9879,7 @@
     "type": "",
     "tags": "Luc Robitaille",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 669,
@@ -9892,7 +9892,7 @@
     "type": "OT",
     "tags": "Overtime GWG PPG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 670,
@@ -9905,7 +9905,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 671,
@@ -9918,7 +9918,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 672,
@@ -9983,7 +9983,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 677,
@@ -9996,7 +9996,7 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 678,
@@ -10009,7 +10009,7 @@
     "type": "ENG",
     "tags": "Empty Net Hat Trick 20th",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 679,
@@ -10048,7 +10048,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 682,
@@ -10061,7 +10061,7 @@
     "type": "PPG",
     "tags": "Petr Mrazek",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 683,
@@ -10165,7 +10165,7 @@
     "type": "",
     "tags": "Mario Lemieux",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 691,
@@ -10178,7 +10178,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 692,
@@ -10191,7 +10191,7 @@
     "type": "ENG",
     "tags": "Empty Net Steve Yzerman Hat Trick",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 693,
@@ -10217,7 +10217,7 @@
     "type": "",
     "tags": "Marcus Hogberg Mark Messier",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 695,
@@ -10230,7 +10230,7 @@
     "type": "PPG",
     "tags": "Empty Net ENG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 696,
@@ -10296,7 +10296,7 @@
     "type": "",
     "tags": "700th Goal Century",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 701,
@@ -10322,7 +10322,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 703,
@@ -10335,7 +10335,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 704,
@@ -10348,7 +10348,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 705,
@@ -10361,7 +10361,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 706,
@@ -10374,7 +10374,7 @@
     "type": "",
     "tags": "Last Rocket Richard Trophy",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 706.66,
@@ -10413,7 +10413,7 @@
     "type": "",
     "tags": "Quarterfinals Game 4",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 706.69,
@@ -10426,7 +10426,7 @@
     "type": "",
     "tags": "Quarterfinals Game 4",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 707,
@@ -10439,7 +10439,7 @@
     "type": "",
     "tags": "First",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 708,
@@ -10465,7 +10465,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 710,
@@ -10517,7 +10517,7 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 714,
@@ -10530,7 +10530,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 715,
@@ -10543,7 +10543,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 716,
@@ -10556,7 +10556,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 717,
@@ -10569,7 +10569,7 @@
     "type": "",
     "tags": "Phil Esposito",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 718,
@@ -10674,7 +10674,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 726,
@@ -10700,7 +10700,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 728,
@@ -10726,7 +10726,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 730,
@@ -10739,7 +10739,7 @@
     "type": "PPG",
     "tags": "Last",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": "730.70",
@@ -10752,7 +10752,7 @@
     "type": "",
     "tags": "Quarterfinals Game 3",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 730.71,
@@ -10765,7 +10765,7 @@
     "type": "",
     "tags": "Quarterfinals Game 4",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 731,
@@ -10843,7 +10843,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 737,
@@ -10856,7 +10856,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 738,
@@ -10895,7 +10895,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 741,
@@ -10921,7 +10921,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 743,
@@ -10934,7 +10934,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 744,
@@ -10947,7 +10947,7 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 745,
@@ -10960,7 +10960,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 746,
@@ -11012,7 +11012,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 750,
@@ -11038,7 +11038,7 @@
     "type": "PPG",
     "tags": "Marc-Andre Fleury",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 752,
@@ -11051,7 +11051,7 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 753,
@@ -11065,7 +11065,7 @@
     "type": "GWG",
     "tags": "275th Power Play Goal New Years Eve GWG PPG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 754,
@@ -11078,7 +11078,7 @@
     "type": "ENG",
     "tags": "Empty Net New Years Eve",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 755,
@@ -11091,7 +11091,7 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 756,
@@ -11156,7 +11156,7 @@
     "type": "PPG",
     "tags": "30th",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 761,
@@ -11169,7 +11169,7 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 762,
@@ -11182,7 +11182,7 @@
     "type": "",
     "tags": "Vezina Trophy",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 763,
@@ -11221,7 +11221,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 766,
@@ -11234,7 +11234,7 @@
     "type": "GWG",
     "tags": "ENG Jaromir Jagr GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 767,
@@ -11260,7 +11260,7 @@
     "type": "PPG",
     "tags": "Elvis Merzlikins",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 769,
@@ -11273,7 +11273,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 770,
@@ -11338,7 +11338,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 775,
@@ -11377,7 +11377,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 778,
@@ -11390,7 +11390,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 779,
@@ -11403,7 +11403,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 780,
@@ -11416,7 +11416,7 @@
     "type": "",
     "tags": "Last 50th",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 780.72,
@@ -11468,7 +11468,7 @@
     "type": "GWG",
     "tags": "GWG PPG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 784,
@@ -11481,7 +11481,7 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 785,
@@ -11494,7 +11494,7 @@
     "type": "PPG",
     "tags": "Halloween",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 786,
@@ -11507,7 +11507,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 787,
@@ -11585,7 +11585,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 793,
@@ -11598,7 +11598,7 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 794,
@@ -11611,7 +11611,7 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 795,
@@ -11624,7 +11624,7 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 796,
@@ -11650,7 +11650,7 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 798,
@@ -11663,7 +11663,7 @@
     "type": "",
     "tags": "Petr Mrazek",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 799,
@@ -11676,7 +11676,7 @@
     "type": "PPG",
     "tags": "Petr Mrazek",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 800,
@@ -11690,7 +11690,7 @@
     "type": "",
     "tags": "Petr Mrazek 800th Goal Century Hat Trick 20th",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 801,
@@ -11807,7 +11807,7 @@
     "type": "PPG",
     "tags": "Elvis Merzlikins",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 810,
@@ -11833,7 +11833,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 812,
@@ -11872,7 +11872,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 814,
@@ -11885,7 +11885,7 @@
     "type": "",
     "tags": "Kaapo Kahkonen",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 815,
@@ -11898,7 +11898,7 @@
     "type": "",
     "tags": "Kaapo Kahkonen",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 816,
@@ -11911,7 +11911,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 817,
@@ -11924,7 +11924,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 818,
@@ -11937,7 +11937,7 @@
     "type": "PPG",
     "tags": "Marc-Andre Fleury",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 819,
@@ -11950,7 +11950,7 @@
     "type": "PPG",
     "tags": "Marc-Andre Fleury",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 820,
@@ -11989,7 +11989,7 @@
     "type": "PPG",
     "tags": "Last",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 823,
@@ -12015,7 +12015,7 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 825,
@@ -12028,7 +12028,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 826,
@@ -12041,7 +12041,7 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 827,
@@ -12067,7 +12067,7 @@
     "type": "OT",
     "tags": "Elvis Merzlikins Overtime GWG PPG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 829,
@@ -12093,7 +12093,7 @@
     "type": "GWG",
     "tags": "GWG PPG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 831,
@@ -12106,7 +12106,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 832,
@@ -12132,7 +12132,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 834,
@@ -12145,7 +12145,7 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 835,
@@ -12223,7 +12223,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 841,
@@ -12236,7 +12236,7 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 842,
@@ -12249,7 +12249,7 @@
     "type": "PPG",
     "tags": "20th",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 843,
@@ -12262,7 +12262,7 @@
     "type": "GWG",
     "tags": "GWG PPG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 844,
@@ -12353,7 +12353,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 851,
@@ -12366,7 +12366,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 852,
@@ -12379,7 +12379,7 @@
     "type": "GWG",
     "tags": "30th GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 853,
@@ -12392,7 +12392,7 @@
     "type": "",
     "tags": "Last",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 854,
@@ -12405,7 +12405,7 @@
     "type": "",
     "tags": "Markstrom First",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 855,
@@ -12483,7 +12483,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 861,
@@ -12509,7 +12509,7 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 863,
@@ -12522,7 +12522,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 864,
@@ -12535,7 +12535,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 865,
@@ -12548,7 +12548,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 866,
@@ -12561,7 +12561,7 @@
     "type": "ENG",
     "tags": "Empty Net Hat Trick",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 867,
@@ -12574,7 +12574,7 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 868,
@@ -12587,7 +12587,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 869,
@@ -12600,7 +12600,7 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 870,
@@ -12613,7 +12613,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 871,
@@ -12652,7 +12652,7 @@
     "type": "ENG",
     "tags": "Empty Net 20th",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 874,
@@ -12665,7 +12665,7 @@
     "type": "OT",
     "tags": "Merilainen Overtime GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 875,
@@ -12678,7 +12678,7 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 876,
@@ -12691,7 +12691,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 877,
@@ -12730,11 +12730,11 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 880,
-    "link": "https://www.youtube.com/embed/Xu9HK-yBB9E?si=d9eMLzMeo89B8e0t",
+    "link": "https://www.youtube.com/embed/q7uHDTtDOxk?si=vedA-WAMYIOrv0CU",
     "team": "Edmonton Oilers",
     "goalie": "Calvin Pickard",
     "month": "February",
@@ -12808,7 +12808,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 886,
@@ -12835,7 +12835,7 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 888,
@@ -12861,7 +12861,7 @@
     "type": "",
     "tags": "Hart Trophy Vezina Trophy",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 890,
@@ -12887,7 +12887,7 @@
     "type": "PPG",
     "tags": "April Fools Day",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 892,
@@ -12900,7 +12900,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 893,
@@ -12941,7 +12941,7 @@
     "type": "PPG",
     "tags": "Wayne Gretzky The Chasing Days Are Done",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 896,
@@ -12967,7 +12967,7 @@
     "type": "PPG",
     "tags": "Last",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 897.73,
@@ -13006,7 +13006,7 @@
     "type": "",
     "tags": "Quarterfinals Game 3",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 897.76,
@@ -13032,7 +13032,7 @@
     "type": "",
     "tags": "Semifinals Game 4",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 898,
@@ -13058,7 +13058,7 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 900,
@@ -13084,7 +13084,7 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 902,
@@ -13136,7 +13136,7 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 906,
@@ -13149,7 +13149,7 @@
     "type": "",
     "tags": "Jakub Dobes",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   },
   {
     "goal": 907,
@@ -13162,6 +13162,6 @@
     "type": "ENG",
     "tags": "Hat Trick",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Away"
   }
 ]
