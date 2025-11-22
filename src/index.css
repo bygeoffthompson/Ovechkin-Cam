@@ -75,7 +75,7 @@
 }
 
 .goal-count {
-  font-size: 3rem;
+  font-size: 3rem !important;
 }
 
 .goal-count[data-season="All Star"]:before {
@@ -101,6 +101,10 @@
   overflow: hidden;
   text-indent: -5ch;
   white-space: nowrap;
+}
+
+.wrapper {
+  max-width: 894px;
 }
 
 #ovi {
@@ -198,10 +202,14 @@
 .link {
   align-items: center;
   cursor: default;
-  display: flex;
+  display: none;
   flex-direction: row;
   gap: 8px;
   justify-content: center;
+}
+
+.link[data-season="Regular"] {
+  display: flex;
 }
 
 .link strong {
@@ -359,12 +367,12 @@ button:active {
 }
 
 button[name="Reset"] {
-  background: #EFEFEF;
+  background: transparent;
 }
 
 button[name="Reset"]:hover,
 button[name="Reset"]:active {
-  box-shadow: 0 .5rem 2.5rem #041E42;
+  box-shadow: 0 .5rem 1rem rgba(41,41,41,.25);
   color: #292929;
   transform: none;
 }
@@ -517,22 +525,16 @@ label[for="search-goal"]:before {
 }
 
 label[for="search-text-1"] {
-  min-width: 65px;
+  min-width: 68px;
 }
 
 label[for="search-text-1"]:before {
-  content: 'or ';
+  content: 'by ';
 }
 
 @media (min-width: 768px) {
   button {
     min-width: 80px;
-  }
-
-  button[name="Reset"] {
-    bottom: 0;
-    position: absolute;
-    right: 0;
   }
 
   form > div {

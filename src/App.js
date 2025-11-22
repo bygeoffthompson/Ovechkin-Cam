@@ -198,13 +198,6 @@ function SearchForm({jsonData}) {
             document.querySelector('body').classList.add('cursor',);
             document.getElementById('puck').classList.add('shot');
             setTimeout(function() {
-                window.scrollTo({
-                    top: 0,
-                    left: 0,
-                    behavior: 'smooth',
-                });
-            }, 300);
-            setTimeout(function() {
                 document.querySelector('body').classList.add('goal-lights');
                 document.querySelector('body').classList.remove('cursor');
                 document.getElementById('puck').classList.remove('shot');
@@ -250,6 +243,8 @@ function SearchForm({jsonData}) {
                     <button onClick={emptyNetGoal} name="Empty Net Goal" title="An Empty Net Goal" type="button">ENG</button>
                     <button onClick={overtimeGoal} name="Overtime Goal" title="An Overtime Goal" type="button">OT Goal</button>
                     <button onClick={hatTrickGoal} name="Hat Trick Goal" title="A Hat Trick Goal" type="button">Hat Trick</button>
+                </div>
+                <div>
                     <button onClick={reset} name="Reset" type="button">Reset</button>
                 </div>
             </form>
@@ -268,37 +263,39 @@ function SearchForm({jsonData}) {
 
             <div id="goal-click" onClick={clickGoal}></div>
 
-            {searchResults.map((result, index) => (
-                <div className="frame" key={index}>
-                    <div className="note">
-                        <div>
-                            <img alt="Goal Siren icon" className="goal-siren" src="/icons/goal-siren.svg" />
-                            <strong className="type">{result.type}</strong>
+            <div className="wrapper">
+                {searchResults.map((result, index) => (
+                    <div className="frame" key={index}>
+                        <div className="note">
+                            <div>
+                                <img alt="Goal Siren icon" className="goal-siren" src="/icons/goal-siren.svg" />
+                                <strong className="type">{result.type}</strong>
+                            </div>
+                            <strong class="goal-count" data-season={result.season}><span>#{result.goal}</span></strong>
+                            <div>
+                                <strong className="goalie">{result.goalie}</strong>
+                            </div>
+                            <div>
+                                <img alt={result.team + ' logo'} className="logo" src={'/teams/' + result.team + '.svgz'} />
+                            </div>
+                            <div>
+                                <strong><i>{result.month} {result.day} {result.year}</i></strong>
+                            </div>
                         </div>
-                        <strong class="goal-count" data-season={result.season}><span>#{result.goal}</span></strong>
-                        <div>
-                            <strong className="goalie">{result.goalie}</strong>
+                        <div className="shadow">
+                            <iframe width="560" height="315" src={result.link.replace(/"/g, "")} title="Alex Ovechkin Goal Video"
+                                referrerPolicy="cross-origin-with-strict-origin" allowFullScreen loading="lazy"></iframe>
                         </div>
-                        <div>
-                            <img alt={result.team + ' logo'} className="logo" src={'/teams/' + result.team + '.svgz'} />
+                        <div className="goal-text">
+                            <strong>{result.text}</strong>
                         </div>
-                        <div>
-                            <strong><i>{result.month} {result.day} {result.year}</i></strong>
+                        <div className="link" data-season={result.season}>
+                            <strong>ovechkin.cam/?{result.goal}</strong>
+                            <button onClick={copyFunction} className="copy" title="Copy Link">Copy</button>
                         </div>
                     </div>
-                    <div className="shadow">
-                        <iframe width="560" height="315" src={result.link.replace(/"/g, "")} title="Alex Ovechkin Goal Video"
-                            referrerPolicy="cross-origin-with-strict-origin" allowFullScreen loading="lazy"></iframe>
-                    </div>
-                    <div className="goal-text">
-                        <strong>{result.text}</strong>
-                    </div>
-                    <div className="link">
-                        <strong>ovechkin.cam/?{result.goal}</strong>
-                        <button onClick={copyFunction} className="copy" title="Copy Link">Copy</button>
-                    </div>
-                </div>
-            ))}
+                ))}
+            </div>
         </div>
     );
 }
