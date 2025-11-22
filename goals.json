@@ -10,7 +10,8 @@
     "type": "",
     "tags": "Welcome On Board First",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 2,
@@ -23,7 +24,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 3,
@@ -36,7 +38,8 @@
     "type": "GWG",
     "tags": "GWG PPG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 4,
@@ -49,7 +52,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 5,
@@ -62,7 +66,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 6,
@@ -75,7 +80,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 7,
@@ -88,7 +94,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 8,
@@ -101,7 +108,8 @@
     "type": "SHG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 9,
@@ -114,7 +122,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 10,
@@ -127,7 +136,8 @@
     "type": "GWG",
     "tags": "GWG PPG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 11,
@@ -140,7 +150,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 12,
@@ -153,7 +164,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 13,
@@ -166,7 +178,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 14,
@@ -179,7 +192,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 15,
@@ -192,7 +206,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 16,
@@ -205,7 +220,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 17,
@@ -218,7 +234,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 18,
@@ -231,7 +248,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 19,
@@ -244,7 +262,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 20,
@@ -257,7 +276,8 @@
     "type": "",
     "tags": "20th",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 21,
@@ -270,7 +290,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 22,
@@ -283,7 +304,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 23,
@@ -296,7 +318,8 @@
     "type": "PPG",
     "tags": "New Years Eve Antero Niittymaki",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 24,
@@ -309,7 +332,8 @@
     "type": "",
     "tags": "New Years Day",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 25,
@@ -322,7 +346,8 @@
     "type": "PPG",
     "tags": "Antero Niittymaki",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 26,
@@ -335,7 +360,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 27,
@@ -348,7 +374,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 28,
@@ -361,7 +388,8 @@
     "type": "",
     "tags": "Jean-Sebastien Giguere Jean Sebastien Giguere Anaheim Ducks",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 29,
@@ -374,7 +402,8 @@
     "type": "",
     "tags": "Jean-Sebastien Giguere Jean Sebastien Giguere Anaheim Ducks",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 30,
@@ -387,7 +416,8 @@
     "type": "OT",
     "tags": "Jean-Sebastien Giguere Jean Sebastien Giguere Hat Trick Overtime GWG Anaheim Ducks",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 31,
@@ -400,7 +430,8 @@
     "type": "PPG",
     "tags": "Arizona Coyotes",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 32,
@@ -414,7 +445,8 @@
     "type": "",
     "tags": "Arizona Coyotes Simply Sensational",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 33,
@@ -427,7 +459,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 34,
@@ -440,7 +473,8 @@
     "type": "PPG",
     "tags": "Marc-Andre Fleury",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 35,
@@ -453,7 +487,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 36,
@@ -466,7 +501,8 @@
     "type": "SHG",
     "tags": "Marc-Andre Fleury",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 37,
@@ -479,7 +515,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 38,
@@ -492,7 +529,8 @@
     "type": "SHG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 39,
@@ -505,7 +543,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 40,
@@ -518,7 +557,8 @@
     "type": "",
     "tags": "40th",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 41,
@@ -531,7 +571,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 42,
@@ -544,7 +585,8 @@
     "type": "PPG",
     "tags": "Sebastien Caron",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 43,
@@ -557,7 +599,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 44,
@@ -570,7 +613,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 45,
@@ -583,7 +627,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 46,
@@ -596,7 +641,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 47,
@@ -609,7 +655,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 48,
@@ -622,7 +669,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 49,
@@ -636,7 +684,8 @@
     "type": "OT",
     "tags": "100th Point Overtime GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 50,
@@ -649,7 +698,8 @@
     "type": "",
     "tags": "50th",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 51,
@@ -662,7 +712,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 52,
@@ -675,7 +726,8 @@
     "type": "",
     "tags": "Last",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 53,
@@ -688,7 +740,8 @@
     "type": "GWG",
     "tags": "First GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 54,
@@ -701,7 +754,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 55,
@@ -714,7 +768,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 56,
@@ -727,7 +782,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 57,
@@ -740,7 +796,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 58,
@@ -753,7 +810,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 59,
@@ -766,7 +824,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 60,
@@ -779,7 +838,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 61,
@@ -792,7 +852,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 62,
@@ -805,7 +866,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 63,
@@ -818,7 +880,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 64,
@@ -831,7 +894,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 65,
@@ -844,7 +908,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 66,
@@ -857,7 +922,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 67,
@@ -870,7 +936,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 68,
@@ -883,7 +950,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 69,
@@ -896,7 +964,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 70,
@@ -909,7 +978,8 @@
     "type": "",
     "tags": "Antero Niittymaki",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 71,
@@ -922,7 +992,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 72,
@@ -935,7 +1006,8 @@
     "type": "PPG",
     "tags": "20th",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 73,
@@ -948,7 +1020,8 @@
     "type": "OT",
     "tags": "Hat Trick Overtime GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 74,
@@ -961,7 +1034,8 @@
     "type": "",
     "tags": "Antero Niittymaki",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 75,
@@ -974,7 +1048,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 76,
@@ -987,7 +1062,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 77,
@@ -1000,7 +1076,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 78,
@@ -1013,7 +1090,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 79,
@@ -1026,7 +1104,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 80,
@@ -1039,7 +1118,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 81,
@@ -1052,7 +1132,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": " 81.01",
@@ -1065,7 +1146,8 @@
     "type": "",
     "tags": "All Star Game ASG",
     "season": "All Star",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 82,
@@ -1078,7 +1160,8 @@
     "type": "PPG",
     "tags": "30th",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 83,
@@ -1091,7 +1174,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 84,
@@ -1104,7 +1188,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 85,
@@ -1117,7 +1202,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 86,
@@ -1130,7 +1216,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 87,
@@ -1143,7 +1230,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 88,
@@ -1156,7 +1244,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 89,
@@ -1169,7 +1258,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 90,
@@ -1182,7 +1272,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 91,
@@ -1195,7 +1286,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 92,
@@ -1208,7 +1300,8 @@
     "type": "PPG",
     "tags": "40th",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 93,
@@ -1221,7 +1314,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 94,
@@ -1234,7 +1328,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 95,
@@ -1247,7 +1342,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 96,
@@ -1260,7 +1356,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Capitol Black"
   },
   {
     "goal": 97,
@@ -1273,7 +1370,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 98,
@@ -1286,7 +1384,8 @@
     "type": "GWG",
     "tags": "Last GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Screagle White"
   },
   {
     "goal": 99,
@@ -1299,7 +1398,8 @@
     "type": "GWG",
     "tags": "First GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 100,
@@ -1313,7 +1413,8 @@
     "type": "PPG",
     "tags": "100th Goal Century",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 101,
@@ -1326,7 +1427,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 102,
@@ -1339,7 +1441,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 103,
@@ -1352,7 +1455,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 104,
@@ -1365,7 +1469,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 105,
@@ -1378,7 +1483,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 106,
@@ -1391,7 +1497,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 107,
@@ -1404,7 +1511,8 @@
     "type": "PPG",
     "tags": "Antero Niittymaki",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 108,
@@ -1417,7 +1525,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 109,
@@ -1430,7 +1539,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 110,
@@ -1443,7 +1553,8 @@
     "type": "",
     "tags": "Tomas Vokoun",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 111,
@@ -1456,7 +1567,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 112,
@@ -1469,7 +1581,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 113,
@@ -1482,7 +1595,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 114,
@@ -1495,7 +1609,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 115,
@@ -1508,7 +1623,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 116,
@@ -1521,7 +1637,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 117,
@@ -1534,7 +1651,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 118,
@@ -1547,7 +1665,8 @@
     "type": "GWG",
     "tags": "Tomas Vokoun 20th GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 119,
@@ -1560,7 +1679,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 120,
@@ -1573,7 +1693,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 121,
@@ -1586,7 +1707,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 122,
@@ -1599,7 +1721,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 123,
@@ -1612,7 +1735,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 124,
@@ -1625,7 +1749,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 125,
@@ -1638,7 +1763,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 126,
@@ -1651,7 +1777,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 127,
@@ -1664,7 +1791,8 @@
     "type": "GWG",
     "tags": "Hat Trick GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 128,
@@ -1677,7 +1805,8 @@
     "type": "ENG",
     "tags": "Empty Net 4th",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 129,
@@ -1690,7 +1819,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 130,
@@ -1703,7 +1833,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 131,
@@ -1716,7 +1847,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 132,
@@ -1729,7 +1861,8 @@
     "type": "GWG",
     "tags": "GWG PPG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 133,
@@ -1742,7 +1875,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 134,
@@ -1755,7 +1889,8 @@
     "type": "PPG",
     "tags": "Tomas Vokoun",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 135,
@@ -1768,7 +1903,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 136,
@@ -1781,7 +1917,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 137,
@@ -1794,7 +1931,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 137.02,
@@ -1807,7 +1945,8 @@
     "type": "",
     "tags": "All Star Game ASG",
     "season": "All Star",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 137.03,
@@ -1820,7 +1959,8 @@
     "type": "",
     "tags": "All Star Game ASG",
     "season": "All Star",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 138,
@@ -1833,7 +1973,8 @@
     "type": "",
     "tags": "40th",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 139,
@@ -1846,7 +1987,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 140,
@@ -1859,7 +2001,8 @@
     "type": "",
     "tags": "Hat Trick",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 141,
@@ -1872,7 +2015,8 @@
     "type": "OT",
     "tags": "4th Overtime GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 142,
@@ -1885,7 +2029,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 143,
@@ -1898,7 +2043,8 @@
     "type": "OT",
     "tags": "Overtime GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 144,
@@ -1911,7 +2057,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 145,
@@ -1924,7 +2071,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 146,
@@ -1937,7 +2085,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 147,
@@ -1950,7 +2099,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 148,
@@ -1963,7 +2113,8 @@
     "type": "",
     "tags": "50th",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 149,
@@ -1976,7 +2127,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 150,
@@ -1989,7 +2141,8 @@
     "type": "PPG",
     "tags": "Hat Trick",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 151,
@@ -2002,7 +2155,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 152,
@@ -2015,7 +2169,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 153,
@@ -2028,7 +2183,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 154,
@@ -2041,7 +2197,8 @@
     "type": "GWG",
     "tags": "GWG PPG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 155,
@@ -2054,7 +2211,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 156,
@@ -2067,7 +2225,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 157,
@@ -2080,7 +2239,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 158,
@@ -2093,7 +2253,8 @@
     "type": "",
     "tags": "60th",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 159,
@@ -2106,7 +2267,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 160,
@@ -2119,7 +2281,8 @@
     "type": "",
     "tags": "Tomas Vokoun",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 161,
@@ -2132,7 +2295,8 @@
     "type": "",
     "tags": "April Fools Day",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 162,
@@ -2145,7 +2309,8 @@
     "type": "",
     "tags": "Karri Ramo",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 163,
@@ -2158,7 +2323,8 @@
     "type": "GWG",
     "tags": "Karri Ramo Last GWG Rocket Richard Trophy PPG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 163.01,
@@ -2171,7 +2337,8 @@
     "type": "GWG",
     "tags": "Quarterfinals Game 1 GWG",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 163.02,
@@ -2184,7 +2351,8 @@
     "type": "GWG",
     "tags": "Quarterfinals Game 6 GWG",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 163.03,
@@ -2197,7 +2365,8 @@
     "type": "",
     "tags": "Quarterfinals Game 6",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 163.04,
@@ -2210,7 +2379,8 @@
     "type": "",
     "tags": "Quarterfinals Game 7",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 164,
@@ -2223,7 +2393,8 @@
     "type": "",
     "tags": "First",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 165,
@@ -2236,7 +2407,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 166,
@@ -2249,7 +2421,8 @@
     "type": "",
     "tags": "Olaf Kolzig",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 167,
@@ -2262,7 +2435,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 168,
@@ -2275,7 +2449,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 169,
@@ -2288,7 +2463,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 170,
@@ -2301,7 +2477,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 171,
@@ -2314,7 +2491,8 @@
     "type": "PPG",
     "tags": "Jean-Sebastien Giguere Jean Sebastien Giguere",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 172,
@@ -2327,7 +2505,8 @@
     "type": "",
     "tags": "Niklas Backstrom",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 173,
@@ -2340,7 +2519,8 @@
     "type": "PPG",
     "tags": "Ondrej Pavelec",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 174,
@@ -2353,7 +2533,8 @@
     "type": "PPG",
     "tags": "Ondrej Pavelec",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 175,
@@ -2366,7 +2547,8 @@
     "type": "GWG",
     "tags": "Ondrej Pavelec Hat Trick GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 176,
@@ -2379,7 +2561,8 @@
     "type": "",
     "tags": "Jaroslav Halak",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 177,
@@ -2392,7 +2575,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 178,
@@ -2405,7 +2589,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 179,
@@ -2418,7 +2603,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 180,
@@ -2431,7 +2617,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 181,
@@ -2444,7 +2631,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 182,
@@ -2457,7 +2645,8 @@
     "type": "OT",
     "tags": "Overtime GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 183,
@@ -2470,7 +2659,8 @@
     "type": "PPG",
     "tags": "20th",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 184,
@@ -2483,7 +2673,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 185,
@@ -2496,7 +2687,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 186,
@@ -2509,7 +2701,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 187,
@@ -2522,7 +2715,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 188,
@@ -2535,7 +2729,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 189,
@@ -2548,7 +2743,8 @@
     "type": "",
     "tags": "New Years Day",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 190,
@@ -2561,7 +2757,8 @@
     "type": "GWG",
     "tags": "GWG SHG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 191,
@@ -2574,7 +2771,8 @@
     "type": "PPG",
     "tags": "Marc-Andre Fleury",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 192,
@@ -2587,7 +2785,8 @@
     "type": "",
     "tags": "Marc-Andre Fleury",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 193,
@@ -2600,7 +2799,8 @@
     "type": "PPG",
     "tags": "30th",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 194,
@@ -2613,7 +2813,8 @@
     "type": "OT",
     "tags": "Overtime GWG PPG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 194.04,
@@ -2626,7 +2827,8 @@
     "type": "",
     "tags": "All Star Game ASG Jean-Sebastien Giguere Jean Sebastien Giguere",
     "season": "All Star",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 195,
@@ -2639,7 +2841,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 196,
@@ -2652,7 +2855,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 197,
@@ -2665,7 +2869,8 @@
     "type": "PPG",
     "tags": "Superbowl Super Bowl Sunday",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 198,
@@ -2678,7 +2883,8 @@
     "type": "",
     "tags": "Superbowl Super Bowl Sunday",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 199,
@@ -2691,7 +2897,8 @@
     "type": "",
     "tags": "Hat Trick Superbowl Super Bowl Sunday",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 200,
@@ -2705,7 +2912,8 @@
     "type": "",
     "tags": "200th Goal Century",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 201,
@@ -2718,7 +2926,8 @@
     "type": "GWG",
     "tags": "Valentine's Valentines Day GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 202,
@@ -2731,7 +2940,8 @@
     "type": "PPG",
     "tags": "Tomas Vokoun",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 203,
@@ -2744,7 +2954,8 @@
     "type": "GWG",
     "tags": "Tomas Vokoun 40th GWG PPG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 204,
@@ -2757,7 +2968,8 @@
     "type": "ENG",
     "tags": "Empty Net Hat Trick",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 205,
@@ -2770,7 +2982,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 206,
@@ -2783,7 +2996,8 @@
     "type": "PPG",
     "tags": "Marc-Andre Fleury",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 207,
@@ -2796,7 +3010,8 @@
     "type": "",
     "tags": "Antero Niittymaki",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 208,
@@ -2809,7 +3024,8 @@
     "type": "",
     "tags": "Vezina Trophy",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 209,
@@ -2822,7 +3038,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 210,
@@ -2835,7 +3052,8 @@
     "type": "PPG",
     "tags": "Marc-Andre Fleury",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 211,
@@ -2848,7 +3066,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 212,
@@ -2861,7 +3080,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 213,
@@ -2874,7 +3094,8 @@
     "type": "",
     "tags": "50th",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 214,
@@ -2887,7 +3108,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 215,
@@ -2900,7 +3122,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 216,
@@ -2913,7 +3136,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 217,
@@ -2926,7 +3150,8 @@
     "type": "",
     "tags": "April Fools Day",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 218,
@@ -2939,7 +3164,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 219,
@@ -2952,7 +3178,8 @@
     "type": "",
     "tags": "Tomas Vokoun Last Rocket Richard Trophy",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 219.05,
@@ -2965,7 +3192,8 @@
     "type": "",
     "tags": "Quarterfinals Game 4",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 219.06,
@@ -2978,7 +3206,8 @@
     "type": "",
     "tags": "Quarterfinals Game 5",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 219.07,
@@ -2991,7 +3220,8 @@
     "type": "",
     "tags": "Quarterfinals Game 6",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 219.08,
@@ -3004,7 +3234,8 @@
     "type": "",
     "tags": "Marc-Andre Fleury Semifinals Game 1",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 219.09,
@@ -3017,7 +3248,8 @@
     "type": "",
     "tags": "Marc-Andre Fleury Semifinals Game 2",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": "219.10",
@@ -3030,7 +3262,8 @@
     "type": "",
     "tags": "Marc-Andre Fleury Semifinals Game 2",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 219.11,
@@ -3043,7 +3276,8 @@
     "type": "GWG",
     "tags": "Marc-Andre Fleury Semifinals Game 2 Hat Trick GWG",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 219.12,
@@ -3056,7 +3290,8 @@
     "type": "",
     "tags": "Marc-Andre Fleury Semifinals Game 3",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 219.13,
@@ -3069,7 +3304,8 @@
     "type": "",
     "tags": "Marc-Andre Fleury Semifinals Game 5",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 219.14,
@@ -3082,7 +3318,8 @@
     "type": "",
     "tags": "Marc-Andre Fleury Semifinals Game 5",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 219.15,
@@ -3095,7 +3332,8 @@
     "type": "",
     "tags": "Marc-Andre Fleury Semifinals Game 7",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 220,
@@ -3108,7 +3346,8 @@
     "type": "GWG",
     "tags": "First GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 221,
@@ -3121,7 +3360,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 222,
@@ -3134,7 +3374,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 223,
@@ -3147,7 +3388,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 224,
@@ -3160,7 +3402,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 225,
@@ -3173,7 +3416,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 226,
@@ -3186,7 +3430,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 227,
@@ -3199,7 +3444,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 228,
@@ -3212,7 +3458,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 229,
@@ -3225,7 +3472,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 230,
@@ -3238,7 +3486,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 231,
@@ -3251,7 +3500,8 @@
     "type": "PPG",
     "tags": "Ondrej Pavelec",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 232,
@@ -3264,7 +3514,8 @@
     "type": "",
     "tags": "Ondrej Pavelec",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 233,
@@ -3277,7 +3528,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 234,
@@ -3290,7 +3542,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 235,
@@ -3303,7 +3556,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 236,
@@ -3316,7 +3570,8 @@
     "type": "GWG",
     "tags": "GWG Vezina Trophy",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 237,
@@ -3329,7 +3584,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 238,
@@ -3342,7 +3598,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 239,
@@ -3355,7 +3612,8 @@
     "type": "PPG",
     "tags": "20th",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 240,
@@ -3368,7 +3626,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 241,
@@ -3381,7 +3640,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 242,
@@ -3394,7 +3654,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 243,
@@ -3407,7 +3668,8 @@
     "type": "PPG",
     "tags": "Vezina Trophy",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 244,
@@ -3420,7 +3682,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 245,
@@ -3433,7 +3696,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 246,
@@ -3446,7 +3710,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 247,
@@ -3459,7 +3724,8 @@
     "type": "",
     "tags": "Tomas Vokoun",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 248,
@@ -3472,7 +3738,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 249,
@@ -3485,7 +3752,8 @@
     "type": "PS",
     "tags": "Penalty Shot",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 250,
@@ -3498,7 +3766,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 251,
@@ -3511,7 +3780,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 252,
@@ -3524,7 +3794,8 @@
     "type": "ENG",
     "tags": "Arizona Coyotes Empty Net",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 253,
@@ -3537,7 +3808,8 @@
     "type": "",
     "tags": "Jean-Sebastien Giguere Jean Sebastien Giguere",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 254,
@@ -3550,7 +3822,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 255,
@@ -3563,7 +3836,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 256,
@@ -3576,7 +3850,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 257,
@@ -3590,7 +3865,8 @@
     "type": "",
     "tags": "500th Point",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 258,
@@ -3603,7 +3879,8 @@
     "type": "PPG",
     "tags": "Ondrej Pavelec",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 259,
@@ -3616,7 +3893,8 @@
     "type": "",
     "tags": "Marc-Andre Fleury 40th Superbowl Super Bowl Sunday",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 260,
@@ -3629,7 +3907,8 @@
     "type": "",
     "tags": "Marc-Andre Fleury Superbowl Super Bowl Sunday",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 261,
@@ -3642,7 +3921,8 @@
     "type": "",
     "tags": "Marc-Andre Fleury Hat Trick Superbowl Super Bowl Sunday",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 262,
@@ -3655,7 +3935,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 263,
@@ -3668,7 +3949,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 264,
@@ -3681,7 +3963,8 @@
     "type": "GWG",
     "tags": "Antero Niittymaki GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 265,
@@ -3694,7 +3977,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 266,
@@ -3707,7 +3991,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 267,
@@ -3720,7 +4005,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 268,
@@ -3733,7 +4019,8 @@
     "type": "",
     "tags": "Ondrej Pavelec",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 269,
@@ -3746,7 +4033,8 @@
     "type": "GWG",
     "tags": "Ondrej Pavelec Last 50th GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 269.16,
@@ -3759,7 +4047,8 @@
     "type": "",
     "tags": "Jaroslav Halak Quarterfinals Game 2",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 269.17,
@@ -3772,7 +4061,8 @@
     "type": "",
     "tags": "Quarterfinals Game 3",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 269.18,
@@ -3785,7 +4075,8 @@
     "type": "",
     "tags": "Quarterfinals Game 4",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 269.19,
@@ -3798,7 +4089,8 @@
     "type": "",
     "tags": "Quarterfinals Game 4",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": "269.20",
@@ -3811,7 +4103,8 @@
     "type": "",
     "tags": "Jaroslav Halak Quarterfinals Game 5",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 270,
@@ -3824,7 +4117,8 @@
     "type": "GWG",
     "tags": "First GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 271,
@@ -3837,7 +4131,8 @@
     "type": "PS",
     "tags": "Penalty Shot",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 272,
@@ -3850,7 +4145,8 @@
     "type": "OT",
     "tags": "Overtime GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 273,
@@ -3863,7 +4159,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 274,
@@ -3876,7 +4173,8 @@
     "type": "",
     "tags": "Niklas Backstrom",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 275,
@@ -3889,7 +4187,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 276,
@@ -3902,7 +4201,8 @@
     "type": "GWG",
     "tags": "GWG PPG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 277,
@@ -3915,7 +4215,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 278,
@@ -3928,7 +4229,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 279,
@@ -3941,7 +4243,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 280,
@@ -3954,7 +4257,8 @@
     "type": "",
     "tags": "Ondrej Pavelec",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 281,
@@ -3967,7 +4271,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 282,
@@ -3980,7 +4285,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 283,
@@ -3993,7 +4299,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 284,
@@ -4006,7 +4313,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 285,
@@ -4019,7 +4327,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 286,
@@ -4032,7 +4341,8 @@
     "type": "",
     "tags": "Jean-Sebastien Giguere Jean Sebastien Giguere",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 287,
@@ -4045,7 +4355,8 @@
     "type": "GWG",
     "tags": "Jean-Sebastien Giguere Jean Sebastien Giguere GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 288,
@@ -4058,7 +4369,8 @@
     "type": "ENG",
     "tags": "Empty Net Hat Trick",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 288.05,
@@ -4071,7 +4383,8 @@
     "type": "",
     "tags": "All Star Game ASG Marc-Andre Fleury",
     "season": "All Star",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 289,
@@ -4084,7 +4397,8 @@
     "type": "GWG",
     "tags": "20th GWG PPG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 290,
@@ -4097,7 +4411,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 291,
@@ -4110,7 +4425,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 292,
@@ -4123,7 +4439,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 293,
@@ -4136,7 +4453,8 @@
     "type": "GWG",
     "tags": "Marc-Andre Fleury GWG PPG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 294,
@@ -4149,7 +4467,8 @@
     "type": "OT",
     "tags": "Overtime GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 295,
@@ -4162,7 +4481,8 @@
     "type": "GWG",
     "tags": "GWG PPG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 296,
@@ -4175,7 +4495,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 297,
@@ -4188,7 +4509,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 298,
@@ -4201,7 +4523,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 299,
@@ -4214,7 +4537,8 @@
     "type": "OT",
     "tags": "30th Overtime GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 300,
@@ -4228,7 +4552,8 @@
     "type": "PPG",
     "tags": "300th Goal Century",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 301,
@@ -4241,7 +4566,8 @@
     "type": "ENG",
     "tags": "Empty Net Last",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 301.21,
@@ -4254,7 +4580,8 @@
     "type": "",
     "tags": "Quarterfinals Game 1",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 301.22,
@@ -4267,7 +4594,8 @@
     "type": "",
     "tags": "Quarterfinals Game 3",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 301.23,
@@ -4280,7 +4608,8 @@
     "type": "",
     "tags": "Quarterfinals Game 5",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 301.24,
@@ -4293,7 +4622,8 @@
     "type": "",
     "tags": "Semifinals Game 2",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 301.25,
@@ -4306,7 +4636,8 @@
     "type": "",
     "tags": "Semifinals Game 3",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 302,
@@ -4319,7 +4650,8 @@
     "type": "",
     "tags": "First",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 303,
@@ -4332,7 +4664,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 304,
@@ -4345,7 +4678,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 305,
@@ -4358,7 +4692,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 306,
@@ -4371,7 +4706,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 307,
@@ -4384,7 +4720,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 308,
@@ -4397,7 +4734,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 309,
@@ -4410,7 +4748,8 @@
     "type": "",
     "tags": "Vezina Trophy",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 310,
@@ -4423,7 +4762,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 311,
@@ -4436,7 +4776,8 @@
     "type": "GWG",
     "tags": "Ondrej Pavelec GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 312,
@@ -4449,7 +4790,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 313,
@@ -4462,7 +4804,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 314,
@@ -4475,7 +4818,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 315,
@@ -4488,7 +4832,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 316,
@@ -4501,7 +4846,8 @@
     "type": "",
     "tags": "New Years Eve",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 317,
@@ -4514,7 +4860,8 @@
     "type": "PPG",
     "tags": "New Years Eve",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 318,
@@ -4527,7 +4874,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 319,
@@ -4540,7 +4888,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 320,
@@ -4553,7 +4902,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 321,
@@ -4566,7 +4916,8 @@
     "type": "",
     "tags": "Marc-Andre Fleury 20th",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 322,
@@ -4579,7 +4930,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 323,
@@ -4592,7 +4944,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 324,
@@ -4605,7 +4958,8 @@
     "type": "PPG",
     "tags": "Ondrej Pavelec",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 325,
@@ -4618,7 +4972,8 @@
     "type": "PPG",
     "tags": "Jose Theodore",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 326,
@@ -4631,7 +4986,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 327,
@@ -4644,7 +5000,8 @@
     "type": "OT",
     "tags": "Overtime GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 328,
@@ -4657,7 +5014,8 @@
     "type": "OT",
     "tags": "Overtime GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 329,
@@ -4670,7 +5028,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 330,
@@ -4683,7 +5042,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 331,
@@ -4696,7 +5056,8 @@
     "type": "",
     "tags": "30th",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 332,
@@ -4709,7 +5070,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 333,
@@ -4722,7 +5084,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 334,
@@ -4735,7 +5098,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 335,
@@ -4748,7 +5112,8 @@
     "type": "",
     "tags": "Ondrej Pavelec",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 336,
@@ -4761,7 +5126,8 @@
     "type": "",
     "tags": "Ondrej Pavelec",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 337,
@@ -4774,7 +5140,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 338,
@@ -4787,7 +5154,8 @@
     "type": "",
     "tags": "Jose Theodore",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 339,
@@ -4800,7 +5168,8 @@
     "type": "",
     "tags": "Last Vezina Trophy",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 339.26,
@@ -4813,7 +5182,8 @@
     "type": "",
     "tags": "Quarterfinals Game 3",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 339.27,
@@ -4826,7 +5196,8 @@
     "type": "",
     "tags": "Quarterfinals Game 6",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 339.28,
@@ -4839,7 +5210,8 @@
     "type": "",
     "tags": "Semifinals Game 2 Vezina",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 339.29,
@@ -4852,7 +5224,8 @@
     "type": "",
     "tags": "Semifinals Game 5 Vezina",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": "339.30",
@@ -4865,7 +5238,8 @@
     "type": "",
     "tags": "Quarterfinals Game 6 Vezina",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 339.01,
@@ -4878,7 +5252,8 @@
     "type": "PPG",
     "tags": "Dynamo Moscow KHL",
     "season": "KHL",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Blue Dynamo"
   },
   {
     "goal": 339.02,
@@ -4891,7 +5266,8 @@
     "type": "",
     "tags": "Dynamo Moscow KHL",
     "season": "KHL",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Blue Dynamo"
   },
   {
     "goal": 339.03,
@@ -4904,7 +5280,8 @@
     "type": "",
     "tags": "Dynamo Moscow KHL",
     "season": "KHL",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Dynamo"
   },
   {
     "goal": 339.04,
@@ -4917,7 +5294,8 @@
     "type": "",
     "tags": "Dynamo Moscow KHL Tomas Popperle",
     "season": "KHL",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Dynamo"
   },
   {
     "goal": 339.05,
@@ -4930,7 +5308,8 @@
     "type": "",
     "tags": "Dynamo Moscow KHL",
     "season": "KHL",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Dynamo"
   },
   {
     "goal": 339.06,
@@ -4943,7 +5322,8 @@
     "type": "",
     "tags": "Dynamo Moscow KHL",
     "season": "KHL",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Dynamo"
   },
   {
     "goal": 339.07,
@@ -4956,7 +5336,8 @@
     "type": "OT",
     "tags": "Dynamo Moscow KHL Game Winning Goal Overtime PPG",
     "season": "KHL",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Dynamo"
   },
   {
     "goal": 339.08,
@@ -4969,7 +5350,8 @@
     "type": "",
     "tags": "Dynamo Moscow KHL",
     "season": "KHL",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Blue Dynamo"
   },
   {
     "goal": 339.09,
@@ -4982,7 +5364,8 @@
     "type": "",
     "tags": "Dynamo Moscow KHL",
     "season": "KHL",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Blue Dynamo"
   },
   {
     "goal": "339.10",
@@ -4995,7 +5378,8 @@
     "type": "",
     "tags": "Dynamo Moscow Jan Laco KHL",
     "season": "KHL",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Dynamo"
   },
   {
     "goal": 339.11,
@@ -5008,7 +5392,8 @@
     "type": "",
     "tags": "Dynamo Moscow Jan Laco KHL",
     "season": "KHL",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Dynamo"
   },
   {
     "goal": 339.12,
@@ -5021,7 +5406,8 @@
     "type": "ENG",
     "tags": "Dynamo Moscow Empty Net Hat Trick KHL",
     "season": "KHL",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Dynamo"
   },
   {
     "goal": 339.13,
@@ -5034,7 +5420,8 @@
     "type": "PPG",
     "tags": "Dynamo Moscow KHL Rastislav Stana",
     "season": "KHL",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Dynamo"
   },
   {
     "goal": 339.14,
@@ -5047,7 +5434,8 @@
     "type": "",
     "tags": "Dynamo Moscow KHL",
     "season": "KHL",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Dynamo"
   },
   {
     "goal": 339.15,
@@ -5060,7 +5448,8 @@
     "type": "",
     "tags": "Dynamo Moscow KHL",
     "season": "KHL",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Dynamo"
   },
   {
     "goal": 339.16,
@@ -5073,7 +5462,8 @@
     "type": "",
     "tags": "Dynamo Moscow KHL",
     "season": "KHL",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Dynamo"
   },
   {
     "goal": 339.17,
@@ -5086,7 +5476,8 @@
     "type": "",
     "tags": "Dynamo Moscow KHL",
     "season": "KHL",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Blue Dynamo"
   },
   {
     "goal": 339.18,
@@ -5099,7 +5490,8 @@
     "type": "",
     "tags": "Dynamo Moscow KHL Rastislav Stana",
     "season": "KHL",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Blue Dynamo"
   },
   {
     "goal": 339.19,
@@ -5112,7 +5504,8 @@
     "type": "",
     "tags": "Dynamo Moscow KHL",
     "season": "KHL",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Blue Dynamo"
   },
   {
     "goal": 340,
@@ -5125,7 +5518,8 @@
     "type": "GWG",
     "tags": "First GWG PPG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 341,
@@ -5138,7 +5532,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 342,
@@ -5151,7 +5546,8 @@
     "type": "PPG",
     "tags": "Marc-Andre Fleury",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 343,
@@ -5164,7 +5560,8 @@
     "type": "PPG",
     "tags": "Jose Theodore",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 344,
@@ -5177,7 +5574,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 345,
@@ -5190,7 +5588,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 346,
@@ -5203,7 +5602,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 347,
@@ -5216,7 +5616,8 @@
     "type": "PPG",
     "tags": "Hat Trick",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 348,
@@ -5229,7 +5630,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 349,
@@ -5242,7 +5644,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 350,
@@ -5255,7 +5658,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 351,
@@ -5268,7 +5672,8 @@
     "type": "PPG",
     "tags": "Marc-Andre Fleury",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Throwback Third White"
   },
   {
     "goal": 352,
@@ -5281,7 +5686,8 @@
     "type": "",
     "tags": "Ondrej Pavelec",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Throwback Third White"
   },
   {
     "goal": 353,
@@ -5294,7 +5700,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Throwback Third White"
   },
   {
     "goal": 354,
@@ -5307,7 +5714,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Throwback Third White"
   },
   {
     "goal": 355,
@@ -5320,7 +5728,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Throwback Third White"
   },
   {
     "goal": 356,
@@ -5333,7 +5742,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 357,
@@ -5346,7 +5756,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 358,
@@ -5359,7 +5770,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 359,
@@ -5373,7 +5785,8 @@
     "type": "GWG",
     "tags": "700th Point GWG 20th",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 360,
@@ -5386,7 +5799,8 @@
     "type": "PPG",
     "tags": "Markstrom",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 361,
@@ -5399,7 +5813,8 @@
     "type": "",
     "tags": "Markstrom",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 362,
@@ -5412,7 +5827,8 @@
     "type": "GWG",
     "tags": "Markstrom Hat Trick GWG PPG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 363,
@@ -5425,7 +5841,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 364,
@@ -5438,7 +5855,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 365,
@@ -5451,7 +5869,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 366,
@@ -5464,7 +5883,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 367,
@@ -5477,7 +5897,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 368,
@@ -5490,7 +5911,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Throwback Third White"
   },
   {
     "goal": 369,
@@ -5503,7 +5925,8 @@
     "type": "PPG",
     "tags": "30th",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Throwback Third White"
   },
   {
     "goal": 370,
@@ -5516,7 +5939,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 371,
@@ -5529,7 +5953,8 @@
     "type": "",
     "tags": "Last Rocket Richard Trophy",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 371.31,
@@ -5542,7 +5967,8 @@
     "type": "",
     "tags": "Quarterfinals Game 1",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 372,
@@ -5555,7 +5981,8 @@
     "type": "PPG",
     "tags": "First",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 373,
@@ -5568,7 +5995,8 @@
     "type": "",
     "tags": "Karri Ramo",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 374,
@@ -5581,7 +6009,8 @@
     "type": "PPG",
     "tags": "Karri Ramo",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 375,
@@ -5594,7 +6023,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 376,
@@ -5607,7 +6037,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 377,
@@ -5620,7 +6051,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 378,
@@ -5633,7 +6065,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 379,
@@ -5646,7 +6079,8 @@
     "type": "",
     "tags": "Ondrej Pavelec",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 380,
@@ -5659,7 +6093,8 @@
     "type": "",
     "tags": "Ondrej Pavelec",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 381,
@@ -5672,7 +6107,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 382,
@@ -5685,7 +6121,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 383,
@@ -5698,7 +6135,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 384,
@@ -5711,7 +6149,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 385,
@@ -5724,7 +6163,8 @@
     "type": "OT",
     "tags": "Overtime GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 386,
@@ -5737,7 +6177,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 387,
@@ -5750,7 +6191,8 @@
     "type": "",
     "tags": "Jaroslav Halak",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 388,
@@ -5763,7 +6205,8 @@
     "type": "GWG",
     "tags": "Jaroslav Halak GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 389,
@@ -5776,7 +6219,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 390,
@@ -5789,7 +6233,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 391,
@@ -5802,7 +6247,8 @@
     "type": "",
     "tags": "20th",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 392,
@@ -5815,7 +6261,8 @@
     "type": "OT",
     "tags": "Overtime GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 393,
@@ -5828,7 +6275,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 394,
@@ -5841,7 +6289,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 395,
@@ -5854,7 +6303,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 396,
@@ -5867,7 +6317,8 @@
     "type": "PPG",
     "tags": "Hat Trick",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 397,
@@ -5880,7 +6331,8 @@
     "type": "",
     "tags": "4th",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 398,
@@ -5893,7 +6345,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 399,
@@ -5906,7 +6359,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Throwback Third White"
   },
   {
     "goal": 400,
@@ -5920,7 +6374,8 @@
     "type": "ENG",
     "tags": "400th Goal Century Empty Net",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Throwback Third White"
   },
   {
     "goal": 401,
@@ -5933,7 +6388,8 @@
     "type": "",
     "tags": "30th",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 402,
@@ -5946,7 +6402,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 403,
@@ -5959,7 +6416,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 404,
@@ -5972,7 +6430,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 405,
@@ -5985,7 +6444,8 @@
     "type": "",
     "tags": "Marc-Andre Fleury",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Throwback Third White"
   },
   {
     "goal": 406,
@@ -5998,7 +6458,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Throwback Third White"
   },
   {
     "goal": 407,
@@ -6011,7 +6472,8 @@
     "type": "GWG",
     "tags": "GWG PPG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Throwback Third White"
   },
   {
     "goal": 408,
@@ -6024,7 +6486,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Throwback Third White"
   },
   {
     "goal": 409,
@@ -6037,7 +6500,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Throwback Third White"
   },
   {
     "goal": 410,
@@ -6050,7 +6514,8 @@
     "type": "OT",
     "tags": "Overtime Superbowl Super Bowl Sunday GWG PPG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 411,
@@ -6063,7 +6528,8 @@
     "type": "GWG",
     "tags": "Ondrej Pavelec 40th GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 412,
@@ -6076,7 +6542,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 413,
@@ -6089,7 +6556,8 @@
     "type": "PPG",
     "tags": "Vezina Trophy",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Throwback Third White"
   },
   {
     "goal": 414,
@@ -6103,7 +6571,8 @@
     "type": "PPG",
     "tags": "800th Point Vezina Trophy",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Throwback Third White"
   },
   {
     "goal": 415,
@@ -6116,7 +6585,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Throwback Third White"
   },
   {
     "goal": 416,
@@ -6129,7 +6599,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 417,
@@ -6142,7 +6613,8 @@
     "type": "GWG",
     "tags": "GWG PPG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 418,
@@ -6155,7 +6627,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 419,
@@ -6168,7 +6641,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 420,
@@ -6181,7 +6655,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 421,
@@ -6194,7 +6669,8 @@
     "type": "PPG",
     "tags": "50th",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 422,
@@ -6207,7 +6683,8 @@
     "type": "GWG",
     "tags": "Last GWG Rocket Richard Trophy PPG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 423,
@@ -6220,7 +6697,8 @@
     "type": "GWG",
     "tags": "First GWG PPG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 424,
@@ -6233,7 +6711,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 425,
@@ -6246,7 +6725,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 426,
@@ -6259,7 +6739,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 427,
@@ -6272,7 +6753,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 428,
@@ -6285,7 +6767,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 429,
@@ -6298,7 +6781,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 430,
@@ -6311,7 +6795,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 431,
@@ -6324,7 +6809,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 432,
@@ -6337,7 +6823,8 @@
     "type": "PPG",
     "tags": "Jaroslav Halak",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Throwback Third White"
   },
   {
     "goal": 433,
@@ -6350,7 +6837,8 @@
     "type": "PPG",
     "tags": "Jaroslav Halak",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Throwback Third White"
   },
   {
     "goal": 434,
@@ -6363,7 +6851,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 435,
@@ -6376,7 +6865,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 436,
@@ -6389,7 +6879,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 437,
@@ -6402,7 +6893,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 438,
@@ -6415,7 +6907,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Throwback Third White"
   },
   {
     "goal": 439,
@@ -6428,21 +6921,22 @@
     "type": "",
     "tags": "Jaroslav Halak",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Throwback Third White"
   },
   {
     "goal": 440,
     "link": "https://www.youtube.com/embed/sfSHrc9T4Ts?si=PVaJBOT6x7YAO5wM",
-    "text": "Outdoor Goal",
     "team": "Chicago Blackhawks",
     "goalie": "Corey Crawford",
     "month": "January",
     "day": 1,
     "year": 2015,
     "type": "",
-    "tags": "New Years Day Outdoor",
+    "tags": "New Years Day Outdoor Winter Classic",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Deep Red Winter Classic"
   },
   {
     "goal": 441,
@@ -6455,7 +6949,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 442,
@@ -6468,7 +6963,8 @@
     "type": "ENG",
     "tags": "Empty Net 20th",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 443,
@@ -6481,7 +6977,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 444,
@@ -6494,7 +6991,8 @@
     "type": "GWG",
     "tags": "GWG PPG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 445,
@@ -6507,7 +7005,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 446,
@@ -6520,7 +7019,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 447,
@@ -6533,7 +7033,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 448,
@@ -6546,7 +7047,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 449,
@@ -6559,7 +7061,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 450,
@@ -6572,7 +7075,8 @@
     "type": "GWG",
     "tags": "Marc-Andre Fleury GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 451,
@@ -6585,7 +7089,8 @@
     "type": "PPG",
     "tags": "Marc-Andre Fleury",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 452,
@@ -6598,7 +7103,8 @@
     "type": "PPG",
     "tags": "30th Superbowl Super Bowl Sunday",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 453,
@@ -6611,7 +7117,8 @@
     "type": "",
     "tags": "Superbowl Super Bowl Sunday",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 454,
@@ -6624,7 +7131,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 455,
@@ -6637,7 +7145,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 456,
@@ -6650,7 +7159,8 @@
     "type": "",
     "tags": "Valentine's Valentines Day",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Throwback Third White"
   },
   {
     "goal": 457,
@@ -6663,7 +7173,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Throwback Third White"
   },
   {
     "goal": 458,
@@ -6676,7 +7187,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Throwback Third White"
   },
   {
     "goal": 459,
@@ -6689,7 +7201,8 @@
     "type": "PPG",
     "tags": "Marc-Andre Fleury",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Throwback Third White"
   },
   {
     "goal": 460,
@@ -6702,7 +7215,8 @@
     "type": "GWG",
     "tags": "Ondrej Pavelec GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 461,
@@ -6715,7 +7229,8 @@
     "type": "PPG",
     "tags": "Marc-Andre Fleury",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 462,
@@ -6728,7 +7243,8 @@
     "type": "GWG",
     "tags": "40th GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 463,
@@ -6741,7 +7257,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 464,
@@ -6754,7 +7271,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 465,
@@ -6767,7 +7285,8 @@
     "type": "GWG",
     "tags": "GWG PPG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 466,
@@ -6780,7 +7299,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 467,
@@ -6793,7 +7313,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 468,
@@ -6806,7 +7327,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 469,
@@ -6819,7 +7341,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 470,
@@ -6832,7 +7355,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Throwback Third White"
   },
   {
     "goal": 471,
@@ -6845,7 +7369,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Throwback Third White"
   },
   {
     "goal": 472,
@@ -6858,7 +7383,8 @@
     "type": "",
     "tags": "50th",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 473,
@@ -6871,7 +7397,8 @@
     "type": "PPG",
     "tags": "Hart Trophy Vezina Trophy",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Throwback Third White"
   },
   {
     "goal": 474,
@@ -6884,7 +7411,8 @@
     "type": "PPG",
     "tags": "Hart Trophy Vezina Trophy",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Throwback Third White"
   },
   {
     "goal": 475,
@@ -6897,7 +7425,8 @@
     "type": "PPG",
     "tags": "Last Rocket Richard Trophy",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Deep Red Winter Classic"
   },
   {
     "goal": 475.32,
@@ -6910,7 +7439,8 @@
     "type": "",
     "tags": "Quarterfinals Game 2",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 475.33,
@@ -6923,7 +7453,8 @@
     "type": "",
     "tags": "Quarterfinals Game 4",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Throwback Third White"
   },
   {
     "goal": 475.34,
@@ -6936,7 +7467,8 @@
     "type": "",
     "tags": "Semifinals Game 1",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Throwback Third White"
   },
   {
     "goal": 475.35,
@@ -6949,7 +7481,8 @@
     "type": "",
     "tags": "Semifinals Game 2",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Throwback Third White"
   },
   {
     "goal": 475.36,
@@ -6962,7 +7495,8 @@
     "type": "",
     "tags": "Semifinals Game 7",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "Throwback Third White"
   },
   {
     "goal": 476,
@@ -6975,7 +7509,8 @@
     "type": "",
     "tags": "First",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 477,
@@ -6988,7 +7523,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 478,
@@ -7001,7 +7537,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 479,
@@ -7015,7 +7552,8 @@
     "type": "",
     "tags": "Karri Ramo 900th Point",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 480,
@@ -7028,7 +7566,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 481,
@@ -7041,7 +7580,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 482,
@@ -7054,7 +7594,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 483,
@@ -7067,7 +7608,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 484,
@@ -7080,7 +7622,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 485,
@@ -7093,7 +7636,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 486,
@@ -7106,7 +7650,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 487,
@@ -7119,7 +7664,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 488,
@@ -7132,7 +7678,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 489,
@@ -7145,7 +7692,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 490,
@@ -7158,7 +7706,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 491,
@@ -7171,7 +7720,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 492,
@@ -7184,7 +7734,8 @@
     "type": "GWG",
     "tags": "GWG PPG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 493,
@@ -7197,7 +7748,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 494,
@@ -7210,7 +7762,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Throwback Third Red"
   },
   {
     "goal": 495,
@@ -7223,7 +7776,8 @@
     "type": "ENG",
     "tags": "Empty Net 20th",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Throwback Third Red"
   },
   {
     "goal": 496,
@@ -7236,7 +7790,8 @@
     "type": "",
     "tags": "New Years Eve",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 497,
@@ -7249,7 +7804,8 @@
     "type": "GWG",
     "tags": "Jaroslav Halak GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 498,
@@ -7262,7 +7818,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 499,
@@ -7275,7 +7832,8 @@
     "type": "OT",
     "tags": "Overtime GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 500,
@@ -7289,7 +7847,8 @@
     "type": "PPG",
     "tags": "500th Goal Century",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 501,
@@ -7302,7 +7861,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 502,
@@ -7315,7 +7875,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Throwback Third Red"
   },
   {
     "goal": 503,
@@ -7328,7 +7889,8 @@
     "type": "PPG",
     "tags": "Peter Bondra",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 504,
@@ -7341,7 +7903,8 @@
     "type": "GWG",
     "tags": "Jaroslav Halak GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Throwback Third Red"
   },
   {
     "goal": 505,
@@ -7354,7 +7917,8 @@
     "type": "",
     "tags": "30th Superbowl Super Bowl Sunday",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Throwback Third Red"
   },
   {
     "goal": 506,
@@ -7367,7 +7931,8 @@
     "type": "PPG",
     "tags": "Empty Net ENG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 507,
@@ -7380,7 +7945,8 @@
     "type": "",
     "tags": "Jean Beliveau",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 508,
@@ -7393,7 +7959,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 509,
@@ -7406,7 +7973,8 @@
     "type": "",
     "tags": "Hat Trick",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 510,
@@ -7419,7 +7987,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 511,
@@ -7432,7 +8001,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 512,
@@ -7445,7 +8015,8 @@
     "type": "PPG",
     "tags": "Gilbert Perreault",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 513,
@@ -7458,7 +8029,8 @@
     "type": "",
     "tags": "Jeremy Roenick",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 514,
@@ -7471,7 +8043,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 515,
@@ -7484,7 +8057,8 @@
     "type": "PPG",
     "tags": "40th",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 516,
@@ -7497,7 +8071,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 517,
@@ -7510,7 +8085,8 @@
     "type": "OT",
     "tags": "Overtime GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Throwback Third Red"
   },
   {
     "goal": 518,
@@ -7523,7 +8099,8 @@
     "type": "PPG",
     "tags": "Dale Hawerchuk",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 519,
@@ -7536,7 +8113,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 520,
@@ -7549,7 +8127,8 @@
     "type": "PPG",
     "tags": "April Fools Day",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 521,
@@ -7562,7 +8141,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 522,
@@ -7575,7 +8155,8 @@
     "type": "",
     "tags": "Pat Verbeek",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 523,
@@ -7588,7 +8169,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 524,
@@ -7601,7 +8183,8 @@
     "type": "GWG",
     "tags": "Bryan Trottier GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 525,
@@ -7614,7 +8197,8 @@
     "type": "",
     "tags": "Last 50th Hat Trick Rocket Richard Trophy",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 525.37,
@@ -7627,7 +8211,8 @@
     "type": "",
     "tags": "Quarterfinals Game 2",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 525.38,
@@ -7640,7 +8225,8 @@
     "type": "",
     "tags": "Quarterfinals Game 3",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 525.39,
@@ -7653,7 +8239,8 @@
     "type": "",
     "tags": "Quarterfinals Game 3",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": "525.40",
@@ -7666,7 +8253,8 @@
     "type": "",
     "tags": "Marc-Andre Fleury Semifinals Game 3",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 525.41,
@@ -7679,7 +8267,8 @@
     "type": "",
     "tags": "Marc-Andre Fleury Semifinals Game 5",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 526,
@@ -7692,7 +8281,8 @@
     "type": "GWG",
     "tags": "First GWG PPG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 527,
@@ -7705,7 +8295,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 528,
@@ -7718,7 +8309,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 529,
@@ -7731,7 +8323,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 530,
@@ -7744,7 +8337,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Throwback Third Red"
   },
   {
     "goal": 531,
@@ -7757,7 +8351,8 @@
     "type": "OT",
     "tags": "Overtime GWG PPG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Throwback Third Red"
   },
   {
     "goal": 532,
@@ -7770,7 +8365,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 533,
@@ -7783,7 +8379,8 @@
     "type": "",
     "tags": "Marc-Andre Fleury",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 534,
@@ -7796,7 +8393,8 @@
     "type": "PPG",
     "tags": "Vezina Trophy",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 535,
@@ -7809,7 +8407,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 536,
@@ -7822,7 +8421,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 537,
@@ -7835,7 +8435,8 @@
     "type": "GWG",
     "tags": "Hat Trick GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 538,
@@ -7848,7 +8449,8 @@
     "type": "GWG",
     "tags": "Markstrom Keith Tkachuk GWG PPG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 539,
@@ -7861,7 +8463,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 540,
@@ -7874,7 +8477,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Throwback Third Red"
   },
   {
     "goal": 541,
@@ -7887,7 +8491,8 @@
     "type": "",
     "tags": "Jaroslav Halak Stan Makita",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 542,
@@ -7900,7 +8505,8 @@
     "type": "",
     "tags": "New Years Eve",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 543,
@@ -7913,7 +8519,8 @@
     "type": "OT",
     "tags": "Overtime GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 544,
@@ -7926,7 +8533,8 @@
     "type": "PPG",
     "tags": "Maurice Richard",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 545,
@@ -7940,7 +8548,8 @@
     "type": "",
     "tags": "Marc-Andre Fleury 1000th Point 20th",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 546,
@@ -7953,7 +8562,8 @@
     "type": "PPG",
     "tags": "Marc-Andre Fleury",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 547,
@@ -7966,7 +8576,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 548,
@@ -7979,7 +8590,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 548.06,
@@ -7992,7 +8604,8 @@
     "type": "",
     "tags": "All Star Game ASG",
     "season": "All Star",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 549,
@@ -8005,7 +8618,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 550,
@@ -8018,7 +8632,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 551,
@@ -8031,7 +8646,8 @@
     "type": "GWG",
     "tags": "GWG PPG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 552,
@@ -8044,7 +8660,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 553,
@@ -8057,7 +8674,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 554,
@@ -8070,7 +8688,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 555,
@@ -8083,7 +8702,8 @@
     "type": "PPG",
     "tags": "30th",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 556,
@@ -8096,7 +8716,8 @@
     "type": "PPG",
     "tags": "Johnny Bucyk",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 557,
@@ -8109,7 +8730,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 558,
@@ -8122,7 +8744,8 @@
     "type": "PPG",
     "tags": "Hat Trick Last",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 558.42,
@@ -8135,7 +8758,8 @@
     "type": "",
     "tags": "Quarterfinals Game 2",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 558.43,
@@ -8148,7 +8772,8 @@
     "type": "",
     "tags": "Quarterfinals Game 3",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 558.44,
@@ -8161,7 +8786,8 @@
     "type": "",
     "tags": "Quarterfinals Game 4",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 558.45,
@@ -8174,7 +8800,8 @@
     "type": "",
     "tags": "Marc-Andre Fleury Semifinals Game 1",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 558.46,
@@ -8187,7 +8814,8 @@
     "type": "",
     "tags": "Marc-Andre Fleury Semifinals Game 5",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 559,
@@ -8200,7 +8828,8 @@
     "type": "",
     "tags": "First",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 560,
@@ -8213,7 +8842,8 @@
     "type": "",
     "tags": "Guy Lafleur",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 561,
@@ -8226,7 +8856,8 @@
     "type": "",
     "tags": "Hat Trick",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 562,
@@ -8239,7 +8870,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 563,
@@ -8252,7 +8884,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 564,
@@ -8265,7 +8898,8 @@
     "type": "",
     "tags": "Hat Trick",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 565,
@@ -8278,7 +8912,8 @@
     "type": "",
     "tags": "4th",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 566,
@@ -8291,7 +8926,8 @@
     "type": "",
     "tags": "Patrick Marleau",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 567,
@@ -8304,7 +8940,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 568,
@@ -8317,7 +8954,8 @@
     "type": "OT",
     "tags": "Petr Mrazek Overtime GWG PPG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 569,
@@ -8330,7 +8968,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 570,
@@ -8343,7 +8982,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 571,
@@ -8356,7 +8996,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 572,
@@ -8369,7 +9010,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 573,
@@ -8382,7 +9024,8 @@
     "type": "",
     "tags": "Mike Bossy",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 574,
@@ -8395,7 +9038,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 575,
@@ -8408,7 +9052,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 576,
@@ -8421,7 +9066,8 @@
     "type": "ENG",
     "tags": "Empty Net Hat Trick",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 577,
@@ -8434,7 +9080,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 578,
@@ -8447,7 +9094,8 @@
     "type": "GWG",
     "tags": "20th GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 579,
@@ -8460,7 +9108,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 580,
@@ -8473,7 +9122,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 581,
@@ -8486,7 +9136,8 @@
     "type": "OT",
     "tags": "Overtime GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 582,
@@ -8499,7 +9150,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 583,
@@ -8512,7 +9164,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 584,
@@ -8525,7 +9178,8 @@
     "type": "OT",
     "tags": "Overtime GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 585,
@@ -8538,7 +9192,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 586,
@@ -8551,7 +9206,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 587,
@@ -8564,7 +9220,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 588,
@@ -8577,7 +9234,8 @@
     "type": "",
     "tags": "Harri Sateri 30th",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 588.07,
@@ -8590,7 +9248,8 @@
     "type": "",
     "tags": "All Star Game ASG",
     "season": "All Star",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 589,
@@ -8603,7 +9262,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 590,
@@ -8616,7 +9276,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 591,
@@ -8629,7 +9290,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 592,
@@ -8642,7 +9304,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 593,
@@ -8655,7 +9318,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 594,
@@ -8668,7 +9332,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 595,
@@ -8681,7 +9346,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 596,
@@ -8694,7 +9360,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 597,
@@ -8707,21 +9374,22 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 598,
     "link": "https://www.youtube.com/embed/t7JT4gyWOSw?si=vlppIajiZdNJ9PZh",
-    "text": "Outdoor Goal",
     "team": "Toronto Maple Leafs",
     "goalie": "Frederik Andersen",
     "month": "March",
     "day": 3,
     "year": 2018,
     "type": "",
-    "tags": "Outdoor",
+    "tags": "Outdoor Stadium Series",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Navy Stadium Series"
   },
   {
     "goal": 599,
@@ -8734,7 +9402,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 600,
@@ -8748,7 +9417,8 @@
     "type": "",
     "tags": "600th Goal Century",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 601,
@@ -8761,7 +9431,8 @@
     "type": "",
     "tags": "Petr Mrazek Jari Kurri",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 602,
@@ -8774,7 +9445,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Navy Stadium Series"
   },
   {
     "goal": 603,
@@ -8787,7 +9459,8 @@
     "type": "GWG",
     "tags": "GWG PPG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 604,
@@ -8800,7 +9473,8 @@
     "type": "PPG",
     "tags": "Empty Net ENG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 605,
@@ -8813,7 +9487,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 606,
@@ -8826,7 +9501,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 607,
@@ -8839,7 +9515,8 @@
     "type": "GWG",
     "tags": "Last GWG Rocket Richard Trophy",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 607.47,
@@ -8852,7 +9529,8 @@
     "type": "",
     "tags": "Quarterfinals Game 2",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 607.48,
@@ -8865,7 +9543,8 @@
     "type": "",
     "tags": "Quarterfinals Game 2",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 607.49,
@@ -8878,7 +9557,8 @@
     "type": "",
     "tags": "Quarterfinals Game 4",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": "607.50",
@@ -8891,7 +9571,8 @@
     "type": "",
     "tags": "Quarterfinals Game 6",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 607.51,
@@ -8904,7 +9585,8 @@
     "type": "",
     "tags": "Quarterfinals Game 6",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 607.52,
@@ -8917,7 +9599,8 @@
     "type": "",
     "tags": "Marc-Andre Fleury Semifinals Game 1 100th Postseason Point",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 607.53,
@@ -8930,7 +9613,8 @@
     "type": "",
     "tags": "Marc-Andre Fleury Semifinals Game 2",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 607.54,
@@ -8943,7 +9627,8 @@
     "type": "GWG",
     "tags": "Marc-Andre Fleury Semifinals Game 3 GWG",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 607.55,
@@ -8956,7 +9641,8 @@
     "type": "",
     "tags": "Eastern Conference Finals Game 1",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 607.56,
@@ -8969,7 +9655,8 @@
     "type": "",
     "tags": "Eastern Conference Finals Game 2",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 607.57,
@@ -8982,7 +9669,8 @@
     "type": "",
     "tags": "Eastern Conference Finals Game 5",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 607.58,
@@ -8995,7 +9683,8 @@
     "type": "GWG",
     "tags": "Eastern Conference Finals Game 7 GWG",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 607.59,
@@ -9008,7 +9697,8 @@
     "type": "",
     "tags": "Marc-Andre Fleury Stanley Cup Finals Game 2",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": "607.60",
@@ -9021,7 +9711,8 @@
     "type": "",
     "tags": "Marc-Andre Fleury Stanley Cup Finals Game 3",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 607.61,
@@ -9034,7 +9725,8 @@
     "type": "",
     "tags": "Marc-Andre Fleury Stanley Cup Finals Game 5",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 608,
@@ -9047,7 +9739,8 @@
     "type": "PPG",
     "tags": "First Dino Ciccarelli",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 609,
@@ -9060,7 +9753,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 610,
@@ -9073,7 +9767,8 @@
     "type": "",
     "tags": "Marc-Andre Fleury Bobby Hull",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 611,
@@ -9086,7 +9781,8 @@
     "type": "",
     "tags": "Marc-Andre Fleury",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 612,
@@ -9099,7 +9795,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 613,
@@ -9112,7 +9809,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 614,
@@ -9125,7 +9823,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 615,
@@ -9138,7 +9837,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 616,
@@ -9151,7 +9851,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 617,
@@ -9164,7 +9865,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 618,
@@ -9177,7 +9879,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 619,
@@ -9190,7 +9893,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 620,
@@ -9203,7 +9907,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 621,
@@ -9216,7 +9921,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 622,
@@ -9229,7 +9935,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 623,
@@ -9242,7 +9949,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 624,
@@ -9255,7 +9963,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 625,
@@ -9268,7 +9977,8 @@
     "type": "ENG",
     "tags": "Empty Net Jarome Iginla Joe Sakic",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 626,
@@ -9281,7 +9991,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Throwback Third Red"
   },
   {
     "goal": 627,
@@ -9294,7 +10005,8 @@
     "type": "",
     "tags": "Marc-Andre Fleury 20th",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 628,
@@ -9307,7 +10019,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 629,
@@ -9320,7 +10033,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 630,
@@ -9333,7 +10047,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 631,
@@ -9346,7 +10061,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 632,
@@ -9359,7 +10075,8 @@
     "type": "",
     "tags": "Hat Trick",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 633,
@@ -9372,7 +10089,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 634,
@@ -9385,7 +10103,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 635,
@@ -9398,7 +10117,8 @@
     "type": "PPG",
     "tags": "Hat Trick",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 636,
@@ -9411,7 +10131,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 637,
@@ -9424,7 +10145,8 @@
     "type": "",
     "tags": "30th",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 638,
@@ -9437,7 +10159,8 @@
     "type": "",
     "tags": "Jaroslav Halak",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 639,
@@ -9450,7 +10173,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 640,
@@ -9463,7 +10187,8 @@
     "type": "PPG",
     "tags": "Dave Andreychuk",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 641,
@@ -9476,7 +10201,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 642,
@@ -9489,7 +10215,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 643,
@@ -9502,7 +10229,8 @@
     "type": "",
     "tags": "Hat Trick",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 644,
@@ -9515,7 +10243,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 645,
@@ -9528,7 +10257,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 646,
@@ -9541,7 +10271,8 @@
     "type": "",
     "tags": "Valentine's Valentines Day",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 647,
@@ -9554,7 +10285,8 @@
     "type": "",
     "tags": "40th",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 648,
@@ -9567,7 +10299,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 649,
@@ -9580,7 +10313,8 @@
     "type": "GWG",
     "tags": "GWG PPG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 650,
@@ -9593,7 +10327,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 651,
@@ -9606,7 +10341,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 652,
@@ -9619,7 +10355,8 @@
     "type": "GWG",
     "tags": "GWG PPG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 653,
@@ -9632,7 +10369,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 654,
@@ -9645,7 +10383,8 @@
     "type": "PPG",
     "tags": "Vezina Trophy",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 655,
@@ -9658,7 +10397,8 @@
     "type": "",
     "tags": "Vezina Trophy",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 656,
@@ -9671,7 +10411,8 @@
     "type": "GWG",
     "tags": "Petr Mrazek Brendan Shanahan GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Throwback Third Red"
   },
   {
     "goal": 657,
@@ -9684,7 +10425,8 @@
     "type": "",
     "tags": "50th Vezina Trophy",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 658,
@@ -9697,7 +10439,8 @@
     "type": "PPG",
     "tags": "Last Vezina Trophy Rocket Richard Trophy",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 658.62,
@@ -9710,7 +10453,8 @@
     "type": "",
     "tags": "Quarterfinals Game 1",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 658.63,
@@ -9723,7 +10467,8 @@
     "type": "",
     "tags": "Quarterfinals Game 4",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 658.64,
@@ -9736,7 +10481,8 @@
     "type": "",
     "tags": "Quarterfinals Game 5",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 658.65,
@@ -9749,7 +10495,8 @@
     "type": "",
     "tags": "Quarterfinals Game 6",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 659,
@@ -9762,7 +10509,8 @@
     "type": "",
     "tags": "First",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 660,
@@ -9775,7 +10523,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 661,
@@ -9788,7 +10537,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 662,
@@ -9801,7 +10551,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 663,
@@ -9814,7 +10565,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 664,
@@ -9827,7 +10579,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 665,
@@ -9840,7 +10593,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 666,
@@ -9853,7 +10607,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 667,
@@ -9866,7 +10621,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 668,
@@ -9879,7 +10635,8 @@
     "type": "",
     "tags": "Luc Robitaille",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 669,
@@ -9892,7 +10649,8 @@
     "type": "OT",
     "tags": "Overtime GWG PPG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 670,
@@ -9905,7 +10663,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 671,
@@ -9918,7 +10677,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 672,
@@ -9931,7 +10691,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 673,
@@ -9944,7 +10705,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 674,
@@ -9957,7 +10719,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 675,
@@ -9970,7 +10733,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 676,
@@ -9983,7 +10747,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 677,
@@ -9996,7 +10761,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 678,
@@ -10009,7 +10775,8 @@
     "type": "ENG",
     "tags": "Empty Net Hat Trick 20th",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 679,
@@ -10022,7 +10789,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Throwback Third Red"
   },
   {
     "goal": 680,
@@ -10035,7 +10803,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 681,
@@ -10048,7 +10817,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 682,
@@ -10061,7 +10831,8 @@
     "type": "PPG",
     "tags": "Petr Mrazek",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 683,
@@ -10074,7 +10845,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 684,
@@ -10087,7 +10859,8 @@
     "type": "",
     "tags": "Marcus Hogberg Teemu Selanne",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 685,
@@ -10100,7 +10873,8 @@
     "type": "GWG",
     "tags": "Petr Mrazek GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 686,
@@ -10113,7 +10887,8 @@
     "type": "PPG",
     "tags": "Petr Mrazek",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 687,
@@ -10126,7 +10901,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Throwback Third Red"
   },
   {
     "goal": 688,
@@ -10139,7 +10915,8 @@
     "type": "",
     "tags": "30th",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Throwback Third Red"
   },
   {
     "goal": 689,
@@ -10152,7 +10929,8 @@
     "type": "",
     "tags": "Hat Trick",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Throwback Third Red"
   },
   {
     "goal": 690,
@@ -10165,7 +10943,8 @@
     "type": "",
     "tags": "Mario Lemieux",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 691,
@@ -10178,7 +10957,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 692,
@@ -10191,7 +10971,8 @@
     "type": "ENG",
     "tags": "Empty Net Steve Yzerman Hat Trick",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 693,
@@ -10204,7 +10985,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 694,
@@ -10217,7 +10999,8 @@
     "type": "",
     "tags": "Marcus Hogberg Mark Messier",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 695,
@@ -10230,7 +11013,8 @@
     "type": "PPG",
     "tags": "Empty Net ENG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 696,
@@ -10243,7 +11027,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 697,
@@ -10256,7 +11041,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 698,
@@ -10269,7 +11055,8 @@
     "type": "ENG",
     "tags": "Empty Net Hat Trick",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 699,
@@ -10282,7 +11069,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 700,
@@ -10296,7 +11084,8 @@
     "type": "",
     "tags": "700th Goal Century",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 701,
@@ -10309,7 +11098,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 702,
@@ -10322,7 +11112,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 703,
@@ -10335,7 +11126,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 704,
@@ -10348,7 +11140,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 705,
@@ -10361,7 +11154,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 706,
@@ -10374,7 +11168,8 @@
     "type": "",
     "tags": "Last Rocket Richard Trophy",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 706.66,
@@ -10387,7 +11182,8 @@
     "type": "",
     "tags": "Quarterfinals Game 2",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 706.67,
@@ -10400,7 +11196,8 @@
     "type": "",
     "tags": "Quarterfinals Game 2",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 706.68,
@@ -10413,7 +11210,8 @@
     "type": "",
     "tags": "Quarterfinals Game 4",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 706.69,
@@ -10426,7 +11224,8 @@
     "type": "",
     "tags": "Quarterfinals Game 4",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 707,
@@ -10439,7 +11238,8 @@
     "type": "",
     "tags": "First",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 708,
@@ -10452,7 +11252,8 @@
     "type": "OT",
     "tags": "Mike Gartner Overtime GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 709,
@@ -10465,7 +11266,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 710,
@@ -10478,7 +11280,8 @@
     "type": "PPG",
     "tags": "Superbowl Super Bowl Sunday",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Navy Third"
   },
   {
     "goal": 711,
@@ -10491,7 +11294,8 @@
     "type": "",
     "tags": "Superbowl Super Bowl Sunday",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Navy Third"
   },
   {
     "goal": 712,
@@ -10504,7 +11308,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Navy Third"
   },
   {
     "goal": 713,
@@ -10517,7 +11322,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 714,
@@ -10530,7 +11336,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 715,
@@ -10543,7 +11350,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 716,
@@ -10556,7 +11364,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 717,
@@ -10569,7 +11378,8 @@
     "type": "",
     "tags": "Phil Esposito",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 718,
@@ -10583,7 +11393,8 @@
     "type": "GWG",
     "tags": "1300th Point GWG PPG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Reverse Retro Red Screagle Red"
   },
   {
     "goal": 719,
@@ -10596,7 +11407,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 720,
@@ -10609,7 +11421,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 721,
@@ -10622,7 +11435,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 722,
@@ -10635,7 +11449,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Navy Third"
   },
   {
     "goal": 723,
@@ -10648,7 +11463,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Navy Third"
   },
   {
     "goal": 724,
@@ -10661,7 +11477,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 725,
@@ -10674,7 +11491,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 726,
@@ -10687,7 +11505,8 @@
     "type": "PPG",
     "tags": "20th",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Navy Third"
   },
   {
     "goal": 727,
@@ -10700,7 +11519,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 728,
@@ -10713,7 +11533,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 729,
@@ -10726,7 +11547,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 730,
@@ -10739,7 +11561,8 @@
     "type": "PPG",
     "tags": "Last",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": "730.70",
@@ -10752,7 +11575,8 @@
     "type": "",
     "tags": "Quarterfinals Game 3",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 730.71,
@@ -10765,7 +11589,8 @@
     "type": "",
     "tags": "Quarterfinals Game 4",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 731,
@@ -10778,7 +11603,8 @@
     "type": "PPG",
     "tags": "First Marcel Dionne",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 732,
@@ -10791,7 +11617,8 @@
     "type": "SHG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 733,
@@ -10804,7 +11631,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 734,
@@ -10817,7 +11645,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 735,
@@ -10830,7 +11659,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 736,
@@ -10843,7 +11673,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 737,
@@ -10856,7 +11687,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 738,
@@ -10869,7 +11701,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 739,
@@ -10882,7 +11715,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 740,
@@ -10895,7 +11729,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 741,
@@ -10908,7 +11743,8 @@
     "type": "",
     "tags": "Brett Hull",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 742,
@@ -10921,7 +11757,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 743,
@@ -10934,7 +11771,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 744,
@@ -10947,7 +11785,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 745,
@@ -10960,7 +11799,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 746,
@@ -10973,7 +11813,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Navy Third"
   },
   {
     "goal": 747,
@@ -10986,7 +11827,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Navy Third"
   },
   {
     "goal": 748,
@@ -10999,7 +11841,8 @@
     "type": "GWG",
     "tags": "Hat Trick GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Navy Third"
   },
   {
     "goal": 749,
@@ -11012,7 +11855,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 750,
@@ -11025,7 +11869,8 @@
     "type": "GWG",
     "tags": "20th GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Navy Third"
   },
   {
     "goal": 751,
@@ -11038,7 +11883,8 @@
     "type": "PPG",
     "tags": "Marc-Andre Fleury",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 752,
@@ -11051,7 +11897,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 753,
@@ -11065,7 +11912,8 @@
     "type": "GWG",
     "tags": "275th Power Play Goal New Years Eve GWG PPG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 754,
@@ -11078,7 +11926,8 @@
     "type": "ENG",
     "tags": "Empty Net New Years Eve",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 755,
@@ -11091,7 +11940,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 756,
@@ -11104,7 +11954,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Navy Third"
   },
   {
     "goal": 757,
@@ -11117,7 +11968,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 758,
@@ -11130,7 +11982,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Navy Third"
   },
   {
     "goal": 759,
@@ -11143,7 +11996,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Navy Third"
   },
   {
     "goal": 760,
@@ -11156,7 +12010,8 @@
     "type": "PPG",
     "tags": "30th",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 761,
@@ -11169,7 +12024,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 762,
@@ -11182,7 +12038,8 @@
     "type": "",
     "tags": "Vezina Trophy",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 763,
@@ -11195,7 +12052,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 764,
@@ -11208,7 +12066,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 765,
@@ -11221,7 +12080,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 766,
@@ -11234,7 +12094,8 @@
     "type": "GWG",
     "tags": "ENG Jaromir Jagr GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 767,
@@ -11247,7 +12108,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 768,
@@ -11260,7 +12122,8 @@
     "type": "PPG",
     "tags": "Elvis Merzlikins",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 769,
@@ -11273,7 +12136,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 770,
@@ -11286,7 +12150,8 @@
     "type": "PPG",
     "tags": "40th",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 771,
@@ -11299,7 +12164,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 772,
@@ -11312,7 +12178,8 @@
     "type": "GWG",
     "tags": "GWG PPG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Navy Third"
   },
   {
     "goal": 773,
@@ -11325,7 +12192,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 774,
@@ -11338,7 +12206,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 775,
@@ -11351,7 +12220,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Navy Third"
   },
   {
     "goal": 776,
@@ -11364,7 +12234,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 777,
@@ -11377,7 +12248,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 778,
@@ -11390,7 +12262,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 779,
@@ -11403,7 +12276,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 780,
@@ -11416,7 +12290,8 @@
     "type": "",
     "tags": "Last 50th",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 780.72,
@@ -11429,7 +12304,8 @@
     "type": "",
     "tags": "Quarterfinals Game 3",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 781,
@@ -11442,7 +12318,8 @@
     "type": "PPG",
     "tags": "First",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Navy Third"
   },
   {
     "goal": 782,
@@ -11455,7 +12332,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Navy Third"
   },
   {
     "goal": 783,
@@ -11468,7 +12346,8 @@
     "type": "GWG",
     "tags": "GWG PPG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 784,
@@ -11481,7 +12360,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 785,
@@ -11494,7 +12374,8 @@
     "type": "PPG",
     "tags": "Halloween",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 786,
@@ -11507,7 +12388,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 787,
@@ -11520,7 +12402,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Reverse Retro Black Screagle Black"
   },
   {
     "goal": 788,
@@ -11533,7 +12416,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 789,
@@ -11546,7 +12430,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 790,
@@ -11559,7 +12444,8 @@
     "type": "OT",
     "tags": "Felix Sandstrom Overtime GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 791,
@@ -11572,7 +12458,8 @@
     "type": "PPG",
     "tags": "Jacob Markstrom",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Reverse Retro Black Screagle Black"
   },
   {
     "goal": 792,
@@ -11585,7 +12472,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 793,
@@ -11598,7 +12486,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 794,
@@ -11611,7 +12500,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 795,
@@ -11624,7 +12514,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 796,
@@ -11637,7 +12528,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Reverse Retro Black Screagle Black"
   },
   {
     "goal": 797,
@@ -11650,7 +12542,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 798,
@@ -11663,7 +12556,8 @@
     "type": "",
     "tags": "Petr Mrazek",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 799,
@@ -11676,7 +12570,8 @@
     "type": "PPG",
     "tags": "Petr Mrazek",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 800,
@@ -11690,7 +12585,8 @@
     "type": "",
     "tags": "Petr Mrazek 800th Goal Century Hat Trick 20th",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 801,
@@ -11703,7 +12599,8 @@
     "type": "",
     "tags": "Gordie Howe",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Reverse Retro Black Screagle Black"
   },
   {
     "goal": 802,
@@ -11716,7 +12613,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Reverse Retro Black Screagle Black"
   },
   {
     "goal": 803,
@@ -11729,7 +12627,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 804,
@@ -11742,7 +12641,8 @@
     "type": "",
     "tags": "New Years Eve",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Reverse Retro Black Screagle Black"
   },
   {
     "goal": 805,
@@ -11755,7 +12655,8 @@
     "type": "PPG",
     "tags": "New Years Eve",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Reverse Retro Black Screagle Black"
   },
   {
     "goal": 806,
@@ -11768,7 +12669,8 @@
     "type": "",
     "tags": "Hat Trick New Years Eve",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Reverse Retro Black Screagle Black"
   },
   {
     "goal": 807,
@@ -11781,7 +12683,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Reverse Retro Black Screagle Black"
   },
   {
     "goal": 808,
@@ -11794,7 +12697,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Reverse Retro Black Screagle Black"
   },
   {
     "goal": 809,
@@ -11807,7 +12711,8 @@
     "type": "PPG",
     "tags": "Elvis Merzlikins",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 810,
@@ -11820,7 +12725,8 @@
     "type": "",
     "tags": "30th",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Reverse Retro Black Screagle Black"
   },
   {
     "goal": 811,
@@ -11833,7 +12739,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 812,
@@ -11846,7 +12753,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 813.08,
@@ -11859,7 +12767,8 @@
     "type": "",
     "tags": "All Star Game ASG",
     "season": "All Star",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 813,
@@ -11872,7 +12781,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 814,
@@ -11885,7 +12795,8 @@
     "type": "",
     "tags": "Kaapo Kahkonen",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 815,
@@ -11898,7 +12809,8 @@
     "type": "",
     "tags": "Kaapo Kahkonen",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 816,
@@ -11911,7 +12823,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 817,
@@ -11924,7 +12837,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 818,
@@ -11937,7 +12851,8 @@
     "type": "PPG",
     "tags": "Marc-Andre Fleury",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 819,
@@ -11950,7 +12865,8 @@
     "type": "PPG",
     "tags": "Marc-Andre Fleury",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 820,
@@ -11963,7 +12879,8 @@
     "type": "",
     "tags": "40th",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 821,
@@ -11976,7 +12893,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 822,
@@ -11989,7 +12907,8 @@
     "type": "PPG",
     "tags": "Last",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 823,
@@ -12002,7 +12921,8 @@
     "type": "PPG",
     "tags": "First",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 824,
@@ -12015,7 +12935,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 825,
@@ -12028,7 +12949,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 826,
@@ -12041,7 +12963,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 827,
@@ -12054,7 +12977,8 @@
     "type": "",
     "tags": "Elvis Merzlikins",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 828,
@@ -12067,7 +12991,8 @@
     "type": "OT",
     "tags": "Elvis Merzlikins Overtime GWG PPG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 829,
@@ -12080,7 +13005,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Navy Third"
   },
   {
     "goal": 830,
@@ -12093,7 +13019,8 @@
     "type": "GWG",
     "tags": "GWG PPG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 831,
@@ -12106,7 +13033,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 832,
@@ -12119,7 +13047,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Navy Third"
   },
   {
     "goal": 833,
@@ -12132,7 +13061,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 834,
@@ -12145,7 +13075,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 835,
@@ -12158,7 +13089,8 @@
     "type": "",
     "tags": "Superbowl Super Bowl Sunday",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 836,
@@ -12171,7 +13103,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 837,
@@ -12184,7 +13117,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Navy Third"
   },
   {
     "goal": 838,
@@ -12197,7 +13131,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Navy Third"
   },
   {
     "goal": 839,
@@ -12210,7 +13145,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 840,
@@ -12223,7 +13159,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 841,
@@ -12236,7 +13173,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 842,
@@ -12249,7 +13187,8 @@
     "type": "PPG",
     "tags": "20th",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 843,
@@ -12262,7 +13201,8 @@
     "type": "GWG",
     "tags": "GWG PPG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 844,
@@ -12275,7 +13215,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 845,
@@ -12288,7 +13229,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 846,
@@ -12301,7 +13243,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 847,
@@ -12314,7 +13257,8 @@
     "type": "",
     "tags": "Vezina Trophy",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 848,
@@ -12327,7 +13271,8 @@
     "type": "",
     "tags": "Vezina Trophy",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 849,
@@ -12340,7 +13285,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 850,
@@ -12353,7 +13299,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 851,
@@ -12366,7 +13313,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 852,
@@ -12379,7 +13327,8 @@
     "type": "GWG",
     "tags": "30th GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 853,
@@ -12392,7 +13341,8 @@
     "type": "",
     "tags": "Last",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 854,
@@ -12405,7 +13355,8 @@
     "type": "",
     "tags": "Markstrom First",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 855,
@@ -12418,7 +13369,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 856,
@@ -12431,7 +13383,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 857,
@@ -12444,7 +13397,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 858,
@@ -12457,7 +13411,8 @@
     "type": "",
     "tags": "Halloween",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 859,
@@ -12470,7 +13425,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 860,
@@ -12483,7 +13439,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 861,
@@ -12496,7 +13453,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Reverse Retro Black Screagle Black"
   },
   {
     "goal": 862,
@@ -12509,7 +13467,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 863,
@@ -12522,7 +13481,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 864,
@@ -12535,7 +13495,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 865,
@@ -12548,7 +13509,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 866,
@@ -12561,7 +13523,8 @@
     "type": "ENG",
     "tags": "Empty Net Hat Trick",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 867,
@@ -12574,7 +13537,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 868,
@@ -12587,7 +13551,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 869,
@@ -12600,7 +13565,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 870,
@@ -12613,7 +13579,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 871,
@@ -12626,7 +13593,8 @@
     "type": "PPG",
     "tags": "Marc-Andre Fleury",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 872,
@@ -12639,7 +13607,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 873,
@@ -12652,7 +13621,8 @@
     "type": "ENG",
     "tags": "Empty Net 20th",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 874,
@@ -12665,7 +13635,8 @@
     "type": "OT",
     "tags": "Merilainen Overtime GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 875,
@@ -12678,7 +13649,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 876,
@@ -12691,7 +13663,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 877,
@@ -12704,7 +13677,8 @@
     "type": "",
     "tags": "Hart Trophy Vezina Trophy",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Reverse Retro Black Screagle Black"
   },
   {
     "goal": 878,
@@ -12717,7 +13691,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 879,
@@ -12730,7 +13705,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 880,
@@ -12743,7 +13719,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 881,
@@ -12756,7 +13733,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 882,
@@ -12769,7 +13747,8 @@
     "type": "ENG",
     "tags": "Empty Net Hat Trick",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 883,
@@ -12782,7 +13761,8 @@
     "type": "PPG",
     "tags": "30th",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 884,
@@ -12795,7 +13775,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 885,
@@ -12808,7 +13789,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 886,
@@ -12822,7 +13804,8 @@
     "type": "ENG",
     "tags": "1600th Point Empty Net",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 887,
@@ -12835,7 +13818,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 888,
@@ -12848,7 +13832,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 889,
@@ -12861,7 +13846,8 @@
     "type": "",
     "tags": "Hart Trophy Vezina Trophy",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 890,
@@ -12874,7 +13860,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 891,
@@ -12887,7 +13874,8 @@
     "type": "PPG",
     "tags": "April Fools Day",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 892,
@@ -12900,7 +13888,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 893,
@@ -12913,7 +13902,8 @@
     "type": "",
     "tags": "40th",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 894,
@@ -12927,7 +13917,8 @@
     "type": "GWG",
     "tags": "Wayne Gretzky GWG PPG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 895,
@@ -12941,7 +13932,8 @@
     "type": "PPG",
     "tags": "Wayne Gretzky The Chasing Days Are Done",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 896,
@@ -12954,7 +13946,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Reverse Retro Black Screagle Black"
   },
   {
     "goal": 897,
@@ -12967,7 +13960,8 @@
     "type": "PPG",
     "tags": "Last",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 897.73,
@@ -12980,7 +13974,8 @@
     "type": "",
     "tags": "Quarterfinals Game 1",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 897.74,
@@ -12993,7 +13988,8 @@
     "type": "OT",
     "tags": "Quarterfinals Game 1 GWG Overtime",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 897.75,
@@ -13006,7 +14002,8 @@
     "type": "",
     "tags": "Quarterfinals Game 3",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 897.76,
@@ -13019,7 +14016,8 @@
     "type": "",
     "tags": "Quarterfinals Game 5",
     "season": "Playoffs",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 897.77,
@@ -13032,7 +14030,8 @@
     "type": "",
     "tags": "Semifinals Game 4",
     "season": "Playoffs",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 898,
@@ -13045,7 +14044,8 @@
     "type": "",
     "tags": "First",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Reverse Retro Red Screagle Red"
   },
   {
     "goal": 899,
@@ -13058,7 +14058,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 900,
@@ -13071,7 +14072,8 @@
     "type": "GWG",
     "tags": "900th Goal Century GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 901,
@@ -13084,7 +14086,8 @@
     "type": "ENG",
     "tags": "Empty Net",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 902,
@@ -13097,7 +14100,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Reverse Retro Red Screagle Red"
   },
   {
     "goal": 903,
@@ -13110,7 +14114,8 @@
     "type": "GWG",
     "tags": "GWG",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 904,
@@ -13123,7 +14128,8 @@
     "type": "",
     "tags": "",
     "season": "Regular",
-    "arena": "Home"
+    "arena": "Home",
+    "jersey": "Red Capitals"
   },
   {
     "goal": 905,
@@ -13136,7 +14142,8 @@
     "type": "PPG",
     "tags": "",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 906,
@@ -13149,7 +14156,8 @@
     "type": "",
     "tags": "Jakub Dobes",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   },
   {
     "goal": 907,
@@ -13162,6 +14170,7 @@
     "type": "ENG",
     "tags": "Hat Trick",
     "season": "Regular",
-    "arena": "Away"
+    "arena": "Away",
+    "jersey": "White Capitals"
   }
 ]
