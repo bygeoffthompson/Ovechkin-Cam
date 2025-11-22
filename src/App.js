@@ -33,7 +33,15 @@ function SearchForm({jsonData}) {
         if (searchText1 || searchText2 || searchText3) {
             const results = jsonData.filter((item) => {
                 const search =
-                    item.month + ' ' + item.day + ' ' + item.year + ' ' + item.goalie + ' ' + item.team + item.tags + ' ' + item.type + ' ' + item.season;
+                    item.month +
+                    ' ' + item.day +
+                    ' ' + item.year +
+                    ' ' + item.goalie +
+                    ' ' + item.team +
+                    ' ' + item.tags +
+                    ' ' + item.type +
+                    ' ' + item.jersey +
+                    ' ' + item.season;
                 return (
                     search.toLowerCase().includes(searchText1) &&
                     search.toLowerCase().includes(searchText2) &&
