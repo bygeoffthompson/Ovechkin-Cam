@@ -197,6 +197,39 @@ function SearchForm({jsonData}) {
         resultsHide();
     };
 
+/*    const capitol = () => {
+        goalButton(['Capitol Black']);
+        clickTrack('Capitol Jersey');
+    };
+    const screagle = () => {
+        goalButton(['Screagle White']);
+        clickTrack('Screagle Jersey');
+    };
+    const red = () => {
+        goalButton(['Capitals Red']);
+        clickTrack('Red Jersey');
+    };
+    const white = () => {
+        goalButton(['Capitals White']);
+        clickTrack('White Jersey');
+    };
+    const throwback = () => {
+        goalButton(['Throwback Third Red']);
+        clickTrack('Throwback Jersey');
+    };
+    const navy = () => {
+        goalButton(['Navy Third']);
+        clickTrack('Navy Third Jersey');
+    };
+    const retroRed = () => {
+        goalButton(['Reverse Retro Red']);
+        clickTrack('Retro Red Jersey');
+    };
+    const retroBlack = () => {
+        goalButton(['Reverse Retro Black']);
+        clickTrack('Retro Black Jersey');
+    };*/
+
     const clickGoal = () => {
         document.getElementById('goal-click').addEventListener('click', function(event) {
             const page = document.querySelector('body').getBoundingClientRect();
@@ -252,6 +285,16 @@ function SearchForm({jsonData}) {
                     <button onClick={overtimeGoal} name="Overtime Goal" title="An Overtime Goal" type="button">OT Goal</button>
                     <button onClick={hatTrickGoal} name="Hat Trick Goal" title="A Hat Trick Goal" type="button">Hat Trick</button>
                 </div>
+{/*                <div>
+                    <button onClick={capitol} name="Capitol" title="Capitol" type="button">Capitol</button>
+                    <button onClick={screagle} name="Screagle" title="Screagle" type="button">Screagle</button>
+                    <button onClick={red} name="Red" title="Red" type="button">Red</button>
+                    <button onClick={white} name="White" title="White" type="button">White</button>
+                    <button onClick={throwback} name="Throwback" title="Throwback" type="button">Throwback</button>
+                    <button onClick={navy} name="Navy Third" title="Navy Third" type="button">Navy</button>
+                    <button onClick={retroRed} name="Retro Red" title="Retro Red" type="button">Retro Red</button>
+                    <button onClick={retroBlack} name="Retro Black" title="Retro Black" type="button">Retro Black</button>
+                </div>*/}
                 <div>
                     <button onClick={reset} name="Reset" type="button">Reset</button>
                 </div>

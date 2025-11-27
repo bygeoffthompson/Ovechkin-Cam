@@ -366,6 +366,47 @@ button:active {
   transform: scale(1.05);
 }
 
+button[name="Capitol"] {
+  background: #000;
+  color: #EAEAEA;
+}
+
+button[name="Screagle"] {
+    background: #FFF;
+    color: #1E3673;
+}
+
+
+button[name="Red"] {
+    background: #C8102E;
+    color: #EAEAEA;
+}
+
+button[name="White"] {
+    background: #EAEAEA;
+    color: #C8102E;
+}
+
+button[name="Throwback"] {
+    background: #b10305;
+    color: #EAEAEA;
+}
+
+button[name="Navy Third"] {
+    background: #041e41;
+    color: #EAEAEA;
+}
+
+button[name="Retro Black"] {
+    background: #000;
+    color: #CE8946;
+}
+
+button[name="Retro Red"] {
+    background: #C8102E;
+    color: #000;
+}
+
 button[name="Reset"] {
   background: transparent;
 }
