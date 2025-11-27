@@ -376,7 +376,6 @@ button[name="Screagle"] {
     color: #1E3673;
 }
 
-
 button[name="Red"] {
     background: #C8102E;
     color: #EAEAEA;
@@ -392,7 +391,7 @@ button[name="Throwback"] {
     color: #EAEAEA;
 }
 
-button[name="Navy Third"] {
+button[name="Navy"] {
     background: #041e41;
     color: #EAEAEA;
 }
@@ -416,6 +415,22 @@ button[name="Reset"]:active {
   box-shadow: 0 .5rem 1rem rgba(41,41,41,.25);
   color: #292929;
   transform: none;
+}
+
+.jersey-button {
+    padding: 6px 0 2px;
+}
+
+.jersey-logo {
+    max-width: 36px;
+}
+
+.jersey-logo[src="/jerseys/capitals.svg"] {
+    max-width: 54px;
+}
+
+.jersey-logo[src="/jerseys/navy.svgz"] {
+    max-width: 30px;
 }
 
 form {
