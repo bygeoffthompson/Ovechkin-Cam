@@ -14172,5 +14172,19 @@
     "season": "Regular",
     "arena": "Away",
     "jersey": "Capitals White"
+  },
+    {
+    "goal": 908,
+    "link": ",
+    "team": "Winnipeg Jets",
+    "goalie": "Eric Comrie",
+    "month": "November",
+    "day": 26,
+    "year": 2025,
+    "type": "",
+    "tags": "",
+    "season": "Regular",
+    "arena": "Home",
+    "jersey": "Capitals Red"
   }
 ]
