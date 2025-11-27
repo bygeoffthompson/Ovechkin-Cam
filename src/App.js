@@ -3,7 +3,7 @@ import ReactGA from 'react-ga4';
 
 ReactGA.initialize('G-5RVBYX6N0S');
 
-const totalGoals = 907;
+const totalGoals = 908;
 
 function SearchForm({jsonData}) {
     const [searchGoal, setSearchGoal] = useState('');
