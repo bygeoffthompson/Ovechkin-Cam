@@ -400,7 +400,6 @@ button[name="Capitol"] {
 
 button[name="Screagle"] {
     background: #FFF;
-    background-image: linear-gradient(150deg, #FFFFFF 70%, #175787 71%);
 }
 
 button[name="Screagle"]:hover {
@@ -422,7 +421,6 @@ button[name="Throwback"] {
 
 button[name="Navy"] {
     background: #041e41;
-    background-image: linear-gradient(135deg, #041e41 85%, #C81020 85%);
 }
 
 button[name="Reverse Retro"] {
@@ -437,11 +435,11 @@ button[name="Reverse Retro"]:hover {
 
 button[name="Reset"] {
   background: transparent;
+  box-shadow: none;
 }
 
 button[name="Reset"]:hover,
 button[name="Reset"]:active {
-  box-shadow: 0 .5rem 1rem rgba(41,41,41,.25);
   color: #292929;
   transform: none;
 }
@@ -456,7 +454,7 @@ form {
   gap: 1.5rem;
   justify-content: center;
   margin-bottom: 2rem;
-  padding: 2rem;
+  padding: 2rem 2rem 1rem;
   position: relative;
 }
 
