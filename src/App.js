@@ -272,6 +272,7 @@ function SearchForm({jsonData}) {
                     <strong>or Randomize</strong>
                 </div>
                 <div>
+                    &nbsp;<small>Type</small>
                  {/*<button onClick={anyGoal} name="Goal" title="Any Goal" type="button">Any</button>*/}
                     <button onClick={homeGoal} name="Home Goal" title="Home Goal" type="button">Home</button>
                     <button onClick={awayGoal} name="Away Goal" title="Away Goal" type="button">Away</button>
@@ -282,6 +283,7 @@ function SearchForm({jsonData}) {
                     <button onClick={hatTrickGoal} name="Hat Trick Goal" title="A Hat Trick Goal" type="button">Hat Trick</button>
                 </div>
                 <div>
+                    <small>Jersey</small>
                     <button onClick={capitol} className="jersey-button" name="Capitol" title="Capitol" type="button">
                         <img alt="Capitol logo" className="jersey-logo" src="/jerseys/capitol.svgz" />
                     </button>
