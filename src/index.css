@@ -340,7 +340,7 @@ body.goal-lights #goal:before {
 
 button {
   backface-visibility: hidden;
-  background: #CE8946;
+  background: #FFF;
   border: 0;
   border-radius: .375rem;
   box-shadow: 0 .5rem 1rem rgba(41,41,41,.25);
@@ -360,7 +360,7 @@ button {
 
 button:hover,
 button:active {
-  background: #292929;
+  background: #C8102E;
   color: #EFEFEF;
   box-shadow: 0 .5rem 3rem #CE8946;
   transform: scale(1.05);
@@ -474,7 +474,6 @@ form h2 {
 
 form strong {
   border-bottom: 3px solid #CE8946;
-  color: #1E3673;
   font-size: 1.33rem;
 }
 
