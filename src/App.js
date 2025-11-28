@@ -176,7 +176,7 @@ function SearchForm({jsonData}) {
     };
 
     const clickGoal = () => {
-        document.getElementById('goal-click').addEventListener('click', function(event) {
+        document.getElementById('click-goal').addEventListener('click', function(event) {
             const page = document.querySelector('body').getBoundingClientRect();
             const x = event.clientX - page.left;
             const y = event.clientY - page.top;
@@ -271,7 +271,7 @@ function SearchForm({jsonData}) {
                 <strong id="count"></strong>
             </div>
 
-            <div id="goal-click" onClick={clickGoal}></div>
+            <div id="click-goal" onClick={clickGoal}></div>
 
             <div className="wrapper">
                 {searchResults.map((result, index) => (
