@@ -214,7 +214,7 @@ function SearchForm({jsonData}) {
         clickTrack('White Jersey');
     };
     const throwback = () => {
-        goalButton(['Throwback Third Red', 'Throwback Third White']);
+        goalButton(['Red Throwback', 'White Throwback']);
         clickTrack('Throwback Jersey');
     };
     const navy = () => {
