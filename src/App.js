@@ -184,13 +184,6 @@ function SearchForm({jsonData}) {
         document.querySelector('#advanced').classList.remove('show');
     }
 
-    const anyGoal = () => {
-        resultsHide();
-        const anyGoal = random(1, totalGoals);
-        setSearchGoal(anyGoal);
-        clickTrack('Random');
-    };
-
     const reset = () => {
         setSearchGoal('');
         setSearchResults([]);
