@@ -40,8 +40,8 @@ function SearchForm({jsonData}) {
                     ' ' + item.team +
                     ' ' + item.tags +
                     ' ' + item.type +
-                    ' ' + item.jersey +
-                    ' ' + item.season;
+                    ' ' + item.season +
+                    ' ' + item.jersey + ' Jersey';
                 return (
                     search.toLowerCase().includes(searchText1) &&
                     search.toLowerCase().includes(searchText2) &&
@@ -206,11 +206,11 @@ function SearchForm({jsonData}) {
         clickTrack('Screagle Jersey');
     };
     const red = () => {
-        goalButton(['Capitals Red']);
+        goalButton(['Red']);
         clickTrack('Red Jersey');
     };
     const white = () => {
-        goalButton(['Capitals White']);
+        goalButton(['White']);
         clickTrack('White Jersey');
     };
     const throwback = () => {
