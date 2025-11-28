@@ -113,6 +113,41 @@ function SearchForm({jsonData}) {
         setSearchText3(event.target.value.toLowerCase());
     };
 
+    const emptyNetGoal = () => {
+        goalButton(['ENG']);
+        clickTrack('Empty Net');
+    };
+
+    const awayGoal = () => {
+        goalButton(['Away']);
+        clickTrack('Away');
+    };
+
+    const homeGoal = () => {
+        goalButton(['Home']);
+        clickTrack('Home');
+    };
+
+    const gameWinningGoal = () => {
+        goalButton(['OT', 'GWG']);
+        clickTrack('Game Winning');
+    };
+
+    const hatTrickGoal = () => {
+        goalButton(['Hat Trick']);
+        clickTrack('Hat Trick');
+    };
+
+    const overtimeGoal = () => {
+        goalButton(['OT']);
+        clickTrack('Overtime');
+    };
+
+    const powerPlayGoal = () => {
+        goalButton(['PPG']);
+        clickTrack('Power Play');
+    };
+
     const preventSubmit = (event) => {
         event.preventDefault();
     };
@@ -131,7 +166,7 @@ function SearchForm({jsonData}) {
     function clickTrack(btn) {
         ReactGA.event({
             category: 'Click',
-            action: btn + ' Click',
+            action: btn + ' Goal Click',
             value: 1
         });
     }
@@ -148,6 +183,13 @@ function SearchForm({jsonData}) {
         setSearchText3('');
         document.querySelector('#advanced').classList.remove('show');
     }
+
+    const anyGoal = () => {
+        resultsHide();
+        const anyGoal = random(1, totalGoals);
+        setSearchGoal(anyGoal);
+        clickTrack('Random');
+    };
 
     const reset = () => {
         setSearchGoal('');
@@ -167,12 +209,6 @@ function SearchForm({jsonData}) {
             goalButton([jersey]);
         }
         clickTrack(jersey + ' Jersey');
-    };
-
-    const typeButton = () => {
-        const type = document.querySelector('.type-button:focus').getAttribute('name');
-        goalButton([type]);
-        clickTrack(type);
     };
 
     const clickGoal = () => {
@@ -222,13 +258,14 @@ function SearchForm({jsonData}) {
                 </div>
                 <div>
                     &nbsp;<small>Type</small>
-                    <button onClick={typeButton} className="type-button" name="Home" title="Home Goal" type="button">Home</button>
-                    <button onClick={typeButton} className="type-button" name="Away" title="Away Goal" type="button">Away</button>
-                    <button onClick={typeButton} className="type-button" name="PPG" title="Power Play Goal" type="button">PPG</button>
-                    <button onClick={typeButton} className="type-button" name="GWG" title="Game Winning Goal" type="button">GWG</button>
-                    <button onClick={typeButton} className="type-button" name="Empty Net" title="Empty Net Goal" type="button">ENG</button>
-                    <button onClick={typeButton} className="type-button" name="OT" title="Overtime Goal" type="button">OT Goal</button>
-                    <button onClick={typeButton} className="type-button" name="Hat Trick" title="Hat Trick Goal" type="button">Hat Trick</button>
+                 {/*<button onClick={anyGoal} name="Goal" title="Any Goal" type="button">Any</button>*/}
+                    <button onClick={homeGoal} name="Home Goal" title="Home Goal" type="button">Home</button>
+                    <button onClick={awayGoal} name="Away Goal" title="Away Goal" type="button">Away</button>
+                    <button onClick={powerPlayGoal} name="Power Play Goal" title="A Power Play Goal" type="button">PPG</button>
+                    <button onClick={gameWinningGoal} name="Game Winning Goal" title="A Game Winning Goal" type="button">GWG</button>
+                    <button onClick={emptyNetGoal} name="Empty Net Goal" title="An Empty Net Goal" type="button">ENG</button>
+                    <button onClick={overtimeGoal} name="Overtime Goal" title="An Overtime Goal" type="button">OT Goal</button>
+                    <button onClick={hatTrickGoal} name="Hat Trick Goal" title="A Hat Trick Goal" type="button">Hat Trick</button>
                 </div>
                 <div>
                     <small>Jersey</small>
