@@ -416,7 +416,7 @@ button[name="White"] {
 
 button[name="Throwback"] {
     background: #C8102E;
-    background-image: linear-gradient(180deg, #e13a3e 11%, #FFFFFF 12%, #FFFFFF 88%, #e13a3e 89%);
+    background-image: linear-gradient(50deg, #E13A3E 25%, #FFFFFF 26%, #FFFFFF 74%, #E13A3E 75%);
 }
 
 button[name="Navy"] {

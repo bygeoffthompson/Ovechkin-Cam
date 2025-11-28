@@ -198,11 +198,11 @@ function SearchForm({jsonData}) {
     };
 
     const capitol = () => {
-        goalButton(['Capitol Black']);
+        goalButton(['Capitol']);
         clickTrack('Capitol Jersey');
     };
     const screagle = () => {
-        goalButton(['Screagle White']);
+        goalButton(['Screagle']);
         clickTrack('Screagle Jersey');
     };
     const red = () => {
