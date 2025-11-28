@@ -214,20 +214,16 @@ function SearchForm({jsonData}) {
         clickTrack('White Jersey');
     };
     const throwback = () => {
-        goalButton(['Throwback Third Red']);
+        goalButton(['Throwback Third Red', 'Throwback Third White']);
         clickTrack('Throwback Jersey');
     };
     const navy = () => {
-        goalButton(['Navy Third']);
-        clickTrack('Navy Third Jersey');
+        goalButton(['Navy Third', 'Navy Stadium Series']);
+        clickTrack('Navy Jersey');
     };
-    const retroRed = () => {
-        goalButton(['Reverse Retro Red']);
-        clickTrack('Retro Red Jersey');
-    };
-    const retroBlack = () => {
-        goalButton(['Reverse Retro Black']);
-        clickTrack('Retro Black Jersey');
+    const reverseRetro = () => {
+        goalButton(['Reverse Retro Black', 'Reverse Retro Red']);
+        clickTrack('Reverse Retro Jersey');
     };
 
     const clickGoal = () => {
@@ -285,7 +281,7 @@ function SearchForm({jsonData}) {
                     <button onClick={overtimeGoal} name="Overtime Goal" title="An Overtime Goal" type="button">OT Goal</button>
                     <button onClick={hatTrickGoal} name="Hat Trick Goal" title="A Hat Trick Goal" type="button">Hat Trick</button>
                 </div>
-{/*                <div>
+                <div>
                     <button onClick={capitol} className="jersey-button" name="Capitol" title="Capitol" type="button">
                         <img alt="Capitol logo" className="jersey-logo" src="/jerseys/capitol.svgz" />
                     </button>
@@ -298,19 +294,16 @@ function SearchForm({jsonData}) {
                     <button onClick={white} className="jersey-button" name="White" title="White" type="button">
                         <img alt="White logo" className="jersey-logo" src="/jerseys/capitals.svgz" />
                     </button>
-                    <button onClick={throwback} className="jersey-button" name="Throwback" title="Throwback" type="button">
+                    <button onClick={throwback} className="jersey-button" name="Throwback" title="Throwback Third" type="button">
                         <img alt="Throwback logo" className="jersey-logo" src="/jerseys/throwback.svgz" />
                     </button>
                     <button onClick={navy} className="jersey-button" name="Navy" title="Navy" type="button">
                         <img alt="Navy logo" className="jersey-logo" src="/jerseys/navy.svgz" />
                     </button>
-                    <button onClick={retroRed} className="jersey-button" name="Retro Red" title="Retro Red" type="button">
-                        <img alt="Retro Red logo" className="jersey-logo" src="/jerseys/retro.svgz" />
+                    <button onClick={reverseRetro} className="jersey-button" name="Reverse Retro" title="Reverse Retro" type="button">
+                        <img alt="Reverse Retro logo" className="jersey-logo" src="/jerseys/retro.svgz" />
                     </button>
-                    <button onClick={retroBlack} className="jersey-button" name="Retro Black" title="Retro Black" type="button">
-                        <img alt="Retro Black logo" className="jersey-logo" src="/jerseys/retro.svgz" />
-                    </button>
-                </div>*/}
+                </div>
                 <div>
                     <button onClick={reset} name="Reset" type="button">Reset</button>
                 </div>

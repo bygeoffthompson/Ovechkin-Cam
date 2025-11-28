@@ -366,59 +366,16 @@ button:active {
   transform: scale(1.05);
 }
 
-button[name="Capitol"] {
-  background: #000;
-  color: #EAEAEA;
-}
-
-button[name="Screagle"] {
-    background: #FFF;
-    color: #1E3673;
-}
-
-button[name="Red"] {
-    background: #C8102E;
-    color: #EAEAEA;
-}
-
-button[name="White"] {
-    background: #EAEAEA;
-    color: #C8102E;
-}
-
-button[name="Throwback"] {
-    background: #b10305;
-    color: #EAEAEA;
-}
-
-button[name="Navy"] {
-    background: #041e41;
-    color: #EAEAEA;
-}
-
-button[name="Retro Black"] {
-    background: #000;
-    color: #CE8946;
-}
-
-button[name="Retro Red"] {
-    background: #C8102E;
-    color: #000;
-}
-
-button[name="Reset"] {
-  background: transparent;
-}
-
-button[name="Reset"]:hover,
-button[name="Reset"]:active {
-  box-shadow: 0 .5rem 1rem rgba(41,41,41,.25);
-  color: #292929;
-  transform: none;
-}
-
 .jersey-button {
-    padding: 6px 0 2px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    min-height: 38px;
+}
+
+.jersey-button:hover {
+    box-shadow: 0 .5rem 3rem #C8102E;
 }
 
 .jersey-logo {
@@ -430,7 +387,63 @@ button[name="Reset"]:active {
 }
 
 .jersey-logo[src="/jerseys/navy.svgz"] {
-    max-width: 30px;
+    max-width: 24px;
+}
+
+.jersey-logo[src="/jerseys/throwback.svgz"] {
+    max-width: 40px;
+}
+
+button[name="Capitol"] {
+  background: #000;
+}
+
+button[name="Screagle"] {
+    background: #FFF;
+    background-image: linear-gradient(150deg, #FFFFFF 70%, #175787 71%);
+}
+
+button[name="Screagle"]:hover {
+    box-shadow: 0 .5rem 3rem #175787;
+}
+
+button[name="Red"] {
+    background: #C8102E;
+}
+
+button[name="White"] {
+    background: #FFF;
+}
+
+button[name="Throwback"] {
+    background: #C8102E;
+    background-image: linear-gradient(180deg, #e13a3e 11%, #FFFFFF 12%, #FFFFFF 88%, #e13a3e 89%);
+}
+
+button[name="Navy"] {
+    background: #041e41;
+    background-image: linear-gradient(135deg, #041e41 85%, #C81020 85%);
+}
+
+button[name="Reverse Retro"] {
+    background: #C8102E;
+    background-image: linear-gradient(50deg, #C81020 49%, #000000 51%);
+}
+
+button[name="Capitol"]:hover,
+button[name="Reverse Retro"]:hover {
+    box-shadow: 0 .5rem 3rem #000000;
+}
+
+button[name="Reset"] {
+  background: transparent;
+}
+
+button[name="Reset"]:hover,
+button[name="Reset"]:active {
+  box-shadow: 0 .5rem 1rem rgba(41,41,41,.25);
+  color: #292929;
+  transform: none;
 }
 
 form {
