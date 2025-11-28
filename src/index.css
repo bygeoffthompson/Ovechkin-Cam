@@ -603,7 +603,7 @@ label[for="search-text-1"]:before {
 
 @media (min-width: 768px) {
   button {
-    min-width: 80px;
+    min-width: 90px;
   }
 
   form > div {
