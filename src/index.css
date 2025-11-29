@@ -377,13 +377,8 @@ button:active {
     color: #000;
 }
 
-.coach-button[name="Glen Hanlon"] {
-  background: #175787;
-  color: #FFF;
-}
-
 .coach-button[name="Glen Hanlon"]:hover {
-    background: #000;
+    background: #175787;
 }
 
 .jersey-button {
@@ -455,7 +450,7 @@ button[name="Throwback"] {
 }
 
 button[name="Navy"] {
-    background: #041e41;
+    background: #062D60;
 }
 
 button[name="Reverse Retro"] {
