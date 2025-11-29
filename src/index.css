@@ -386,6 +386,7 @@ button:active {
     max-width: 54px;
 }
 
+.jersey-logo[src="/jerseys/brick.svgz"],
 .jersey-logo[src="/jerseys/navy.svgz"] {
     max-width: 24px;
 }
@@ -412,6 +413,10 @@ button[name="Red"] {
 
 button[name="White"] {
     background: #FFF;
+}
+
+button[name="Brick"] {
+    background: #98012E;
 }
 
 button[name="Throwback"] {

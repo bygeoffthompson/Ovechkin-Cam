@@ -80,11 +80,6 @@ function SearchForm({jsonData}) {
         }
     },[]);
 
-    const copyFunction = () => {
-        var link = document.querySelector('.link strong').innerHTML;
-        navigator.clipboard.writeText(link);
-    };
-
     const handleGoalChange = (event) => {
         setSearchGoal(event.target.value);
     };
@@ -113,14 +108,24 @@ function SearchForm({jsonData}) {
         setSearchText3(event.target.value.toLowerCase());
     };
 
-    const emptyNetGoal = () => {
-        goalButton(['ENG']);
-        clickTrack('Empty Net');
-    };
-
     const awayGoal = () => {
         goalButton(['Away']);
         clickTrack('Away');
+    };
+
+    const canadaGoal = () => {
+        canada(['Calgary Flames', 'Edmonton Oilers', 'Montreal Canadiens', 'Ottawa Senators', 'Toronto Maple Leafs', 'Vancouver Canucks', 'Winnipeg Jets']);
+        clickTrack('Canada');
+    };
+
+    const copyFunction = () => {
+        const link = document.querySelector('.link strong').innerHTML;
+        navigator.clipboard.writeText(link);
+    };
+
+    const emptyNetGoal = () => {
+        goalButton(['ENG']);
+        clickTrack('Empty Net');
     };
 
     const homeGoal = () => {
@@ -151,6 +156,17 @@ function SearchForm({jsonData}) {
     const preventSubmit = (event) => {
         event.preventDefault();
     };
+
+    function canada(type) {
+        resultsHide();
+        const result = jsonData.filter(item =>
+            Object.values(item).some(value =>
+                type.includes(value)
+            ) && item.season === 'Regular' && item.arena === 'Away'
+        );
+        const goal = Object.values(result[random(1, Object.keys(result).length)]);
+        setSearchGoal(goal[0]);
+    }
 
     function goalButton(type) {
         resultsHide();
@@ -204,6 +220,10 @@ function SearchForm({jsonData}) {
     };
     const white = () => {
         goalButton(['White']);
+        clickTrack('White Jersey');
+    };
+    const brick = () => {
+        goalButton(['Brick Stripes']);
         clickTrack('White Jersey');
     };
     const throwback = () => {
@@ -266,9 +286,9 @@ function SearchForm({jsonData}) {
                 </div>
                 <div>
                     &nbsp;<small>Type</small>
-                 {/*<button onClick={anyGoal} name="Goal" title="Any Goal" type="button">Any</button>*/}
                     <button onClick={homeGoal} name="Home Goal" title="Home Goal" type="button">Home</button>
                     <button onClick={awayGoal} name="Away Goal" title="Away Goal" type="button">Away</button>
+                    <button onClick={canadaGoal} name="Canadian Goal" title="Canadian Goal" type="button">Canada</button>
                     <button onClick={powerPlayGoal} name="Power Play Goal" title="A Power Play Goal" type="button">PPG</button>
                     <button onClick={gameWinningGoal} name="Game Winning Goal" title="A Game Winning Goal" type="button">GWG</button>
                     <button onClick={emptyNetGoal} name="Empty Net Goal" title="An Empty Net Goal" type="button">ENG</button>
@@ -291,6 +311,9 @@ function SearchForm({jsonData}) {
                     </button>
                     <button onClick={throwback} className="jersey-button" name="Throwback" title="Throwback Third" type="button">
                         <img alt="Throwback logo" className="jersey-logo" src="/jerseys/throwback.svgz" />
+                    </button>
+                    <button onClick={brick} className="jersey-button" name="Brick" title="Brick" type="button">
+                        <img alt="Brick Stripes logo" className="jersey-logo" src="/jerseys/brick.svgz" />
                     </button>
                     <button onClick={navy} className="jersey-button" name="Navy" title="Navy" type="button">
                         <img alt="Navy logo" className="jersey-logo" src="/jerseys/navy.svgz" />
