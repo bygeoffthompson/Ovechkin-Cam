@@ -356,7 +356,7 @@ function SearchForm({jsonData}) {
                     <button onClick={throwback} className="jersey-button" name="Throwback" title="Throwback Third" type="button">
                         <img alt="Throwback logo" className="jersey-logo" src="/jerseys/throwback.svgz" />
                     </button>
-                    <button onClick={brick} className="jersey-button" name="Brick" title="Brick" type="button">
+                    <button onClick={brick} className="jersey-button" name="Brick Stars & Stripes" title="Brick Stars & Stripes" type="button">
                         <img alt="Brick Stripes logo" className="jersey-logo" src="/jerseys/brick.svgz" />
                     </button>
                     <button onClick={navy} className="jersey-button" name="Navy" title="Navy" type="button">
