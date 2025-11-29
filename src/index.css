@@ -434,6 +434,16 @@ button[name="White"] {
     background: #FFF;
 }
 
+button[name="Barry Trotz"] {
+    background: #E0E0E0 url('../public/bg/cup.jpg') no-repeat scroll center / 100%;
+}
+
+button[name="Barry Trotz"]:hover {
+    box-shadow: 0 .5rem 3rem #A0A0A0;
+    color: #000;
+}
+
+
 button[name="Brick Stars & Stripes"] {
     background: #98012E;
 }
