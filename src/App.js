@@ -109,14 +109,22 @@ function SearchForm({jsonData}) {
     };
 
     const awayGoal = () => {
-        goalButton(['Away']);
+        randomGoal(['Away']);
         clickTrack('Away');
     };
 
     const canadaGoal = () => {
-        canada(['Calgary Flames', 'Edmonton Oilers', 'Montreal Canadiens', 'Ottawa Senators', 'Toronto Maple Leafs', 'Vancouver Canucks', 'Winnipeg Jets']);
+        randomAway(['Calgary Flames', 'Edmonton Oilers', 'Montreal Canadiens', 'Ottawa Senators', 'Toronto Maple Leafs', 'Vancouver Canucks', 'Winnipeg Jets']);
         clickTrack('Canada');
     };
+
+    function clickTrack(btn) {
+        ReactGA.event({
+            category: 'Click',
+            action: btn + ' Goal Click',
+            value: 1
+        });
+    }
 
     const copyFunction = () => {
         const link = document.querySelector('.link strong').innerHTML;
@@ -124,32 +132,32 @@ function SearchForm({jsonData}) {
     };
 
     const emptyNetGoal = () => {
-        goalButton(['ENG']);
+        randomGoal(['ENG']);
         clickTrack('Empty Net');
     };
 
     const homeGoal = () => {
-        goalButton(['Home']);
+        randomGoal(['Home']);
         clickTrack('Home');
     };
 
     const gameWinningGoal = () => {
-        goalButton(['OT', 'GWG']);
+        randomGoal(['OT', 'GWG']);
         clickTrack('Game Winning');
     };
 
     const hatTrickGoal = () => {
-        goalButton(['Hat Trick']);
+        randomGoal(['Hat Trick']);
         clickTrack('Hat Trick');
     };
 
     const overtimeGoal = () => {
-        goalButton(['OT']);
+        randomGoal(['OT']);
         clickTrack('Overtime');
     };
 
     const powerPlayGoal = () => {
-        goalButton(['PPG']);
+        randomGoal(['PPG']);
         clickTrack('Power Play');
     };
 
@@ -157,7 +165,7 @@ function SearchForm({jsonData}) {
         event.preventDefault();
     };
 
-    function canada(type) {
+    function randomAway(type) {
         resultsHide();
         const result = jsonData.filter(item =>
             Object.values(item).some(value =>
@@ -168,7 +176,7 @@ function SearchForm({jsonData}) {
         setSearchGoal(goal[0]);
     }
 
-    function goalButton(type) {
+    function randomGoal(type) {
         resultsHide();
         const result = jsonData.filter(item =>
             Object.values(item).some(value =>
@@ -179,25 +187,10 @@ function SearchForm({jsonData}) {
         setSearchGoal(goal[0]);
     }
 
-    function clickTrack(btn) {
-        ReactGA.event({
-            category: 'Click',
-            action: btn + ' Goal Click',
-            value: 1
-        });
-    }
-
     function random(min, max) {
         min = Math.ceil(min);
         max = Math.floor(max);
         return Math.floor(Math.random() * (max - min + 1)) + min;
-    }
-
-    function resultsHide() {
-        setSearchText1('');
-        setSearchText2('');
-        setSearchText3('');
-        document.querySelector('#advanced').classList.remove('show');
     }
 
     const reset = () => {
@@ -206,20 +199,27 @@ function SearchForm({jsonData}) {
         resultsHide();
     };
 
+    function resultsHide() {
+        setSearchText1('');
+        setSearchText2('');
+        setSearchText3('');
+        document.querySelector('#advanced').classList.remove('show');
+    }
+
     const capitol = () => {
-        goalButton(['Capitol']);
+        randomGoal(['Capitol']);
         clickTrack('Capitol Jersey');
     };
     const screagle = () => {
-        goalButton(['Screagle']);
+        randomGoal(['Screagle']);
         clickTrack('Screagle Jersey');
     };
     const red = () => {
-        goalButton(['Red']);
+        randomGoal(['Red']);
         clickTrack('Red Jersey');
     };
     const white = () => {
-        goalButton(['White']);
+        randomGoal(['White']);
         clickTrack('White Jersey');
     };
     const brick = () => {
@@ -232,15 +232,15 @@ function SearchForm({jsonData}) {
         clickTrack('Brick Jersey');
     };
     const throwback = () => {
-        goalButton(['Red Throwback', 'White Throwback']);
+        randomGoal(['Red Throwback', 'White Throwback']);
         clickTrack('Throwback Jersey');
     };
     const navy = () => {
-        goalButton(['Navy Third', 'Navy Stadium Series']);
+        randomGoal(['Navy Third', 'Navy Stadium Series']);
         clickTrack('Navy Jersey');
     };
     const reverseRetro = () => {
-        goalButton(['Reverse Retro Black', 'Reverse Retro Red']);
+        randomGoal(['Reverse Retro Black', 'Reverse Retro Red']);
         clickTrack('Reverse Retro Jersey');
     };
 

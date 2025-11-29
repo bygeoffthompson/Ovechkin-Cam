@@ -353,6 +353,7 @@ button {
   font-weight: 700;
   line-height: 1.3;
   max-width: 150px;
+  overflow: hidden;
   padding: .625rem 1rem;
   position: relative;
   transition: transform .2s;
@@ -417,6 +418,7 @@ button[name="Capitol"] {
 
 button[name="Screagle"] {
     background: #FFF;
+    background-image: linear-gradient(150deg, #FFF 80%, #175787 81%)
 }
 
 button[name="Screagle"]:hover {
@@ -445,13 +447,29 @@ button[name="Brick Stars & Stripes"] {
     background: #98012E;
 }
 
+button[name="Brick Stars & Stripes"]:before,
+button[name="Brick Stars & Stripes"]:after {
+    bottom: 14px;
+    color: #FFF;
+    content: "|||";
+    font-size: 18px;
+    pointer-events: none;
+    position: relative;
+    right: 12px;
+}
+
+button[name="Brick Stars & Stripes"]:after {
+    right: -12px;
+}
+
 button[name="Throwback"] {
     background: #C8102E;
-    background-image: linear-gradient(50deg, #E13A3E 25%, #FFFFFF 26%, #FFFFFF 74%, #E13A3E 75%);
+    background-image: linear-gradient(50deg, #E13A3E 25%, #FFF 26%, #FFF 74%, #E13A3E 75%);
 }
 
 button[name="Navy"] {
     background: #062D60;
+    background-image: linear-gradient(#FFF 6%, #062D60 7%, #062D60 90%, #C8102E 91%);
 }
 
 button[name="Reverse Retro"] {
