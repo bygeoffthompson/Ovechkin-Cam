@@ -75,19 +75,20 @@
 }
 
 .goal-count {
+  color: #C8102E;
   font-size: 3rem !important;
 }
 
 .goal-count[data-season="All Star"]:before {
-  content: "All Star #";
+  content: "All Star ";
 }
 
 .goal-count[data-season="KHL"]:before {
-  content: "KHL #";
+  content: "KHL ";
 }
 
 .goal-count[data-season="Playoffs"]:before {
-  content: "Playoff #";
+  content: "Playoff ";
 }
 
 .goal-count span {
@@ -99,7 +100,7 @@
 .goal-count[data-season="Playoffs"] span {
   font-family: monospace;
   overflow: hidden;
-  text-indent: -5ch;
+  text-indent: -4ch;
   white-space: nowrap;
 }
 
