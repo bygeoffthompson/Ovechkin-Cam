@@ -223,8 +223,13 @@ function SearchForm({jsonData}) {
         clickTrack('White Jersey');
     };
     const brick = () => {
-        goalButton(['Brick Stripes']);
-        clickTrack('White Jersey');
+        const fifty50 = Math.random();
+        if (fifty50 > .5) {
+            setSearchGoal(440);
+        } else {
+            setSearchGoal(475);
+        }
+        clickTrack('Brick Jersey');
     };
     const throwback = () => {
         goalButton(['Red Throwback', 'White Throwback']);
