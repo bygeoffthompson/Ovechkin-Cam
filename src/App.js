@@ -223,11 +223,11 @@ function SearchForm({jsonData}) {
         clickTrack('White Jersey');
     };
     const brick = () => {
-        const fifty50 = Math.random();
-        if (fifty50 > .5) {
-            setSearchGoal(440);
+        const input = document.querySelector('#search-goal').value;
+        if (input === '440') {
+            setSearchGoal(475)
         } else {
-            setSearchGoal(475);
+            setSearchGoal(440)
         }
         clickTrack('Brick Jersey');
     };
