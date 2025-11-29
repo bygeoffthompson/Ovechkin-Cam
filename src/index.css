@@ -366,6 +366,25 @@ button:active {
   transform: scale(1.05);
 }
 
+.coach-button:nth-child(odd) {
+    background: #C8102E;
+    color: #FFF;
+}
+
+.coach-button:nth-child(odd):hover {
+    background: #FFF;
+    color: #000;
+}
+
+.coach-button[name="Glen Hanlon"] {
+  background: #175787;
+  color: #FFF;
+}
+
+.coach-button[name="Glen Hanlon"]:hover {
+    background: #000;
+}
+
 .jersey-button {
     align-items: center;
     display: flex;
@@ -610,6 +629,7 @@ label[for="search-text-1"]:before {
 
   form > div {
     flex-direction: row;
+    justify-content: flex-end;
   }
 
   input[type="text"] {

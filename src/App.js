@@ -244,6 +244,47 @@ function SearchForm({jsonData}) {
         clickTrack('Reverse Retro Jersey');
     };
 
+    const hanlon = () => {
+        setSearchGoal(random(1, 112))
+        clickTrack('Hanlon');
+    };
+
+    const boudreau = () => {
+        setSearchGoal(random(113, 309))
+        clickTrack('Boudreau');
+    };
+
+    const hunter = () => {
+        setSearchGoal(random(310, 339))
+        clickTrack('Hunter');
+    };
+
+    const oates = () => {
+        setSearchGoal(random(340, 422))
+        clickTrack('Oates');
+    };
+
+    const trotz = () => {
+        setSearchGoal(random(423, 607))
+        clickTrack('Trotz');
+    };
+
+    const reirden = () => {
+        setSearchGoal(random(608, 706))
+        clickTrack('Reirden');
+    };
+
+    const laviolette = () => {
+        setSearchGoal(random(707, 853))
+        clickTrack('Laviolette');
+    };
+
+    const carbery = () => {
+        setSearchGoal(random(854, totalGoals))
+        clickTrack('Carbery');
+    };
+
+
     const clickGoal = () => {
         document.getElementById('click-goal').addEventListener('click', function(event) {
             const page = document.querySelector('body').getBoundingClientRect();
@@ -286,19 +327,17 @@ function SearchForm({jsonData}) {
                     <input id="search-text-2" tabIndex="2" type="text" placeholder="And" value={searchText2} onChange={handleText2}/>
                     <input id="search-text-3" tabIndex="3" type="text" placeholder="And" value={searchText3} onChange={handleText3}/>
                 </div>
+                <strong>or Randomize</strong>
                 <div>
-                    <strong>or Randomize</strong>
-                </div>
-                <div>
-                    &nbsp;<small>Type</small>
+                    <small>Type</small>
                     <button onClick={homeGoal} name="Home Goal" title="Home Goal" type="button">Home</button>
                     <button onClick={awayGoal} name="Away Goal" title="Away Goal" type="button">Away</button>
                     <button onClick={canadaGoal} name="Canadian Goal" title="Canadian Goal" type="button">Canada</button>
-                    <button onClick={powerPlayGoal} name="Power Play Goal" title="A Power Play Goal" type="button">PPG</button>
-                    <button onClick={gameWinningGoal} name="Game Winning Goal" title="A Game Winning Goal" type="button">GWG</button>
-                    <button onClick={emptyNetGoal} name="Empty Net Goal" title="An Empty Net Goal" type="button">ENG</button>
-                    <button onClick={overtimeGoal} name="Overtime Goal" title="An Overtime Goal" type="button">OT Goal</button>
-                    <button onClick={hatTrickGoal} name="Hat Trick Goal" title="A Hat Trick Goal" type="button">Hat Trick</button>
+                    <button onClick={powerPlayGoal} name="Power Play Goal" title="Power Play Goal" type="button">PPG</button>
+                    <button onClick={gameWinningGoal} name="Game Winning Goal" title="Game Winning Goal" type="button">GWG</button>
+                    <button onClick={emptyNetGoal} name="Empty Net Goal" title="Empty Net Goal" type="button">ENG</button>
+                    <button onClick={overtimeGoal} name="Overtime Goal" title="Overtime Goal" type="button">OT Goal</button>
+                    <button onClick={hatTrickGoal} name="Hat Trick Goal" title="Hat Trick Goal" type="button">Trick</button>
                 </div>
                 <div>
                     <small>Jersey</small>
@@ -328,8 +367,17 @@ function SearchForm({jsonData}) {
                     </button>
                 </div>
                 <div>
-                    <button onClick={reset} name="Reset" type="button">Reset</button>
+                    <small>Coach</small>
+                    <button onClick={hanlon} className="coach-button" name="Glen Hanlon" title="Glen Hanlon" type="button">Hanlon</button>
+                    <button onClick={boudreau} className="coach-button" name="Bruce Boudreau" title="Bruce Boudreau" type="button">Bruce</button>
+                    <button onClick={hunter} className="coach-button" name="Dale Hunter" title="Dale Hunter" type="button">Hunter</button>
+                    <button onClick={oates} className="coach-button" name="Adam Oates" title="Adam Oates" type="button">Oates</button>
+                    <button onClick={trotz} className="coach-button" name="Barry Trotz" title="Barry Trotz" type="button">Trotz</button>
+                    <button onClick={reirden} className="coach-button" name="Todd Reirden" title="Todd Reirden" type="button">Reirden</button>
+                    <button onClick={laviolette} className="coach-button" name="Peter Laviolette" title="Peter Laviolette" type="button">Lavi</button>
+                    <button onClick={carbery} className="coach-button" name="Spencer Carbery" title="Spencer Carbery" type="button">Carbery</button>
                 </div>
+                <button onClick={reset} name="Reset" type="button">Reset</button>
             </form>
 
             <div id="advanced">
