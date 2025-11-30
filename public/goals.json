@@ -14174,7 +14174,7 @@
     "arena": "Away",
     "jersey": "White"
   },
-    {
+  {
     "goal": 908,
     "link": "https://www.youtube.com/embed/ed1qP-9nl3E?si=XZaiaZJ2ab4XDUsS",
     "team": "Winnipeg Jets",
@@ -14187,5 +14187,19 @@
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
+  },
+  {
+    "goal": 909,
+    "link": "https://www.youtube.com/embed/ed1qP-9nl3E?si=XZaiaZJ2ab4XDUsS",
+    "team": "New York Islanders",
+    "goalie": "Ilya Sorokin",
+    "month": "November",
+    "day": 30,
+    "year": 2025,
+    "type": "ENG",
+    "tags": "Empty Net",
+    "season": "Regular",
+    "arena": "Away",
+    "jersey": "White"
   }
 ]
