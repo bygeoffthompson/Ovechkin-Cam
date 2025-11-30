@@ -365,7 +365,7 @@ button:hover,
 button:active {
   background: #C8102E;
   color: #EFEFEF;
-  box-shadow: 0 .5rem 3rem #CE8946;
+  box-shadow: 0 .5rem 3rem #000;
   transform: scale(1.05);
 }
 
@@ -380,7 +380,7 @@ button:active {
 }
 
 .coach-button[name="Glen Hanlon"]:hover {
-    background: #175787;
+    background: #000;
 }
 
 .jersey-button {
@@ -414,11 +414,12 @@ button:active {
 
 button[name="Capitol"] {
   background: #000;
+  background-image: linear-gradient(150deg, #000 80%, #CE8946 81%);
 }
 
 button[name="Screagle"] {
     background: #FFF;
-    background-image: linear-gradient(150deg, #FFF 80%, #175787 81%)
+    background-image: linear-gradient(150deg, #FFF 80%, #175787 81%);
 }
 
 button[name="Screagle"]:hover {
