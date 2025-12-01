@@ -8,7 +8,6 @@
   display: flex;
   gap: 1rem;
   justify-content: center;
-  margin: 0 0 1rem;
   opacity: 0;
   pointer-events: none;
   transition: all 250ms;
@@ -171,8 +170,8 @@
 }
 
 .copy {
-  background-color: transparent;
-  background-image: url(/public/icons/copy.svg);
+  background-color: transparent !important;
+  background-image: url(/public/icons/copy.svg) !important;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -190,7 +189,7 @@
 }
 
 .copy:active {
-  background-image: url(/public/icons/thumb.svg);
+  background-image: url(/public/icons/thumb.svg) !important;
 }
 
 .goal-text {
@@ -241,9 +240,8 @@
 }
 
 .note > div:first-of-type {
-  align-items: center;
-  justify-content: center;
-  width: 100px;
+  position: relative;
+  z-index: 1;
 }
 
 .note .type {
@@ -279,8 +277,7 @@
 
 .goal-siren {
   height: auto;
-  pointer-events: all;
-  width: 70px;
+  width: 75px;
 }
 
 .loading {
@@ -503,8 +500,8 @@ form {
   font-size: 1.25rem;
   gap: 1.5rem;
   justify-content: center;
-  margin-bottom: 2rem;
-  padding: 2rem 2rem 1rem;
+  margin-bottom: 1rem;
+  padding: 2rem 2rem 1.25rem;
   position: relative;
 }
 
@@ -524,7 +521,6 @@ form h2 {
 
 form strong {
   border-bottom: 3px solid #CE8946;
-  font-size: 1.33rem;
 }
 
 @media (max-width: 400px) {
@@ -681,10 +677,6 @@ label[for="search-text-1"]:before {
   }
 }
 @media (min-width:992px) {
-  .goal-siren {
-    width: 100px;
-  }
-
   .note strong {
     font-size: 1.5rem;
   }
