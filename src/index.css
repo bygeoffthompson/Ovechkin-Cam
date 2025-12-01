@@ -618,6 +618,7 @@ input[type="text"]:not(:placeholder-shown) {
 }
 
 input[type="text"]::placeholder {
+  color: #666;
   font-size: 1.35rem;
   font-weight: 400;
 }
