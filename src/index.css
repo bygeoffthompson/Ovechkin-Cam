@@ -568,6 +568,7 @@ select {
 
 .shadow:before {
     content: "";
+    cursor: default;
     display: block;
     height: 68px;
     left: 0;
