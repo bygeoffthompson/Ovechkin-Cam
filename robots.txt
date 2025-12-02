@@ -3,4 +3,3 @@ Disallow: /
 Allow: /$
 Allow: /about.html
 Allow: /goals.html
-Allow: /thanks.html
