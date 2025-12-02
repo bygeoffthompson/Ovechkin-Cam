@@ -62,7 +62,7 @@ function SearchForm({jsonData}) {
             }
             setSearchResults(results);
         }
-        if (search1Value < 3 && search2Value === 0 && search3Value === 0) {
+        if (searchText1 && search1Value < 3 && search2Value === 0 && search3Value === 0) {
             document.getElementById('advanced').classList.remove('show');
             setSearchResults([]);
         }
