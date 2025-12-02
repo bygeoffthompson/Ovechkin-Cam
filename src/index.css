@@ -153,6 +153,7 @@
 #search-text-2:focus,
 #search-text-3:focus {
   height: auto;
+  margin-top: 0;
   max-width: 100%;
   padding: 3px 8px;
 }
@@ -162,6 +163,7 @@
 #search-text-2:active + input,
 #search-text-2:focus + input {
   height: auto;
+  margin-top: 0;
   max-width: 75px;
   padding: 3px 8px;
 }
@@ -513,7 +515,7 @@ form {
   display: flex;
   flex-direction: column;
   font-size: 1.25rem;
-  gap: 1.5rem;
+  gap: 2rem;
   justify-content: center;
   margin-bottom: 1rem;
   padding: 2rem 2rem 1.25rem;
@@ -623,7 +625,7 @@ input[type="text"] {
   caret-color: #C8102E;
   color: #C8102E;
   height: 0;
-  margin-top: 1px;
+  margin-top: -1rem;
   max-width: 0;
   overflow: hidden;
   padding: 0;
@@ -634,6 +636,7 @@ input[type="text"] {
 
 input[type="text"]:not(:placeholder-shown) {
   height: auto;
+  margin-top: 0;
   max-width: 100%;
   padding: 3px 8px;
 }
