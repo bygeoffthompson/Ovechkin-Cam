@@ -178,17 +178,19 @@
   background-image: url(/public/icons/copy.svg) !important;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100%;
   border: 0;
   box-shadow: none;
   color: transparent;
   cursor: pointer;
   font-size: 0;
   height: 16px;
+  min-height: 0;
   min-width: 0;
   outline: 0;
   padding: 0;
   text-indent: -9999px;
+  transform: none !important;
   width: 16px;
 }
 

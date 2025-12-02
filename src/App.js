@@ -30,7 +30,7 @@ function SearchForm({jsonData}) {
                 value: 1
             });
         }
-        if (searchText1 || searchText2 || searchText3) {
+        if (searchText1.length > 2 || searchText2 || searchText3) {
             const results = jsonData.filter((item) => {
                 const search =
                     item.month +
@@ -40,8 +40,7 @@ function SearchForm({jsonData}) {
                     ' ' + item.team +
                     ' ' + item.tags +
                     ' ' + item.type +
-                    ' ' + item.season +
-                    ' ' + item.jersey + ' Jersey';
+                    ' ' + item.season
                 return (
                     search.toLowerCase().includes(searchText1) &&
                     search.toLowerCase().includes(searchText2) &&
@@ -58,6 +57,9 @@ function SearchForm({jsonData}) {
                 document.querySelector('#count').innerHTML = results.length + ' Results';
             }
             setSearchResults(results);
+        } else {
+            document.querySelector('#advanced').classList.remove('show');
+            setSearchResults([]);
         }
     }, [searchGoal, searchText1, searchText2, searchText3, jsonData]);
 
@@ -94,6 +96,7 @@ function SearchForm({jsonData}) {
     };
 
     const handleText1 = (event) => {
+        if (document.querySelector('#search-text-1'))
         setSearchGoal('');
         setSearchText1(event.target.value.toLowerCase());
     };
@@ -329,7 +332,7 @@ function SearchForm({jsonData}) {
                     <label htmlFor="search-text-1">Text</label>
                     <label htmlFor="search-text-2" hidden>Text</label>
                     <label htmlFor="search-text-3" hidden>Text</label>
-                    <input id="search-text-1" tabIndex="1" type="text" placeholder="Search" value={searchText1} onChange={handleText1}/>
+                    <input id="search-text-1" tabIndex="1" type="text" placeholder="Search" title="3 Letter Minimum" value={searchText1} onChange={handleText1}/>
                     <input id="search-text-2" tabIndex="2" type="text" placeholder="And" value={searchText2} onChange={handleText2}/>
                     <input id="search-text-3" tabIndex="3" type="text" placeholder="And" value={searchText3} onChange={handleText3}/>
                 </div>
