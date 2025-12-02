@@ -57,9 +57,6 @@ function SearchForm({jsonData}) {
                 document.querySelector('#count').innerHTML = results.length + ' Results';
             }
             setSearchResults(results);
-        } else {
-            document.querySelector('#advanced').classList.remove('show');
-            setSearchResults([]);
         }
     }, [searchGoal, searchText1, searchText2, searchText3, jsonData]);
 

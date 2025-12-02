@@ -154,7 +154,7 @@
 #search-text-3:focus {
   height: auto;
   margin-top: 0;
-  max-width: 100%;
+  max-width: 90%;
   padding: 3px 8px;
 }
 
@@ -228,7 +228,7 @@
   cursor: default;
   display: flex;
   flex-direction: column-reverse;
-  gap: 8px;
+
   justify-content: center;
   left: -30px;
   transition: all .25s ease-in-out;
@@ -639,7 +639,7 @@ input[type="text"] {
 input[type="text"]:not(:placeholder-shown) {
   height: auto;
   margin-top: 0;
-  max-width: 100%;
+  max-width: 90%;
   padding: 3px 8px;
 }
 
