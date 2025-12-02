@@ -210,18 +210,22 @@ function SearchForm({jsonData}) {
         randomGoal(['Capitol']);
         clickTrack('Capitol Jersey');
     };
+
     const screagle = () => {
         randomGoal(['Screagle']);
         clickTrack('Screagle Jersey');
     };
+
     const red = () => {
         randomGoal(['Red']);
         clickTrack('Red Jersey');
     };
+
     const white = () => {
         randomGoal(['White']);
         clickTrack('White Jersey');
     };
+
     const brick = () => {
         const input = document.querySelector('#search-goal').value;
         if (input === '440') {
@@ -231,14 +235,17 @@ function SearchForm({jsonData}) {
         }
         clickTrack('Brick Jersey');
     };
+
     const throwback = () => {
         randomGoal(['Red Throwback', 'White Throwback']);
         clickTrack('Throwback Jersey');
     };
+
     const navy = () => {
         randomGoal(['Navy Third', 'Navy Stadium Series']);
         clickTrack('Navy Jersey');
     };
+
     const reverseRetro = () => {
         randomGoal(['Reverse Retro Black', 'Reverse Retro Red']);
         clickTrack('Reverse Retro Jersey');
@@ -284,7 +291,6 @@ function SearchForm({jsonData}) {
         clickTrack('Carbery');
     };
 
-
     const clickGoal = () => {
         document.getElementById('click-goal').addEventListener('click', function(event) {
             const page = document.querySelector('body').getBoundingClientRect();
@@ -328,63 +334,57 @@ function SearchForm({jsonData}) {
                     <input id="search-text-3" tabIndex="3" type="text" placeholder="And" value={searchText3} onChange={handleText3}/>
                 </div>
                 <strong>or Randomize</strong>
-
-
                 <div className="buttons-group">
-
-                <div>
-                    <small>Type</small>
-                    <button onClick={homeGoal} name="Home Goal" title="Home Goal" type="button">Home</button>
-                    <button onClick={awayGoal} name="Away Goal" title="Away Goal" type="button">Away</button>
-                    <button onClick={canadaGoal} name="Canadian Goal" title="Canadian Goal" type="button">Canada</button>
-                    <button onClick={powerPlayGoal} name="Power Play Goal" title="Power Play Goal" type="button">PPG</button>
-                    <button onClick={gameWinningGoal} name="Game Winning Goal" title="Game Winning Goal" type="button">GWG</button>
-                    <button onClick={emptyNetGoal} name="Empty Net Goal" title="Empty Net Goal" type="button">ENG</button>
-                    <button onClick={overtimeGoal} name="Overtime Goal" title="Overtime Goal" type="button">OT</button>
-                    <button onClick={hatTrickGoal} name="Hat Trick Goal" title="Hat Trick Goal" type="button">Trick</button>
+                    <div>
+                        <small>Type</small>
+                        <button onClick={homeGoal} name="Home Goal" title="Home Goal" type="button">Home</button>
+                        <button onClick={awayGoal} name="Away Goal" title="Away Goal" type="button">Away</button>
+                        <button onClick={canadaGoal} name="Canadian Goal" title="Canadian Goal" type="button">Canada</button>
+                        <button onClick={powerPlayGoal} name="Power Play Goal" title="Power Play Goal" type="button">PPG</button>
+                        <button onClick={gameWinningGoal} name="Game Winning Goal" title="Game Winning Goal" type="button">GWG</button>
+                        <button onClick={emptyNetGoal} name="Empty Net Goal" title="Empty Net Goal" type="button">ENG</button>
+                        <button onClick={overtimeGoal} name="Overtime Goal" title="Overtime Goal" type="button">OT</button>
+                        <button onClick={hatTrickGoal} name="Hat Trick Goal" title="Hat Trick Goal" type="button">Trick</button>
+                    </div>
+                    <div>
+                        <small>Jersey</small>
+                        <button onClick={capitol} className="jersey-button" name="Capitol" title="Capitol" type="button">
+                            <img alt="Capitol logo" className="jersey-logo" src="/jerseys/capitol.svgz" />
+                        </button>
+                        <button onClick={screagle} className="jersey-button" name="Screagle" title="Screagle" type="button">
+                            <img alt="Screagle logo" className="jersey-logo" src="/jerseys/screagle.svgz" />
+                        </button>
+                        <button onClick={red} className="jersey-button" name="Red" title="Red" type="button">
+                            <img alt="Red logo" className="jersey-logo" src="/jerseys/capitals.svgz" />
+                        </button>
+                        <button onClick={white} className="jersey-button" name="White" title="White" type="button">
+                            <img alt="White logo" className="jersey-logo" src="/jerseys/capitals.svgz" />
+                        </button>
+                        <button onClick={throwback} className="jersey-button" name="Throwback" title="Throwback Third" type="button">
+                            <img alt="Throwback logo" className="jersey-logo" src="/jerseys/throwback.svgz" />
+                        </button>
+                        <button onClick={brick} className="jersey-button" name="Brick Stars & Stripes" title="Brick Stars & Stripes" type="button">
+                            <img alt="Brick Stripes logo" className="jersey-logo" src="/jerseys/brick.svgz" />
+                        </button>
+                        <button onClick={navy} className="jersey-button" name="Navy" title="Navy" type="button">
+                            <img alt="Navy logo" className="jersey-logo" src="/jerseys/navy.svgz" />
+                        </button>
+                        <button onClick={reverseRetro} className="jersey-button" name="Reverse Retro" title="Reverse Retro" type="button">
+                            <img alt="Reverse Retro logo" className="jersey-logo" src="/jerseys/retro.svgz" />
+                        </button>
+                    </div>
+                    <div>
+                        <small>Coach</small>
+                        <button onClick={hanlon} className="coach-button" name="Glen Hanlon" title="Glen Hanlon" type="button">Hanlon</button>
+                        <button onClick={boudreau} className="coach-button" name="Bruce Boudreau" title="Bruce Boudreau" type="button">Bruce</button>
+                        <button onClick={hunter} className="coach-button" name="Dale Hunter" title="Dale Hunter" type="button">Hunter</button>
+                        <button onClick={oates} className="coach-button" name="Adam Oates" title="Adam Oates" type="button">Oates</button>
+                        <button onClick={trotz} className="coach-button" name="Barry Trotz" title="Barry Trotz" type="button">Trotz</button>
+                        <button onClick={reirden} className="coach-button" name="Todd Reirden" title="Todd Reirden" type="button">Reirden</button>
+                        <button onClick={laviolette} className="coach-button" name="Peter Laviolette" title="Peter Laviolette" type="button">Lavi</button>
+                        <button onClick={carbery} className="coach-button" name="Spencer Carbery" title="Spencer Carbery" type="button">Carbery</button>
+                    </div>
                 </div>
-                <div>
-                    <small>Jersey</small>
-                    <button onClick={capitol} className="jersey-button" name="Capitol" title="Capitol" type="button">
-                        <img alt="Capitol logo" className="jersey-logo" src="/jerseys/capitol.svgz" />
-                    </button>
-                    <button onClick={screagle} className="jersey-button" name="Screagle" title="Screagle" type="button">
-                        <img alt="Screagle logo" className="jersey-logo" src="/jerseys/screagle.svgz" />
-                    </button>
-                    <button onClick={red} className="jersey-button" name="Red" title="Red" type="button">
-                        <img alt="Red logo" className="jersey-logo" src="/jerseys/capitals.svgz" />
-                    </button>
-                    <button onClick={white} className="jersey-button" name="White" title="White" type="button">
-                        <img alt="White logo" className="jersey-logo" src="/jerseys/capitals.svgz" />
-                    </button>
-                    <button onClick={throwback} className="jersey-button" name="Throwback" title="Throwback Third" type="button">
-                        <img alt="Throwback logo" className="jersey-logo" src="/jerseys/throwback.svgz" />
-                    </button>
-                    <button onClick={brick} className="jersey-button" name="Brick Stars & Stripes" title="Brick Stars & Stripes" type="button">
-                        <img alt="Brick Stripes logo" className="jersey-logo" src="/jerseys/brick.svgz" />
-                    </button>
-                    <button onClick={navy} className="jersey-button" name="Navy" title="Navy" type="button">
-                        <img alt="Navy logo" className="jersey-logo" src="/jerseys/navy.svgz" />
-                    </button>
-                    <button onClick={reverseRetro} className="jersey-button" name="Reverse Retro" title="Reverse Retro" type="button">
-                        <img alt="Reverse Retro logo" className="jersey-logo" src="/jerseys/retro.svgz" />
-                    </button>
-                </div>
-                <div>
-                    <small>Coach</small>
-                    <button onClick={hanlon} className="coach-button" name="Glen Hanlon" title="Glen Hanlon" type="button">Hanlon</button>
-                    <button onClick={boudreau} className="coach-button" name="Bruce Boudreau" title="Bruce Boudreau" type="button">Bruce</button>
-                    <button onClick={hunter} className="coach-button" name="Dale Hunter" title="Dale Hunter" type="button">Hunter</button>
-                    <button onClick={oates} className="coach-button" name="Adam Oates" title="Adam Oates" type="button">Oates</button>
-                    <button onClick={trotz} className="coach-button" name="Barry Trotz" title="Barry Trotz" type="button">Trotz</button>
-                    <button onClick={reirden} className="coach-button" name="Todd Reirden" title="Todd Reirden" type="button">Reirden</button>
-                    <button onClick={laviolette} className="coach-button" name="Peter Laviolette" title="Peter Laviolette" type="button">Lavi</button>
-                    <button onClick={carbery} className="coach-button" name="Spencer Carbery" title="Spencer Carbery" type="button">Carbery</button>
-                </div>
-
-
-                </div>
-
                 <button onClick={reset} name="Reset" type="button">Reset</button>
             </form>
 
