@@ -4,6 +4,18 @@
     padding: 0 8px;
 }
 
+#search-help {
+    align-items: start;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    text-align: left;
+}
+
+#search-help ul {
+    margin: 0;
+}
+
 a {
     text-decoration: none;
 }
@@ -108,6 +120,12 @@ ul {
     header {
         gap: 1rem;
         padding: 0;
+    }
+}
+
+@media (min-width:768px) {
+    #search-help {
+        flex-direction: row;
     }
 }
 
