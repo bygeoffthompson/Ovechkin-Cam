@@ -36,7 +36,7 @@
     "day": 10,
     "year": 2005,
     "type": "GWG",
-    "tags": "GWG PPG",
+    "tags": "PPG",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -134,7 +134,7 @@
     "day": 6,
     "year": 2005,
     "type": "GWG",
-    "tags": "GWG PPG",
+    "tags": "PPG",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -274,7 +274,7 @@
     "day": 23,
     "year": 2005,
     "type": "",
-    "tags": "20th",
+    "tags": "20th Teammate",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -569,7 +569,7 @@
     "day": 6,
     "year": 2006,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -611,7 +611,7 @@
     "day": 20,
     "year": 2006,
     "type": "PPG",
-    "tags": "",
+    "tags": "Teammate",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -738,7 +738,7 @@
     "day": 7,
     "year": 2006,
     "type": "GWG",
-    "tags": "First GWG",
+    "tags": "First",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -836,7 +836,7 @@
     "day": 4,
     "year": 2006,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -878,7 +878,7 @@
     "day": 11,
     "year": 2006,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -892,7 +892,7 @@
     "day": 13,
     "year": 2006,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -1116,7 +1116,7 @@
     "day": 9,
     "year": 2007,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -1354,7 +1354,7 @@
     "day": 3,
     "year": 2007,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "Teammate",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -1382,7 +1382,7 @@
     "day": 4,
     "year": 2007,
     "type": "GWG",
-    "tags": "Last GWG",
+    "tags": "Last",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -1396,7 +1396,7 @@
     "day": 6,
     "year": 2007,
     "type": "GWG",
-    "tags": "First GWG",
+    "tags": "First",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -1551,7 +1551,7 @@
     "day": 15,
     "year": 2007,
     "type": "",
-    "tags": "Tomas Vokoun",
+    "tags": "Tomas Vokoun Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -1663,7 +1663,7 @@
     "day": 1,
     "year": 2007,
     "type": "GWG",
-    "tags": "Tomas Vokoun 20th GWG",
+    "tags": "Tomas Vokoun 20th Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -1677,7 +1677,7 @@
     "day": 8,
     "year": 2007,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -1789,7 +1789,7 @@
     "day": 29,
     "year": 2007,
     "type": "GWG",
-    "tags": "Hat Trick GWG",
+    "tags": "Hat Trick",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -1859,7 +1859,7 @@
     "day": 15,
     "year": 2008,
     "type": "GWG",
-    "tags": "GWG PPG",
+    "tags": "PPG",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -1887,7 +1887,7 @@
     "day": 19,
     "year": 2008,
     "type": "PPG",
-    "tags": "Tomas Vokoun",
+    "tags": "Tomas Vokoun Teammate",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -1971,7 +1971,7 @@
     "day": 28,
     "year": 2008,
     "type": "",
-    "tags": "40th",
+    "tags": "40th Teammate",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -1985,7 +1985,7 @@
     "day": 28,
     "year": 2008,
     "type": "",
-    "tags": "",
+    "tags": "Teammate",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -1999,7 +1999,7 @@
     "day": 28,
     "year": 2008,
     "type": "",
-    "tags": "Hat Trick",
+    "tags": "Hat Trick Teammate",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -2013,7 +2013,7 @@
     "day": 28,
     "year": 2008,
     "type": "OT",
-    "tags": "4th Overtime GWG",
+    "tags": "4th Overtime GWG Teammate",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -2055,7 +2055,7 @@
     "day": 6,
     "year": 2008,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -2125,7 +2125,7 @@
     "day": 3,
     "year": 2008,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -2195,7 +2195,7 @@
     "day": 12,
     "year": 2008,
     "type": "GWG",
-    "tags": "GWG PPG",
+    "tags": "PPG",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -2279,7 +2279,7 @@
     "day": 29,
     "year": 2008,
     "type": "",
-    "tags": "Tomas Vokoun",
+    "tags": "Tomas Vokoun Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -2335,7 +2335,7 @@
     "day": 11,
     "year": 2008,
     "type": "GWG",
-    "tags": "Quarterfinals Game 1 GWG",
+    "tags": "Quarterfinals Game 1",
     "season": "Playoffs",
     "arena": "Home",
     "jersey": "Red"
@@ -2349,7 +2349,7 @@
     "day": 21,
     "year": 2008,
     "type": "GWG",
-    "tags": "Quarterfinals Game 6 GWG",
+    "tags": "Quarterfinals Game 6",
     "season": "Playoffs",
     "arena": "Away",
     "jersey": "White"
@@ -2419,7 +2419,7 @@
     "day": 10,
     "year": 2008,
     "type": "",
-    "tags": "Olaf Kolzig",
+    "tags": "Olaf Kolzig Teammate",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -2545,7 +2545,7 @@
     "day": 26,
     "year": 2008,
     "type": "GWG",
-    "tags": "Ondrej Pavelec Hat Trick GWG",
+    "tags": "Ondrej Pavelec Hat Trick",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -2559,7 +2559,7 @@
     "day": 28,
     "year": 2008,
     "type": "",
-    "tags": "Jaroslav Halak",
+    "tags": "Jaroslav Halak Teammate",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -2699,7 +2699,7 @@
     "day": 26,
     "year": 2008,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -2713,7 +2713,7 @@
     "day": 28,
     "year": 2008,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -2755,7 +2755,7 @@
     "day": 3,
     "year": 2009,
     "type": "GWG",
-    "tags": "GWG SHG",
+    "tags": "SHG",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -2839,7 +2839,7 @@
     "day": 31,
     "year": 2009,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -2924,7 +2924,7 @@
     "day": 14,
     "year": 2009,
     "type": "GWG",
-    "tags": "Valentine's Valentines Day GWG",
+    "tags": "Valentine's Valentines Day",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -2938,7 +2938,7 @@
     "day": 15,
     "year": 2009,
     "type": "PPG",
-    "tags": "Tomas Vokoun",
+    "tags": "Tomas Vokoun Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -2952,7 +2952,7 @@
     "day": 15,
     "year": 2009,
     "type": "GWG",
-    "tags": "Tomas Vokoun 40th GWG PPG",
+    "tags": "Tomas Vokoun 40th PPG Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -3036,7 +3036,7 @@
     "day": 1,
     "year": 2009,
     "type": "",
-    "tags": "",
+    "tags": "Teammate",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -3064,7 +3064,7 @@
     "day": 12,
     "year": 2009,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -3176,7 +3176,7 @@
     "day": 11,
     "year": 2009,
     "type": "",
-    "tags": "Tomas Vokoun Last Rocket Richard Trophy",
+    "tags": "Tomas Vokoun Last Rocket Richard Trophy Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -3274,7 +3274,7 @@
     "day": 4,
     "year": 2009,
     "type": "GWG",
-    "tags": "Marc-Andre Fleury Semifinals Game 2 Hat Trick GWG",
+    "tags": "Marc-Andre Fleury Semifinals Game 2 Hat Trick",
     "season": "Playoffs",
     "arena": "Home",
     "jersey": "Red"
@@ -3344,7 +3344,7 @@
     "day": 1,
     "year": 2009,
     "type": "GWG",
-    "tags": "First GWG",
+    "tags": "First",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -3414,7 +3414,7 @@
     "day": 15,
     "year": 2009,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -3568,7 +3568,7 @@
     "day": 25,
     "year": 2009,
     "type": "GWG",
-    "tags": "GWG Vezina Trophy",
+    "tags": "Vezina Trophy",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -3596,7 +3596,7 @@
     "day": 7,
     "year": 2009,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -3723,7 +3723,7 @@
     "day": 13,
     "year": 2010,
     "type": "",
-    "tags": "Tomas Vokoun",
+    "tags": "Tomas Vokoun Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -3765,7 +3765,7 @@
     "day": 21,
     "year": 2010,
     "type": "PPG",
-    "tags": "",
+    "tags": "Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -3821,7 +3821,7 @@
     "day": 31,
     "year": 2010,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -3962,7 +3962,7 @@
     "day": 20,
     "year": 2010,
     "type": "GWG",
-    "tags": "Antero Niittymaki GWG",
+    "tags": "Antero Niittymaki",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -3990,7 +3990,7 @@
     "day": 6,
     "year": 2010,
     "type": "PPG",
-    "tags": "",
+    "tags": "Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -4032,7 +4032,7 @@
     "day": 9,
     "year": 2010,
     "type": "GWG",
-    "tags": "Ondrej Pavelec Last 50th GWG",
+    "tags": "Ondrej Pavelec Last 50th",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -4046,7 +4046,7 @@
     "day": 17,
     "year": 2010,
     "type": "",
-    "tags": "Jaroslav Halak Quarterfinals Game 2",
+    "tags": "Jaroslav Halak Quarterfinals Game 2 Teammate",
     "season": "Playoffs",
     "arena": "Home",
     "jersey": "Red"
@@ -4102,7 +4102,7 @@
     "day": 23,
     "year": 2010,
     "type": "",
-    "tags": "Jaroslav Halak Quarterfinals Game 5",
+    "tags": "Jaroslav Halak Quarterfinals Game 5 Teammate",
     "season": "Playoffs",
     "arena": "Home",
     "jersey": "Red"
@@ -4116,7 +4116,7 @@
     "day": 9,
     "year": 2010,
     "type": "GWG",
-    "tags": "First GWG",
+    "tags": "First",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -4200,7 +4200,7 @@
     "day": 30,
     "year": 2010,
     "type": "GWG",
-    "tags": "GWG PPG",
+    "tags": "PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -4284,7 +4284,7 @@
     "day": 26,
     "year": 2010,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -4312,7 +4312,7 @@
     "day": 8,
     "year": 2011,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -4354,7 +4354,7 @@
     "day": 22,
     "year": 2011,
     "type": "GWG",
-    "tags": "Jean-Sebastien Giguere Jean Sebastien Giguere GWG",
+    "tags": "Jean-Sebastien Giguere Jean Sebastien Giguere",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -4396,7 +4396,7 @@
     "day": 4,
     "year": 2011,
     "type": "GWG",
-    "tags": "20th GWG PPG",
+    "tags": "20th PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -4452,7 +4452,7 @@
     "day": 21,
     "year": 2011,
     "type": "GWG",
-    "tags": "Marc-Andre Fleury GWG PPG",
+    "tags": "Marc-Andre Fleury PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -4480,7 +4480,7 @@
     "day": 9,
     "year": 2011,
     "type": "GWG",
-    "tags": "GWG PPG",
+    "tags": "PPG",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -4648,7 +4648,7 @@
     "month": "October",
     "day": 13,
     "year": 2011,
-    "type": "",
+    "type": "Teammate",
     "tags": "First",
     "season": "Regular",
     "arena": "Away",
@@ -4761,7 +4761,7 @@
     "day": 7,
     "year": 2011,
     "type": "",
-    "tags": "",
+    "tags": "Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -4775,7 +4775,7 @@
     "day": 15,
     "year": 2011,
     "type": "GWG",
-    "tags": "Ondrej Pavelec GWG",
+    "tags": "Ondrej Pavelec",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -4971,7 +4971,7 @@
     "day": 17,
     "year": 2012,
     "type": "PPG",
-    "tags": "Jose Theodore",
+    "tags": "Jose Theodore Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -5153,7 +5153,7 @@
     "day": 5,
     "year": 2012,
     "type": "",
-    "tags": "Jose Theodore",
+    "tags": "Jose Theodore Teammate",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -5320,8 +5320,8 @@
     "month": "October",
     "day": 22,
     "year": 2012,
-    "type": "",
-    "tags": "Dynamo Moscow KHL",
+    "type": "Teammate",
+    "tags": "Dynamo Moscow KHL Teammate",
     "season": "KHL",
     "arena": "Away",
     "jersey": "White Dynamo"
@@ -5517,7 +5517,7 @@
     "day": 27,
     "year": 2013,
     "type": "GWG",
-    "tags": "First GWG PPG",
+    "tags": "First PPG",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -5559,7 +5559,7 @@
     "day": 12,
     "year": 2013,
     "type": "PPG",
-    "tags": "Jose Theodore",
+    "tags": "Jose Theodore Teammate",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -5601,7 +5601,7 @@
     "day": 23,
     "year": 2013,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -5784,7 +5784,7 @@
     "day": 2,
     "year": 2013,
     "type": "GWG",
-    "tags": "700th Point GWG 20th",
+    "tags": "700th Point 20th Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -5826,7 +5826,7 @@
     "day": 6,
     "year": 2013,
     "type": "GWG",
-    "tags": "Markstrom Hat Trick GWG PPG",
+    "tags": "Markstrom Hat Trick PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -5952,7 +5952,7 @@
     "day": 25,
     "year": 2013,
     "type": "",
-    "tags": "Last Rocket Richard Trophy",
+    "tags": "Last Rocket Richard Trophy Teammate",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -6050,7 +6050,7 @@
     "day": 14,
     "year": 2013,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -6190,7 +6190,7 @@
     "day": 17,
     "year": 2013,
     "type": "",
-    "tags": "Jaroslav Halak",
+    "tags": "Jaroslav Halak Teammate",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -6204,7 +6204,7 @@
     "day": 17,
     "year": 2013,
     "type": "GWG",
-    "tags": "Jaroslav Halak GWG",
+    "tags": "Jaroslav Halak Teammate",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -6471,7 +6471,7 @@
     "day": 25,
     "year": 2014,
     "type": "GWG",
-    "tags": "GWG PPG",
+    "tags": "PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White Throwback"
@@ -6527,7 +6527,7 @@
     "day": 6,
     "year": 2014,
     "type": "GWG",
-    "tags": "Ondrej Pavelec 40th GWG",
+    "tags": "Ondrej Pavelec 40th",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -6541,7 +6541,7 @@
     "day": 27,
     "year": 2014,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -6612,7 +6612,7 @@
     "day": 18,
     "year": 2014,
     "type": "GWG",
-    "tags": "GWG PPG",
+    "tags": "PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -6682,7 +6682,7 @@
     "day": 11,
     "year": 2014,
     "type": "GWG",
-    "tags": "Last GWG Rocket Richard Trophy PPG",
+    "tags": "Last Rocket Richard Trophy PPG",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -6696,7 +6696,7 @@
     "day": 11,
     "year": 2014,
     "type": "GWG",
-    "tags": "First GWG PPG",
+    "tags": "First PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -6794,7 +6794,7 @@
     "day": 11,
     "year": 2014,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -6808,7 +6808,7 @@
     "day": 20,
     "year": 2014,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -6822,7 +6822,7 @@
     "day": 26,
     "year": 2014,
     "type": "PPG",
-    "tags": "Jaroslav Halak",
+    "tags": "Jaroslav Halak Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White Throwback"
@@ -6836,7 +6836,7 @@
     "day": 26,
     "year": 2014,
     "type": "PPG",
-    "tags": "Jaroslav Halak",
+    "tags": "Jaroslav Halak Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White Throwback"
@@ -6850,7 +6850,7 @@
     "day": 28,
     "year": 2014,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -6920,7 +6920,7 @@
     "day": 29,
     "year": 2014,
     "type": "",
-    "tags": "Jaroslav Halak",
+    "tags": "Jaroslav Halak Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White Throwback"
@@ -6990,7 +6990,7 @@
     "day": 12,
     "year": 2015,
     "type": "GWG",
-    "tags": "GWG PPG",
+    "tags": "PPG Teammate",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -7074,7 +7074,7 @@
     "day": 28,
     "year": 2015,
     "type": "GWG",
-    "tags": "Marc-Andre Fleury GWG",
+    "tags": "Marc-Andre Fleury",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -7130,7 +7130,7 @@
     "day": 5,
     "year": 2015,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -7214,7 +7214,7 @@
     "day": 19,
     "year": 2015,
     "type": "GWG",
-    "tags": "Ondrej Pavelec GWG",
+    "tags": "Ondrej Pavelec",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -7242,7 +7242,7 @@
     "day": 1,
     "year": 2015,
     "type": "GWG",
-    "tags": "40th GWG",
+    "tags": "40th",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -7284,7 +7284,7 @@
     "day": 3,
     "year": 2015,
     "type": "GWG",
-    "tags": "GWG PPG",
+    "tags": "PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -7340,7 +7340,7 @@
     "day": 19,
     "year": 2015,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -7565,7 +7565,7 @@
     "day": 22,
     "year": 2015,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -7733,7 +7733,7 @@
     "day": 20,
     "year": 2015,
     "type": "GWG",
-    "tags": "GWG PPG",
+    "tags": "PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -7747,7 +7747,7 @@
     "day": 28,
     "year": 2015,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -7803,7 +7803,7 @@
     "day": 7,
     "year": 2016,
     "type": "GWG",
-    "tags": "Jaroslav Halak GWG",
+    "tags": "Jaroslav Halak Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -7902,7 +7902,7 @@
     "day": 4,
     "year": 2016,
     "type": "GWG",
-    "tags": "Jaroslav Halak GWG",
+    "tags": "Jaroslav Halak Teammate",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red Throwback"
@@ -8098,7 +8098,7 @@
     "day": 22,
     "year": 2016,
     "type": "PPG",
-    "tags": "Dale Hawerchuk",
+    "tags": "Dale Hawerchuk Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -8126,7 +8126,7 @@
     "day": 1,
     "year": 2016,
     "type": "PPG",
-    "tags": "April Fools Day",
+    "tags": "April Fools Day Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -8182,7 +8182,7 @@
     "day": 9,
     "year": 2016,
     "type": "GWG",
-    "tags": "Bryan Trottier GWG",
+    "tags": "Bryan Trottier",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -8280,7 +8280,7 @@
     "day": 18,
     "year": 2016,
     "type": "GWG",
-    "tags": "First GWG PPG",
+    "tags": "First PPG Teammate",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -8294,7 +8294,7 @@
     "day": 20,
     "year": 2016,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -8434,7 +8434,7 @@
     "day": 23,
     "year": 2016,
     "type": "GWG",
-    "tags": "Hat Trick GWG",
+    "tags": "Hat Trick",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -8448,7 +8448,7 @@
     "day": 11,
     "year": 2016,
     "type": "GWG",
-    "tags": "Markstrom Keith Tkachuk GWG PPG",
+    "tags": "Markstrom Keith Tkachuk PPG",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -8490,7 +8490,7 @@
     "day": 27,
     "year": 2016,
     "type": "",
-    "tags": "Jaroslav Halak Stan Makita",
+    "tags": "Jaroslav Halak Stan Makita Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -8645,7 +8645,7 @@
     "day": 7,
     "year": 2017,
     "type": "GWG",
-    "tags": "GWG PPG",
+    "tags": "PPG",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -8827,7 +8827,7 @@
     "day": 5,
     "year": 2017,
     "type": "",
-    "tags": "First",
+    "tags": "First Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -8841,7 +8841,7 @@
     "day": 5,
     "year": 2017,
     "type": "",
-    "tags": "Guy Lafleur",
+    "tags": "Guy Lafleur Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -8855,7 +8855,7 @@
     "day": 5,
     "year": 2017,
     "type": "",
-    "tags": "Hat Trick",
+    "tags": "Hat Trick Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -9009,7 +9009,7 @@
     "day": 22,
     "year": 2017,
     "type": "",
-    "tags": "",
+    "tags": "Teammate",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -9093,7 +9093,7 @@
     "day": 4,
     "year": 2017,
     "type": "GWG",
-    "tags": "20th GWG",
+    "tags": "20th",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -9107,7 +9107,7 @@
     "day": 6,
     "year": 2017,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -9458,7 +9458,7 @@
     "day": 26,
     "year": 2018,
     "type": "GWG",
-    "tags": "GWG PPG",
+    "tags": "PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -9514,7 +9514,7 @@
     "day": 7,
     "year": 2018,
     "type": "GWG",
-    "tags": "Last GWG Rocket Richard Trophy",
+    "tags": "Last Rocket Richard Trophy",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -9626,7 +9626,7 @@
     "day": 1,
     "year": 2018,
     "type": "GWG",
-    "tags": "Marc-Andre Fleury Semifinals Game 3 GWG",
+    "tags": "Marc-Andre Fleury Semifinals Game 3",
     "season": "Playoffs",
     "arena": "Away",
     "jersey": "White"
@@ -9682,7 +9682,7 @@
     "day": 23,
     "year": 2018,
     "type": "GWG",
-    "tags": "Eastern Conference Finals Game 7 GWG",
+    "tags": "Eastern Conference Finals Game 7",
     "season": "Playoffs",
     "arena": "Away",
     "jersey": "White"
@@ -9822,7 +9822,7 @@
     "day": 22,
     "year": 2018,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -10046,7 +10046,7 @@
     "day": 11,
     "year": 2018,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -10158,7 +10158,7 @@
     "day": 10,
     "year": 2019,
     "type": "",
-    "tags": "Jaroslav Halak",
+    "tags": "Jaroslav Halak Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -10312,7 +10312,7 @@
     "day": 18,
     "year": 2019,
     "type": "GWG",
-    "tags": "GWG PPG",
+    "tags": "PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -10354,7 +10354,7 @@
     "day": 1,
     "year": 2019,
     "type": "GWG",
-    "tags": "GWG PPG",
+    "tags": "PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -10410,7 +10410,7 @@
     "day": 26,
     "year": 2019,
     "type": "GWG",
-    "tags": "Petr Mrazek Brendan Shanahan GWG",
+    "tags": "Petr Mrazek Brendan Shanahan",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red Throwback"
@@ -10844,7 +10844,7 @@
     "day": 7,
     "year": 2020,
     "type": "",
-    "tags": "",
+    "tags": "Teammate",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -10872,7 +10872,7 @@
     "day": 13,
     "year": 2020,
     "type": "GWG",
-    "tags": "Petr Mrazek GWG",
+    "tags": "Petr Mrazek",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -10942,7 +10942,7 @@
     "day": 18,
     "year": 2020,
     "type": "",
-    "tags": "Mario Lemieux",
+    "tags": "Mario Lemieux Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -10956,7 +10956,7 @@
     "day": 18,
     "year": 2020,
     "type": "",
-    "tags": "",
+    "tags": "Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -11040,7 +11040,7 @@
     "day": 4,
     "year": 2020,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -11181,7 +11181,7 @@
     "day": 14,
     "year": 2020,
     "type": "",
-    "tags": "Quarterfinals Game 2",
+    "tags": "Quarterfinals Game 2 Teammate",
     "season": "Playoffs",
     "arena": "Home",
     "jersey": "Red"
@@ -11195,7 +11195,7 @@
     "day": 14,
     "year": 2020,
     "type": "",
-    "tags": "Quarterfinals Game 2",
+    "tags": "Quarterfinals Game 2 Teammate",
     "season": "Playoffs",
     "arena": "Home",
     "jersey": "Red"
@@ -11209,7 +11209,7 @@
     "day": 18,
     "year": 2020,
     "type": "",
-    "tags": "Quarterfinals Game 4",
+    "tags": "Quarterfinals Game 4 Teammate",
     "season": "Playoffs",
     "arena": "Away",
     "jersey": "White"
@@ -11223,7 +11223,7 @@
     "day": 18,
     "year": 2020,
     "type": "",
-    "tags": "Quarterfinals Game 4",
+    "tags": "Quarterfinals Game 4 Teammate",
     "season": "Playoffs",
     "arena": "Away",
     "jersey": "White"
@@ -11307,7 +11307,7 @@
     "day": 21,
     "year": 2021,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Navy Third"
@@ -11321,7 +11321,7 @@
     "day": 28,
     "year": 2021,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -11392,7 +11392,7 @@
     "day": 16,
     "year": 2021,
     "type": "GWG",
-    "tags": "1300th Point GWG PPG",
+    "tags": "1300th Point PPG Teammate",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Reverse Retro Red"
@@ -11420,7 +11420,7 @@
     "day": 19,
     "year": 2021,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -11448,7 +11448,7 @@
     "day": 26,
     "year": 2021,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Navy Third"
@@ -11840,7 +11840,7 @@
     "day": 26,
     "year": 2021,
     "type": "GWG",
-    "tags": "Hat Trick GWG",
+    "tags": "Hat Trick",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Navy Third"
@@ -11868,7 +11868,7 @@
     "day": 4,
     "year": 2021,
     "type": "GWG",
-    "tags": "20th GWG",
+    "tags": "20th",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Navy Third"
@@ -11911,7 +11911,7 @@
     "day": 31,
     "year": 2021,
     "type": "GWG",
-    "tags": "275th Power Play Goal New Years Eve GWG PPG",
+    "tags": "275th Power Play Goal New Years Eve PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -12093,7 +12093,7 @@
     "day": 8,
     "year": 2022,
     "type": "GWG",
-    "tags": "ENG Jaromir Jagr GWG",
+    "tags": "ENG Jaromir Jagr",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -12107,7 +12107,7 @@
     "day": 15,
     "year": 2022,
     "type": "",
-    "tags": "",
+    "tags": "Teammate",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -12177,7 +12177,7 @@
     "day": 26,
     "year": 2022,
     "type": "GWG",
-    "tags": "GWG PPG",
+    "tags": "PPG",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Navy Third"
@@ -12345,7 +12345,7 @@
     "day": 24,
     "year": 2022,
     "type": "GWG",
-    "tags": "GWG PPG",
+    "tags": "PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -12485,7 +12485,7 @@
     "day": 29,
     "year": 2022,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -12948,7 +12948,7 @@
     "day": 11,
     "year": 2023,
     "type": "",
-    "tags": "",
+    "tags": "Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -13018,7 +13018,7 @@
     "day": 2,
     "year": 2024,
     "type": "GWG",
-    "tags": "GWG PPG",
+    "tags": "PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -13172,7 +13172,7 @@
     "day": 16,
     "year": 2024,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -13200,7 +13200,7 @@
     "day": 18,
     "year": 2024,
     "type": "GWG",
-    "tags": "GWG PPG",
+    "tags": "PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -13326,7 +13326,7 @@
     "day": 9,
     "year": 2024,
     "type": "GWG",
-    "tags": "30th GWG",
+    "tags": "30th",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -13452,7 +13452,7 @@
     "day": 6,
     "year": 2024,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Reverse Retro Black"
@@ -13466,7 +13466,7 @@
     "day": 9,
     "year": 2024,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -13536,7 +13536,7 @@
     "day": 18,
     "year": 2024,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -13606,7 +13606,7 @@
     "day": 4,
     "year": 2025,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -13732,7 +13732,7 @@
     "day": 23,
     "year": 2025,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -13916,7 +13916,7 @@
     "day": 4,
     "year": 2025,
     "type": "GWG",
-    "tags": "Wayne Gretzky GWG PPG",
+    "tags": "Wayne Gretzky PPG",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -14057,7 +14057,7 @@
     "day": 24,
     "year": 2025,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -14113,7 +14113,7 @@
     "day": 17,
     "year": 2025,
     "type": "GWG",
-    "tags": "GWG",
+    "tags": "",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -14169,7 +14169,7 @@
     "day": 20,
     "year": 2025,
     "type": "ENG",
-    "tags": "Hat Trick",
+    "tags": "Empty Net Hat Trick",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
