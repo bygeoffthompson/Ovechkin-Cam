@@ -328,6 +328,10 @@ function SearchForm({jsonData}) {
                     <input id="search-text-3" tabIndex="3" type="text" placeholder="And" value={searchText3} onChange={handleText3}/>
                 </div>
                 <strong>or Randomize</strong>
+
+
+                <div className="buttons-group">
+
                 <div>
                     <small>Type</small>
                     <button onClick={homeGoal} name="Home Goal" title="Home Goal" type="button">Home</button>
@@ -336,7 +340,7 @@ function SearchForm({jsonData}) {
                     <button onClick={powerPlayGoal} name="Power Play Goal" title="Power Play Goal" type="button">PPG</button>
                     <button onClick={gameWinningGoal} name="Game Winning Goal" title="Game Winning Goal" type="button">GWG</button>
                     <button onClick={emptyNetGoal} name="Empty Net Goal" title="Empty Net Goal" type="button">ENG</button>
-                    <button onClick={overtimeGoal} name="Overtime Goal" title="Overtime Goal" type="button">OT Goal</button>
+                    <button onClick={overtimeGoal} name="Overtime Goal" title="Overtime Goal" type="button">OT</button>
                     <button onClick={hatTrickGoal} name="Hat Trick Goal" title="Hat Trick Goal" type="button">Trick</button>
                 </div>
                 <div>
@@ -377,6 +381,10 @@ function SearchForm({jsonData}) {
                     <button onClick={laviolette} className="coach-button" name="Peter Laviolette" title="Peter Laviolette" type="button">Lavi</button>
                     <button onClick={carbery} className="coach-button" name="Spencer Carbery" title="Spencer Carbery" type="button">Carbery</button>
                 </div>
+
+
+                </div>
+
                 <button onClick={reset} name="Reset" type="button">Reset</button>
             </form>
 
