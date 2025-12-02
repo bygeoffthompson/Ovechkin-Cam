@@ -30,7 +30,11 @@ function SearchForm({jsonData}) {
                 value: 1
             });
         }
-        if (searchText1.length > 2 || searchText2 || searchText3) {
+        const search1Value = document.getElementById('search-text-1').value.length;
+        const search2Value = document.getElementById('search-text-2').value.length;
+        const search3Value = document.getElementById('search-text-3').value.length;
+
+        if (search1Value > 2 || searchText2 || searchText3) {
             const results = jsonData.filter((item) => {
                 const search =
                     item.month +
@@ -57,6 +61,10 @@ function SearchForm({jsonData}) {
                 document.querySelector('#count').innerHTML = results.length + ' Results';
             }
             setSearchResults(results);
+        }
+        if (search1Value < 3 && search2Value === 0 && search3Value === 0) {
+            document.getElementById('advanced').classList.remove('show');
+            setSearchResults([]);
         }
     }, [searchGoal, searchText1, searchText2, searchText3, jsonData]);
 
@@ -93,7 +101,6 @@ function SearchForm({jsonData}) {
     };
 
     const handleText1 = (event) => {
-        if (document.querySelector('#search-text-1'))
         setSearchGoal('');
         setSearchText1(event.target.value.toLowerCase());
     };
