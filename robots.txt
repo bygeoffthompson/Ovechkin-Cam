@@ -1,3 +1,6 @@
-# https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow: /*?
+Disallow: /
+Allow: /$
+Allow: /about.html
+Allow: /goals.html
+Allow: /thanks.html
