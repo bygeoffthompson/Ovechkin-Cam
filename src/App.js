@@ -315,11 +315,6 @@ function SearchForm({jsonData}) {
                     document.querySelector('body').classList.remove('goal-lights');
                 }, 1500);
             }, 750);
-            ReactGA.event({
-                category: 'Shots',
-                action: 'Shots Taken',
-                value: 1
-            });
         });
     };
 
@@ -417,7 +412,7 @@ function SearchForm({jsonData}) {
                                 <img alt="Goal Siren icon" className="goal-siren" src="/icons/goal-siren.svg" />
                                 <strong className="type">{result.type}</strong>
                             </div>
-                            <strong class="goal-count" data-season={result.season}><span>{result.goal}</span></strong>
+                            <strong class="goal-count" data-season={result.season}>{result.goal}</strong>
                             <div>
                                 <strong className="goalie">{result.goalie}</strong>
                             </div>
