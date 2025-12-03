@@ -115,23 +115,23 @@ function SearchForm({jsonData}) {
         setSearchText3(event.target.value.toLowerCase());
     };
 
+    function clickTrack(value) {
+        ReactGA.event({
+            category: 'Click',
+            action: value,
+            value: 1
+        });
+    }
+
     const awayGoal = () => {
         randomGoal(['Away']);
-        clickTrack('Away');
+        clickTrack('Away Click');
     };
 
     const canadaGoal = () => {
         randomAway(['Calgary Flames', 'Edmonton Oilers', 'Montreal Canadiens', 'Ottawa Senators', 'Toronto Maple Leafs', 'Vancouver Canucks', 'Winnipeg Jets']);
-        clickTrack('Canada');
+        clickTrack('Canada Click');
     };
-
-    function clickTrack(btn) {
-        ReactGA.event({
-            category: 'Click',
-            action: btn + ' Goal Click',
-            value: 1
-        });
-    }
 
     const copyFunction = () => {
         const link = document.querySelector('.link strong').innerHTML;
@@ -140,32 +140,32 @@ function SearchForm({jsonData}) {
 
     const emptyNetGoal = () => {
         randomGoal(['ENG']);
-        clickTrack('Empty Net');
+        clickTrack('Empty Net Click');
     };
 
     const homeGoal = () => {
         randomGoal(['Home']);
-        clickTrack('Home');
+        clickTrack('Home Click');
     };
 
     const gameWinningGoal = () => {
         randomGoal(['OT', 'GWG']);
-        clickTrack('Game Winning');
+        clickTrack('Game Winning Click');
     };
 
     const hatTrickGoal = () => {
         randomGoal(['Hat Trick']);
-        clickTrack('Hat Trick');
+        clickTrack('Hat Trick Click');
     };
 
     const overtimeGoal = () => {
         randomGoal(['OT']);
-        clickTrack('Overtime');
+        clickTrack('Overtime Click');
     };
 
     const powerPlayGoal = () => {
         randomGoal(['PPG']);
-        clickTrack('Power Play');
+        clickTrack('Power Play Click');
     };
 
     const preventSubmit = (event) => {
@@ -215,22 +215,22 @@ function SearchForm({jsonData}) {
 
     const capitol = () => {
         randomGoal(['Capitol']);
-        clickTrack('Capitol Jersey');
+        clickTrack('Capitol Click');
     };
 
     const screagle = () => {
         randomGoal(['Screagle']);
-        clickTrack('Screagle Jersey');
+        clickTrack('Screagle Click');
     };
 
     const red = () => {
         randomGoal(['Red']);
-        clickTrack('Red Jersey');
+        clickTrack('Red Click');
     };
 
     const white = () => {
         randomGoal(['White']);
-        clickTrack('White Jersey');
+        clickTrack('White Click');
     };
 
     const brick = () => {
@@ -240,62 +240,62 @@ function SearchForm({jsonData}) {
         } else {
             setSearchGoal(440)
         }
-        clickTrack('Brick Jersey');
+        clickTrack('Brick Click');
     };
 
     const throwback = () => {
         randomGoal(['Red Throwback', 'White Throwback']);
-        clickTrack('Throwback Jersey');
+        clickTrack('Throwback Click');
     };
 
     const navy = () => {
         randomGoal(['Navy Third', 'Navy Stadium Series']);
-        clickTrack('Navy Jersey');
+        clickTrack('Navy Click');
     };
 
     const reverseRetro = () => {
         randomGoal(['Reverse Retro Black', 'Reverse Retro Red']);
-        clickTrack('Reverse Retro Jersey');
+        clickTrack('Reverse Retro Click');
     };
 
     const hanlon = () => {
         setSearchGoal(random(1, 112))
-        clickTrack('Hanlon');
+        clickTrack('Hanlon Click');
     };
 
     const boudreau = () => {
         setSearchGoal(random(113, 309))
-        clickTrack('Boudreau');
+        clickTrack('Boudreau Click');
     };
 
     const hunter = () => {
         setSearchGoal(random(310, 339))
-        clickTrack('Hunter');
+        clickTrack('Hunter Click');
     };
 
     const oates = () => {
         setSearchGoal(random(340, 422))
-        clickTrack('Oates');
+        clickTrack('Oates Click');
     };
 
     const trotz = () => {
         setSearchGoal(random(423, 607))
-        clickTrack('Trotz');
+        clickTrack('Trotz Click');
     };
 
     const reirden = () => {
         setSearchGoal(random(608, 706))
-        clickTrack('Reirden');
+        clickTrack('Reirden Click');
     };
 
     const laviolette = () => {
         setSearchGoal(random(707, 853))
-        clickTrack('Laviolette');
+        clickTrack('Laviolette Click');
     };
 
     const carbery = () => {
         setSearchGoal(random(854, totalGoals))
-        clickTrack('Carbery');
+        clickTrack('Carbery Click');
     };
 
     const clickGoal = () => {
