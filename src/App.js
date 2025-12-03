@@ -356,28 +356,28 @@ function SearchForm({jsonData}) {
                     <div>
                         <small>Jersey</small>
                         <button onClick={capitol} className="jersey-button" name="Capitol" title="Capitol" type="button">
-                            <img alt="Capitol logo" className="jersey-logo" src="/jerseys/capitol.svgz" />
+                            <img alt="Capitol logo" className="jersey-logo" src="/jerseys/capitol.svg" />
                         </button>
                         <button onClick={screagle} className="jersey-button" name="Screagle" title="Screagle" type="button">
-                            <img alt="Screagle logo" className="jersey-logo" src="/jerseys/screagle.svgz" />
+                            <img alt="Screagle logo" className="jersey-logo" src="/jerseys/screagle.svg" />
                         </button>
                         <button onClick={red} className="jersey-button" name="Red" title="Red" type="button">
-                            <img alt="Red logo" className="jersey-logo" src="/jerseys/capitals.svgz" />
+                            <img alt="Red logo" className="jersey-logo" src="/jerseys/capitals.svg" />
                         </button>
                         <button onClick={white} className="jersey-button" name="White" title="White" type="button">
-                            <img alt="White logo" className="jersey-logo" src="/jerseys/capitals.svgz" />
+                            <img alt="White logo" className="jersey-logo" src="/jerseys/capitals.svg" />
                         </button>
                         <button onClick={throwback} className="jersey-button" name="Throwback" title="Throwback Third" type="button">
-                            <img alt="Throwback logo" className="jersey-logo" src="/jerseys/throwback.svgz" />
+                            <img alt="Throwback logo" className="jersey-logo" src="/jerseys/throwback.svg" />
                         </button>
                         <button onClick={brick} className="jersey-button" name="Brick Stars & Stripes" title="Brick Stars & Stripes" type="button">
-                            <img alt="Brick Stripes logo" className="jersey-logo" src="/jerseys/brick.svgz" />
+                            <img alt="Brick Stripes logo" className="jersey-logo" src="/jerseys/brick.svg" />
                         </button>
                         <button onClick={navy} className="jersey-button" name="Navy" title="Navy" type="button">
-                            <img alt="Navy logo" className="jersey-logo" src="/jerseys/navy.svgz" />
+                            <img alt="Navy logo" className="jersey-logo" src="/jerseys/navy.svg" />
                         </button>
                         <button onClick={reverseRetro} className="jersey-button" name="Reverse Retro" title="Reverse Retro" type="button">
-                            <img alt="Reverse Retro logo" className="jersey-logo" src="/jerseys/retro.svgz" />
+                            <img alt="Reverse Retro logo" className="jersey-logo" src="/jerseys/retro.svg" />
                         </button>
                     </div>
                     <div>
@@ -422,7 +422,7 @@ function SearchForm({jsonData}) {
                                 <strong className="goalie">{result.goalie}</strong>
                             </div>
                             <div>
-                                <img alt={result.team + ' logo'} className="logo" src={'/teams/' + result.team + '.svgz'} />
+                                <img alt={result.team + ' logo'} className="logo" src={'/teams/' + result.team + '.svg'} />
                             </div>
                             <div>
                                 <strong><i>{result.month} {result.day} {result.year}</i></strong>
