@@ -503,6 +503,7 @@ button[name="Reverse Retro"]:hover {
 button[name="Reset"] {
   background: transparent;
   box-shadow: none;
+  margin-top: -.5rem;
 }
 
 button[name="Reset"]:hover,
@@ -543,12 +544,20 @@ form h2 {
   min-width: 95px;
 }
 
+form h2:after {
+    content: ' By';
+}
+
 .randomize {
     border-bottom: 2px solid #CE8946;
     font-size: 1.25rem;
     margin: 6px 0 0;
     min-width: 130px;
     padding: 0 0 3px;
+}
+
+.randomize:before {
+    content: 'or ';
 }
 
 @media (max-width: 400px) {

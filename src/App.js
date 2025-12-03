@@ -330,7 +330,7 @@ function SearchForm({jsonData}) {
             </div>
             <form onSubmit={preventSubmit}>
                 <div>
-                    <h2>Search By</h2>
+                    <h2>Search</h2>
                     <label htmlFor="search-goal">Number</label>
                     <input id="search-goal" min="1" max={totalGoals} tabIndex="0" type="number" placeholder="#" value={searchGoal} onChange={handleGoalChange}/>
                     <label htmlFor="search-text-1">Text</label>
@@ -339,7 +339,7 @@ function SearchForm({jsonData}) {
                     <input id="search-text-1" tabIndex="1" type="text" placeholder="" title="3 Letter Minimum" value={searchText1} onChange={handleText1}/>
                     <input id="search-text-2" tabIndex="2" type="text" placeholder="And" value={searchText2} onChange={handleText2}/>
                     <input id="search-text-3" tabIndex="3" type="text" placeholder="And" value={searchText3} onChange={handleText3}/>
-                    <strong className="randomize">or Randomize</strong>
+                    <h3 className="randomize">Randomize</h3>
                 </div>
                 <div className="buttons-group">
                     <div>
