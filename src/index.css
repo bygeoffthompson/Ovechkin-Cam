@@ -503,7 +503,6 @@ button[name="Reverse Retro"]:hover {
 button[name="Reset"] {
   background: transparent;
   box-shadow: none;
-  margin-top: -.5rem;
 }
 
 button[name="Reset"]:hover,
@@ -521,7 +520,7 @@ form {
   font-size: 1.25rem;
   gap: 1.5rem;
   justify-content: center;
-  padding: 2rem 2rem 1.25rem;
+  padding: 1.5rem;
   position: relative;
 }
 
@@ -699,9 +698,10 @@ label {
     justify-content: end;
   }
 
-    form > div:first-of-type {
-      justify-content: start;
-    }
+  form > div:first-of-type {
+    justify-content: start;
+    margin-bottom: 1rem;
+  }
 
   input[type="text"] {
     text-align: left;
