@@ -155,7 +155,7 @@
 #search-text-3:focus {
   height: auto;
   margin-top: 0;
-  max-width: 90%;
+  max-width: 325px;
   padding: 3px 8px;
 }
 
@@ -653,7 +653,7 @@ input[type="text"] {
 input[type="text"]:not(:placeholder-shown) {
   height: auto;
   margin-top: 0;
-  max-width: 90%;
+  max-width: 325px;
   padding: 3px 8px;
 }
 
@@ -698,6 +698,10 @@ label {
     gap: 1rem;
     justify-content: end;
   }
+
+    form > div:first-of-type {
+      justify-content: start;
+    }
 
   input[type="text"] {
     text-align: left;
