@@ -656,9 +656,11 @@ input[type="text"]:not(:placeholder-shown) {
 }
 
 input[type="text"]::placeholder {
-  color: #666;
-  font-size: 1.35rem;
+  color: #777;
+  font-size: 1.125rem;
   font-weight: 400;
+  margin-bottom: 1rem;
+  text-transform: none;
 }
 
 input[type="number"]:focus-visible {
@@ -670,13 +672,8 @@ input[type="number"]:focus-visible::placeholder {
 }
 
 input[type="number"]::placeholder {
-  color: #000;
-  font-weight: normal;
-  opacity: .5;
-}
-
-input[type="text"]::placeholder {
-  text-transform: none;
+  color: #AAA;
+  font-weight: 400;
 }
 
 label {
