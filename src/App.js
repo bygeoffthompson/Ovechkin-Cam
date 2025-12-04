@@ -331,7 +331,7 @@ function SearchForm({jsonData}) {
                     <label htmlFor="search-text-1">Text</label>
                     <label htmlFor="search-text-2" hidden>Text</label>
                     <label htmlFor="search-text-3" hidden>Text</label>
-                    <input id="search-text-1" tabIndex="1" type="text" placeholder="3 Letter Minimum" title="3 Letter Minimum" value={searchText1} onChange={handleText1}/>
+                    <input id="search-text-1" tabIndex="1" type="text" placeholder="3 Letter Minimum" value={searchText1} onChange={handleText1}/>
                     <input id="search-text-2" tabIndex="2" type="text" placeholder="And" value={searchText2} onChange={handleText2}/>
                     <input id="search-text-3" tabIndex="3" type="text" placeholder="And" value={searchText3} onChange={handleText3}/>
                     <h3 className="randomize">Randomize</h3>
