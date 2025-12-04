@@ -205,6 +205,10 @@
   position: absolute;
 }
 
+.goalie {
+    margin-right: .625rem;
+}
+
 .link {
   align-items: center;
   cursor: default;
@@ -238,7 +242,7 @@
 .note > div {
   align-items: center;
   display: flex;
-  flex-direction: row-reverse;
+  flex-direction: row;
   gap: 8px;
   margin: 0;
   position: relative;
@@ -246,8 +250,7 @@
 }
 
 .note > div:first-of-type {
-  position: relative;
-  z-index: 1;
+   gap: 0;
 }
 
 .note .type {

@@ -409,15 +409,17 @@ function SearchForm({jsonData}) {
                     <div className="frame" key={index}>
                         <div className="note">
                             <div>
-                                <img alt="Goal Siren icon" className="goal-siren" src="/icons/goal-siren.svg" />
-                                <strong className="type">{result.type}</strong>
+                                <strong className="goal-count" data-season={result.season}>{result.goal}</strong>
+                                <div>
+                                    <img alt="Goal Siren icon" className="goal-siren" src="/icons/goal-siren.svg"/>
+                                    <strong className="type">{result.type}</strong>
+                                </div>
+                                <div>
+                                    <img alt={result.team + ' logo'} className="logo" src={'/teams/' + result.team + '.svg'} title={result.team}/>
+                                </div>
                             </div>
-                            <strong class="goal-count" data-season={result.season}>{result.goal}</strong>
                             <div>
                                 <strong className="goalie">{result.goalie}</strong>
-                            </div>
-                            <div>
-                                <img alt={result.team + ' logo'} className="logo" src={'/teams/' + result.team + '.svg'} />
                             </div>
                             <div>
                                 <strong><i>{result.month} {result.day} {result.year}</i></strong>
