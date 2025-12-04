@@ -16,6 +16,14 @@
     margin: 0;
 }
 
+#window {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+}
+
 a {
     text-decoration: none;
 }
@@ -49,9 +57,8 @@ footer {
     display: flex;
     justify-content: center;
     left: 0;
-    padding: .5rem 1rem;
-    position: fixed;
-    width: auto;
+    padding: 1rem;
+    width: 100%;
     z-index: 1;
 }
 
