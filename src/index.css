@@ -255,14 +255,12 @@
 
 .note .type {
   background: radial-gradient(#EF4933 40%, transparent);
+  bottom: 1rem;
   color: #FFD2C7;
   font-size: 24px;
-  left: 50%;
   letter-spacing: -1px;
   margin: 0;
   position: absolute;
-  top: calc(50% - 4px);
-  transform: translateX(-50%);
 }
 
 .note h3 {
@@ -285,6 +283,11 @@
 }
 
 .goal-siren {
+  display: flex;
+  justify-content: center;
+}
+
+.goal-siren img {
   height: auto;
   width: 75px;
 }
