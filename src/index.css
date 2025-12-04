@@ -205,10 +205,6 @@
   position: absolute;
 }
 
-.goalie {
-    margin-right: .625rem;
-}
-
 .link {
   align-items: center;
   cursor: default;
@@ -692,6 +688,10 @@ label {
     }
 }
 @media (min-width: 576px) {
+    .goalie {
+        margin-right: .625rem;
+    }
+    
     .note {
         flex-direction: row;
     }
