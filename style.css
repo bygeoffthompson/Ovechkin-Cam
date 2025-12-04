@@ -51,13 +51,11 @@ div {
 footer {
     align-items: center;
     background: #041E42;
-    bottom: 0;
     color: #fff;
     cursor: default;
     display: flex;
     justify-content: center;
-    left: 0;
-    padding: 1rem;
+    padding: .5rem 1rem;
     width: 100%;
     z-index: 1;
 }
