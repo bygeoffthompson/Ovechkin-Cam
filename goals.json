@@ -14228,5 +14228,19 @@
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
+  },
+  {
+    "goal": 911,
+    "link": "https://www.youtube.com/embed/AFp3f3hDHOI?si=Oi6-Z1JO84T3tR93",
+    "team": "San Jose Sharks",
+    "goalie": "Alex Nedeljkovic",
+    "month": "December",
+    "day": 3,
+    "year": 2025,
+    "type": "PPG",
+    "tags": "",
+    "season": "Regular",
+    "arena": "Away",
+    "jersey": "White"
   }
 ]
