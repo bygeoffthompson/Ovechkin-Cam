@@ -22,7 +22,7 @@
     "day": 5,
     "year": 2005,
     "type": "PPG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -78,7 +78,7 @@
     "day": 20,
     "year": 2005,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -106,7 +106,7 @@
     "day": 28,
     "year": 2005,
     "type": "SHG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -134,7 +134,7 @@
     "day": 6,
     "year": 2005,
     "type": "GWG",
-    "tags": "PPG",
+    "tags": "Multi PPG",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -162,7 +162,7 @@
     "day": 8,
     "year": 2005,
     "type": "PPG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -400,7 +400,7 @@
     "day": 13,
     "year": 2006,
     "type": "",
-    "tags": "Jean-Sebastien Giguere Jean Sebastien Giguere Anaheim Ducks",
+    "tags": "Jean-Sebastien Giguere Jean Sebastien Giguere Anaheim Ducks Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -443,7 +443,7 @@
     "day": 16,
     "year": 2006,
     "type": "",
-    "tags": "Arizona Coyotes Simply Sensational",
+    "tags": "Arizona Coyotes Multi Simply Sensational",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -569,7 +569,7 @@
     "day": 6,
     "year": 2006,
     "type": "GWG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -639,7 +639,7 @@
     "day": 23,
     "year": 2006,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -752,7 +752,7 @@
     "day": 7,
     "year": 2006,
     "type": "PPG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -836,7 +836,7 @@
     "day": 4,
     "year": 2006,
     "type": "GWG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -864,7 +864,7 @@
     "day": 6,
     "year": 2006,
     "type": "PPG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -1004,7 +1004,7 @@
     "day": 15,
     "year": 2006,
     "type": "PPG",
-    "tags": "20th",
+    "tags": "20th Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -1116,7 +1116,7 @@
     "day": 9,
     "year": 2007,
     "type": "GWG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -1256,7 +1256,7 @@
     "day": 27,
     "year": 2007,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -1312,7 +1312,7 @@
     "day": 12,
     "year": 2007,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -1340,7 +1340,7 @@
     "day": 22,
     "year": 2007,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -1382,7 +1382,7 @@
     "day": 4,
     "year": 2007,
     "type": "GWG",
-    "tags": "Last",
+    "tags": "Last Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -1495,7 +1495,7 @@
     "day": 29,
     "year": 2007,
     "type": "PPG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -1607,7 +1607,7 @@
     "day": 24,
     "year": 2007,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -1649,7 +1649,7 @@
     "day": 30,
     "year": 2007,
     "type": "PPG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -1775,7 +1775,7 @@
     "day": 29,
     "year": 2007,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -1831,7 +1831,7 @@
     "day": 5,
     "year": 2008,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -1915,7 +1915,7 @@
     "day": 21,
     "year": 2008,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -1957,7 +1957,7 @@
     "day": 27,
     "year": 2008,
     "type": "",
-    "tags": "All Star Game ASG",
+    "tags": "All Star Game ASG Multi",
     "season": "All Star",
     "arena": "Home",
     "jersey": "Red"
@@ -1985,7 +1985,7 @@
     "day": 28,
     "year": 2008,
     "type": "",
-    "tags": "Teammate",
+    "tags": "Multi Teammate",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -2041,7 +2041,7 @@
     "day": 5,
     "year": 2008,
     "type": "OT",
-    "tags": "Overtime GWG",
+    "tags": "Multi Overtime GWG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -2125,7 +2125,7 @@
     "day": 3,
     "year": 2008,
     "type": "GWG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -2150,7 +2150,7 @@
     "team": "Buffalo Sabres",
     "goalie": "Ryan Miller",
     "month": "March",
-    "day": 8,
+    "day": 5,
     "year": 2008,
     "type": "",
     "tags": "Rocket Richard Trophy",
@@ -2164,10 +2164,10 @@
     "team": "Buffalo Sabres",
     "goalie": "Ryan Miller",
     "month": "March",
-    "day": 8,
+    "day": 5,
     "year": 2008,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -2195,7 +2195,7 @@
     "day": 12,
     "year": 2008,
     "type": "GWG",
-    "tags": "PPG",
+    "tags": "Multi PPG",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -2251,7 +2251,7 @@
     "day": 21,
     "year": 2008,
     "type": "",
-    "tags": "60th",
+    "tags": "60th Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -2321,7 +2321,7 @@
     "day": 3,
     "year": 2008,
     "type": "GWG",
-    "tags": "Karri Ramo Last GWG PPG",
+    "tags": "Karri Ramo Last Multi GWG PPG",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -2363,7 +2363,7 @@
     "day": 21,
     "year": 2008,
     "type": "",
-    "tags": "Quarterfinals Game 6",
+    "tags": "Multi Quarterfinals Game 6",
     "season": "Playoffs",
     "arena": "Away",
     "jersey": "White"
@@ -2405,7 +2405,7 @@
     "day": 11,
     "year": 2008,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -2475,7 +2475,7 @@
     "day": 15,
     "year": 2008,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -2531,7 +2531,7 @@
     "day": 26,
     "year": 2008,
     "type": "PPG",
-    "tags": "Ondrej Pavelec",
+    "tags": "Multi Ondrej Pavelec",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -2615,7 +2615,7 @@
     "day": 12,
     "year": 2008,
     "type": "PPG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -2643,7 +2643,7 @@
     "day": 16,
     "year": 2008,
     "type": "OT",
-    "tags": "Overtime GWG",
+    "tags": "Multi Overtime GWG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -2685,7 +2685,7 @@
     "day": 23,
     "year": 2008,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -2727,7 +2727,7 @@
     "day": 28,
     "year": 2008,
     "type": "ENG",
-    "tags": "Empty Net",
+    "tags": "Empty Net Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -2783,7 +2783,7 @@
     "day": 14,
     "year": 2009,
     "type": "",
-    "tags": "Marc-Andre Fleury",
+    "tags": "Marc-Andre Fleury Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -2811,7 +2811,7 @@
     "day": 19,
     "year": 2009,
     "type": "OT",
-    "tags": "Overtime GWG PPG",
+    "tags": "Multi Overtime GWG PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -2853,7 +2853,7 @@
     "day": 31,
     "year": 2009,
     "type": "PPG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -2881,7 +2881,7 @@
     "day": 1,
     "year": 2009,
     "type": "",
-    "tags": "Superbowl Super Bowl Sunday",
+    "tags": "Multi Superbowl Super Bowl Sunday",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -2952,7 +2952,7 @@
     "day": 15,
     "year": 2009,
     "type": "GWG",
-    "tags": "Tomas Vokoun 40th PPG Teammate",
+    "tags": "Multi Tomas Vokoun 40th PPG Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -3134,7 +3134,7 @@
     "day": 27,
     "year": 2009,
     "type": "ENG",
-    "tags": "Empty Net",
+    "tags": "Empty Net Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -3260,7 +3260,7 @@
     "day": 4,
     "year": 2009,
     "type": "",
-    "tags": "Marc-Andre Fleury Semifinals Game 2",
+    "tags": "Marc-Andre Fleury Multi Semifinals Game 2",
     "season": "Playoffs",
     "arena": "Home",
     "jersey": "Red"
@@ -3316,7 +3316,7 @@
     "day": 9,
     "year": 2009,
     "type": "",
-    "tags": "Marc-Andre Fleury Semifinals Game 5",
+    "tags": "Marc-Andre Fleury Multi Semifinals Game 5",
     "season": "Playoffs",
     "arena": "Home",
     "jersey": "Red"
@@ -3358,7 +3358,7 @@
     "day": 1,
     "year": 2009,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -3400,7 +3400,7 @@
     "day": 6,
     "year": 2009,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -3428,7 +3428,7 @@
     "day": 15,
     "year": 2009,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -3456,7 +3456,7 @@
     "day": 17,
     "year": 2009,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -3484,7 +3484,7 @@
     "day": 27,
     "year": 2009,
     "type": "ENG",
-    "tags": "Empty Net",
+    "tags": "Empty Net Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -3512,7 +3512,7 @@
     "day": 29,
     "year": 2009,
     "type": "",
-    "tags": "Ondrej Pavelec",
+    "tags": "Multi Ondrej Pavelec",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -3610,7 +3610,7 @@
     "day": 7,
     "year": 2009,
     "type": "PPG",
-    "tags": "20th",
+    "tags": "20th Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -3652,7 +3652,7 @@
     "day": 19,
     "year": 2009,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -3779,7 +3779,7 @@
     "day": 21,
     "year": 2010,
     "type": "ENG",
-    "tags": "Empty Net",
+    "tags": "Empty Net Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -3864,7 +3864,7 @@
     "day": 4,
     "year": 2010,
     "type": "",
-    "tags": "500th Point",
+    "tags": "500th Point Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -3906,7 +3906,7 @@
     "day": 7,
     "year": 2010,
     "type": "",
-    "tags": "Marc-Andre Fleury Superbowl Super Bowl Sunday",
+    "tags": "Marc-Andre Fleury Multi Superbowl Super Bowl Sunday",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -3948,7 +3948,7 @@
     "day": 8,
     "year": 2010,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -4004,7 +4004,7 @@
     "day": 6,
     "year": 2010,
     "type": "ENG",
-    "tags": "Empty Net",
+    "tags": "Empty Net Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -4032,7 +4032,7 @@
     "day": 9,
     "year": 2010,
     "type": "GWG",
-    "tags": "Ondrej Pavelec Last 50th",
+    "tags": "Ondrej Pavelec Last Multi 50th",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -4088,7 +4088,7 @@
     "day": 21,
     "year": 2010,
     "type": "",
-    "tags": "Quarterfinals Game 4",
+    "tags": "Multi Quarterfinals Game 4",
     "season": "Playoffs",
     "arena": "Away",
     "jersey": "White"
@@ -4130,7 +4130,7 @@
     "day": 9,
     "year": 2010,
     "type": "PS",
-    "tags": "Penalty Shot",
+    "tags": "Multi Penalty Shot",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -4200,7 +4200,7 @@
     "day": 30,
     "year": 2010,
     "type": "GWG",
-    "tags": "PPG",
+    "tags": "Multi PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -4354,7 +4354,7 @@
     "day": 22,
     "year": 2011,
     "type": "GWG",
-    "tags": "Jean-Sebastien Giguere Jean Sebastien Giguere",
+    "tags": "Jean-Sebastien Giguere Jean Sebastien Giguere Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -4494,7 +4494,7 @@
     "day": 9,
     "year": 2011,
     "type": "PPG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -4677,7 +4677,7 @@
     "day": 20,
     "year": 2011,
     "type": "PPG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -4705,7 +4705,7 @@
     "day": 29,
     "year": 2011,
     "type": "PPG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -4831,7 +4831,7 @@
     "day": 30,
     "year": 2011,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -4859,7 +4859,7 @@
     "day": 31,
     "year": 2011,
     "type": "PPG",
-    "tags": "New Years Eve",
+    "tags": "Multi New Years Eve",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -4943,7 +4943,7 @@
     "day": 7,
     "year": 2012,
     "type": "PPG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -5041,7 +5041,7 @@
     "day": 13,
     "year": 2012,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -5083,7 +5083,7 @@
     "day": 19,
     "year": 2012,
     "type": "PPG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White Throwback"
@@ -5125,7 +5125,7 @@
     "day": 23,
     "year": 2012,
     "type": "",
-    "tags": "Ondrej Pavelec",
+    "tags": "Multi Ondrej Pavelec",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -5320,7 +5320,7 @@
     "month": "October",
     "day": 22,
     "year": 2012,
-    "type": "Teammate",
+    "type": "",
     "tags": "Dynamo Moscow KHL Teammate",
     "season": "KHL",
     "arena": "Away",
@@ -5363,7 +5363,7 @@
     "day": 23,
     "year": 2012,
     "type": "",
-    "tags": "Dynamo Moscow KHL",
+    "tags": "Dynamo Moscow Multi KHL",
     "season": "KHL",
     "arena": "Home",
     "jersey": "Blue Dynamo"
@@ -5391,7 +5391,7 @@
     "day": 1,
     "year": 2012,
     "type": "",
-    "tags": "Dynamo Moscow Jan Laco KHL",
+    "tags": "Dynamo Moscow Jan Laco KHL Multi",
     "season": "KHL",
     "arena": "Away",
     "jersey": "White Dynamo"
@@ -5601,7 +5601,7 @@
     "day": 23,
     "year": 2013,
     "type": "GWG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -5713,7 +5713,7 @@
     "day": 22,
     "year": 2013,
     "type": "PPG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White Throwback"
@@ -5784,7 +5784,7 @@
     "day": 2,
     "year": 2013,
     "type": "GWG",
-    "tags": "700th Point 20th Teammate",
+    "tags": "700th Point 20th Teammate Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -5812,7 +5812,7 @@
     "day": 6,
     "year": 2013,
     "type": "",
-    "tags": "Markstrom",
+    "tags": "Markstrom Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -5854,7 +5854,7 @@
     "day": 7,
     "year": 2013,
     "type": "ENG",
-    "tags": "Empty Net",
+    "tags": "Empty Net Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -5924,7 +5924,7 @@
     "day": 20,
     "year": 2013,
     "type": "PPG",
-    "tags": "30th Rocket Richard Trophy",
+    "tags": "30th Multi Rocket Richard Trophy",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White Throwback"
@@ -6008,7 +6008,7 @@
     "day": 3,
     "year": 2013,
     "type": "PPG",
-    "tags": "Karri Ramo",
+    "tags": "Karri Ramo Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -6092,7 +6092,7 @@
     "day": 22,
     "year": 2013,
     "type": "",
-    "tags": "Ondrej Pavelec",
+    "tags": "Multi Ondrej Pavelec",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -6134,7 +6134,7 @@
     "day": 5,
     "year": 2013,
     "type": "PPG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -6204,7 +6204,7 @@
     "day": 17,
     "year": 2013,
     "type": "GWG",
-    "tags": "Jaroslav Halak Teammate",
+    "tags": "Jaroslav Halak Multi Teammate",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -6232,7 +6232,7 @@
     "day": 22,
     "year": 2013,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -6302,7 +6302,7 @@
     "day": 10,
     "year": 2013,
     "type": "PPG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -6499,7 +6499,7 @@
     "day": 28,
     "year": 2014,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White Throwback"
@@ -6570,7 +6570,7 @@
     "day": 1,
     "year": 2014,
     "type": "PPG",
-    "tags": "800th Point Vezina Trophy",
+    "tags": "800th Point Multi Vezina Trophy",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White Throwback"
@@ -6640,7 +6640,7 @@
     "day": 25,
     "year": 2014,
     "type": "PPG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -6710,7 +6710,7 @@
     "day": 11,
     "year": 2014,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -6738,7 +6738,7 @@
     "day": 14,
     "year": 2014,
     "type": "PPG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -6794,7 +6794,7 @@
     "day": 11,
     "year": 2014,
     "type": "GWG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -6836,7 +6836,7 @@
     "day": 26,
     "year": 2014,
     "type": "PPG",
-    "tags": "Jaroslav Halak Teammate",
+    "tags": "Jaroslav Halak Multi Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White Throwback"
@@ -6878,7 +6878,7 @@
     "day": 9,
     "year": 2014,
     "type": "ENG",
-    "tags": "Empty Net",
+    "tags": "Empty Net Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -7018,7 +7018,7 @@
     "day": 16,
     "year": 2015,
     "type": "PPG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -7060,7 +7060,7 @@
     "day": 20,
     "year": 2015,
     "type": "PPG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -7088,7 +7088,7 @@
     "day": 28,
     "year": 2015,
     "type": "PPG",
-    "tags": "Marc-Andre Fleury",
+    "tags": "Marc-Andre Fleury Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -7116,7 +7116,7 @@
     "day": 1,
     "year": 2015,
     "type": "",
-    "tags": "Superbowl Super Bowl Sunday",
+    "tags": "Multi Superbowl Super Bowl Sunday",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -7186,7 +7186,7 @@
     "day": 15,
     "year": 2015,
     "type": "PPG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White Throwback"
@@ -7256,7 +7256,7 @@
     "day": 1,
     "year": 2015,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -7284,7 +7284,7 @@
     "day": 3,
     "year": 2015,
     "type": "GWG",
-    "tags": "PPG",
+    "tags": "Multi PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -7340,7 +7340,7 @@
     "day": 19,
     "year": 2015,
     "type": "GWG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -7368,7 +7368,7 @@
     "day": 29,
     "year": 2015,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White Throwback"
@@ -7410,7 +7410,7 @@
     "day": 2,
     "year": 2015,
     "type": "PPG",
-    "tags": "Hart Trophy Vezina Trophy",
+    "tags": "Hart Trophy Multi Vezina Trophy",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White Throwback"
@@ -7719,7 +7719,7 @@
     "day": 18,
     "year": 2015,
     "type": "PPG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -7775,7 +7775,7 @@
     "day": 30,
     "year": 2015,
     "type": "ENG",
-    "tags": "Empty Net 20th",
+    "tags": "Empty Net Multi 20th",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red Throwback"
@@ -7831,7 +7831,7 @@
     "day": 9,
     "year": 2016,
     "type": "OT",
-    "tags": "Overtime GWG",
+    "tags": "Multi Overtime GWG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -7860,7 +7860,7 @@
     "day": 10,
     "year": 2016,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -7958,7 +7958,7 @@
     "day": 11,
     "year": 2016,
     "type": "PPG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -8014,7 +8014,7 @@
     "day": 18,
     "year": 2016,
     "type": "PPG",
-    "tags": "Gilbert Perreault",
+    "tags": "Gilbert Perreault Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -8154,7 +8154,7 @@
     "day": 5,
     "year": 2016,
     "type": "",
-    "tags": "Pat Verbeek Rocket Richard Trophy",
+    "tags": "Multi Pat Verbeek Rocket Richard Trophy",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -8182,7 +8182,7 @@
     "day": 9,
     "year": 2016,
     "type": "GWG",
-    "tags": "Bryan Trottier",
+    "tags": "Bryan Trottier Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -8238,7 +8238,7 @@
     "day": 18,
     "year": 2016,
     "type": "",
-    "tags": "Quarterfinals Game 3",
+    "tags": "Multi Quarterfinals Game 3",
     "season": "Playoffs",
     "arena": "Away",
     "jersey": "White"
@@ -8350,7 +8350,7 @@
     "day": 3,
     "year": 2016,
     "type": "OT",
-    "tags": "Overtime GWG PPG",
+    "tags": "Multi Overtime GWG PPG",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red Throwback"
@@ -8420,7 +8420,7 @@
     "day": 23,
     "year": 2016,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -8561,7 +8561,7 @@
     "day": 11,
     "year": 2017,
     "type": "PPG",
-    "tags": "Marc-Andre Fleury",
+    "tags": "Marc-Andre Fleury Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -8729,7 +8729,7 @@
     "day": 28,
     "year": 2017,
     "type": "PPG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -8841,7 +8841,7 @@
     "day": 5,
     "year": 2017,
     "type": "",
-    "tags": "Guy Lafleur Teammate",
+    "tags": "Guy Lafleur Multi Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -8882,7 +8882,7 @@
     "month": "October",
     "day": 7,
     "year": 2017,
-    "type": "PPG",
+    "type": "Multi PPG",
     "tags": "",
     "season": "Regular",
     "arena": "Home",
@@ -9051,7 +9051,7 @@
     "day": 25,
     "year": 2017,
     "type": "PPG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -9177,7 +9177,7 @@
     "day": 2,
     "year": 2018,
     "type": "OT",
-    "tags": "Overtime GWG",
+    "tags": "Multi Overtime GWG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -9275,7 +9275,7 @@
     "day": 2,
     "year": 2018,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -9359,7 +9359,7 @@
     "day": 24,
     "year": 2018,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -9416,7 +9416,7 @@
     "day": 12,
     "year": 2018,
     "type": "",
-    "tags": "600th Goal Century",
+    "tags": "600th Goal Century Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -9515,7 +9515,7 @@
     "day": 7,
     "year": 2018,
     "type": "GWG",
-    "tags": "Last",
+    "tags": "Last Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -9543,7 +9543,7 @@
     "day": 15,
     "year": 2018,
     "type": "",
-    "tags": "Quarterfinals Game 2",
+    "tags": "Multi Quarterfinals Game 2",
     "season": "Playoffs",
     "arena": "Home",
     "jersey": "Red"
@@ -9585,7 +9585,7 @@
     "day": 23,
     "year": 2018,
     "type": "",
-    "tags": "Quarterfinals Game 6",
+    "tags": "Multi Quarterfinals Game 6",
     "season": "Playoffs",
     "arena": "Away",
     "jersey": "White"
@@ -9783,7 +9783,7 @@
     "day": 10,
     "year": 2018,
     "type": "",
-    "tags": "Marc-Andre Fleury",
+    "tags": "Marc-Andre Fleury Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -9811,7 +9811,7 @@
     "day": 17,
     "year": 2018,
     "type": "PPG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -9839,7 +9839,7 @@
     "day": 22,
     "year": 2018,
     "type": "PPG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -9867,7 +9867,7 @@
     "day": 1,
     "year": 2018,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -9937,7 +9937,7 @@
     "day": 19,
     "year": 2018,
     "type": "PPG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -10064,7 +10064,7 @@
     "day": 11,
     "year": 2018,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -10106,7 +10106,7 @@
     "day": 14,
     "year": 2018,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -10176,7 +10176,7 @@
     "day": 10,
     "year": 2019,
     "type": "ENG",
-    "tags": "Empty Net",
+    "tags": "Empty Net Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -10218,7 +10218,7 @@
     "day": 22,
     "year": 2019,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -10316,7 +10316,7 @@
     "day": 18,
     "year": 2019,
     "type": "GWG",
-    "tags": "PPG",
+    "tags": "Multi PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -10400,7 +10400,7 @@
     "day": 16,
     "year": 2019,
     "type": "",
-    "tags": "Vezina Trophy",
+    "tags": "Multi Vezina Trophy",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -10443,7 +10443,7 @@
     "day": 30,
     "year": 2019,
     "type": "PPG",
-    "tags": "Last Rocket Richard Trophy Vezina Trophy",
+    "tags": "Last Multi Rocket Richard Trophy Vezina Trophy",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -10541,7 +10541,7 @@
     "day": 10,
     "year": 2019,
     "type": "PPG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -10625,7 +10625,7 @@
     "day": 24,
     "year": 2019,
     "type": "PPG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -10653,7 +10653,7 @@
     "day": 29,
     "year": 2019,
     "type": "OT",
-    "tags": "Overtime GWG PPG",
+    "tags": "Multi Overtime GWG PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -10681,7 +10681,7 @@
     "day": 7,
     "year": 2019,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -10765,7 +10765,7 @@
     "day": 30,
     "year": 2019,
     "type": "ENG",
-    "tags": "Empty Net",
+    "tags": "Empty Net Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -10864,7 +10864,7 @@
     "day": 7,
     "year": 2020,
     "type": "",
-    "tags": "Marcus Hogberg",
+    "tags": "Marcus Hogberg Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -10892,7 +10892,7 @@
     "day": 13,
     "year": 2020,
     "type": "PPG",
-    "tags": "Petr Mrazek",
+    "tags": "Multi Petr Mrazek",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -10920,7 +10920,7 @@
     "day": 16,
     "year": 2020,
     "type": "",
-    "tags": "30th",
+    "tags": "30th Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red Throwback"
@@ -10963,7 +10963,7 @@
     "day": 18,
     "year": 2020,
     "type": "",
-    "tags": "Teammate",
+    "tags": "Multi Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -11021,7 +11021,7 @@
     "day": 31,
     "year": 2020,
     "type": "PPG",
-    "tags": "Empty Net ENG",
+    "tags": "Empty Net Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -11049,7 +11049,7 @@
     "day": 4,
     "year": 2020,
     "type": "GWG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -11134,7 +11134,7 @@
     "day": 1,
     "year": 2020,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -11162,7 +11162,7 @@
     "day": 5,
     "year": 2020,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -11204,7 +11204,7 @@
     "day": 14,
     "year": 2020,
     "type": "",
-    "tags": "Quarterfinals Game 2 Teammate",
+    "tags": "Multi Quarterfinals Game 2 Teammate",
     "season": "Playoffs",
     "arena": "Home",
     "jersey": "Red"
@@ -11232,7 +11232,7 @@
     "day": 18,
     "year": 2020,
     "type": "",
-    "tags": "Quarterfinals Game 4 Teammate",
+    "tags": "Multi Quarterfinals Game 4 Teammate",
     "season": "Playoffs",
     "arena": "Away",
     "jersey": "White"
@@ -11303,7 +11303,7 @@
     "day": 7,
     "year": 2021,
     "type": "",
-    "tags": "Superbowl Super Bowl Sunday",
+    "tags": "Multi Superbowl Super Bowl Sunday",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Navy Third"
@@ -11431,7 +11431,7 @@
     "day": 19,
     "year": 2021,
     "type": "GWG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -11473,7 +11473,7 @@
     "day": 26,
     "year": 2021,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Navy Third"
@@ -11571,7 +11571,7 @@
     "day": 17,
     "year": 2021,
     "type": "PPG",
-    "tags": "Last",
+    "tags": "Last Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -11628,7 +11628,7 @@
     "day": 13,
     "year": 2021,
     "type": "SHG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -11698,7 +11698,7 @@
     "day": 25,
     "year": 2021,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -11796,7 +11796,7 @@
     "day": 20,
     "year": 2021,
     "type": "ENG",
-    "tags": "Empty Net",
+    "tags": "Empty Net Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -11838,7 +11838,7 @@
     "day": 26,
     "year": 2021,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Navy Third"
@@ -11937,7 +11937,7 @@
     "day": 31,
     "year": 2021,
     "type": "ENG",
-    "tags": "Empty Net New Years Eve",
+    "tags": "Empty Net Multi New Years Eve",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -12007,7 +12007,7 @@
     "day": 22,
     "year": 2022,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Navy Third"
@@ -12035,7 +12035,7 @@
     "day": 15,
     "year": 2022,
     "type": "ENG",
-    "tags": "Empty Net",
+    "tags": "Empty Net Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -12106,7 +12106,7 @@
     "day": 8,
     "year": 2022,
     "type": "GWG",
-    "tags": "Empty Net ENG",
+    "tags": "Empty Net Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -12302,7 +12302,7 @@
     "day": 20,
     "year": 2022,
     "type": "",
-    "tags": "Last 50th Teammate",
+    "tags": "Last Multi 50th Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -12344,7 +12344,7 @@
     "day": 17,
     "year": 2022,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Navy Third"
@@ -12498,7 +12498,7 @@
     "day": 29,
     "year": 2022,
     "type": "GWG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -12526,7 +12526,7 @@
     "day": 7,
     "year": 2022,
     "type": "ENG",
-    "tags": "Empty Net",
+    "tags": "Empty Net Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -12582,7 +12582,7 @@
     "day": 13,
     "year": 2022,
     "type": "PPG",
-    "tags": "Petr Mrazek",
+    "tags": "Multi Petr Mrazek",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -12625,7 +12625,7 @@
     "day": 23,
     "year": 2022,
     "type": "ENG",
-    "tags": "Empty Net",
+    "tags": "Empty Net Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Reverse Retro Black"
@@ -12667,7 +12667,7 @@
     "day": 31,
     "year": 2022,
     "type": "PPG",
-    "tags": "New Years Eve",
+    "tags": "Multi New Years Eve",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Reverse Retro Black"
@@ -12709,7 +12709,7 @@
     "day": 3,
     "year": 2023,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Reverse Retro Black"
@@ -12821,7 +12821,7 @@
     "day": 4,
     "year": 2023,
     "type": "",
-    "tags": "Kaapo Kahkonen",
+    "tags": "Kaapo Kahkonen Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -12877,7 +12877,7 @@
     "day": 19,
     "year": 2023,
     "type": "PPG",
-    "tags": "Marc-Andre Fleury",
+    "tags": "Marc-Andre Fleury Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -12975,7 +12975,7 @@
     "day": 11,
     "year": 2023,
     "type": "ENG",
-    "tags": "Empty Net",
+    "tags": "Empty Net Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -13143,7 +13143,7 @@
     "day": 20,
     "year": 2024,
     "type": "PPG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Navy Third"
@@ -13213,7 +13213,7 @@
     "day": 18,
     "year": 2024,
     "type": "GWG",
-    "tags": "PPG",
+    "tags": "Multi PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -13241,7 +13241,7 @@
     "day": 20,
     "year": 2024,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -13283,7 +13283,7 @@
     "day": 24,
     "year": 2024,
     "type": "",
-    "tags": "Vezina Trophy",
+    "tags": "Multi Vezina Trophy",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -13325,7 +13325,7 @@
     "day": 5,
     "year": 2024,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -13409,7 +13409,7 @@
     "day": 29,
     "year": 2024,
     "type": "",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -13493,7 +13493,7 @@
     "day": 9,
     "year": 2024,
     "type": "PPG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -13521,7 +13521,7 @@
     "day": 17,
     "year": 2024,
     "type": "",
-    "tags": "Teammate",
+    "tags": "Multi Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -13563,7 +13563,7 @@
     "day": 18,
     "year": 2024,
     "type": "PPG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -13745,7 +13745,7 @@
     "day": 23,
     "year": 2025,
     "type": "GWG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -13929,7 +13929,7 @@
     "day": 4,
     "year": 2025,
     "type": "GWG",
-    "tags": "PPG",
+    "tags": "Multi PPG",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -14000,7 +14000,7 @@
     "day": 21,
     "year": 2025,
     "type": "OT",
-    "tags": "Quarterfinals Game 1 GWG Overtime",
+    "tags": "Multi Quarterfinals Game 1 GWG Overtime",
     "season": "Playoffs",
     "arena": "Home",
     "jersey": "Red"
@@ -14168,7 +14168,7 @@
     "day": 20,
     "year": 2025,
     "type": "",
-    "tags": "Jakub Dobes",
+    "tags": "Jakub Dobes Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -14238,7 +14238,7 @@
     "day": 3,
     "year": 2025,
     "type": "PPG",
-    "tags": "",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
