@@ -302,13 +302,10 @@ function SearchForm({jsonData}) {
             const x = event.clientX - page.left;
             const y = event.clientY - page.top;
             document.getElementById('puck').setAttribute('style', 'left:' + x + 'px;top:' + y + 'px;');
-            document.querySelector('body').classList.add('cursor',);
-            document.getElementById('puck').classList.add('shot');
+            document.querySelector('body').classList.add('shot');
             setTimeout(function() {
                 document.querySelector('body').classList.add('goal-lights');
-                document.querySelector('body').classList.remove('cursor');
-                document.getElementById('puck').classList.remove('shot');
-                document.getElementById('puck').setAttribute('style', 'left:initial;top:initial;');
+                document.querySelector('body').classList.remove('shot');
                 setTimeout(function() {
                     document.querySelector('body').classList.remove('goal-lights');
                 }, 1500);

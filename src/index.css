@@ -109,15 +109,10 @@
   opacity: 0;
   pointer-events: none;
   position: absolute;
-  transform: translate(-50%, -50%);
+  transform: translateX(-50%);
   top: initial;
   width: 14px;
   z-index: 3;
-}
-
-#puck.shot {
-  animation: goalClick 750ms ease-in 1;
-  opacity: 1;
 }
 
 @keyframes goalClick {
@@ -293,8 +288,13 @@ body {
   cursor: url('../public/icons/puck.png') 7 3, auto;
 }
 
-body.cursor {
+body.shot {
   cursor: auto;
+}
+
+body.shot #puck {
+  animation: goalClick 750ms ease-in 1;
+  opacity: 1;
 }
 
 body.goal-lights {
