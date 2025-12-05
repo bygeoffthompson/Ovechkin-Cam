@@ -215,55 +215,55 @@ function SearchForm({jsonData}) {
                 <div className="buttons-group">
                     <div>
                         <small>Type</small>
-                        <button onClick={(event) => buttonClick(['Home'])} name="Home Goal" title="Home Goal" type="button">Home</button>
-                        <button onClick={(event) => buttonClick(['Away'])} name="Away Goal" title="Away Goal" type="button">Away</button>
-                        <button onClick={canadaGoal} name="Canadian Goal" title="Canadian Goal" type="button">Canada</button>
-                        <button onClick={(event) => buttonClick(['PPG'])} name="Power Play Goal" title="Power Play Goal" type="button">PPG</button>
-                        <button onClick={(event) => buttonClick(['GWG', 'OT'])} name="Game Winning Goal" title="Game Winning Goal" type="button">GWG</button>
-                        <button onClick={(event) => buttonClick(['Empty Net'])} name="Empty Net Goal" title="Empty Net Goal" type="button">ENG</button>
-                        <button onClick={(event) => buttonClick(['OT'])} name="Overtime Goal" title="Overtime Goal" type="button">OT</button>
-                        <button onClick={(event) => buttonClick(['Hat Trick'])} name="Hat Trick Goal" title="Hat Trick Goal" type="button">Trick</button>
+                        <button onClick={(event) => buttonClick(['Home'])} title="Home Goal" type="button">Home</button>
+                        <button onClick={(event) => buttonClick(['Away'])} title="Away Goal" type="button">Away</button>
+                        <button onClick={canadaGoal} title="Canadian Goal" type="button">Canada</button>
+                        <button onClick={(event) => buttonClick(['PPG'])} title="Power Play Goal" type="button">PPG</button>
+                        <button onClick={(event) => buttonClick(['GWG', 'OT'])} title="Game Winning Goal" type="button">GWG</button>
+                        <button onClick={(event) => buttonClick(['Empty Net'])} title="Empty Net Goal" type="button">ENG</button>
+                        <button onClick={(event) => buttonClick(['OT'])} title="Overtime Goal" type="button">OT</button>
+                        <button onClick={(event) => buttonClick(['Hat Trick'])} title="Hat Trick Goal" type="button">Trick</button>
                     </div>
                     <div>
                         <small>Jersey</small>
-                        <button onClick={(event) => buttonClick(['Capitol'])} className="jersey-button" name="Capitol" title="Capitol" type="button">
+                        <button onClick={(event) => buttonClick(['Capitol'])} className="jersey-button" title="Capitol" type="button">
                             <img alt="Capitol logo" className="jersey-logo" src="/jerseys/capitol.svg" />
                         </button>
-                        <button onClick={(event) => buttonClick(['Screagle'])} className="jersey-button" name="Screagle" title="Screagle" type="button">
+                        <button onClick={(event) => buttonClick(['Screagle'])} className="jersey-button" title="Screagle" type="button">
                             <img alt="Screagle logo" className="jersey-logo" src="/jerseys/screagle.svg" />
                         </button>
-                        <button onClick={(event) => buttonClick(['Red'])} className="jersey-button" name="Red" title="Red" type="button">
+                        <button onClick={(event) => buttonClick(['Red'])} className="jersey-button" title="Red" type="button">
                             <img alt="Red logo" className="jersey-logo" src="/jerseys/capitals.svg" />
                         </button>
-                        <button onClick={(event) => buttonClick(['White'])} className="jersey-button" name="White" title="White" type="button">
+                        <button onClick={(event) => buttonClick(['White'])} className="jersey-button" title="White" type="button">
                             <img alt="White logo" className="jersey-logo" src="/jerseys/capitals.svg" />
                         </button>
-                        <button onClick={(event) => buttonClick(['Red Throwback', 'White Throwback'])} className="jersey-button" name="Throwback" title="Throwback Third" type="button">
+                        <button onClick={(event) => buttonClick(['Red Throwback', 'White Throwback'])} className="jersey-button" title="Throwback Third" type="button">
                             <img alt="Throwback logo" className="jersey-logo" src="/jerseys/throwback.svg" />
                         </button>
-                        <button onClick={brick} className="jersey-button" name="Brick Stars & Stripes" title="Brick Stars & Stripes" type="button">
+                        <button onClick={brick} className="jersey-button" title="Brick Stars & Stripes" type="button">
                             <img alt="Brick Stripes logo" className="jersey-logo" src="/jerseys/brick.svg" />
                         </button>
-                        <button onClick={(event) => buttonClick(['Navy Third', 'Navy Stadium Series'])} className="jersey-button" name="Navy" title="Navy" type="button">
+                        <button onClick={(event) => buttonClick(['Navy Third', 'Navy Stadium Series'])} className="jersey-button" title="Navy" type="button">
                             <img alt="Navy logo" className="jersey-logo" src="/jerseys/navy.svg" />
                         </button>
-                        <button onClick={(event) => buttonClick(['Reverse Retro Black', 'Reverse Retro Red'])} className="jersey-button" name="Reverse Retro" title="Reverse Retro" type="button">
+                        <button onClick={(event) => buttonClick(['Reverse Retro Black', 'Reverse Retro Red'])} className="jersey-button" title="Reverse Retro" type="button">
                             <img alt="Reverse Retro logo" className="jersey-logo" src="/jerseys/retro.svg" />
                         </button>
                     </div>
                     <div>
                         <small>Coach</small>
-                        <button onClick={(event) => setSearchGoal(random(1, 112))} className="coach-button" name="Glen Hanlon" title="Glen Hanlon" type="button">Hanlon</button>
-                        <button onClick={(event) => setSearchGoal(random(113, 309))} className="coach-button" name="Bruce Boudreau" title="Bruce Boudreau" type="button">Bruce</button>
-                        <button onClick={(event) => setSearchGoal(random(310, 339))} className="coach-button" name="Dale Hunter" title="Dale Hunter" type="button">Hunter</button>
-                        <button onClick={(event) => setSearchGoal(random(340, 422))} className="coach-button" name="Adam Oates" title="Adam Oates" type="button">Oates</button>
-                        <button onClick={(event) => setSearchGoal(random(423, 607))} className="coach-button" name="Barry Trotz" title="Barry Trotz" type="button">Trotz</button>
-                        <button onClick={(event) => setSearchGoal(random(608, 706))} className="coach-button" name="Todd Reirden" title="Todd Reirden" type="button">Reirden</button>
-                        <button onClick={(event) => setSearchGoal(random(707, 853))} className="coach-button" name="Peter Laviolette" title="Peter Laviolette" type="button">Lavi</button>
-                        <button onClick={(event) => setSearchGoal(random(854, totalGoals))} className="coach-button" name="Spencer Carbery" title="Spencer Carbery" type="button">Carbery</button>
+                        <button onClick={(event) => setSearchGoal(random(1, 112))} className="coach-button" title="Glen Hanlon" type="button">Hanlon</button>
+                        <button onClick={(event) => setSearchGoal(random(113, 309))} className="coach-button" title="Bruce Boudreau" type="button">Bruce</button>
+                        <button onClick={(event) => setSearchGoal(random(310, 339))} className="coach-button" title="Dale Hunter" type="button">Hunter</button>
+                        <button onClick={(event) => setSearchGoal(random(340, 422))} className="coach-button" title="Adam Oates" type="button">Oates</button>
+                        <button onClick={(event) => setSearchGoal(random(423, 607))} className="coach-button" title="Barry Trotz" type="button">Trotz</button>
+                        <button onClick={(event) => setSearchGoal(random(608, 706))} className="coach-button" title="Todd Reirden" type="button">Reirden</button>
+                        <button onClick={(event) => setSearchGoal(random(707, 853))} className="coach-button" title="Peter Laviolette" type="button">Lavi</button>
+                        <button onClick={(event) => setSearchGoal(random(854, totalGoals))} className="coach-button" title="Spencer Carbery" type="button">Carbery</button>
                     </div>
                 </div>
-                <button onClick={reset} name="Reset" type="button">Reset</button>
+                <button onClick={reset} title="Reset" type="button">Reset</button>
             </form>
 
             <div className="search-accordion" id="minimum">
