@@ -13,7 +13,6 @@
     margin: 0;
     opacity: 0;
     overflow: hidden;
-    transition: all 250ms ease-in;
 }
 
 .search-accordion.show {
@@ -208,7 +207,7 @@
 
 .goal-siren img {
   height: auto;
-  width: 75px;
+  width: 60px;
 }
 
 .loading {
@@ -610,6 +609,10 @@ label {
     }
 }
 @media (min-width: 576px) {
+    .goal-siren img {
+        width: 75px;
+    }
+
     .note {
         flex-direction: row;
     }

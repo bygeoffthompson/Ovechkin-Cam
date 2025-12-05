@@ -18,31 +18,20 @@ function SearchForm({jsonData}) {
             const goalQuery = parseInt(searchGoal);
             const results = jsonData.filter(item => item.goal === goalQuery && item.season === 'Regular')
             setSearchResults(results);
-
-            ReactGA.event({
-                category: 'Goals',
-                action: 'Goal ' + goalQuery,
-                value: 1
-            });
-            ReactGA.event({
-                category: 'Total',
-                action: 'Total Goals',
-                value: 1
-            });
         }
-        const search1Value = document.getElementById('search-text-1').value.length;
 
+        const search1Value = document.getElementById('search-text-1').value.length;
         if (search1Value > 2) {
             const results = jsonData.filter((item) => {
                 const search =
-                    item.month +
-                    ' ' + item.day +
-                    ' ' + item.year +
-                    ' ' + item.goalie +
-                    ' ' + item.team +
-                    ' ' + item.tags +
-                    ' ' + item.type +
-                    ' ' + item.season
+                    item.month + ' ' +
+                    item.day + ' ' +
+                    item.year + ' ' +
+                    item.goalie + ' ' +
+                    item.team + ' ' +
+                    item.tags + ' ' +
+                    item.type + ' ' +
+                    item.season.replace('Regular', '')
                 return (
                     search.toLowerCase().includes(searchText1) &&
                     search.toLowerCase().includes(searchText2) &&
@@ -87,6 +76,50 @@ function SearchForm({jsonData}) {
         }
     },[]);
 
+    const brick = () => {
+        const input = document.querySelector('#search-goal').value;
+        if (input === '440') {
+            setSearchGoal(475)
+        } else {
+            setSearchGoal(440)
+        }
+        clickTrack('Brick Click');
+    };
+
+    function buttonClick(value) {
+        randomGoal(value);
+        clickTrack(value[0].replace(' Third', '').replace('Red ', '').replace(' Black', '') + ' Click');
+    }
+
+    const canadaGoal = () => {
+        randomAway(['Calgary Flames', 'Edmonton Oilers', 'Montreal Canadiens', 'Ottawa Senators', 'Toronto Maple Leafs', 'Vancouver Canucks', 'Winnipeg Jets']);
+        clickTrack('Canada Click');
+    };
+
+    const clickGoal = () => {
+        document.getElementById('click-goal').addEventListener('click', function(event) {
+            const page = document.querySelector('body').getBoundingClientRect();
+            const x = event.clientX - page.left;
+            const y = event.clientY - page.top;
+            document.getElementById('puck').setAttribute('style', 'left:' + x + 'px;top:' + y + 'px;');
+            document.querySelector('body').classList.add('shot');
+            setTimeout(function() {
+                document.querySelector('body').classList.add('goal-lights');
+                document.querySelector('body').classList.remove('shot');
+                setTimeout(function() {
+                    document.querySelector('body').classList.remove('goal-lights');
+                }, 1500);
+            }, 750);
+        });
+    };
+
+    function clickTrack(value) {
+        ReactGA.event({
+            category: 'Click',
+            action: value,
+            value: 1
+        });
+    }
     const handleGoalChange = (event) => {
         setSearchGoal(event.target.value);
     };
@@ -115,57 +148,15 @@ function SearchForm({jsonData}) {
         setSearchText3(event.target.value.toLowerCase());
     };
 
-    function clickTrack(value) {
-        ReactGA.event({
-            category: 'Click',
-            action: value,
-            value: 1
-        });
-    }
-
-    const awayGoal = () => {
-        randomGoal(['Away']);
-        clickTrack('Away Click');
-    };
-
-    const canadaGoal = () => {
-        randomAway(['Calgary Flames', 'Edmonton Oilers', 'Montreal Canadiens', 'Ottawa Senators', 'Toronto Maple Leafs', 'Vancouver Canucks', 'Winnipeg Jets']);
-        clickTrack('Canada Click');
-    };
-
-    const emptyNetGoal = () => {
-        randomGoal(['ENG']);
-        clickTrack('Empty Net Click');
-    };
-
-    const homeGoal = () => {
-        randomGoal(['Home']);
-        clickTrack('Home Click');
-    };
-
-    const gameWinningGoal = () => {
-        randomGoal(['OT', 'GWG']);
-        clickTrack('Game Winning Click');
-    };
-
-    const hatTrickGoal = () => {
-        randomGoal(['Hat Trick']);
-        clickTrack('Hat Trick Click');
-    };
-
-    const overtimeGoal = () => {
-        randomGoal(['OT']);
-        clickTrack('Overtime Click');
-    };
-
-    const powerPlayGoal = () => {
-        randomGoal(['PPG']);
-        clickTrack('Power Play Click');
-    };
-
     const preventSubmit = (event) => {
         event.preventDefault();
     };
+
+    function random(min, max) {
+        min = Math.ceil(min);
+        max = Math.floor(max);
+        return Math.floor(Math.random() * (max - min + 1)) + min;
+    }
 
     function randomAway(type) {
         resultsHide();
@@ -189,12 +180,6 @@ function SearchForm({jsonData}) {
         setSearchGoal(goal[0]);
     }
 
-    function random(min, max) {
-        min = Math.ceil(min);
-        max = Math.floor(max);
-        return Math.floor(Math.random() * (max - min + 1)) + min;
-    }
-
     const reset = () => {
         document.getElementById('minimum').classList.remove('show');
         setSearchGoal('');
@@ -208,108 +193,6 @@ function SearchForm({jsonData}) {
         setSearchText3('');
         document.querySelector('#advanced').classList.remove('show');
     }
-
-    const capitol = () => {
-        randomGoal(['Capitol']);
-        clickTrack('Capitol Click');
-    };
-
-    const screagle = () => {
-        randomGoal(['Screagle']);
-        clickTrack('Screagle Click');
-    };
-
-    const red = () => {
-        randomGoal(['Red']);
-        clickTrack('Red Click');
-    };
-
-    const white = () => {
-        randomGoal(['White']);
-        clickTrack('White Click');
-    };
-
-    const brick = () => {
-        const input = document.querySelector('#search-goal').value;
-        if (input === '440') {
-            setSearchGoal(475)
-        } else {
-            setSearchGoal(440)
-        }
-        clickTrack('Brick Click');
-    };
-
-    const throwback = () => {
-        randomGoal(['Red Throwback', 'White Throwback']);
-        clickTrack('Throwback Click');
-    };
-
-    const navy = () => {
-        randomGoal(['Navy Third', 'Navy Stadium Series']);
-        clickTrack('Navy Click');
-    };
-
-    const reverseRetro = () => {
-        randomGoal(['Reverse Retro Black', 'Reverse Retro Red']);
-        clickTrack('Reverse Retro Click');
-    };
-
-    const hanlon = () => {
-        setSearchGoal(random(1, 112))
-        clickTrack('Hanlon Click');
-    };
-
-    const boudreau = () => {
-        setSearchGoal(random(113, 309))
-        clickTrack('Boudreau Click');
-    };
-
-    const hunter = () => {
-        setSearchGoal(random(310, 339))
-        clickTrack('Hunter Click');
-    };
-
-    const oates = () => {
-        setSearchGoal(random(340, 422))
-        clickTrack('Oates Click');
-    };
-
-    const trotz = () => {
-        setSearchGoal(random(423, 607))
-        clickTrack('Trotz Click');
-    };
-
-    const reirden = () => {
-        setSearchGoal(random(608, 706))
-        clickTrack('Reirden Click');
-    };
-
-    const laviolette = () => {
-        setSearchGoal(random(707, 853))
-        clickTrack('Laviolette Click');
-    };
-
-    const carbery = () => {
-        setSearchGoal(random(854, totalGoals))
-        clickTrack('Carbery Click');
-    };
-
-    const clickGoal = () => {
-        document.getElementById('click-goal').addEventListener('click', function(event) {
-            const page = document.querySelector('body').getBoundingClientRect();
-            const x = event.clientX - page.left;
-            const y = event.clientY - page.top;
-            document.getElementById('puck').setAttribute('style', 'left:' + x + 'px;top:' + y + 'px;');
-            document.querySelector('body').classList.add('shot');
-            setTimeout(function() {
-                document.querySelector('body').classList.add('goal-lights');
-                document.querySelector('body').classList.remove('shot');
-                setTimeout(function() {
-                    document.querySelector('body').classList.remove('goal-lights');
-                }, 1500);
-            }, 750);
-        });
-    };
 
     return (
         <div>
@@ -332,52 +215,52 @@ function SearchForm({jsonData}) {
                 <div className="buttons-group">
                     <div>
                         <small>Type</small>
-                        <button onClick={homeGoal} name="Home Goal" title="Home Goal" type="button">Home</button>
-                        <button onClick={awayGoal} name="Away Goal" title="Away Goal" type="button">Away</button>
+                        <button onClick={(event) => buttonClick(['Home'])} name="Home Goal" title="Home Goal" type="button">Home</button>
+                        <button onClick={(event) => buttonClick(['Away'])} name="Away Goal" title="Away Goal" type="button">Away</button>
                         <button onClick={canadaGoal} name="Canadian Goal" title="Canadian Goal" type="button">Canada</button>
-                        <button onClick={powerPlayGoal} name="Power Play Goal" title="Power Play Goal" type="button">PPG</button>
-                        <button onClick={gameWinningGoal} name="Game Winning Goal" title="Game Winning Goal" type="button">GWG</button>
-                        <button onClick={emptyNetGoal} name="Empty Net Goal" title="Empty Net Goal" type="button">ENG</button>
-                        <button onClick={overtimeGoal} name="Overtime Goal" title="Overtime Goal" type="button">OT</button>
-                        <button onClick={hatTrickGoal} name="Hat Trick Goal" title="Hat Trick Goal" type="button">Trick</button>
+                        <button onClick={(event) => buttonClick(['PPG'])} name="Power Play Goal" title="Power Play Goal" type="button">PPG</button>
+                        <button onClick={(event) => buttonClick(['GWG', 'OT'])} name="Game Winning Goal" title="Game Winning Goal" type="button">GWG</button>
+                        <button onClick={(event) => buttonClick(['Empty Net'])} name="Empty Net Goal" title="Empty Net Goal" type="button">ENG</button>
+                        <button onClick={(event) => buttonClick(['OT'])} name="Overtime Goal" title="Overtime Goal" type="button">OT</button>
+                        <button onClick={(event) => buttonClick(['Hat Trick'])} name="Hat Trick Goal" title="Hat Trick Goal" type="button">Trick</button>
                     </div>
                     <div>
                         <small>Jersey</small>
-                        <button onClick={capitol} className="jersey-button" name="Capitol" title="Capitol" type="button">
+                        <button onClick={(event) => buttonClick(['Capitol'])} className="jersey-button" name="Capitol" title="Capitol" type="button">
                             <img alt="Capitol logo" className="jersey-logo" src="/jerseys/capitol.svg" />
                         </button>
-                        <button onClick={screagle} className="jersey-button" name="Screagle" title="Screagle" type="button">
+                        <button onClick={(event) => buttonClick(['Screagle'])} className="jersey-button" name="Screagle" title="Screagle" type="button">
                             <img alt="Screagle logo" className="jersey-logo" src="/jerseys/screagle.svg" />
                         </button>
-                        <button onClick={red} className="jersey-button" name="Red" title="Red" type="button">
+                        <button onClick={(event) => buttonClick(['Red'])} className="jersey-button" name="Red" title="Red" type="button">
                             <img alt="Red logo" className="jersey-logo" src="/jerseys/capitals.svg" />
                         </button>
-                        <button onClick={white} className="jersey-button" name="White" title="White" type="button">
+                        <button onClick={(event) => buttonClick(['White'])} className="jersey-button" name="White" title="White" type="button">
                             <img alt="White logo" className="jersey-logo" src="/jerseys/capitals.svg" />
                         </button>
-                        <button onClick={throwback} className="jersey-button" name="Throwback" title="Throwback Third" type="button">
+                        <button onClick={(event) => buttonClick(['Red Throwback', 'White Throwback'])} className="jersey-button" name="Throwback" title="Throwback Third" type="button">
                             <img alt="Throwback logo" className="jersey-logo" src="/jerseys/throwback.svg" />
                         </button>
                         <button onClick={brick} className="jersey-button" name="Brick Stars & Stripes" title="Brick Stars & Stripes" type="button">
                             <img alt="Brick Stripes logo" className="jersey-logo" src="/jerseys/brick.svg" />
                         </button>
-                        <button onClick={navy} className="jersey-button" name="Navy" title="Navy" type="button">
+                        <button onClick={(event) => buttonClick(['Navy Third', 'Navy Stadium Series'])} className="jersey-button" name="Navy" title="Navy" type="button">
                             <img alt="Navy logo" className="jersey-logo" src="/jerseys/navy.svg" />
                         </button>
-                        <button onClick={reverseRetro} className="jersey-button" name="Reverse Retro" title="Reverse Retro" type="button">
+                        <button onClick={(event) => buttonClick(['Reverse Retro Black', 'Reverse Retro Red'])} className="jersey-button" name="Reverse Retro" title="Reverse Retro" type="button">
                             <img alt="Reverse Retro logo" className="jersey-logo" src="/jerseys/retro.svg" />
                         </button>
                     </div>
                     <div>
                         <small>Coach</small>
-                        <button onClick={hanlon} className="coach-button" name="Glen Hanlon" title="Glen Hanlon" type="button">Hanlon</button>
-                        <button onClick={boudreau} className="coach-button" name="Bruce Boudreau" title="Bruce Boudreau" type="button">Bruce</button>
-                        <button onClick={hunter} className="coach-button" name="Dale Hunter" title="Dale Hunter" type="button">Hunter</button>
-                        <button onClick={oates} className="coach-button" name="Adam Oates" title="Adam Oates" type="button">Oates</button>
-                        <button onClick={trotz} className="coach-button" name="Barry Trotz" title="Barry Trotz" type="button">Trotz</button>
-                        <button onClick={reirden} className="coach-button" name="Todd Reirden" title="Todd Reirden" type="button">Reirden</button>
-                        <button onClick={laviolette} className="coach-button" name="Peter Laviolette" title="Peter Laviolette" type="button">Lavi</button>
-                        <button onClick={carbery} className="coach-button" name="Spencer Carbery" title="Spencer Carbery" type="button">Carbery</button>
+                        <button onClick={(event) => setSearchGoal(random(1, 112))} className="coach-button" name="Glen Hanlon" title="Glen Hanlon" type="button">Hanlon</button>
+                        <button onClick={(event) => setSearchGoal(random(113, 309))} className="coach-button" name="Bruce Boudreau" title="Bruce Boudreau" type="button">Bruce</button>
+                        <button onClick={(event) => setSearchGoal(random(310, 339))} className="coach-button" name="Dale Hunter" title="Dale Hunter" type="button">Hunter</button>
+                        <button onClick={(event) => setSearchGoal(random(340, 422))} className="coach-button" name="Adam Oates" title="Adam Oates" type="button">Oates</button>
+                        <button onClick={(event) => setSearchGoal(random(423, 607))} className="coach-button" name="Barry Trotz" title="Barry Trotz" type="button">Trotz</button>
+                        <button onClick={(event) => setSearchGoal(random(608, 706))} className="coach-button" name="Todd Reirden" title="Todd Reirden" type="button">Reirden</button>
+                        <button onClick={(event) => setSearchGoal(random(707, 853))} className="coach-button" name="Peter Laviolette" title="Peter Laviolette" type="button">Lavi</button>
+                        <button onClick={(event) => setSearchGoal(random(854, totalGoals))} className="coach-button" name="Spencer Carbery" title="Spencer Carbery" type="button">Carbery</button>
                     </div>
                 </div>
                 <button onClick={reset} name="Reset" type="button">Reset</button>
@@ -389,6 +272,12 @@ function SearchForm({jsonData}) {
 
             <div className="search-accordion" id="advanced">
                 <strong id="count"></strong>
+                <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#000000" className="bi bi-collection-play" viewBox="0 0 16 16">
+                    <path
+                        d="M2 3a.5.5 0 0 0 .5.5h11a.5.5 0 0 0 0-1h-11A.5.5 0 0 0 2 3m2-2a.5.5 0 0 0 .5.5h7a.5.5 0 0 0 0-1h-7A.5.5 0 0 0 4 1m2.765 5.576A.5.5 0 0 0 6 7v5a.5.5 0 0 0 .765.424l4-2.5a.5.5 0 0 0 0-.848z"/>
+                    <path
+                        d="M1.5 14.5A1.5 1.5 0 0 1 0 13V6a1.5 1.5 0 0 1 1.5-1.5h13A1.5 1.5 0 0 1 16 6v7a1.5 1.5 0 0 1-1.5 1.5zm13-1a.5.5 0 0 0 .5-.5V6a.5.5 0 0 0-.5-.5h-13A.5.5 0 0 0 1 6v7a.5.5 0 0 0 .5.5z"/>
+                </svg>
                 <label htmlFor="season" hidden>Filter By Season</label>
                 <select id="season" name="Season" onChange={handleSeasonChange}>
                     <option name="All" value="" selected>All</option>
