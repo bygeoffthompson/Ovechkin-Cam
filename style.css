@@ -8,10 +8,6 @@
     text-align: left;
 }
 
-#search-help ul {
-    margin: 0;
-}
-
 #window {
     align-items: center;
     display: flex;
@@ -111,11 +107,6 @@ th {
 
 tr:nth-child(odd) td {
     background: rgba(41,41,41,.1);
-}
-
-ul {
-    margin: 0 auto;
-    max-width: 300px;
 }
 
 @media (min-width:576px) {
