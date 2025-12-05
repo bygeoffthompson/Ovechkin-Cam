@@ -6,10 +6,10 @@
 #advanced {
   align-items: center;
   display: flex;
-  gap: 1rem;
+  gap: .5rem;
   height: 0;
   justify-content: center;
-  margin: 0 0 1.5rem;
+  margin: 2rem 0;
   opacity: 0;
   overflow: hidden;
   transition: all 250ms;
@@ -17,7 +17,6 @@
 
 #advanced.show {
   height: auto;
-  margin: 2rem 0;
   opacity: 1;
 }
 
@@ -90,19 +89,6 @@
   content: "KHL ";
 }
 
-.goal-count[data-season="Playoffs"]:before {
-  content: "Playoff ";
-}
-
-.goal-count[data-season="All Star"] span,
-.goal-count[data-season="KHL"] span,
-.goal-count[data-season="Playoffs"] span {
-  font-family: monospace;
-  overflow: hidden;
-  text-indent: -4ch;
-  white-space: nowrap;
-}
-
 .wrapper {
   max-width: 894px;
 }
@@ -137,6 +123,11 @@
 @keyframes goalClick {
     0% {
         opacity: 1;
+    }
+    95% {
+        left: 50%;
+        top: 105px;
+        transform: translateX(-50%);
     }
     100% {
         left: 50%;
@@ -196,13 +187,6 @@
 
 .copy:active {
   background-image: url(/public/icons/thumb.svg) !important;
-}
-
-.goal-text {
-  bottom: 2rem;
-  color: #1E3673;
-  font-size: 2rem;
-  position: absolute;
 }
 
 .link {
@@ -294,6 +278,10 @@
 .logo {
   height: 4rem;
   width: 4rem;
+}
+
+.logo[title='Amur Khabarovsk'] {
+  padding: 0 8px;
 }
 
 .record-light {
@@ -687,10 +675,6 @@ label {
     }
 }
 @media (min-width: 576px) {
-    .goalie {
-        margin-right: .625rem;
-    }
-
     .note {
         flex-direction: row;
     }

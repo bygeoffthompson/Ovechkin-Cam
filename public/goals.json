@@ -2,13 +2,14 @@
   {
     "goal": 1,
     "link": "https://www.youtube.com/embed/BoGOoO9WTOE?si=78xJy_OXwYKSNK4j",
+    "text": "\"Welcome On Board\"",
     "team": "Columbus Blue Jackets",
     "goalie": "Pascal Leclaire",
     "month": "October",
     "day": 5,
     "year": 2005,
     "type": "",
-    "tags": "Welcome On Board First",
+    "tags": "First",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -443,7 +444,7 @@
     "day": 16,
     "year": 2006,
     "type": "",
-    "tags": "Arizona Coyotes Multi Simply Sensational",
+    "tags": "Arizona Coyotes Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -682,7 +683,7 @@
     "day": 10,
     "year": 2006,
     "type": "OT",
-    "tags": "100th Point Overtime GWG",
+    "tags": "Overtime GWG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -1411,7 +1412,7 @@
     "day": 12,
     "year": 2007,
     "type": "PPG",
-    "tags": "100th Goal Century",
+    "tags": "100th Century",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -2910,7 +2911,7 @@
     "day": 5,
     "year": 2009,
     "type": "",
-    "tags": "200th Goal Century",
+    "tags": "200th Century",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -3709,7 +3710,7 @@
     "day": 7,
     "year": 2010,
     "type": "",
-    "tags": "Captain",
+    "tags": "",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -3864,7 +3865,7 @@
     "day": 4,
     "year": 2010,
     "type": "",
-    "tags": "500th Point Multi",
+    "tags": "Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -4551,7 +4552,7 @@
     "day": 5,
     "year": 2011,
     "type": "PPG",
-    "tags": "300th Goal Century",
+    "tags": "300th Century",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -5784,7 +5785,7 @@
     "day": 2,
     "year": 2013,
     "type": "GWG",
-    "tags": "700th Point 20th Teammate Multi",
+    "tags": "20th Teammate Multi",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -6373,7 +6374,7 @@
     "day": 20,
     "year": 2013,
     "type": "ENG",
-    "tags": "400th Goal Century Empty Net",
+    "tags": "400th Century Empty Net",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White Throwback"
@@ -6570,7 +6571,7 @@
     "day": 1,
     "year": 2014,
     "type": "PPG",
-    "tags": "800th Point Multi Vezina Trophy",
+    "tags": "Multi Vezina Trophy",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White Throwback"
@@ -7551,7 +7552,7 @@
     "day": 20,
     "year": 2015,
     "type": "",
-    "tags": "Karri Ramo 900th Point",
+    "tags": "Karri Ramo",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -7846,7 +7847,7 @@
     "day": 10,
     "year": 2016,
     "type": "PPG",
-    "tags": "500th Goal Century",
+    "tags": "500th Century",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -8547,7 +8548,7 @@
     "day": 11,
     "year": 2017,
     "type": "",
-    "tags": "Marc-Andre Fleury 1000th Point 20th",
+    "tags": "Marc-Andre Fleury 20th",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -9416,7 +9417,7 @@
     "day": 12,
     "year": 2018,
     "type": "",
-    "tags": "600th Goal Century Multi",
+    "tags": "600th Century Multi",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -10640,6 +10641,7 @@
     "day": 29,
     "year": 2019,
     "type": "",
+    "tags": "",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -11092,7 +11094,7 @@
     "day": 22,
     "year": 2020,
     "type": "",
-    "tags": "700th Goal Century",
+    "tags": "700th Century",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -11403,7 +11405,7 @@
     "day": 16,
     "year": 2021,
     "type": "GWG",
-    "tags": "1300th Point PPG Teammate",
+    "tags": "PPG Teammate",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Reverse Retro Red"
@@ -11923,7 +11925,7 @@
     "day": 31,
     "year": 2021,
     "type": "GWG",
-    "tags": "275th Power Play Goal New Years Eve PPG",
+    "tags": "New Years Eve PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -12597,7 +12599,7 @@
     "day": 13,
     "year": 2022,
     "type": "",
-    "tags": "Petr Mrazek 800th Goal Century Hat Trick 20th",
+    "tags": "Petr Mrazek 800th Century Hat Trick 20th",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -13816,7 +13818,7 @@
     "day": 9,
     "year": 2025,
     "type": "ENG",
-    "tags": "1600th Point Empty Net",
+    "tags": "Empty Net",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -13929,7 +13931,7 @@
     "day": 4,
     "year": 2025,
     "type": "GWG",
-    "tags": "Multi PPG",
+    "tags": "Multi PPG Wayne Gretzky",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -13944,7 +13946,7 @@
     "day": 6,
     "year": 2025,
     "type": "PPG",
-    "tags": "The Chasing Days Are Done",
+    "tags": "",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"

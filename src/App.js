@@ -52,9 +52,7 @@ function SearchForm({jsonData}) {
                     item.season.includes(document.getElementById('season').value)
                 );
             });
-            if (results.length > 0) {
-                document.querySelector('#advanced').classList.add('show');
-            }
+            document.querySelector('#advanced').classList.add('show');
             if (results.length === 1) {
                 document.querySelector('#count').innerHTML = results.length + ' Result';
             } else {
@@ -391,15 +389,15 @@ function SearchForm({jsonData}) {
             </form>
 
             <div id="advanced">
+                <strong id="count"></strong>
                 <label htmlFor="season" hidden>Filter By Season</label>
                 <select id="season" name="Season" onChange={handleSeasonChange}>
                     <option name="All" value="" selected>All</option>
                     <option name="Regular Season" value="Regular">Regular Season</option>
-                    <option name="Playoffs" value="Playoffs">Playoffs</option>
+                    <option name="Playoffs" value="Playoff">Playoffs</option>
                     <option name="All Star Game" value="All Star">All Star Game</option>
                     <option name="KHL" value="KHL">KHL</option>
                 </select>
-                <strong id="count"></strong>
             </div>
 
             <div id="click-goal" onClick={clickGoal}></div>
@@ -407,9 +405,9 @@ function SearchForm({jsonData}) {
             <div className="wrapper">
                 {searchResults.map((result, index) => (
                     <div className="frame" key={index}>
-                        <div className="note">
+                        <div className="note" data-season={result.season}>
                             <div>
-                                <strong className="goal-count" data-season={result.season}>{result.goal}</strong>
+                                <strong className="goal-count">{result.goal}</strong>
                                 <div className="goal-siren">
                                     <img alt="Goal Siren icon" src="/icons/goal-siren.svg"/>
                                     <strong className="type">{result.type}</strong>
@@ -420,17 +418,12 @@ function SearchForm({jsonData}) {
                             </div>
                             <div>
                                 <strong className="goalie">{result.goalie}</strong>
-                            </div>
-                            <div>
                                 <strong><small>{result.month} {result.day} {result.year}</small></strong>
                             </div>
                         </div>
                         <div className="shadow">
                             <iframe width="560" height="315" src={result.link.replace(/"/g, "")} title="Alex Ovechkin Goal Video"
                                 referrerPolicy="cross-origin-with-strict-origin" allowFullScreen loading="lazy"></iframe>
-                        </div>
-                        <div className="goal-text">
-                            <strong>{result.text}</strong>
                         </div>
                         <div className="link" data-season={result.season}>
                             <strong>ovechkin.cam/?{result.goal}</strong>

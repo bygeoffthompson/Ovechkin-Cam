@@ -51,7 +51,7 @@ footer {
     cursor: default;
     display: flex;
     justify-content: center;
-    padding: .5rem 1rem;
+    padding: .75rem 1rem;
     width: 100%;
     z-index: 1;
 }
