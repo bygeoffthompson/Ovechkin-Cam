@@ -3,26 +3,23 @@
   width: 0;
 }
 
-#advanced {
-  align-items: center;
-  display: flex;
-  gap: .5rem;
-  height: 0;
-  justify-content: center;
-  margin: 2rem 0;
-  opacity: 0;
-  overflow: hidden;
-  transition: all 250ms;
+.search-accordion {
+    align-items: center;
+    display: flex;
+    font-size: 1.25rem;
+    gap: .5rem;
+    height: 0;
+    justify-content: center;
+    margin: 0;
+    opacity: 0;
+    overflow: hidden;
+    transition: all 250ms ease-in;
 }
 
-#advanced.show {
-  height: auto;
-  opacity: 1;
-}
-
-#advanced label,
-#count {
-  font-size: 1.5rem;
+.search-accordion.show {
+    height: auto;
+    margin: 0 0 2rem;
+    opacity: 1;
 }
 
 #cracked-ice,
@@ -79,14 +76,6 @@
   color: #f34133;
   font-size: 3rem !important;
   margin: 0 .5rem;
-}
-
-.goal-count[data-season="All Star"]:before {
-  content: "All Star ";
-}
-
-.goal-count[data-season="KHL"]:before {
-  content: "KHL ";
 }
 
 .wrapper {
@@ -193,7 +182,7 @@
   justify-content: center;
 }
 
-.link[data-season="Regular"] {
+.link[data-season='Regular'] {
   display: flex;
 }
 
@@ -211,6 +200,10 @@
   position: relative;
   transition: all .25s ease-in-out;
   z-index: 1;
+}
+
+.note[data-season='KHL'] .logo {
+  padding: 0 .5rem;
 }
 
 .note > div {
@@ -508,6 +501,7 @@ form {
   font-size: 1.25rem;
   gap: 1.5rem;
   justify-content: center;
+  margin: 0 0 2rem;
   padding: 1.5rem;
   position: relative;
 }

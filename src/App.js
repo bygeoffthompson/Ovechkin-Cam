@@ -31,10 +31,8 @@ function SearchForm({jsonData}) {
             });
         }
         const search1Value = document.getElementById('search-text-1').value.length;
-        const search2Value = document.getElementById('search-text-2').value.length;
-        const search3Value = document.getElementById('search-text-3').value.length;
 
-        if (search1Value > 2 || searchText2 || searchText3) {
+        if (search1Value > 2) {
             const results = jsonData.filter((item) => {
                 const search =
                     item.month +
@@ -53,6 +51,7 @@ function SearchForm({jsonData}) {
                 );
             });
             document.querySelector('#advanced').classList.add('show');
+            document.querySelector('#minimum').classList.remove('show');
             if (results.length === 1) {
                 document.querySelector('#count').innerHTML = results.length + ' Result';
             } else {
@@ -60,8 +59,11 @@ function SearchForm({jsonData}) {
             }
             setSearchResults(results);
         }
-        if (searchText1 && search1Value < 3 && search2Value === 0 && search3Value === 0) {
+        if (search1Value === 0) {
+            document.getElementById('minimum').classList.remove('show');
+        } else if (search1Value === 1 || search1Value === 2) {
             document.getElementById('advanced').classList.remove('show');
+            document.getElementById('minimum').classList.add('show');
             setSearchResults([]);
         }
     }, [searchGoal, searchText1, searchText2, searchText3, jsonData]);
@@ -199,6 +201,7 @@ function SearchForm({jsonData}) {
     }
 
     const reset = () => {
+        document.getElementById('minimum').classList.remove('show');
         setSearchGoal('');
         setSearchResults([]);
         resultsHide();
@@ -326,7 +329,7 @@ function SearchForm({jsonData}) {
                     <label htmlFor="search-text-1">Text</label>
                     <label htmlFor="search-text-2" hidden>Text</label>
                     <label htmlFor="search-text-3" hidden>Text</label>
-                    <input id="search-text-1" tabIndex="1" type="text" placeholder="3 Letters Minimum" value={searchText1} onChange={handleText1}/>
+                    <input id="search-text-1" tabIndex="1" type="text" placeholder="Search" value={searchText1} onChange={handleText1}/>
                     <input id="search-text-2" tabIndex="2" type="text" placeholder="And" value={searchText2} onChange={handleText2}/>
                     <input id="search-text-3" tabIndex="3" type="text" placeholder="And" value={searchText3} onChange={handleText3}/>
                     <h3 className="randomize">Randomize</h3>
@@ -385,7 +388,11 @@ function SearchForm({jsonData}) {
                 <button onClick={reset} name="Reset" type="button">Reset</button>
             </form>
 
-            <div id="advanced">
+            <div className="search-accordion" id="minimum">
+                <strong>Search Requires 3 Letters Minimum</strong>
+            </div>
+
+            <div className="search-accordion" id="advanced">
                 <strong id="count"></strong>
                 <label htmlFor="season" hidden>Filter By Season</label>
                 <select id="season" name="Season" onChange={handleSeasonChange}>
