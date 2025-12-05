@@ -244,11 +244,6 @@
   position: relative;
 }
 
-.goal-light {
-  height: auto;
-  width: 18px;
-}
-
 .goal-siren {
   display: flex;
   justify-content: center;
@@ -270,11 +265,6 @@
 
 .logo[title='Amur Khabarovsk'] {
   padding: 0 8px;
-}
-
-.record-light {
-  height: auto;
-  width: 30px;
 }
 
 body {
@@ -545,12 +535,6 @@ form h2:after {
   h1 {
     font-size: 20px;
   }
-}
-
-header {
-  margin: 2rem 0;
-  position: relative;
-  z-index: 1;
 }
 
 header a:hover {
