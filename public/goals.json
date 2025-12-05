@@ -514,7 +514,7 @@
     "day": 15,
     "year": 2006,
     "type": "PPG",
-    "tags": "",
+    "tags": "Torino",
     "season": "Olympics",
     "arena": "Away",
     "jersey": "Red Russia"
@@ -528,7 +528,7 @@
     "day": 16,
     "year": 2006,
     "type": "",
-    "tags": "",
+    "tags": "Torino",
     "season": "Olympics",
     "arena": "Home",
     "jersey": "Red Russia"
@@ -542,7 +542,7 @@
     "day": 19,
     "year": 2006,
     "type": "",
-    "tags": "Edgars Masalskis",
+    "tags": "Edgars Masalskis Torino",
     "season": "Olympics",
     "arena": "Away",
     "jersey": "Red Russia"
@@ -556,7 +556,7 @@
     "day": 21,
     "year": 2006,
     "type": "",
-    "tags": "",
+    "tags": "Torino",
     "season": "Olympics",
     "arena": "Home",
     "jersey": "White Russia"
@@ -570,7 +570,7 @@
     "day": 22,
     "year": 2006,
     "type": "GWG",
-    "tags": "PPG",
+    "tags": "PPG Torino",
     "season": "Olympics",
     "arena": "Away",
     "jersey": "Red Russia"
@@ -4005,7 +4005,7 @@
     "day": 16,
     "year": 2010,
     "type": "GWG",
-    "tags": "Edgars Masalskis",
+    "tags": "Edgars Masalskis Vancouver",
     "season": "Olympics",
     "arena": "Away",
     "jersey": "Red Russia"
@@ -4019,7 +4019,7 @@
     "day": 16,
     "year": 2010,
     "type": "",
-    "tags": "Edgars Masalskis Multi",
+    "tags": "Edgars Masalskis Multi Vancouver",
     "season": "Olympics",
     "arena": "Away",
     "jersey": "Red Russia"
@@ -6640,7 +6640,7 @@
     "day": 13,
     "year": 2014,
     "type": "",
-    "tags": "",
+    "tags": "Sochi",
     "season": "Olympics",
     "arena": "Away",
     "jersey": "Red Russia"
