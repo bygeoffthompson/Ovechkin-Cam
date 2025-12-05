@@ -158,7 +158,8 @@
   z-index: 1;
 }
 
-.note[data-season='KHL'] .logo {
+.note[data-season='KHL'] .logo,
+.note[data-season='Olympics'] .logo {
   padding: 0 .5rem;
 }
 
@@ -221,6 +222,11 @@
 
 .logo[title='Amur Khabarovsk'] {
   padding: 0 8px;
+}
+
+.logo[title='Latvia'] {
+    height: 32px;
+    width: 64px;
 }
 
 body {
