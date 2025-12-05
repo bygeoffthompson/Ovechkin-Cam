@@ -133,11 +133,6 @@ function SearchForm({jsonData}) {
         clickTrack('Canada Click');
     };
 
-    const copyFunction = () => {
-        const link = document.querySelector('.link strong').innerHTML;
-        navigator.clipboard.writeText(link);
-    };
-
     const emptyNetGoal = () => {
         randomGoal(['ENG']);
         clickTrack('Empty Net Click');
@@ -428,10 +423,6 @@ function SearchForm({jsonData}) {
                         <div className="shadow">
                             <iframe width="560" height="315" src={result.link.replace(/"/g, "")} title="Alex Ovechkin Goal Video"
                                 referrerPolicy="cross-origin-with-strict-origin" allowFullScreen loading="lazy"></iframe>
-                        </div>
-                        <div className="link" data-season={result.season}>
-                            <strong>ovechkin.cam/?{result.goal}</strong>
-                            <button onClick={copyFunction} className="copy" title="Copy Link">Copy</button>
                         </div>
                     </div>
                 ))}
