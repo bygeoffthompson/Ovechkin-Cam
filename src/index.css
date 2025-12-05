@@ -77,7 +77,7 @@
 }
 
 .goal-count {
-  color: #C8102E;
+  color: #f34133;
   font-size: 3rem !important;
   margin: 0 .5rem;
 }
@@ -228,9 +228,8 @@
   cursor: default;
   display: flex;
   flex-direction: column-reverse;
-
   justify-content: center;
-  left: -30px;
+  position: relative;
   transition: all .25s ease-in-out;
   z-index: 1;
 }
