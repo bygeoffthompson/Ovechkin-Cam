@@ -75,6 +75,17 @@
   color: #f34133;
   font-size: 3rem !important;
   margin: 0 .5rem;
+  position: relative;
+}
+
+.goal-count:before {
+    color: #000;
+    font-size: 1rem;
+    left: 0;
+    position: absolute;
+    text-align: end;
+    top: -.5rem;
+    width: 100%;
 }
 
 .wrapper {
@@ -156,6 +167,26 @@
   position: relative;
   transition: all .25s ease-in-out;
   z-index: 1;
+}
+
+.note[data-season='All Star'] .goal-count:before {
+    content: 'All Star';
+}
+
+.note[data-season='KHL'] .goal-count:before {
+    content: 'KHL';
+}
+
+.note[data-season='Olympics'] .goal-count:before {
+    content: 'Olympics';
+}
+
+.note[data-season='Playoffs'] .goal-count:before {
+    content: 'Playoffs';
+}
+
+.note[data-season='All Star'] .logo {
+    padding: 0 .75rem;
 }
 
 .note[data-season='KHL'] .logo,
