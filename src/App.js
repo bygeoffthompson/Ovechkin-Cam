@@ -286,6 +286,7 @@ function SearchForm({jsonData}) {
                     <option name="Regular Season" value="Regular">Regular Season</option>
                     <option name="Playoffs" value="Playoff">Playoffs</option>
                     <option name="All Star Game" value="All Star">All Star Game</option>
+                    <option name="IIHF" value="IIHF">IIHF</option>
                     <option name="KHL" value="KHL">KHL</option>
                     <option name="Olympics" value="Olympics">Olympics</option>
                     <option name="World Cup" value="World Cup">World Cup</option>

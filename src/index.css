@@ -205,12 +205,12 @@
     font-size: 1.25rem;
 }
 
-[data-season*='All Star'] .goal-count span:first-of-type,
-[data-season*='KHL'] .goal-count span:first-of-type,
-[data-season*='Olympics'] .goal-count span:first-of-type,
-[data-season*='Playoffs'] .goal-count span:first-of-type,
-[data-season*='World Championship'] .goal-count span:first-of-type,
-[data-season*='World Cup'] .goal-count span:first-of-type {
+[data-season='All Star'] .goal-count span:first-of-type,
+[data-season='IIHF'] .goal-count span:first-of-type,
+[data-season='KHL'] .goal-count span:first-of-type,
+[data-season='Olympics'] .goal-count span:first-of-type,
+[data-season='Playoffs'] .goal-count span:first-of-type,
+[data-season='World Cup'] .goal-count span:first-of-type {
     display: none;
 }
 
