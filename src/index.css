@@ -218,6 +218,15 @@
     display: none;
 }
 
+[data-season='IIHF'] .logo,
+[data-season='KHL'] .logo,
+[data-season='Olympics'] .logo,
+[data-season='World Cup'] .logo {
+  height: 2.25rem;
+  width: 4rem;
+  padding: 0 .5rem;
+}
+
 [data-season='All Star'] .goal-count:before {
     content: 'ASG';
 }
@@ -246,11 +255,6 @@
     padding: 0 .75rem;
 }
 
-[data-season='KHL'] .logo,
-[data-season='Olympics'] .logo {
-  padding: 0 .5rem;
-}
-
 .frame {
   margin-bottom: 3rem;
   position: relative;
@@ -273,15 +277,6 @@
 .logo {
   height: 4rem;
   width: 4rem;
-}
-
-.logo[title='Amur Khabarovsk'] {
-  padding: 0 .5rem;
-}
-
-.logo[title='Latvia'] {
-    height: 2rem;
-    width: 4rem;
 }
 
 body {
