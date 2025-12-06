@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.4e693add.css",
+    "main.css": "/static/css/main.2614cdee.css",
     "main.js": "/static/js/main.9df5ef2e.js",
     "static/js/453.5af5bb2d.chunk.js": "/static/js/453.5af5bb2d.chunk.js",
     "static/media/cracked-ice.jpg": "/static/media/cracked-ice.a25fe2de5c1d0a50773d.jpg",
     "static/media/ice.jpg": "/static/media/ice.43e1c19f2731ef523000.jpg",
     "index.html": "/index.html",
-    "main.4e693add.css.map": "/static/css/main.4e693add.css.map",
+    "main.2614cdee.css.map": "/static/css/main.2614cdee.css.map",
     "main.9df5ef2e.js.map": "/static/js/main.9df5ef2e.js.map",
     "453.5af5bb2d.chunk.js.map": "/static/js/453.5af5bb2d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e693add.css",
+    "static/css/main.2614cdee.css",
     "static/js/main.9df5ef2e.js"
   ]
 }
