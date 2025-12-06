@@ -74,7 +74,6 @@
 .goal-count {
   color: #f34133;
   font-size: 3rem !important;
-  min-width: 60px;
   position: relative;
 }
 
@@ -170,13 +169,15 @@
   z-index: 1;
 }
 
-.note[data-season*='l'] .goal-count span:first-of-type,
-.note[data-season*='L'] .goal-count span:first-of-type {
+.note[data-season*='All Star'] .goal-count span:first-of-type,
+.note[data-season*='KHL'] .goal-count span:first-of-type,
+.note[data-season*='Olympics'] .goal-count span:first-of-type,
+.note[data-season*='Playoffs'] .goal-count span:first-of-type {
     display: none;
 }
 
 .note[data-season='All Star'] .goal-count:before {
-    content: 'All Star';
+    content: 'ASG';
 }
 
 .note[data-season='KHL'] .goal-count:before {
