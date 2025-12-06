@@ -49,6 +49,7 @@ function SearchForm({jsonData}) {
             setSearchResults(results);
         }
         if (search1Value === 0) {
+            document.getElementById('advanced').classList.remove('show');
             document.getElementById('minimum').classList.remove('show');
         } else if (search1Value === 1 || search1Value === 2) {
             document.getElementById('advanced').classList.remove('show');
