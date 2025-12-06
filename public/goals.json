@@ -11,7 +11,7 @@
     "tags": "2004 World Championships",
     "season": "IIHF",
     "arena": "Away",
-    "jersey": ""
+    "jersey": "Red Russia"
   },
   {
     "goal": 0.02,
@@ -25,7 +25,7 @@
     "tags": "2005 World Championships Bernd Bruckler Bernd Brueckler ",
     "season": "IIHF",
     "arena": "Away",
-    "jersey": ""
+    "jersey": "Red Russia"
   },
   {
     "goal": 0.03,
@@ -39,7 +39,7 @@
     "tags": "2005 World Championships",
     "season": "IIHF",
     "arena": "Away",
-    "jersey": ""
+    "jersey": "Red Russia"
   },
   {
     "goal": 0.04,
@@ -53,7 +53,7 @@
     "tags": "2005 World Championships Niklas Bäckstrom",
     "season": "IIHF",
     "arena": "Away",
-    "jersey": ""
+    "jersey": "Red Russia"
   },
   {
     "goal": 0.05,
@@ -907,10 +907,10 @@
     "day": 6,
     "year": 2006,
     "type": "PPG",
-    "tags": "2006 World Championships",
+    "tags": "2006 World Championships Gold Tuuks",
     "season": "IIHF",
     "arena": "Away",
-    "jersey": ""
+    "jersey": "Red Russia"
   },
   {
     "goal": 52.08,
@@ -921,10 +921,10 @@
     "day": 6,
     "year": 2006,
     "type": "",
-    "tags": "2006 World Championships Multi",
+    "tags": "2006 World Championships Gold Tuuks Multi",
     "season": "IIHF",
     "arena": "Away",
-    "jersey": ""
+    "jersey": "Red Russia"
   },
   {
     "goal": 52.09,
@@ -935,10 +935,10 @@
     "day": 6,
     "year": 2006,
     "type": "3rd",
-    "tags": "2006 World Championships Hat Trick PPG",
+    "tags": "2006 World Championships Gold Tuuks Hat Trick PPG",
     "season": "IIHF",
     "arena": "Away",
-    "jersey": ""
+    "jersey": "Red Russia"
   },
   {
     "goal": "52.10",
@@ -949,10 +949,10 @@
     "day": 11,
     "year": 2006,
     "type": "",
-    "tags": "2006 World Championships",
+    "tags": "2006 World Championships Gold Tuuks",
     "season": "IIHF",
     "arena": "Away",
-    "jersey": ""
+    "jersey": "Red Russia"
   },
   {
     "goal": 52.11,
@@ -963,10 +963,10 @@
     "day": 15,
     "year": 2006,
     "type": "",
-    "tags": "2006 World Championships",
+    "tags": "2006 World Championships Gold Tuuks",
     "season": "IIHF",
     "arena": "Home",
-    "jersey": ""
+    "jersey": "Red Russia"
   },
   {
     "goal": 52.12,
@@ -977,7 +977,7 @@
     "day": 18,
     "year": 2006,
     "type": "",
-    "tags": "2006 World Championships Milan Hnilicka",
+    "tags": "2006 World Championships Gold Tuuks Milan Hnilicka",
     "season": "IIHF",
     "arena": "Away",
     "jersey": "Red Russia"
@@ -2658,7 +2658,7 @@
     "day": 2,
     "year": 2008,
     "type": "",
-    "tags": "2008 World Championships",
+    "tags": "2008 World Championships Russia Tuuks",
     "season": "IIHF",
     "arena": "Away",
     "jersey": "Red Russia"
@@ -2672,7 +2672,7 @@
     "day": 6,
     "year": 2008,
     "type": "",
-    "tags": "2008 World Championships",
+    "tags": "2008 World Championships Russia Tuuks",
     "season": "IIHF",
     "arena": "Away",
     "jersey": "Red Russia"
@@ -2686,7 +2686,7 @@
     "day": 9,
     "year": 2008,
     "type": "",
-    "tags": "2008 World Championships",
+    "tags": "2008 World Championships Russia Tuuks",
     "season": "IIHF",
     "arena": "Away",
     "jersey": "Red Russia"
@@ -2700,7 +2700,7 @@
     "day": 10,
     "year": 2008,
     "type": "GWG",
-    "tags": "2008 World Championships",
+    "tags": "2008 World Championships Russia Tuuks",
     "season": "IIHF",
     "arena": "Away",
     "jersey": "Red Russia"
@@ -2714,7 +2714,7 @@
     "day": 12,
     "year": 2008,
     "type": "PPG",
-    "tags": "2008 World Championships",
+    "tags": "2008 World Championships Russia Tuuks",
     "season": "IIHF",
     "arena": "Home",
     "jersey": "White Russia"
@@ -2728,7 +2728,7 @@
     "day": 14,
     "year": 2008,
     "type": "",
-    "tags": "2008 World Championships",
+    "tags": "2008 World Championships Russia Tuuks",
     "season": "IIHF",
     "arena": "Away",
     "jersey": "Red Russia"
@@ -4285,7 +4285,7 @@
     "day": 16,
     "year": 2010,
     "type": "GWG",
-    "tags": "Edgars Masalskis Vancouver",
+    "tags": "Edgars Masalskis Fire Tuuks Flame Tuuks Vancouver",
     "season": "Olympics",
     "arena": "Away",
     "jersey": "Red Russia"
@@ -4299,7 +4299,7 @@
     "day": 16,
     "year": 2010,
     "type": "",
-    "tags": "Edgars Masalskis Multi Vancouver",
+    "tags": "Edgars Masalskis Fire Tuuks Flame Tuuks Multi Vancouver",
     "season": "Olympics",
     "arena": "Away",
     "jersey": "Red Russia"
