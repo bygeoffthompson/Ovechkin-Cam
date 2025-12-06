@@ -240,11 +240,11 @@
 }
 
 [data-season='Olympics'] .goal-count:before {
-    content: 'Olympics';
+    content: 'Olympic';
 }
 
 [data-season='Playoffs'] .goal-count:before {
-    content: 'Playoffs';
+    content: 'Playoff';
 }
 
 [data-season='World Cup'] .goal-count:before {
