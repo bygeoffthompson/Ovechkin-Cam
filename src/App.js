@@ -25,7 +25,7 @@ function SearchForm({jsonData}) {
             const results = jsonData.filter((item) => {
                 const search =
                     item.season.replace('Regular', '') + ' ' +
-                    item.type + ' ' +
+                    item.type.replace('ENG', '') + ' ' +
                     item.month + ' ' +
                     item.day + ' ' +
                     item.year + ' ' +
