@@ -386,20 +386,17 @@ button:active {
 }
 
 .jersey-logo {
-    max-width: 36px;
+    max-width: 2.25rem;
 }
 
-.jersey-logo[src="/jerseys/capitals.svg"] {
-    max-width: 54px;
+.jersey-logo[src="/jerseys/capitals.svg"],
+.jersey-logo[src="/jerseys/throwback.svg"] {
+    max-width: 2.75rem;
 }
 
 .jersey-logo[src="/jerseys/brick.svg"],
 .jersey-logo[src="/jerseys/navy.svg"] {
-    max-width: 24px;
-}
-
-.jersey-logo[src="/jerseys/throwback.svg"] {
-    max-width: 40px;
+    max-width: 1.5rem;
 }
 
 button[title="Capitol"] {
