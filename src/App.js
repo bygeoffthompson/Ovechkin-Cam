@@ -24,14 +24,14 @@ function SearchForm({jsonData}) {
         if (search1Value > 2) {
             const results = jsonData.filter((item) => {
                 const search =
+                    item.season.replace('Regular', '') + ' ' +
+                    item.type + ' ' +
                     item.month + ' ' +
                     item.day + ' ' +
                     item.year + ' ' +
                     item.goalie + ' ' +
                     item.team + ' ' +
-                    item.tags + ' ' +
-                    item.type + ' ' +
-                    item.season.replace('Regular', '')
+                    item.tags + ' '
                 return (
                     search.toLowerCase().includes(searchText1) &&
                     search.toLowerCase().includes(searchText2) &&
