@@ -72,7 +72,7 @@
 }
 
 .goal-count {
-  color: #f34133;
+  color: #000;
   font-size: 3rem !important;
   position: relative;
 }
@@ -203,6 +203,10 @@
 
 .note strong {
     font-size: 1.25rem;
+}
+
+[data-season='Regular'] .goal-count {
+  color: #f34133;
 }
 
 [data-season='All Star'] .goal-count span:first-of-type,
@@ -461,7 +465,7 @@ button[title="Brick Stars & Stripes"]:after {
     right: -.75rem;
 }
 
-button[title="Throwback"] {
+button[title="Throwback Third"] {
     background: #C8102E;
     background-image: linear-gradient(50deg, #E13A3E 25%, #FFF 26%, #FFF 74%, #E13A3E 75%);
 }
