@@ -218,6 +218,10 @@
     content: 'ASG';
 }
 
+[data-season='IIHF'] .goal-count:before {
+    content: 'IIHF';
+}
+
 [data-season='KHL'] .goal-count:before {
     content: 'KHL';
 }
