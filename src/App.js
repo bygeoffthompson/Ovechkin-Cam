@@ -182,6 +182,7 @@ function SearchForm({jsonData}) {
 
     const reset = () => {
         document.getElementById('minimum').classList.remove('show');
+        document.getElementById('season').value = '';
         setSearchGoal('');
         setSearchResults([]);
         resultsHide();

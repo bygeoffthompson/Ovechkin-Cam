@@ -78,13 +78,12 @@
 }
 
 .goal-count:before {
-    color: #000;
-    font-size: 1rem;
-    left: 0;
-    position: absolute;
-    text-align: end;
-    top: -.4rem;
-    width: 100%;
+  color: #000;
+  font-size: 1rem;
+  position: absolute;
+  right: 0;
+  text-align: end;
+  top: -.4rem;
 }
 
 .wrapper {
@@ -154,6 +153,8 @@
 }
 
 #season {
+  background-color: transparent;
+  border-color: #000;
   font-size: 1.25rem;
   padding: 4px;
 }
@@ -169,69 +170,69 @@
   z-index: 1;
 }
 
-.note[data-season*='All Star'] .goal-count span:first-of-type,
-.note[data-season*='KHL'] .goal-count span:first-of-type,
-.note[data-season*='Olympics'] .goal-count span:first-of-type,
-.note[data-season*='Playoffs'] .goal-count span:first-of-type {
-    display: none;
-}
-
-.note[data-season='All Star'] .goal-count:before {
-    content: 'ASG';
-}
-
-.note[data-season='KHL'] .goal-count:before {
-    content: 'KHL';
-}
-
-.note[data-season='Olympics'] .goal-count:before {
-    content: 'Olympics';
-}
-
-.note[data-season='Playoffs'] .goal-count:before {
-    content: 'Playoffs';
-}
-
-.note[data-season='All Star'] .logo {
-    padding: 0 .75rem;
-}
-
-.note[data-season='KHL'] .logo,
-.note[data-season='Olympics'] .logo {
-  padding: 0 .5rem;
-}
-
 .note > div {
-  align-items: center;
-  display: flex;
-  flex-direction: row;
-  gap: 8px;
-  margin: 0;
-  position: relative;
-  width: auto;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    margin: 0;
+    position: relative;
+    width: auto;
 }
 
 .note > div:first-of-type {
-   gap: 0;
+    gap: 0;
 }
 
 .note .type {
-  background: radial-gradient(#EF4933 40%, transparent);
-  bottom: 1rem;
-  color: #FFD2C7;
-  font-size: 24px;
-  letter-spacing: -1px;
-  margin: 0;
-  position: absolute;
+    background: radial-gradient(#EF4933 40%, transparent);
+    bottom: 1rem;
+    color: #FFD2C7;
+    font-size: 24px;
+    letter-spacing: -1px;
+    margin: 0;
+    position: absolute;
 }
 
 .note h3 {
-  font-size: 1.5rem;
-  margin: 0;
+    font-size: 1.5rem;
+    margin: 0;
 }
 
 .note strong {
-  font-size: 1.25rem;
+    font-size: 1.25rem;
+}
+
+[data-season*='All Star'] .goal-count span:first-of-type,
+[data-season*='KHL'] .goal-count span:first-of-type,
+[data-season*='Olympics'] .goal-count span:first-of-type,
+[data-season*='Playoffs'] .goal-count span:first-of-type {
+    display: none;
+}
+
+[data-season='All Star'] .goal-count:before {
+    content: 'ASG';
+}
+
+[data-season='KHL'] .goal-count:before {
+    content: 'KHL';
+}
+
+[data-season='Olympics'] .goal-count:before {
+    content: 'Olympics';
+}
+
+[data-season='Playoffs'] .goal-count:before {
+    content: 'Playoffs';
+}
+
+[data-season='All Star'] .logo {
+    padding: 0 .75rem;
+}
+
+[data-season='KHL'] .logo,
+[data-season='Olympics'] .logo {
+  padding: 0 .5rem;
 }
 
 .frame {
@@ -259,12 +260,12 @@
 }
 
 .logo[title='Amur Khabarovsk'] {
-  padding: 0 8px;
+  padding: 0 .5rem;
 }
 
 .logo[title='Latvia'] {
-    height: 32px;
-    width: 64px;
+    height: 2rem;
+    width: 4rem;
 }
 
 body {
