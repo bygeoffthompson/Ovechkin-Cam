@@ -80,6 +80,7 @@
 .goal-count:before {
   color: #000;
   font-size: 1rem;
+  min-width: 80px;
   position: absolute;
   right: 0;
   text-align: end;
@@ -207,7 +208,8 @@
 [data-season*='All Star'] .goal-count span:first-of-type,
 [data-season*='KHL'] .goal-count span:first-of-type,
 [data-season*='Olympics'] .goal-count span:first-of-type,
-[data-season*='Playoffs'] .goal-count span:first-of-type {
+[data-season*='Playoffs'] .goal-count span:first-of-type,
+[data-season*='World Cup'] .goal-count span:first-of-type {
     display: none;
 }
 
@@ -225,6 +227,10 @@
 
 [data-season='Playoffs'] .goal-count:before {
     content: 'Playoffs';
+}
+
+[data-season='World Cup'] .goal-count:before {
+    content: 'World Cup';
 }
 
 [data-season='All Star'] .logo {

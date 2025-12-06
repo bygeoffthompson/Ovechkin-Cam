@@ -1,5 +1,19 @@
 [
   {
+    "goal": 0.01,
+    "link": "https://www.youtube.com/embed/okK1M-lW8XY?si=mL1djqhhNefKN1OG&amp;start=823",
+    "team": "Slovakia",
+    "goalie": "Ján Lašák",
+    "month": "September",
+    "day": 5,
+    "year": 2005,
+    "type": "",
+    "tags": "2004 World Cup Jan Lasak",
+    "season": "World Cup",
+    "arena": "Home",
+    "jersey": "Red Russia"
+  },
+  {
     "goal": 1,
     "link": "https://www.youtube.com/embed/BoGOoO9WTOE?si=78xJy_OXwYKSNK4j",
     "text": "\"Welcome On Board\"",
@@ -8382,6 +8396,20 @@
     "type": "",
     "tags": "Marc-Andre Fleury Semifinals Game 5",
     "season": "Playoffs",
+    "arena": "Home",
+    "jersey": "Red"
+  },
+  {
+    "goal": 525.02,
+    "link": "https://www.youtube.com/embed/Ld6Kb5gm8A0?si=YbFviHvZVC07RoK9",
+    "team": "Sweden",
+    "goalie": "Jacob Markström",
+    "month": "September",
+    "day": 18,
+    "year": 2016,
+    "type": "",
+    "tags": "2016 World Cup Jacob Markstrom",
+    "season": "World Cup",
     "arena": "Home",
     "jersey": "Red"
   },
