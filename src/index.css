@@ -74,7 +74,7 @@
 .goal-count {
   color: #f34133;
   font-size: 3rem !important;
-  margin: 0 .5rem;
+  min-width: 60px;
   position: relative;
 }
 
@@ -84,7 +84,7 @@
     left: 0;
     position: absolute;
     text-align: end;
-    top: -.5rem;
+    top: -.4rem;
     width: 100%;
 }
 
@@ -132,6 +132,7 @@
 
 #root {
   max-width: 1024px;
+  padding: 0 .75rem;
 }
 
 #search-text-1,
@@ -167,6 +168,11 @@
   position: relative;
   transition: all .25s ease-in-out;
   z-index: 1;
+}
+
+.note[data-season*='l'] .goal-count span:first-of-type,
+.note[data-season*='L'] .goal-count span:first-of-type {
+    display: none;
 }
 
 .note[data-season='All Star'] .goal-count:before {
@@ -464,13 +470,13 @@ button[name="Reverse Retro"]:hover {
     box-shadow: 0 .5rem 3rem #000000;
 }
 
-button[name="Reset"] {
+button[title="Reset"] {
   background: transparent;
   box-shadow: none;
 }
 
-button[name="Reset"]:hover,
-button[name="Reset"]:active {
+button[title="Reset"]:hover,
+button[title="Reset"]:active {
   color: #292929;
   transform: none;
 }
@@ -684,14 +690,5 @@ label {
 @media (min-width:992px) {
   .note strong {
     font-size: 1.5rem;
-  }
-
-  .icon {
-    height: 44px;
-    width: 44px;
-  }
-
-  #root {
-    padding: 0 16px;
   }
 }

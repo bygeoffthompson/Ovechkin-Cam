@@ -296,7 +296,10 @@ function SearchForm({jsonData}) {
                     <div className="frame" key={index}>
                         <div className="note" data-season={result.season}>
                             <div>
-                                <strong className="goal-count">{result.goal}</strong>
+                                <strong className="goal-count">
+                                    <span>{result.goal.toString().split('.')[0]}</span>
+                                    <span>{result.goal.toString().split('.')[1]}</span>
+                                </strong>
                                 <div className="goal-siren">
                                     <img alt="Goal Siren icon" src="/icons/goal-siren.svg"/>
                                     <strong className="type">{result.type}</strong>
