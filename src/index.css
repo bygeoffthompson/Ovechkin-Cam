@@ -155,8 +155,9 @@
 #season {
   background-color: transparent;
   border-color: #000;
-  font-size: 1.25rem;
-  padding: 4px;
+  font-size: 1.125rem;
+  font-weight: bold;
+  padding: .25rem;
 }
 
 .note {
@@ -174,7 +175,7 @@
     align-items: center;
     display: flex;
     flex-direction: row;
-    gap: 8px;
+    gap: .5rem;
     margin: 0;
     position: relative;
     width: auto;
@@ -188,7 +189,7 @@
     background: radial-gradient(#EF4933 40%, transparent);
     bottom: 1rem;
     color: #FFD2C7;
-    font-size: 24px;
+    font-size: 1.5rem;
     letter-spacing: -1px;
     margin: 0;
     position: absolute;
@@ -310,7 +311,7 @@ body.goal-lights #goal:before {
   content: '';
   display: block;
   left: 30px;
-  height: 8px;
+  height: .5rem;
   position: absolute;
   width: 14px;
 }
@@ -369,7 +370,7 @@ button:active {
     color: #000;
 }
 
-.coach-button[name="Glen Hanlon"]:hover {
+.coach-button[title="Glen Hanlon"]:hover {
     background: #000;
 }
 
@@ -401,74 +402,74 @@ button:active {
     max-width: 40px;
 }
 
-button[name="Capitol"] {
+button[title="Capitol"] {
   background: #000;
   background-image: linear-gradient(150deg, #000 80%, #CE8946 81%);
 }
 
-button[name="Screagle"] {
+button[title="Screagle"] {
     background: #FFF;
     background-image: linear-gradient(150deg, #FFF 80%, #175787 81%);
 }
 
-button[name="Screagle"]:hover {
+button[title="Screagle"]:hover {
     box-shadow: 0 .5rem 3rem #175787;
 }
 
-button[name="Red"] {
+button[title="Red"] {
     background: #C8102E;
 }
 
-button[name="White"] {
+button[title="White"] {
     background: #FFF;
 }
 
-button[name="Barry Trotz"] {
+button[title="Barry Trotz"] {
     background: #E0E0E0 url('../public/bg/cup.jpg') no-repeat scroll center / 100%;
     color: #333;
 }
 
-button[name="Barry Trotz"]:hover {
+button[title="Barry Trotz"]:hover {
     box-shadow: 0 .5rem 3rem #A0A0A0;
     color: #333;
 }
 
-button[name="Brick Stars & Stripes"] {
+button[title="Brick Stars & Stripes"] {
     background: #98012E;
 }
 
-button[name="Brick Stars & Stripes"]:before,
-button[name="Brick Stars & Stripes"]:after {
+button[title="Brick Stars & Stripes"]:before,
+button[title="Brick Stars & Stripes"]:after {
     bottom: 14px;
     color: #FFF;
     content: "|||";
-    font-size: 18px;
+    font-size: 1.125rem;
     pointer-events: none;
     position: relative;
-    right: 12px;
+    right: .75rem;
 }
 
-button[name="Brick Stars & Stripes"]:after {
-    right: -12px;
+button[title="Brick Stars & Stripes"]:after {
+    right: -.75rem;
 }
 
-button[name="Throwback"] {
+button[title="Throwback"] {
     background: #C8102E;
     background-image: linear-gradient(50deg, #E13A3E 25%, #FFF 26%, #FFF 74%, #E13A3E 75%);
 }
 
-button[name="Navy"] {
+button[title="Navy"] {
     background: #062D60;
     background-image: linear-gradient(#FFF 6%, #062D60 7%, #062D60 90%, #C8102E 91%);
 }
 
-button[name="Reverse Retro"] {
+button[title="Reverse Retro"] {
     background: #C8102E;
     background-image: linear-gradient(50deg, #C81020 49%, #000000 51%);
 }
 
-button[name="Capitol"]:hover,
-button[name="Reverse Retro"]:hover {
+button[title="Capitol"]:hover,
+button[title="Reverse Retro"]:hover {
     box-shadow: 0 .5rem 3rem #000000;
 }
 
@@ -506,7 +507,7 @@ form > div {
 }
 
 form small {
-  min-width: 48px;
+  min-width: 3rem;
 }
 
 form h2 {
@@ -534,7 +535,7 @@ form h2:after {
 
 @media (max-width: 400px) {
   h1 {
-    font-size: 20px;
+    font-size: 1.25rem;
   }
 }
 
@@ -595,7 +596,7 @@ input[placeholder] {
   color: #C8102E;
   max-width: 90px;
   text-align: center;
-  text-indent: 12px;
+  text-indent: .75rem;
 }
 
 input {
@@ -620,7 +621,7 @@ input[type="text"]:not(:placeholder-shown) {
   height: auto;
   margin-top: 0;
   max-width: 325px;
-  padding: 3px 8px;
+  padding: 3px .5rem;
 }
 
 input[type="text"]::placeholder {
