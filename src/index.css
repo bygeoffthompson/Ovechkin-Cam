@@ -111,6 +111,11 @@
   width: 60px;
 }
 
+.column-2 .note strong,
+.column-3 .note strong {
+    font-size: 1.25rem;
+}
+
 .column-2 .note,
 .column-3 .note {
   flex-direction: column-reverse !important;
