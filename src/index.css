@@ -718,10 +718,11 @@ label {
   font-weight: bold;
 }
 
-label.hide {
+.hide {
   color: transparent;
   font-size: 0;
   height: 0;
+  margin-bottom: -1rem;
   overflow: hidden;
   width: 0;
 }
@@ -776,6 +777,11 @@ label.hide {
 
   .buttons-group > div {
     flex-direction: row;
+  }
+
+  .hide {
+    margin-bottom: 0;
+    margin-right: -1rem;
   }
 }
 @media (min-width:992px) {
