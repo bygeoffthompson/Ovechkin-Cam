@@ -560,26 +560,23 @@ form small {
   min-width: 3rem;
 }
 
-form h2 {
-  color: #C8102E;
+h2,
+h3 {
+  color: #111;
   font-size: 1.25rem;
   margin: 0;
   min-width: 95px;
 }
 
-form h2:after {
-    content: ' By';
-}
-
-.randomize {
-    border-bottom: 2px solid #CE8946;
-    font-size: 1.25rem;
-    margin: 6px 0 0;
+h3 {
     min-width: 130px;
-    padding: 0 0 3px;
 }
 
-.randomize:before {
+h2:after {
+    content: ' by';
+}
+
+h3:before {
     content: 'or ';
 }
 
@@ -696,7 +693,9 @@ input[type="number"]::placeholder {
 }
 
 label {
+  color: #111;
   cursor: url('../public/icons/puck.png') 7 3, auto;
+  font-weight: bold;
 }
 
 @media (min-width: 400px) {
@@ -730,7 +729,7 @@ label {
   }
 
   form > div:first-of-type {
-    justify-content: start;
+    justify-content: center;
     margin-bottom: 1rem;
   }
 

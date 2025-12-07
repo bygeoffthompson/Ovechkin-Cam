@@ -220,7 +220,7 @@ function SearchForm({jsonData}) {
                     <input id="search-text-1" tabIndex="1" type="text" placeholder="Search" value={searchText1} onChange={handleText1}/>
                     <input id="search-text-2" tabIndex="2" type="text" placeholder="And" value={searchText2} onChange={handleText2}/>
                     <input id="search-text-3" tabIndex="3" type="text" placeholder="And" value={searchText3} onChange={handleText3}/>
-                    <h3 className="randomize">Randomize</h3>
+                    <h3>Randomize</h3>
                 </div>
                 <div className="buttons-group">
                     <div>
