@@ -72,15 +72,18 @@ h1 {
 }
 
 header {
+    margin: 2rem 0;
+    padding: 0 .5rem;
+    position: relative;
+    z-index: 1;
+}
+
+header > div {
     align-items: center;
-    box-sizing: border-box;
     display: flex;
     gap: 4px;
     justify-content: center;
-    margin: 2rem 0;
-    padding: 0 8px;
-    position: relative;
-    z-index: 1;
+    margin-bottom: 1rem;
 }
 
 html {
@@ -110,11 +113,4 @@ th {
 
 tr:nth-child(odd) td {
     background: rgba(41,41,41,.1);
-}
-
-@media (min-width:576px) {
-    header {
-        gap: 1rem;
-        padding: 0;
-    }
 }
