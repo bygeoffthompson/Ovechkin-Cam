@@ -8,7 +8,7 @@
     color: #111;
     display: flex;
     font-size: 1.25rem;
-    gap: .5rem;
+    gap: .33rem;
     height: 0;
     justify-content: center;
     margin: 0;
@@ -20,14 +20,6 @@
     height: auto;
     margin: 0 0 2rem;
     opacity: 1;
-}
-
-.hide-label {
-    font-size: 0;
-    height: 0;
-    overflow: hidden;
-    pointer-events: none;
-    width: 0;
 }
 
 #cracked-ice,
@@ -81,7 +73,7 @@
 }
 
 .goal-count {
-  color: #000;
+  color: #111;
   font-size: 3rem !important;
   position: relative;
 }
@@ -110,7 +102,7 @@
 .column-2 .goal-count:before,
 .column-3 .goal-count:before {
     bottom: .75rem;
-    color: #000;
+    color: #111;
     min-width: 0;
     position: relative;
     top: initial;
@@ -214,7 +206,7 @@
 
 #advanced select {
   background-color: transparent;
-  border-color: #000;
+  border-color: #111;
   font-size: 1.125rem;
   font-weight: bold;
   min-width: 3.5rem;
@@ -419,7 +411,7 @@ button:hover,
 button:active {
   background: #C8102E;
   color: #EFEFEF;
-  box-shadow: 0 .5rem 2rem #000;
+  box-shadow: 0 .5rem 2rem #111;
   transform: scale(1.05);
 }
 
@@ -451,11 +443,11 @@ button[title='Random Goal']:after {
 
 .coach-button:nth-child(odd):hover {
     background: #FFF;
-    color: #000;
+    color: #111;
 }
 
 .coach-button[title="Glen Hanlon"]:hover {
-    background: #000;
+    background: #111;
 }
 
 .jersey-button {
@@ -484,8 +476,8 @@ button[title='Random Goal']:after {
 }
 
 button[title="Capitol"] {
-  background: #000;
-  background-image: linear-gradient(150deg, #000 80%, #CE8946 81%);
+  background: #111;
+  background-image: linear-gradient(150deg, #111 80%, #CE8946 81%);
 }
 
 button[title="Screagle"] {
@@ -546,21 +538,21 @@ button[title="Navy"] {
 
 button[title="Reverse Retro"] {
     background: #C8102E;
-    background-image: linear-gradient(50deg, #C81020 49%, #000000 51%);
+    background-image: linear-gradient(50deg, #C81020 49%, #111 51%);
 }
 
 button[title="Capitol"]:hover,
 button[title="Reverse Retro"]:hover {
-    box-shadow: 0 .5rem 2rem #000000;
+    box-shadow: 0 .5rem 2rem #111;
 }
 
-button[title="Reset"] {
+button[title="Reset Filters"] {
   background: transparent;
   box-shadow: none;
 }
 
-button[title="Reset"]:hover,
-button[title="Reset"]:active {
+button[title="Reset Filters"]:hover,
+button[title="Reset Filters"]:active {
   color: #292929;
   transform: none;
 }
@@ -620,7 +612,7 @@ header a:hover {
 
 iframe {
   aspect-ratio: 16 / 9;
-  background: #000;
+  background: #111;
   border: 0;
   box-shadow: rgba(200, 16, 46, 0.4) 10px 10px, rgba(200, 16, 46, 0.3) 20px 20px, rgba(200, 16, 46, 0.2) 30px 30px, rgba(200, 16, 46, 0.1) 40px 40px, rgba(200, 16, 46, 0.05) 50px 50px;
   height: auto;

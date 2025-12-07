@@ -36,17 +36,15 @@ function SearchForm({jsonData}) {
                     search.toLowerCase().includes(searchText1) &&
                     search.toLowerCase().includes(searchText2) &&
                     search.toLowerCase().includes(searchText3) &&
-                    item.season.includes(document.getElementById('season').value)
+                    item.season.includes(document.getElementById('type').value)
                 );
             });
             document.querySelector('#advanced').classList.add('show');
             document.querySelector('#minimum').classList.remove('show');
             if (results.length === 0) {
-                document.querySelector('#count').innerHTML = 'No Results';
-            } else if (results.length === 1) {
-                document.querySelector('#count').innerHTML = results.length + ' Result';
+                document.querySelector('#count').innerHTML = 'No Results of';
             } else {
-                document.querySelector('#count').innerHTML = results.length + ' Results';
+                document.querySelector('#count').innerHTML = results.length + ' of';
             }
             setSearchResults(results);
         }
@@ -193,7 +191,7 @@ function SearchForm({jsonData}) {
         document.getElementById('column').value = '1';
         document.getElementById('minimum').classList.remove('show');
         document.getElementById('wrapper').classList.remove('column-1', 'column-2', 'column-3');
-        document.getElementById('season').value = '';
+        document.getElementById('type').value = '';
         setSearchGoal('');
         setSearchResults([]);
         resultsHide();
@@ -292,14 +290,8 @@ function SearchForm({jsonData}) {
 
             <div className="search-accordion" id="advanced">
                 <strong id="count"></strong>
-                <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#000000" className="bi bi-collection-play" viewBox="0 0 16 16">
-                    <path
-                        d="M2 3a.5.5 0 0 0 .5.5h11a.5.5 0 0 0 0-1h-11A.5.5 0 0 0 2 3m2-2a.5.5 0 0 0 .5.5h7a.5.5 0 0 0 0-1h-7A.5.5 0 0 0 4 1m2.765 5.576A.5.5 0 0 0 6 7v5a.5.5 0 0 0 .765.424l4-2.5a.5.5 0 0 0 0-.848z"/>
-                    <path
-                        d="M1.5 14.5A1.5 1.5 0 0 1 0 13V6a1.5 1.5 0 0 1 1.5-1.5h13A1.5 1.5 0 0 1 16 6v7a1.5 1.5 0 0 1-1.5 1.5zm13-1a.5.5 0 0 0 .5-.5V6a.5.5 0 0 0-.5-.5h-13A.5.5 0 0 0 1 6v7a.5.5 0 0 0 .5.5z"/>
-                </svg>
-                <label className="hide-label" htmlFor="season">Season</label>
-                <select id="season" name="Season" onChange={handleSeasonChange}>
+                <label htmlFor="type">Type</label>
+                <select id="type" name="Type" onChange={handleSeasonChange}>
                     <option name="All" value="" selected>All</option>
                     <option name="Regular" value="Regular">NHL Regular</option>
                     <option name="Playoff" value="Playoff">NHL Playoff</option>
@@ -310,7 +302,6 @@ function SearchForm({jsonData}) {
                     <option name="World Cup" value="World Cup">World Cup</option>
                 </select>
                 <strong className="column-control">in</strong>
-
                 <select className="column-control" id="column" name="column" onChange={handleColumnChange}>
                     <option name="1" value="1" selected>1</option>
                     <option name="2" value="2">2</option>
