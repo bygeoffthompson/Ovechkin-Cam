@@ -22,6 +22,14 @@
     opacity: 1;
 }
 
+.hide-label {
+    font-size: 0;
+    height: 0;
+    overflow: hidden;
+    pointer-events: none;
+    width: 0;
+}
+
 #cracked-ice,
 #ice {
   background: url('../public/bg/ice.jpg');

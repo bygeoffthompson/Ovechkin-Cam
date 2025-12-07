@@ -283,7 +283,7 @@ function SearchForm({jsonData}) {
                         <button onClick={(event) => setSearchGoal(random(854, totalGoals))} className="coach-button" title="Spencer Carbery" type="button">Carbery</button>
                     </div>
                 </div>
-                <button onClick={reset} title="Reset" type="button">Reset</button>
+                <button onClick={reset} title="Reset Filters" type="button">Reset</button>
             </form>
 
             <div className="search-accordion" id="minimum">
@@ -298,7 +298,7 @@ function SearchForm({jsonData}) {
                     <path
                         d="M1.5 14.5A1.5 1.5 0 0 1 0 13V6a1.5 1.5 0 0 1 1.5-1.5h13A1.5 1.5 0 0 1 16 6v7a1.5 1.5 0 0 1-1.5 1.5zm13-1a.5.5 0 0 0 .5-.5V6a.5.5 0 0 0-.5-.5h-13A.5.5 0 0 0 1 6v7a.5.5 0 0 0 .5.5z"/>
                 </svg>
-                <label htmlFor="season" hidden>Filter By Season</label>
+                <label className="hide-label" htmlFor="season">Season</label>
                 <select id="season" name="Season" onChange={handleSeasonChange}>
                     <option name="All" value="" selected>All</option>
                     <option name="Regular" value="Regular">NHL Regular</option>
@@ -310,13 +310,13 @@ function SearchForm({jsonData}) {
                     <option name="World Cup" value="World Cup">World Cup</option>
                 </select>
                 <strong className="column-control">in</strong>
-                <label htmlFor="column" hidden>Columns</label>
+
                 <select className="column-control" id="column" name="column" onChange={handleColumnChange}>
                     <option name="1" value="1" selected>1</option>
                     <option name="2" value="2">2</option>
                     <option name="3" value="3">3</option>
                 </select>
-                <strong className="column-control">Column</strong>
+                <label className="column-control" htmlFor="column">Column</label>
             </div>
 
             <div id="click-goal" onClick={clickGoal}></div>
