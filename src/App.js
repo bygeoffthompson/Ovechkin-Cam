@@ -44,7 +44,7 @@ function SearchForm({jsonData}) {
             if (results.length === 0) {
                 document.querySelector('#count').innerHTML = 'No Results of';
             } else {
-                document.querySelector('#count').innerHTML = results.length + ' of';
+                document.querySelector('#count').innerHTML = results.length + ' Goals of';
             }
             setSearchResults(results);
         }
@@ -216,8 +216,10 @@ function SearchForm({jsonData}) {
             </div>
             <form onSubmit={preventSubmit}>
                 <div>
-                    <h2>Search</h2>
-                    <label htmlFor="search-goal">Number</label>
+                    <div id="search-flex">
+                        <h2>Search</h2>
+                        <label htmlFor="search-goal">Number</label>
+                    </div>
                     <input id="search-goal" min="1" max={totalGoals} title="NHL Regular Season" type="number" placeholder="#" value={searchGoal} onChange={handleGoalChange}/>
                     <label htmlFor="search-text-1">Text</label>
                     <label className="hide" htmlFor="search-text-2">Text</label>
