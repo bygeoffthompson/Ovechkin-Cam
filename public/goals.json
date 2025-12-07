@@ -107,7 +107,7 @@
     "day": 5,
     "year": 2005,
     "type": "",
-    "tags": "First",
+    "tags": "Start",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -893,7 +893,7 @@
     "day": 17,
     "year": 2006,
     "type": "",
-    "tags": "Last",
+    "tags": "End",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -991,7 +991,7 @@
     "day": 7,
     "year": 2006,
     "type": "GWG",
-    "tags": "First",
+    "tags": "Start",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -1635,7 +1635,7 @@
     "day": 4,
     "year": 2007,
     "type": "GWG",
-    "tags": "Last 2nd",
+    "tags": "End 2nd",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -1663,7 +1663,7 @@
     "day": 6,
     "year": 2007,
     "type": "GWG",
-    "tags": "First",
+    "tags": "Start",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -2588,7 +2588,7 @@
     "day": 3,
     "year": 2008,
     "type": "GWG",
-    "tags": "Karri Ramo Last 2nd GWG PPG",
+    "tags": "Karri Ramo End 2nd GWG PPG",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -2742,7 +2742,7 @@
     "day": 11,
     "year": 2008,
     "type": "",
-    "tags": "First",
+    "tags": "Start",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -3443,7 +3443,7 @@
     "day": 19,
     "year": 2009,
     "type": "#50",
-    "tags": "50th",
+    "tags": "50th Hot Stick",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -3527,7 +3527,7 @@
     "day": 11,
     "year": 2009,
     "type": "",
-    "tags": "Last Teammate Tomas Vokoun",
+    "tags": "End Teammate Tomas Vokoun",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -3695,7 +3695,7 @@
     "day": 1,
     "year": 2009,
     "type": "GWG",
-    "tags": "First",
+    "tags": "Start",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -4053,7 +4053,7 @@
   {
     "goal": 246,
     "link": "https://www.youtube.com/embed/w-9-N7vCdXE?si=xx0tcW1LwSmlL8t9",
-    "text": "\"First Goal Wearing the C\"",
+    "text": "\"Start Goal Wearing the C\"",
     "team": "Ottawa Senators",
     "goalie": "Pascal Leclaire",
     "month": "January",
@@ -4411,7 +4411,7 @@
     "day": 9,
     "year": 2010,
     "type": "#50",
-    "tags": "GWG Ondrej Pavelec Last 2nd 50th",
+    "tags": "GWG Ondrej Pavelec End 2nd 50th",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -4565,7 +4565,7 @@
     "day": 9,
     "year": 2010,
     "type": "GWG",
-    "tags": "First",
+    "tags": "Start",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -5014,7 +5014,7 @@
     "day": 6,
     "year": 2011,
     "type": "ENG",
-    "tags": "Empty Net Last",
+    "tags": "Empty Net End",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -5098,7 +5098,7 @@
     "day": 13,
     "year": 2011,
     "type": "Teammate",
-    "tags": "First",
+    "tags": "Start",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -5616,7 +5616,7 @@
     "day": 7,
     "year": 2012,
     "type": "",
-    "tags": "Last Vezina Trophy",
+    "tags": "End Vezina Trophy",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White Throwback"
@@ -5994,7 +5994,7 @@
     "day": 27,
     "year": 2013,
     "type": "GWG",
-    "tags": "First PPG",
+    "tags": "Start PPG",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -6429,7 +6429,7 @@
     "day": 25,
     "year": 2013,
     "type": "",
-    "tags": "Last Teammate",
+    "tags": "End Teammate",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -6471,7 +6471,7 @@
     "day": 1,
     "year": 2013,
     "type": "PPG",
-    "tags": "First",
+    "tags": "Start",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -7187,7 +7187,7 @@
     "day": 11,
     "year": 2014,
     "type": "GWG",
-    "tags": "Last PPG",
+    "tags": "End PPG",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -7257,7 +7257,7 @@
     "day": 11,
     "year": 2014,
     "type": "GWG",
-    "tags": "First PPG",
+    "tags": "Start PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -7985,7 +7985,7 @@
     "day": 11,
     "year": 2015,
     "type": "PPG",
-    "tags": "Last",
+    "tags": "End",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Brick Stars & Stripes"
@@ -8083,7 +8083,7 @@
     "day": 10,
     "year": 2015,
     "type": "",
-    "tags": "First",
+    "tags": "Start",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -8772,7 +8772,7 @@
     "day": 9,
     "year": 2016,
     "type": "#50",
-    "tags": "Last 3rd 50th Hat Trick",
+    "tags": "End 3rd 50th Hat Trick",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -8884,7 +8884,7 @@
     "day": 18,
     "year": 2016,
     "type": "GWG",
-    "tags": "First PPG Teammate",
+    "tags": "Start PPG Teammate",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -9347,7 +9347,7 @@
     "day": 28,
     "year": 2017,
     "type": "3rd",
-    "tags": "Hat Trick Last PPG",
+    "tags": "Hat Trick End PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -9431,7 +9431,7 @@
     "day": 5,
     "year": 2017,
     "type": "",
-    "tags": "First Teammate",
+    "tags": "Start Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -10119,7 +10119,7 @@
     "day": 7,
     "year": 2018,
     "type": "GWG",
-    "tags": "Last 2nd",
+    "tags": "End 2nd",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -10344,7 +10344,7 @@
     "day": 3,
     "year": 2018,
     "type": "PPG",
-    "tags": "First",
+    "tags": "Banner Raise Start",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -11047,7 +11047,7 @@
     "day": 30,
     "year": 2019,
     "type": "2nd",
-    "tags": "Last PPG Rocket Richard Trophy Vezina Trophy",
+    "tags": "End PPG Rocket Richard Trophy Vezina Trophy",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -11145,7 +11145,7 @@
     "day": 2,
     "year": 2019,
     "type": "",
-    "tags": "First",
+    "tags": "Start",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -11809,7 +11809,7 @@
     "day": 9,
     "year": 2020,
     "type": "",
-    "tags": "Last Rocket Richard Trophy",
+    "tags": "End Rocket Richard Trophy",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -11879,7 +11879,7 @@
     "day": 17,
     "year": 2021,
     "type": "",
-    "tags": "First",
+    "tags": "Start",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -12204,7 +12204,7 @@
     "day": 17,
     "year": 2021,
     "type": "2nd",
-    "tags": "Last PPG",
+    "tags": "End PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -12247,7 +12247,7 @@
     "day": 13,
     "year": 2021,
     "type": "PPG",
-    "tags": "First",
+    "tags": "Start",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -12935,7 +12935,7 @@
     "day": 20,
     "year": 2022,
     "type": "#50",
-    "tags": "Last 2nd 50th Teammate",
+    "tags": "End 2nd 50th Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -12963,7 +12963,7 @@
     "day": 17,
     "year": 2022,
     "type": "PPG",
-    "tags": "First",
+    "tags": "Start",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Navy Third"
@@ -13552,7 +13552,7 @@
     "day": 25,
     "year": 2023,
     "type": "PPG",
-    "tags": "Last",
+    "tags": "End",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -13566,7 +13566,7 @@
     "day": 24,
     "year": 2023,
     "type": "PPG",
-    "tags": "First",
+    "tags": "Start",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -13986,7 +13986,7 @@
     "day": 16,
     "year": 2024,
     "type": "",
-    "tags": "Last",
+    "tags": "End",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -14000,7 +14000,7 @@
     "day": 19,
     "year": 2024,
     "type": "",
-    "tags": "Markstrom First",
+    "tags": "Markstrom Start",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -14605,7 +14605,7 @@
     "day": 17,
     "year": 2025,
     "type": "PPG",
-    "tags": "Last",
+    "tags": "End",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -14689,7 +14689,7 @@
     "day": 17,
     "year": 2025,
     "type": "",
-    "tags": "First",
+    "tags": "Start",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Reverse Retro Red"

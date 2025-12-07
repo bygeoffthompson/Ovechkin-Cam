@@ -645,6 +645,14 @@ select {
     z-index: 1;
 }
 
+.tags {
+  display: block;
+  margin: -2rem 0 0;
+  pointer-events: none;
+  position: relative;
+  z-index: 1 ;
+}
+
 input[placeholder] {
   background: transparent;
   border-left: 0;
