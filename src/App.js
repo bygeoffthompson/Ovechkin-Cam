@@ -41,7 +41,9 @@ function SearchForm({jsonData}) {
             });
             document.querySelector('#advanced').classList.add('show');
             document.querySelector('#minimum').classList.remove('show');
-            if (results.length === 1) {
+            if (results.length === 0) {
+                document.querySelector('#count').innerHTML = 'No Results';
+            } else if (results.length === 1) {
                 document.querySelector('#count').innerHTML = results.length + ' Result';
             } else {
                 document.querySelector('#count').innerHTML = results.length + ' Results';
@@ -220,7 +222,7 @@ function SearchForm({jsonData}) {
                     <input id="search-text-1" tabIndex="1" type="text" placeholder="Search" value={searchText1} onChange={handleText1}/>
                     <input id="search-text-2" tabIndex="2" type="text" placeholder="And" value={searchText2} onChange={handleText2}/>
                     <input id="search-text-3" tabIndex="3" type="text" placeholder="And" value={searchText3} onChange={handleText3}/>
-                    <h3>Randomize</h3>
+                    <h3><button onClick={(event) => setSearchGoal(random(1, totalGoals))} title="Random Goal" type="button"><span>Random</span></button></h3>
                 </div>
                 <div className="buttons-group">
                     <div>

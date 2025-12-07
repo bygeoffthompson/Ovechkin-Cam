@@ -5,6 +5,7 @@
 
 .search-accordion {
     align-items: center;
+    color: #111;
     display: flex;
     font-size: 1.25rem;
     gap: .5rem;
@@ -380,7 +381,7 @@ button {
   border-radius: .375rem;
   box-shadow: 0 .5rem 1rem rgba(41,41,41,.25);
   box-sizing: border-box;
-  color: #292929;
+  color: #111;
   cursor: pointer;
   display: inline-block;
   font-size: .9375rem;
@@ -400,8 +401,25 @@ button:hover,
 button:active {
   background: #C8102E;
   color: #EFEFEF;
-  box-shadow: 0 .5rem 3rem #000;
+  box-shadow: 0 .5rem 2rem #000;
   transform: scale(1.05);
+}
+
+button[title='Random Goal'] {
+  max-width: none;
+}
+
+button[title='Random Goal']:active,
+button[title='Random Goal']:hover {
+    background: #062D60;
+}
+
+button[title='Random Goal'] span:before {
+    content: 'or ';
+}
+
+button[title='Random Goal'] span:after {
+    content: 'ize';
 }
 
 .buttons-group {
@@ -439,7 +457,7 @@ button:active {
 }
 
 .jersey-button:hover {
-    box-shadow: 0 .5rem 3rem #C8102E;
+    box-shadow: 0 .5rem 2rem #C8102E;
 }
 
 .jersey-logo {
@@ -467,7 +485,7 @@ button[title="Screagle"] {
 }
 
 button[title="Screagle"]:hover {
-    box-shadow: 0 .5rem 3rem #175787;
+    box-shadow: 0 .5rem 2rem #175787;
 }
 
 button[title="Red"] {
@@ -484,7 +502,7 @@ button[title="Barry Trotz"] {
 }
 
 button[title="Barry Trotz"]:hover {
-    box-shadow: 0 .5rem 3rem #A0A0A0;
+    box-shadow: 0 .5rem 2rem #A0A0A0;
     color: #333;
 }
 
@@ -524,7 +542,7 @@ button[title="Reverse Retro"] {
 
 button[title="Capitol"]:hover,
 button[title="Reverse Retro"]:hover {
-    box-shadow: 0 .5rem 3rem #000000;
+    box-shadow: 0 .5rem 2rem #000000;
 }
 
 button[title="Reset"] {
@@ -579,10 +597,6 @@ h3 {
 
 h2:after {
     content: ' by';
-}
-
-h3:before {
-    content: 'or ';
 }
 
 @media (max-width: 400px) {
