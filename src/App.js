@@ -121,6 +121,12 @@ function SearchForm({jsonData}) {
             value: 1
         });
     }
+
+    const handleColumnChange = (event) => {
+        document.getElementById('wrapper').classList.remove('column-1', 'column-2', 'column-3');
+        document.getElementById('wrapper').classList.add('column-' + document.getElementById('column').value);
+    };
+
     const handleGoalChange = (event) => {
         setSearchGoal(event.target.value);
     };
@@ -183,6 +189,8 @@ function SearchForm({jsonData}) {
 
     const reset = () => {
         document.getElementById('minimum').classList.remove('show');
+        document.getElementById('column').value = '1';
+        document.getElementById('wrapper').classList.remove('column-1', 'column-2', 'column-3');
         document.getElementById('season').value = '';
         setSearchGoal('');
         setSearchResults([]);
@@ -291,11 +299,19 @@ function SearchForm({jsonData}) {
                     <option name="Olympic" value="Olympic">Olympic</option>
                     <option name="World Cup" value="World Cup">World Cup</option>
                 </select>
+                <strong className="column-control">in</strong>
+                <label htmlFor="column" hidden>Columns</label>
+                <select className="column-control" id="column" name="column" onChange={handleColumnChange}>
+                    <option name="1" value="1" selected>1</option>
+                    <option name="2" value="2">2</option>
+                    <option name="3" value="3">3</option>
+                </select>
+                <strong className="column-control">Columns</strong>
             </div>
 
             <div id="click-goal" onClick={clickGoal}></div>
 
-            <div className="wrapper">
+            <div id="wrapper">
                 {searchResults.map((result, index) => (
                     <div className="frame" key={index}>
                         <div className="note" data-season={result.season}>
