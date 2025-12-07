@@ -85,19 +85,16 @@
   text-align: end;
 }
 
+.goalie {
+  text-align: end !important;
+}
+
 #wrapper {
   display: flex;
   flex-direction: column;
-  gap: 1.5rem;
+  gap: 3rem;
   margin: 0 auto;
   max-width: 1400px;
-}
-
-.column-2,
-.column-3 {
-  flex-direction: row !important;
-  flex-shrink: 0;
-  flex-wrap: wrap;
 }
 
 .column-2 .goal-count:before,
@@ -111,7 +108,7 @@
 
 .column-2 .goal-siren img,
 .column-3 .goal-siren img {
-  width: 50px;
+  width: 60px;
 }
 
 .column-2 .note,
@@ -119,12 +116,19 @@
   flex-direction: column-reverse !important;
 }
 
+.column-2 .frame,
+.column-2 .shadow,
+.column-3 .frame,
+.column-3 .shadow {
+    margin-bottom: 0;
+}
+
 .column-2 .frame {
-  flex-basis: calc(50% - .75rem);
+  flex-basis: calc(50% - 1.5rem);
 }
 
 .column-3 .frame {
-  flex-basis: calc(33.33% - 1.5rem);
+  flex-basis: calc(33.33% - 3rem);
 }
 
 #ovi {
@@ -189,6 +193,7 @@
   border-color: #000;
   font-size: 1.125rem;
   font-weight: bold;
+  min-width: 3.5rem;
   padding: .25rem;
 }
 
@@ -237,7 +242,8 @@
 }
 
 .note strong {
-    font-size: 1.25rem;
+  font-size: 1.25rem;
+  text-align: start;
 }
 
 [data-season='Regular'] .goal-count {
@@ -291,7 +297,7 @@
 }
 
 .frame {
-  margin: 0 auto 3rem;
+  margin: 0 auto;
   max-width: 894px;
   position: relative;
 }
@@ -747,6 +753,13 @@ label {
   }
 }
 @media (min-width:992px) {
+  .column-2,
+  .column-3 {
+    flex-direction: row !important;
+    flex-shrink: 0;
+    flex-wrap: wrap;
+  }
+
   .column-control {
     display: block;
   }

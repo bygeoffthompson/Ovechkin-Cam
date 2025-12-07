@@ -296,7 +296,7 @@ function SearchForm({jsonData}) {
                     <option name="2" value="2">2</option>
                     <option name="3" value="3">3</option>
                 </select>
-                <strong className="column-control">Columns</strong>
+                <strong className="column-control">Column</strong>
             </div>
 
             <div id="click-goal" onClick={clickGoal}></div>
