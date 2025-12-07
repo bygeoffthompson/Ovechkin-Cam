@@ -718,6 +718,14 @@ label {
   font-weight: bold;
 }
 
+label.hide {
+  color: transparent;
+  font-size: 0;
+  height: 0;
+  overflow: hidden;
+  width: 0;
+}
+
 @media (min-width: 400px) {
     button {
         padding: .625rem 1rem;

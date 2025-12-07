@@ -218,13 +218,13 @@ function SearchForm({jsonData}) {
                 <div>
                     <h2>Search</h2>
                     <label htmlFor="search-goal">Number</label>
-                    <input id="search-goal" min="1" max={totalGoals} tabIndex="0" type="number" placeholder="#" value={searchGoal} onChange={handleGoalChange}/>
+                    <input id="search-goal" min="1" max={totalGoals} title="NHL Regular Season" type="number" placeholder="#" value={searchGoal} onChange={handleGoalChange}/>
                     <label htmlFor="search-text-1">Text</label>
-                    <label htmlFor="search-text-2" hidden>Text</label>
-                    <label htmlFor="search-text-3" hidden>Text</label>
-                    <input id="search-text-1" tabIndex="1" type="text" placeholder="Search" value={searchText1} onChange={handleText1}/>
-                    <input id="search-text-2" tabIndex="2" type="text" placeholder="And" value={searchText2} onChange={handleText2}/>
-                    <input id="search-text-3" tabIndex="3" type="text" placeholder="And" value={searchText3} onChange={handleText3}/>
+                    <label className="hide" htmlFor="search-text-2">Text</label>
+                    <label className="hide" htmlFor="search-text-3">Text</label>
+                    <input id="search-text-1" type="text" placeholder="Search" title="All Leagues" value={searchText1} onChange={handleText1}/>
+                    <input id="search-text-2" type="text" placeholder="And" value={searchText2} onChange={handleText2}/>
+                    <input id="search-text-3" type="text" placeholder="And" value={searchText3} onChange={handleText3}/>
                     <div>
                         <strong>or</strong>
                         <h3><button onClick={(event) => setSearchGoal(random(1, totalGoals))} title="Random Goal" type="button">Random</button></h3>
