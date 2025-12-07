@@ -187,16 +187,6 @@ function SearchForm({jsonData}) {
         setSearchGoal(goal[0]);
     }
 
-    const reset = () => {
-        document.getElementById('minimum').classList.remove('show');
-        document.getElementById('column').value = '1';
-        document.getElementById('wrapper').classList.remove('column-1', 'column-2', 'column-3');
-        document.getElementById('season').value = '';
-        setSearchGoal('');
-        setSearchResults([]);
-        resultsHide();
-    };
-
     function resultsHide() {
         setSearchText1('');
         setSearchText2('');
@@ -273,7 +263,7 @@ function SearchForm({jsonData}) {
                         <button onClick={(event) => setSearchGoal(random(854, totalGoals))} className="coach-button" title="Spencer Carbery" type="button">Carbery</button>
                     </div>
                 </div>
-                <button onClick={reset} title="Reset" type="button">Reset</button>
+                <a href="/" title="Reset">Reset</a>
             </form>
 
             <div className="search-accordion" id="minimum">

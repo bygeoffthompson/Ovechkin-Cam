@@ -516,9 +516,14 @@ button[title="Reverse Retro"]:hover {
     box-shadow: 0 .5rem 3rem #000000;
 }
 
-button[title="Reset"] {
-  background: transparent;
-  box-shadow: none;
+a[title="Reset"] {
+  color: #000;
+  font-size: .9375rem;
+  font-weight: bold;
+  padding: .625rem 1rem;
+  position: relative;
+  text-decoration: none;
+  z-index: 1;
 }
 
 button[title="Reset"]:hover,
