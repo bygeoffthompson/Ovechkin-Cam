@@ -2,18 +2,16 @@
     background: #D4D5DA;
 }
 
-#root {
-    box-sizing: border-box;
-    max-width: 1000px;
-    padding: 0 8px;
-}
-
 #window {
     align-items: center;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     min-height: 100vh;
+}
+
+#window > div {
+    padding: 0 .75rem;
 }
 
 .goal-light {
@@ -96,7 +94,6 @@ html {
 
 main {
     margin: 0 auto 5rem;
-    max-width: 1024px;
     width: 100%;
 }
 
@@ -118,12 +115,6 @@ tr:nth-child(odd) td {
 @media (min-width:576px) {
     header {
         gap: 1rem;
-        padding: 0;
-    }
-}
-
-@media (min-width:992px) {
-    #root {
         padding: 0;
     }
 }
