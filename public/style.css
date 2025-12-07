@@ -72,6 +72,7 @@ h1 {
 }
 
 header {
+    color: #111;
     margin: 2rem 0;
     padding: 0 .5rem;
     position: relative;
