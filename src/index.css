@@ -91,6 +91,7 @@
 }
 
 #wrapper {
+  align-items: center;
   display: flex;
   flex-direction: column;
   gap: 3rem;
@@ -182,6 +183,15 @@
   margin-top: 0;
   max-width: 325px;
   padding: 3px 8px;
+}
+
+#search-text-3 + div {
+    align-items: center;
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    margin: 0;
+    width: auto;
 }
 
 #search-text-1:active + input,
@@ -303,7 +313,7 @@
 }
 
 .frame {
-  margin: 0 auto;
+  margin: 0;
   max-width: 894px;
   position: relative;
 }
@@ -409,16 +419,7 @@ button[title='Random Goal'] {
   max-width: none;
 }
 
-button[title='Random Goal']:active,
-button[title='Random Goal']:hover {
-    background: #062D60;
-}
-
-button[title='Random Goal'] span:before {
-    content: 'or ';
-}
-
-button[title='Random Goal'] span:after {
+button[title='Random Goal']:after {
     content: 'ize';
 }
 
@@ -752,6 +753,10 @@ label {
     margin-bottom: 1rem;
   }
 
+  form h2 {
+      margin-right: -.75rem;
+  }
+
   input[type="text"] {
     text-align: left;
   }
@@ -769,7 +774,6 @@ label {
   .column-2,
   .column-3 {
     flex-direction: row !important;
-    flex-shrink: 0;
     flex-wrap: wrap;
   }
 

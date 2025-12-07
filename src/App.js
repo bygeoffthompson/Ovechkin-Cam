@@ -190,13 +190,18 @@ function SearchForm({jsonData}) {
     }
 
     const reset = () => {
-        document.getElementById('minimum').classList.remove('show');
         document.getElementById('column').value = '1';
+        document.getElementById('minimum').classList.remove('show');
         document.getElementById('wrapper').classList.remove('column-1', 'column-2', 'column-3');
         document.getElementById('season').value = '';
         setSearchGoal('');
         setSearchResults([]);
         resultsHide();
+        window.scrollTo({
+            behavior: 'smooth',
+            left: 0,
+            top: 0
+        });
     };
 
     function resultsHide() {
@@ -222,7 +227,10 @@ function SearchForm({jsonData}) {
                     <input id="search-text-1" tabIndex="1" type="text" placeholder="Search" value={searchText1} onChange={handleText1}/>
                     <input id="search-text-2" tabIndex="2" type="text" placeholder="And" value={searchText2} onChange={handleText2}/>
                     <input id="search-text-3" tabIndex="3" type="text" placeholder="And" value={searchText3} onChange={handleText3}/>
-                    <h3><button onClick={(event) => setSearchGoal(random(1, totalGoals))} title="Random Goal" type="button"><span>Random</span></button></h3>
+                    <div>
+                        <strong>or</strong>
+                        <h3><button onClick={(event) => setSearchGoal(random(1, totalGoals))} title="Random Goal" type="button">Random</button></h3>
+                    </div>
                 </div>
                 <div className="buttons-group">
                     <div>
