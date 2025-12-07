@@ -166,12 +166,12 @@
     }
     95% {
         left: 50%;
-        top: 105px;
+        top: 138px;
         transform: translateX(-50%);
     }
     100% {
         left: 50%;
-        top: 145px;
+        top: 200px;
         transform: translateX(-50%);
     }
 }
