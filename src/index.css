@@ -737,13 +737,14 @@ label {
     width: 0;
 }
 
+@media (max-width: 400px) {
+    h1 {
+        font-size: 1.25rem;
+    }
+}
 @media (min-width: 400px) {
     button {
         padding: .625rem 1rem;
-    }
-
-    h1 {
-        font-size: 1.25rem;
     }
 }
 @media (min-width: 576px) {

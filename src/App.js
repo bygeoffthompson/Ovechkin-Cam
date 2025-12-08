@@ -39,8 +39,8 @@ function SearchForm({jsonData}) {
                     item.season.includes(document.getElementById('type').value)
                 );
             });
-            document.querySelector('#advanced').classList.add('show');
-            document.querySelector('#minimum').classList.remove('show');
+            document.getElementById('advanced').classList.add('show');
+            document.getElementById('minimum').classList.remove('show');
             if (results.length === 0) {
                 document.querySelector('#count').innerHTML = 'No Results of';
             } else {
@@ -88,6 +88,7 @@ function SearchForm({jsonData}) {
     };
 
     function buttonClick(value) {
+        reset();
         randomGoal(value);
         clickTrack(value[0].replace(' Third', '').replace('Red ', '').replace(' Black', '') + ' Click');
     }
@@ -188,25 +189,19 @@ function SearchForm({jsonData}) {
     }
 
     const reset = () => {
-        document.getElementById('column').value = '1';
-        document.getElementById('minimum').classList.remove('show');
-        document.getElementById('wrapper').classList.remove('column-1', 'column-2', 'column-3');
-        document.getElementById('type').value = '';
+        resultsHide();
         setSearchGoal('');
         setSearchResults([]);
-        resultsHide();
-        window.scrollTo({
-            behavior: 'smooth',
-            left: 0,
-            top: 0
-        });
     };
 
     function resultsHide() {
+        document.querySelector('.search-accordion').classList.remove('show');
+        document.getElementById('column').value = '1';
+        document.getElementById('type').value = '';
+        document.getElementById('wrapper').classList.remove('column-1', 'column-2', 'column-3');
         setSearchText1('');
         setSearchText2('');
         setSearchText3('');
-        document.querySelector('#advanced').classList.remove('show');
     }
 
     return (
