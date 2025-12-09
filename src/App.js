@@ -88,7 +88,6 @@ function SearchForm({jsonData}) {
     };
 
     function buttonClick(value) {
-        reset();
         randomGoal(value);
         clickTrack(value[0].replace(' Third', '').replace('Red ', '').replace(' Black', '') + ' Click');
     }
@@ -124,8 +123,11 @@ function SearchForm({jsonData}) {
     }
 
     const handleColumnChange = (event) => {
-        document.getElementById('wrapper').classList.remove('column-1', 'column-2', 'column-3');
-        document.getElementById('wrapper').classList.add('column-' + document.getElementById('column').value);
+        const columnValue = parseInt(document.getElementById('column').value);
+        document.getElementById('wrapper').classList.remove('column-2', 'column-3', 'multi-column');
+        if (columnValue != 1) {
+            document.getElementById('wrapper').classList.add('column-' + columnValue, 'multi-column');
+        }
     };
 
     const handleGoalChange = (event) => {
@@ -198,7 +200,7 @@ function SearchForm({jsonData}) {
         document.querySelector('.search-accordion').classList.remove('show');
         document.getElementById('column').value = '1';
         document.getElementById('type').value = '';
-        document.getElementById('wrapper').classList.remove('column-1', 'column-2', 'column-3');
+        document.getElementById('wrapper').classList.remove('column-2', 'column-3', 'multi-column');
         setSearchText1('');
         setSearchText2('');
         setSearchText3('');
@@ -335,7 +337,7 @@ function SearchForm({jsonData}) {
                             <iframe width="560" height="315" src={result.link.replace(/"/g, "")} title="Alex Ovechkin Goal Video"
                                 referrerPolicy="cross-origin-with-strict-origin" allowFullScreen loading="lazy"></iframe>
                         </div>
-                        <small className="tags">{result.tags}</small>
+                        {/*<small className="tags">{result.tags}</small>*/}
                     </div>
                 ))}
             </div>
