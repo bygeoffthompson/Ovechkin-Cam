@@ -351,9 +351,20 @@ body {
     }
 }
 
-body.goal-lights {
+.goal-lights {
   animation: goalLights .5s linear infinite;
   cursor: auto;
+
+    #goal:before {
+        background: url('../public/icons/puck.png') no-repeat;
+        bottom: 23px;
+        content: '';
+        display: block;
+        left: 30px;
+        height: .5rem;
+        position: absolute;
+        width: 14px;
+    }
 }
 
 @keyframes goalLights {
@@ -372,17 +383,6 @@ body.goal-lights {
   100% {
     background: rgba(200,16,46,.8);
   }
-}
-
-body.goal-lights #goal:before {
-  background: url('../public/icons/puck.png') no-repeat;
-  bottom: 23px;
-  content: '';
-  display: block;
-  left: 30px;
-  height: .5rem;
-  position: absolute;
-  width: 14px;
 }
 
 button {
@@ -416,13 +416,97 @@ button {
   }
 }
 
-
-
-button[title='Random Goal'] {
+[title='Random Goal'] {
   max-width: none;
 
     &:after {
         content: 'ize';
+    }
+}
+
+[title="Glen Hanlon"]:hover {
+    background: #111;
+}
+
+[title="Capitol"] {
+    background: #111;
+    background-image: linear-gradient(150deg, #111 76%, #32599E 77%, #32599E 80%, #CE8946 81%);
+}
+
+[title="Screagle"] {
+    background: #FFF;
+    background-image: linear-gradient(150deg, #FFF 76%, #CE8946 77%, #CE8946 80%, #175787 81%);
+
+    &:hover {
+        box-shadow: 0 .5rem 2rem #175787;
+    }
+}
+
+[title="Red"] {
+    background: #C8102E;
+}
+
+[title="White"] {
+    background: #FFF;
+}
+
+[title="Barry Trotz"] {
+    background: #E0E0E0 url('../public/bg/cup.jpg') no-repeat scroll center / 100%;
+    color: #333;
+
+    &:hover {
+        box-shadow: 0 .5rem 2rem #A0A0A0;
+        color: #333;
+    }
+}
+
+[title="Brick Stars & Stripes"] {
+    background: #98012E;
+
+    &:before,
+    &:after {
+        bottom: 14px;
+        color: #FFF;
+        content: "|||";
+        font-size: 1.125rem;
+        pointer-events: none;
+        position: relative;
+        right: .75rem;
+    }
+
+    &:after {
+        right: -.75rem;
+    }
+}
+
+[title="Throwback Third"] {
+    background: #C8102E;
+    background-image: linear-gradient(50deg, #E13A3E 25%, #FFF 26%, #FFF 74%, #E13A3E 75%);
+}
+
+[title="Navy"] {
+    background: #062D60;
+    background-image: linear-gradient(#FFF 6%, #062D60 7%, #062D60 90%, #C8102E 91%);
+}
+
+[title="Reverse Retro"] {
+    background: #C8102E;
+    background-image: linear-gradient(50deg, #C81020 49%, #111 51%);
+}
+
+[title="Capitol"]:hover,
+[title="Reverse Retro"]:hover {
+    box-shadow: 0 .5rem 2rem #111;
+}
+
+[title="Reset Filters"] {
+    background: transparent;
+    box-shadow: none;
+
+    &:hover,
+    &:active {
+        color: #111;
+        text-decoration: underline;
     }
 }
 
@@ -449,10 +533,6 @@ button[title='Random Goal'] {
     }
 }
 
-.coach-button[title="Glen Hanlon"]:hover {
-    background: #111;
-}
-
 .jersey-button {
     align-items: center;
     display: flex;
@@ -476,88 +556,6 @@ button[title='Random Goal'] {
 [src="/jerseys/brick.svg"],
 [src="/jerseys/navy.svg"] {
     max-width: 1.5rem;
-}
-
-button[title="Capitol"] {
-  background: #111;
-  background-image: linear-gradient(150deg, #111 76%, #32599E 77%, #32599E 80%, #CE8946 81%);
-}
-
-button[title="Screagle"] {
-    background: #FFF;
-    background-image: linear-gradient(150deg, #FFF 76%, #CE8946 77%, #CE8946 80%, #175787 81%);
-
-    &:hover {
-        box-shadow: 0 .5rem 2rem #175787;
-    }
-}
-
-button[title="Red"] {
-    background: #C8102E;
-}
-
-button[title="White"] {
-    background: #FFF;
-}
-
-button[title="Barry Trotz"] {
-    background: #E0E0E0 url('../public/bg/cup.jpg') no-repeat scroll center / 100%;
-    color: #333;
-
-    &:hover {
-        box-shadow: 0 .5rem 2rem #A0A0A0;
-        color: #333;
-    }
-}
-
-button[title="Brick Stars & Stripes"] {
-    background: #98012E;
-
-    &:before,
-    &:after {
-        bottom: 14px;
-        color: #FFF;
-        content: "|||";
-        font-size: 1.125rem;
-        pointer-events: none;
-        position: relative;
-        right: .75rem;
-    }
-
-    &:after {
-        right: -.75rem;
-    }
-}
-
-button[title="Throwback Third"] {
-    background: #C8102E;
-    background-image: linear-gradient(50deg, #E13A3E 25%, #FFF 26%, #FFF 74%, #E13A3E 75%);
-}
-
-button[title="Navy"] {
-    background: #062D60;
-    background-image: linear-gradient(#FFF 6%, #062D60 7%, #062D60 90%, #C8102E 91%);
-}
-
-button[title="Reverse Retro"] {
-    background: #C8102E;
-    background-image: linear-gradient(50deg, #C81020 49%, #111 51%);
-}
-
-button[title="Capitol"]:hover,
-button[title="Reverse Retro"]:hover {
-    box-shadow: 0 .5rem 2rem #111;
-}
-
-button[title="Reset Filters"] {
-  background: transparent;
-  box-shadow: none;
-
-    &:hover,
-    &:active {
-        color: #111;
-        text-decoration: underline;
-    }
 }
 
 form {
@@ -671,6 +669,21 @@ input {
         width: 100%;
     }
 
+    [type="number"] {
+        &:focus-visible {
+            border-bottom: 2px solid #C8102E;
+
+            &::placeholder {
+                opacity: 0;
+            }
+        }
+
+        &::placeholder {
+            color: #AAA;
+            font-weight: 400;
+        }
+    }
+
     &[type="text"] {
         caret-color: #C8102E;
         color: #C8102E;
@@ -697,22 +710,6 @@ input {
             max-width: 325px;
             padding: 3px .5rem;
         }
-    }
-}
-
-
-input[type="number"] {
-    &:focus-visible {
-        border-bottom: 2px solid #C8102E;
-
-        &::placeholder {
-            opacity: 0;
-        }
-    }
-
-    &::placeholder {
-        color: #AAA;
-        font-weight: 400;
     }
 }
 
