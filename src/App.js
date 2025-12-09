@@ -125,7 +125,7 @@ function SearchForm({jsonData}) {
     const handleColumnChange = (event) => {
         const columnValue = parseInt(document.getElementById('column').value);
         document.getElementById('wrapper').classList.remove('column-2', 'column-3', 'multi-column');
-        if (columnValue != 1) {
+        if (columnValue !== 1) {
             document.getElementById('wrapper').classList.add('column-' + columnValue, 'multi-column');
         }
     };
