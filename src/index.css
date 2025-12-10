@@ -453,7 +453,7 @@ button {
 }
 
 [title="Barry Trotz"] {
-    background: #E0E0E0 url('../public/bg/cup.jpg') no-repeat scroll center / 100%;
+    background: #E0E0E0 url('../public/bg/cup.jpg') no-repeat scroll center / 100% !important;
     color: #333;
 
     &:hover {
