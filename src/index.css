@@ -455,7 +455,7 @@ button {
 
     &[title="Outdoor"] {
         background: #98012E;
-        background-image: linear-gradient(75deg, #98012E 49%, #062D60 50%);
+        background-image: linear-gradient(75deg, #98012E 48%, #062D60 49%);
 
         span {
             align-items: center;
@@ -493,7 +493,7 @@ button {
 
     &[title="Reverse Retro"] {
         background: #C8102E;
-        background-image: linear-gradient(50deg, #C81020 49%, #111 51%);
+        background-image: linear-gradient(75deg, #C81020 49%, #111 51%);
     }
 
     &[title="Capitol"]:hover,
