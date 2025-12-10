@@ -616,7 +616,7 @@ iframe {
   aspect-ratio: 16 / 9;
   background: #111;
   border: 0;
-  box-shadow: rgba(200, 16, 46, 0.5) 10px 10px, rgba(200, 16, 46, 0.25) 20px 20px, rgba(200, 16, 46, 0.15) 30px 30px;
+  box-shadow: rgba(200, 16, 46, 0.4) 10px 10px, rgba(200, 16, 46, 0.2) 20px 20px;
   height: auto;
   min-height: 0;
   position: relative;
@@ -629,7 +629,7 @@ select {
 }
 
 .shadow {
-  box-shadow: rgba(4, 30, 66, 0.5) -10px -10px, rgba(4, 30, 66, 0.25) -20px -20px, rgba(4, 30, 66, 0.15) -30px -30px;
+  box-shadow: rgba(4, 30, 66, 0.4) -10px -10px, rgba(4, 30, 66, 0.2) -20px -20px;
   margin: 0 0 2rem;
   max-width: 992px;
   position: relative;
@@ -658,6 +658,7 @@ select {
 #search-goal {
   caret-color: #C8102E;
   color: #C8102E;
+  font-weight: bold;
   max-width: 90px;
   text-align: center;
   text-indent: .75rem;
@@ -673,24 +674,15 @@ input {
         border-radius: 0;
         border-right: 0;
         border-top: 0;
-        font-size: 1.5rem;
-        font-weight: bold;
         outline: 0;
         padding: 3px;
         width: 100%;
     }
 
-    [type="number"] {
-        &:focus-visible {
-            border-bottom: 2px solid #C8102E;
-
-            &::placeholder {
-                opacity: 0;
-            }
-        }
+    &[type="number"] {
+        font-size: 1.5rem;
 
         &::placeholder {
-            color: #AAA;
             font-weight: 400;
         }
     }
@@ -708,10 +700,6 @@ input {
         width: 100%;
 
         &::placeholder {
-            color: #777;
-            font-size: 1.125rem;
-            font-weight: 400;
-            margin-bottom: 1rem;
             text-transform: none;
         }
 
