@@ -77,14 +77,18 @@ function SearchForm({jsonData}) {
         }
     },[]);
 
-    const brick = () => {
-        const input = document.querySelector('#search-goal').value;
-        if (input === '440') {
+    const outdoor = () => {
+        const input = parseInt(document.querySelector('#search-goal').value)
+        if (input === 440) {
+            setSearchGoal(598)
+        } else if (input === 475) {
+            setSearchGoal(602)
+        } else if (input === 598) {
             setSearchGoal(475)
         } else {
             setSearchGoal(440)
         }
-        clickTrack('Brick Click');
+        clickTrack('Outdoor Click');
     };
 
     function buttonClick(value) {
@@ -258,10 +262,15 @@ function SearchForm({jsonData}) {
                         <button onClick={(event) => buttonClick(['Red Throwback', 'White Throwback'])} className="jersey-button" title="Throwback Third" type="button">
                             <img alt="Throwback logo" className="jersey-logo" src="/jerseys/throwback.svg" />
                         </button>
-                        <button onClick={brick} className="jersey-button" title="Brick Stars & Stripes" type="button">
-                            <img alt="Brick Stripes logo" className="jersey-logo" src="/jerseys/brick.svg" />
+                        <button onClick={outdoor} className="jersey-button" title="Outdoor" type="button">
+                            <span>
+                                <img alt="Brick Stars & Stripes logo" className="jersey-logo" src="/jerseys/brick.svg" />
+                            </span>
+                            <span>
+                                <img alt="Navy Caps logo" className="jersey-logo" src="/jerseys/caps.svg" />
+                            </span>
                         </button>
-                        <button onClick={(event) => buttonClick(['Navy Third', 'Navy Stadium Series'])} className="jersey-button" title="Navy" type="button">
+                        <button onClick={(event) => buttonClick(['Navy Third'])} className="jersey-button" title="Navy" type="button">
                             <img alt="Navy logo" className="jersey-logo" src="/jerseys/navy.svg" />
                         </button>
                         <button onClick={(event) => buttonClick(['Reverse Retro Black', 'Reverse Retro Red'])} className="jersey-button" title="Reverse Retro" type="button">

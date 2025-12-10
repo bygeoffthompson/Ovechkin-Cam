@@ -416,99 +416,108 @@ button {
     box-shadow: 0 .5rem 2rem #111;
     transform: scale(1.05);
   }
-}
 
-[title='Random Goal'] {
-  max-width: none;
-
-    &:after {
-        content: 'ize';
+    &[title="Glen Hanlon"]:hover {
+        background: #111;
     }
-}
 
-[title="Glen Hanlon"]:hover {
-    background: #111;
-}
-
-[title="Capitol"] {
-    background: #111;
-    background-image: linear-gradient(150deg, #111 76%, #32599E 77%, #32599E 80%, #CE8946 81%);
-}
-
-[title="Screagle"] {
-    background: #FFF;
-    background-image: linear-gradient(150deg, #FFF 76%, #CE8946 77%, #CE8946 80%, #175787 81%);
-
-    &:hover {
-        box-shadow: 0 .5rem 2rem #175787;
+    &[title="Capitol"] {
+        background: #111;
+        background-image: linear-gradient(150deg, #111 76%, #32599E 77%, #32599E 80%, #CE8946 81%);
     }
-}
 
-[title="Red"] {
-    background: #C8102E;
-}
+    &[title="Screagle"] {
+        background: #FFF;
+        background-image: linear-gradient(150deg, #FFF 76%, #CE8946 77%, #CE8946 80%, #175787 81%);
 
-[title="White"] {
-    background: #FFF;
-}
+        &:hover {
+            box-shadow: 0 .5rem 2rem #175787;
+        }
+    }
 
-[title="Barry Trotz"] {
-    background: #E0E0E0 url('../public/bg/cup.jpg') no-repeat scroll center / 100% !important;
-    color: #333;
+    &[title="Red"] {
+        background: #C8102E;
+    }
 
-    &:hover {
-        box-shadow: 0 .5rem 2rem #A0A0A0;
+    &[title="White"] {
+        background: #FFF;
+    }
+
+    &[title="Barry Trotz"] {
+        background: #E0E0E0 url('../public/bg/cup.jpg') no-repeat scroll center / 100%;
         color: #333;
-    }
-}
 
-[title="Brick Stars & Stripes"] {
-    background: #98012E;
-
-    &:before,
-    &:after {
-        bottom: 14px;
-        color: #FFF;
-        content: "|||";
-        font-size: 1.125rem;
-        pointer-events: none;
-        position: relative;
-        right: .75rem;
+        &:hover {
+            box-shadow: 0 .5rem 2rem #A0A0A0;
+            color: #333;
+        }
     }
 
-    &:after {
-        right: -.75rem;
+    &[title="Outdoor"] {
+        background: #98012E;
+        background-image: linear-gradient(75deg, #98012E 49%, #062D60 50%);
+
+        span {
+            align-items: center;
+            display: flex;
+            justify-content: center;
+            min-height: 40px;
+            overflow: hidden;
+            position: relative;
+            width: 100%;
+
+            &:first-of-type:after {
+                bottom: -.875rem;
+                color: #FFF;
+                content: "|||||";
+                font-size: 1.125rem;
+                left: 0;
+                letter-spacing: 2px;
+                pointer-events: none;
+                position: absolute;
+                text-align: center;
+                width: 100%;
+            }
+        }
     }
-}
 
-[title="Throwback Third"] {
-    background: #C8102E;
-    background-image: linear-gradient(50deg, #E13A3E 25%, #FFF 26%, #FFF 74%, #E13A3E 75%);
-}
+    &[title="Throwback Third"] {
+        background: #C8102E;
+        background-image: linear-gradient(75deg, #E13A3E 25%, #FFF 26%, #FFF 74%, #E13A3E 75%);
+    }
 
-[title="Navy"] {
-    background: #062D60;
-    background-image: linear-gradient(#FFF 6%, #062D60 7%, #062D60 90%, #C8102E 91%);
-}
+    &[title="Navy"] {
+        background: #062D60;
+        background-image: linear-gradient(#FFF 6%, #062D60 7%, #062D60 90%, #C8102E 91%);
+    }
 
-[title="Reverse Retro"] {
-    background: #C8102E;
-    background-image: linear-gradient(50deg, #C81020 49%, #111 51%);
-}
+    &[title="Reverse Retro"] {
+        background: #C8102E;
+        background-image: linear-gradient(50deg, #C81020 49%, #111 51%);
+    }
 
-[title="Capitol"]:hover,
-[title="Reverse Retro"]:hover {
-    box-shadow: 0 .5rem 2rem #111;
-}
+    &[title="Capitol"]:hover,
+    &[title="Reverse Retro"]:hover {
+        box-shadow: 0 .5rem 2rem #111;
+    }
 
-[title="Reset Filters"] {
-    background: transparent !important;
-    box-shadow: none !important;
+    &[title="Reset Filters"] {
+        background: transparent;
+        box-shadow: none;
 
-    &:hover,
-    &:active {
-        color: #111;
-        text-decoration: underline;
+        &:hover,
+        &:active {
+            color: #111;
+            text-decoration: underline;
+        }
+    }
+
+    &[title='Random Goal'] {
+        max-width: none;
+
+        &:after {
+            content: 'ize';
+        }
     }
 }
 
