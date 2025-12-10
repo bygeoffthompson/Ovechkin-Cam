@@ -1,3 +1,7 @@
+/* modern-normalize.css start */
+*,::before,::after{box-sizing:border-box}html{font-family:system-ui,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji';line-height:1.15;-webkit-text-size-adjust:100%;tab-size:4}body{margin:0}b,strong{font-weight:bolder}code,kbd,samp,pre{font-family:ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}table{border-color:currentcolor}button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;line-height:1.15;margin:0}button,[type='button'],[type='reset'],[type='submit']{-webkit-appearance:button}legend{padding:0}progress{vertical-align:baseline}::-webkit-inner-spin-button,::-webkit-outer-spin-button{height:auto}[type='search']{-webkit-appearance:textfield;outline-offset:-2px}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}summary{display:list-item}
+/* modern-normalize.css end */
+
 #bg-ice {
     background: #D4D5DA;
 }
@@ -8,10 +12,10 @@
     flex-direction: column;
     justify-content: space-between;
     min-height: 100vh;
-}
 
-#window > div {
-    padding: 0 .75rem;
+    > div {
+        padding: 0 .75rem;
+    }
 }
 
 .goal-light {
@@ -26,10 +30,10 @@
 
 a {
     text-decoration: none;
-}
 
-a:hover {
-    text-decoration: underline;
+    &:hover {
+        text-decoration: underline;
+    }
 }
 
 body {
@@ -58,12 +62,12 @@ footer {
     padding: .75rem 1rem;
     width: 100%;
     z-index: 1;
-}
 
-footer a {
-    color: #fff;
-    position: relative;
-    z-index: 1;
+    a {
+        color: #fff;
+        position: relative;
+        z-index: 1;
+    }
 }
 
 h1 {
@@ -81,14 +85,14 @@ header {
     a:hover {
         color: #C8102E;
     }
-}
 
-header > div {
-    align-items: center;
-    display: flex;
-    gap: 4px;
-    justify-content: center;
-    margin-bottom: 1rem;
+    > div {
+        align-items: center;
+        display: flex;
+        gap: 4px;
+        justify-content: center;
+        margin-bottom: 1rem;
+    }
 }
 
 html {

@@ -31,7 +31,7 @@ function SearchForm({jsonData}) {
                     item.year + ' ' +
                     item.goalie + ' ' +
                     item.team + ' ' +
-                    item.tags + ' '
+                    item.tags + ' ' + item.arena
                 return (
                     search.toLowerCase().includes(searchText1) &&
                     search.toLowerCase().includes(searchText2) &&
