@@ -346,7 +346,7 @@ function SearchForm({jsonData}) {
                             <iframe width="560" height="315" src={result.link.replace(/"/g, "")} title="Alex Ovechkin Goal Video"
                                 referrerPolicy="cross-origin-with-strict-origin" allowFullScreen loading="lazy"></iframe>
                         </div>
-                        {/*<small className="tags">{result.tags}</small>*/}
+                        <small className="tags">{result.tags}</small>
                     </div>
                 ))}
             </div>

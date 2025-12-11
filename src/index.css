@@ -630,7 +630,7 @@ select {
 
 .shadow {
   box-shadow: rgba(4, 30, 66, 0.4) -10px -10px, rgba(4, 30, 66, 0.2) -20px -20px;
-  margin: 0 0 2rem;
+  margin: 0 0 1rem;
   max-width: 992px;
   position: relative;
 
@@ -648,10 +648,13 @@ select {
 }
 
 .tags {
+  bottom: 0;
   display: block;
-  margin: -2rem 0 0;
+  margin: 0 auto;
   pointer-events: none;
-  position: relative;
+  position: absolute;
+  text-align: center;
+  width: 100%;
   z-index: 1 ;
 }
 
