@@ -33,9 +33,9 @@ function SearchForm({jsonData}) {
                     item.team + ' ' +
                     item.tags + ' ' + item.arena
                 return (
-                    search.toLowerCase().includes(searchText1) &&
-                    search.toLowerCase().includes(searchText2) &&
-                    search.toLowerCase().includes(searchText3) &&
+                    search.replace('undefined', '').toLowerCase().includes(searchText1) &&
+                    search.replace('undefined', '').toLowerCase().includes(searchText2) &&
+                    search.replace('undefined', '').toLowerCase().includes(searchText3) &&
                     item.season.includes(document.getElementById('type').value)
                 );
             });
