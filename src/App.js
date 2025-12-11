@@ -29,7 +29,7 @@ function SearchForm({jsonData}) {
                     item.month + ' ' +
                     item.day + ' ' +
                     item.year + ' ' +
-                    item.goalie + ' ' +
+                    item.goalie + ' ' + item.goalie2 + ' ' +
                     item.team + ' ' +
                     item.tags + ' ' + item.arena
                 return (
