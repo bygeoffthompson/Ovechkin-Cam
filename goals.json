@@ -138,7 +138,7 @@
     "day": 10,
     "year": 2005,
     "type": "GWG",
-    "tags": "PPG",
+    "tags": "Once PPG",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -348,7 +348,7 @@
     "day": 9,
     "year": 2005,
     "type": "PPG",
-    "tags": "",
+    "tags": "Once",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -362,7 +362,7 @@
     "day": 22,
     "year": 2005,
     "type": "PPG",
-    "tags": "",
+    "tags": "Once",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -390,7 +390,7 @@
     "day": 27,
     "year": 2005,
     "type": "",
-    "tags": "",
+    "tags": "Once",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -462,7 +462,7 @@
     "day": 10,
     "year": 2006,
     "type": "",
-    "tags": "",
+    "tags": "Once",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -564,7 +564,7 @@
     "day": 19,
     "year": 2006,
     "type": "",
-    "tags": "",
+    "tags": "Once",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -764,7 +764,7 @@
     "day": 8,
     "year": 2006,
     "type": "PPG",
-    "tags": "",
+    "tags": "Once",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -891,7 +891,7 @@
     "day": 15,
     "year": 2006,
     "type": "",
-    "tags": "",
+    "tags": "Once",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -2004,7 +2004,7 @@
     "day": 17,
     "year": 2007,
     "type": "PPG",
-    "tags": "",
+    "tags": "Once",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -2327,7 +2327,7 @@
     "day": 5,
     "year": 2008,
     "type": "OT",
-    "tags": "2nd Overtime GWG",
+    "tags": "2nd Once Overtime GWG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -2793,7 +2793,7 @@
     "day": 10,
     "year": 2008,
     "type": "",
-    "tags": "Teammate",
+    "tags": "Once Teammate",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -2807,7 +2807,7 @@
     "day": 12,
     "year": 2008,
     "type": "",
-    "tags": "",
+    "tags": "Once",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -3079,7 +3079,7 @@
     "day": 26,
     "year": 2008,
     "type": "GWG",
-    "tags": "",
+    "tags": "Once",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -4782,7 +4782,7 @@
     "day": 6,
     "year": 2010,
     "type": "",
-    "tags": "",
+    "tags": "Once",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -4982,7 +4982,7 @@
     "day": 1,
     "year": 2011,
     "type": "OT",
-    "tags": "Overtime GWG",
+    "tags": "GWG Once Overtime",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -5307,7 +5307,7 @@
     "day": 20,
     "year": 2011,
     "type": "",
-    "tags": "",
+    "tags": "Once",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -6340,7 +6340,7 @@
     "day": 2,
     "year": 2013,
     "type": "#20",
-    "tags": "20th GWG Teammate 2nd",
+    "tags": "20th 2nd GWG Once Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -6455,7 +6455,7 @@
     "day": 16,
     "year": 2013,
     "type": "PPG",
-    "tags": "",
+    "tags": "Once",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -6625,7 +6625,7 @@
     "day": 14,
     "year": 2013,
     "type": "GWG",
-    "tags": "",
+    "tags": "Once",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -6725,7 +6725,7 @@
     "day": 7,
     "year": 2013,
     "type": "PPG",
-    "tags": "",
+    "tags": "Once",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -6853,7 +6853,7 @@
     "day": 7,
     "year": 2013,
     "type": "PPG",
-    "tags": "",
+    "tags": "Once",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -7208,7 +7208,7 @@
     "day": 18,
     "year": 2014,
     "type": "GWG",
-    "tags": "PPG",
+    "tags": "Once PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -9956,7 +9956,7 @@
     "day": 25,
     "year": 2018,
     "type": "#30",
-    "tags": "30th",
+    "tags": "30th Once",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -11877,7 +11877,7 @@
     "day": 25,
     "year": 2020,
     "type": "",
-    "tags": "",
+    "tags": "Once",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
