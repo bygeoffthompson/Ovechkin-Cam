@@ -172,7 +172,7 @@
     }
     95% {
         left: 50%;
-        top: 138px;
+        top: 140px;
         transform: translateX(-50%);
     }
     100% {
@@ -423,7 +423,7 @@ button {
 
     &[title="Capitol"] {
         background: #111;
-        background-image: linear-gradient(150deg, #111 76%, #32599E 77%, #32599E 80%, #CE8946 81%);
+        background-image: linear-gradient(150deg, #111 76%, #0A4899 77%, #0A4899 80%, #CE8946 81%);
     }
 
     &[title="Screagle"] {
@@ -726,12 +726,17 @@ label {
     overflow: hidden;
     width: 0;
 }
+/*max-widths*/
+@media (max-width: 576px) {
+    #click-goal {
+        display: none;
+    }
 
-@media (max-width: 400px) {
     h1 {
         font-size: 1.25rem;
     }
 }
+/*min-widths*/
 @media (min-width: 400px) {
     button {
         padding: .625rem 1rem;
