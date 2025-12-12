@@ -498,8 +498,8 @@ button {
     }
 
     &[title="Capitals"] {
-        background: #C8102E;
-        background-image: linear-gradient(75deg, #C8102E 48%, #FFF 49%);
+        background: #C81020;
+        background-image: linear-gradient(75deg, #C81020 30%, #FFF 31%, #FFF 69%, #C81020 70%);
     }
 
     &[title="Russia"] {
@@ -528,12 +528,8 @@ button {
     }
 
     &[title="Reverse Retro"] {
-        background: #C8102E;
-        background-image: linear-gradient(75deg, #C81020 49%, #111 51%);
-
-        &:hover {
-            box-shadow: 0 .5rem 2rem #111;
-        }
+        background: #C81020;
+        background-image: linear-gradient(75deg, #111 30%, #C81020 31%, #C81020 69%, #111 70%);
     }
 
     &[title="Reset Filters"] {
@@ -594,15 +590,12 @@ button {
     max-width: 2.25rem;
 }
 
-[src="/jerseys/capitals.svg"] {
-    max-width: 2.75rem;
-}
-
 [src="/jerseys/dynamo.svg"],
 [src="/jerseys/russia.svg"] {
     max-width: 1.5rem;
 }
 
+[src="/jerseys/capitals.svg"],
 [src="/jerseys/throwback.svg"] {
     max-width: 2.25rem;
 }

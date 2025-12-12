@@ -157,7 +157,9 @@ function SearchForm({jsonData}) {
     };
 
     const handleGoalChange = (event) => {
-        setSearchGoal(event.target.value);
+        if (event.target.value < totalGoals + 1) {
+            setSearchGoal(event.target.value);
+        }
     };
 
     const handleSeasonChange = (event) => {
@@ -243,7 +245,7 @@ function SearchForm({jsonData}) {
                         <h2>Search</h2>
                         <label htmlFor="search-goal">Number</label>
                     </div>
-                    <input id="search-goal" min="1" max={totalGoals} title="NHL Regular Season" type="number" placeholder="#" value={searchGoal} onChange={handleGoalChange}/>
+                    <input id="search-goal" min="1" max={totalGoals} step="any" type="number" placeholder="#" value={searchGoal} onChange={handleGoalChange}/>
                     <label htmlFor="search-text-1">Text</label>
                     <label className="hide" htmlFor="search-text-2">Text</label>
                     <label className="hide" htmlFor="search-text-3">Text</label>
@@ -252,7 +254,7 @@ function SearchForm({jsonData}) {
                     <input id="search-text-3" type="text" placeholder="And" value={searchText3} onChange={handleText3}/>
                     <div>
                         <strong>or</strong>
-                        <h3><button onClick={(event) => setSearchGoal(random(1, totalGoals))} title="Random Goal" type="button">Random</button></h3>
+                        <h3><button onClick={(event) => buttonClick([''])} title="Random Goal" type="button">Random</button></h3>
                     </div>
                 </div>
                 <div className="buttons-group">
