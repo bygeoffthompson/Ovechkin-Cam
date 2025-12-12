@@ -15,8 +15,8 @@ function SearchForm({jsonData}) {
     useEffect(() => {
         if (searchGoal) {
             resultsHide();
-            const goalQuery = parseInt(searchGoal);
-            const results = jsonData.filter(item => item.goal === goalQuery && item.season === 'Regular')
+            const goalQuery = parseFloat(searchGoal);
+            const results = jsonData.filter(item => item.goal === goalQuery)
             setSearchResults(results);
         }
 
@@ -210,7 +210,7 @@ function SearchForm({jsonData}) {
         const result = jsonData.filter(item =>
             Object.values(item).some(value =>
                 type.includes(value)
-            ) && item.season === 'Regular'
+            )
         );
         const goal = Object.values(result[random(1, Object.keys(result).length)]);
         setSearchGoal(goal[0]);
@@ -247,7 +247,7 @@ function SearchForm({jsonData}) {
                     <label htmlFor="search-text-1">Text</label>
                     <label className="hide" htmlFor="search-text-2">Text</label>
                     <label className="hide" htmlFor="search-text-3">Text</label>
-                    <input id="search-text-1" type="text" placeholder="Search" title="All Leagues" value={searchText1} onChange={handleText1}/>
+                    <input id="search-text-1" type="text" placeholder="Search" value={searchText1} onChange={handleText1}/>
                     <input id="search-text-2" type="text" placeholder="And" value={searchText2} onChange={handleText2}/>
                     <input id="search-text-3" type="text" placeholder="And" value={searchText3} onChange={handleText3}/>
                     <div>
