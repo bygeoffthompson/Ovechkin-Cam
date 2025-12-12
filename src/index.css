@@ -590,9 +590,12 @@ button {
     max-width: 2.25rem;
 }
 
-[src="/jerseys/dynamo.svg"],
-[src="/jerseys/russia.svg"] {
+[src="/jerseys/dynamo.svg"] {
     max-width: 1.5rem;
+}
+
+[src="/jerseys/russia.svg"] {
+    max-width: 1.33rem;
 }
 
 [src="/jerseys/capitals.svg"],
