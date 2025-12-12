@@ -60,8 +60,8 @@ function SearchForm({jsonData}) {
 
     useEffect(() => {
         const query = window.location.search.slice(1).replace(/-/g, ' ').toLowerCase().split('|')[0];
-        const queryInteger = parseInt(query);
-        if (queryInteger >= 1 && queryInteger <= totalGoals) {
+        const queryInteger = parseFloat(query);
+        if (queryInteger > 0 && queryInteger <= totalGoals) {
             setSearchGoal(queryInteger);
         } else if (query.includes('+')) {
             const multipleSearch = query.split('+');
@@ -274,7 +274,7 @@ function SearchForm({jsonData}) {
                         <button onClick={(event) => buttonClick(['Red Russia', 'White Russia'])} className="jersey-button" title="Russia" type="button">
                             <img alt="Throwback logo" className="jersey-logo" src="/jerseys/russia.svg" />
                         </button>
-                        <button onClick={(event) => buttonClick(['Capitol', 'Screagle'])} className="jersey-button" title="Capitol & Screagle" type="button">
+                        <button onClick={(event) => buttonClick(['Capitol', 'Screagle'])} className="jersey-button multi-logo" title="Capitol / Screagle" type="button">
                             <span>
                                 <img alt="Capitol logo" className="jersey-logo" src="/jerseys/capitol.svg" />
                             </span>
@@ -288,7 +288,7 @@ function SearchForm({jsonData}) {
                         <button onClick={(event) => buttonClick(['Red Throwback', 'White Throwback'])} className="jersey-button" title="Throwback Third" type="button">
                             <img alt="Throwback logo" className="jersey-logo" src="/jerseys/throwback.svg" />
                         </button>
-                        <button onClick={outdoor} className="jersey-button" title="Brick & Stadium" type="button">
+                        <button onClick={outdoor} className="jersey-button multi-logo" title="Brick / Stadium" type="button">
                             <span>
                                 <img alt="Brick Stripes logo" className="jersey-logo" src="/jerseys/brick.svg" />
                             </span>
