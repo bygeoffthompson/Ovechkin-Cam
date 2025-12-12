@@ -107,6 +107,10 @@ html {
 main {
     margin: 0 auto 5rem;
     width: 100%;
+
+    > ul li {
+        margin-bottom: .375rem;
+    }
 }
 
 table {
