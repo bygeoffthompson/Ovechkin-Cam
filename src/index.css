@@ -421,20 +421,6 @@ button {
         background: #111;
     }
 
-    &[title="Capitol"] {
-        background: #111;
-        background-image: linear-gradient(150deg, #111 76%, #0A4899 77%, #0A4899 80%, #CE8946 81%);
-    }
-
-    &[title="Screagle"] {
-        background: #FFF;
-        background-image: linear-gradient(150deg, #FFF 76%, #CE8946 77%, #CE8946 80%, #175787 81%);
-
-        &:hover {
-            box-shadow: 0 .5rem 2rem #175787;
-        }
-    }
-
     &[title="Red"] {
         background: #C8102E;
     }
@@ -453,7 +439,9 @@ button {
         }
     }
 
-    &[title="Outdoor"] {
+    &[title="Capitol & Screagle"],
+    &[title="Capitals"],
+    &[title="Brick & Stadium"] {
         background: #98012E;
         background-image: linear-gradient(75deg, #98012E 48%, #062D60 49%);
 
@@ -481,12 +469,46 @@ button {
         }
     }
 
-    &[title="Throwback Third"] {
-        background: #C8102E;
-        background-image: linear-gradient(75deg, #E13A3E 25%, #FFF 26%, #FFF 74%, #E13A3E 75%);
+    &[title="Capitol & Screagle"] {
+        background: #111;
+        background-image: linear-gradient(75deg, #111 48%, #FFF 49%);
+
+        &:hover {
+            box-shadow: 0 .5rem 2rem #CE8946;
+            color: #333;
+        }
+
+        span:after {
+            display: none !important;
+        }
     }
 
-    &[title="Navy"] {
+    &[title="Capitals"] {
+        background: #C8102E;
+        background-image: linear-gradient(75deg, #C8102E 48%, #FFF 49%);
+    }
+
+    &[title="Russia"] {
+        background: #C8102E;
+        background-image: linear-gradient(75deg, #C8102E 28%, #FFF 29%, #FFF 71%, #C8102E 72%);
+
+    }
+
+    &[title="HC Moscow Dynamo"] {
+        background: #FFF;
+        background-image: linear-gradient(75deg, #0033A0 30%, #FFF 31%, #FFF 69%, #0033A0 70%);
+
+        &:hover {
+            box-shadow: 0 .5rem 2rem #0033A0;
+        }
+    }
+
+    &[title="Throwback Third"] {
+        background: #C8102E;
+        background-image: linear-gradient(75deg, #E13A3E 28%, #FFF 29%, #FFF 71%, #E13A3E 72%);
+    }
+
+    &[title="Navy Third"] {
         background: #062D60;
         background-image: linear-gradient(#FFF 6%, #062D60 7%, #062D60 90%, #C8102E 91%);
     }
@@ -494,11 +516,10 @@ button {
     &[title="Reverse Retro"] {
         background: #C8102E;
         background-image: linear-gradient(75deg, #C81020 49%, #111 51%);
-    }
 
-    &[title="Capitol"]:hover,
-    &[title="Reverse Retro"]:hover {
-        box-shadow: 0 .5rem 2rem #111;
+        &:hover {
+            box-shadow: 0 .5rem 2rem #111;
+        }
     }
 
     &[title="Reset Filters"] {
@@ -559,9 +580,17 @@ button {
     max-width: 2.25rem;
 }
 
-[src="/jerseys/capitals.svg"],
-[src="/jerseys/throwback.svg"] {
+[src="/jerseys/capitals.svg"] {
     max-width: 2.75rem;
+}
+
+[src="/jerseys/dynamo.svg"],
+[src="/jerseys/russia.svg"] {
+    max-width: 1.5rem;
+}
+
+[src="/jerseys/throwback.svg"] {
+    max-width: 2.25rem;
 }
 
 [src="/jerseys/brick.svg"],

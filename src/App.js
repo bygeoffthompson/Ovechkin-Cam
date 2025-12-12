@@ -269,34 +269,39 @@ function SearchForm({jsonData}) {
                     </div>
                     <div>
                         <small>Jersey</small>
-                        <button onClick={(event) => buttonClick(['Capitol'])} className="jersey-button" title="Capitol" type="button">
-                            <img alt="Capitol logo" className="jersey-logo" src="/jerseys/capitol.svg" />
+                        <button onClick={(event) => buttonClick(['Red Russia', 'White Russia'])} className="jersey-button" title="Russia" type="button">
+                            <img alt="Throwback logo" className="jersey-logo" src="/jerseys/russia.svg" />
                         </button>
-                        <button onClick={(event) => buttonClick(['Screagle'])} className="jersey-button" title="Screagle" type="button">
-                            <img alt="Screagle logo" className="jersey-logo" src="/jerseys/screagle.svg" />
+                        <button onClick={(event) => buttonClick(['Capitol', 'Screagle'])} className="jersey-button" title="Capitol & Screagle" type="button">
+                            <span>
+                                <img alt="Capitol logo" className="jersey-logo" src="/jerseys/capitol.svg" />
+                            </span>
+                            <span>
+                                <img alt="Screagle logo" className="jersey-logo" src="/jerseys/screagle.svg" />
+                            </span>
                         </button>
-                        <button onClick={(event) => buttonClick(['Red'])} className="jersey-button" title="Red" type="button">
-                            <img alt="Red logo" className="jersey-logo" src="/jerseys/capitals.svg" />
-                        </button>
-                        <button onClick={(event) => buttonClick(['White'])} className="jersey-button" title="White" type="button">
-                            <img alt="White logo" className="jersey-logo" src="/jerseys/capitals.svg" />
+                        <button onClick={(event) => buttonClick(['Red', 'White'])} className="jersey-button" title="Capitals" type="button">
+                            <img alt="Capitals logo" className="jersey-logo" src="/jerseys/capitals.svg" />
                         </button>
                         <button onClick={(event) => buttonClick(['Red Throwback', 'White Throwback'])} className="jersey-button" title="Throwback Third" type="button">
                             <img alt="Throwback logo" className="jersey-logo" src="/jerseys/throwback.svg" />
                         </button>
-                        <button onClick={outdoor} className="jersey-button" title="Outdoor" type="button">
+                        <button onClick={outdoor} className="jersey-button" title="Brick & Stadium" type="button">
                             <span>
-                                <img alt="Brick Stars & Stripes logo" className="jersey-logo" src="/jerseys/brick.svg" />
+                                <img alt="Brick Stripes logo" className="jersey-logo" src="/jerseys/brick.svg" />
                             </span>
                             <span>
-                                <img alt="Navy Caps logo" className="jersey-logo" src="/jerseys/caps.svg" />
+                                <img alt="Stadium Series logo" className="jersey-logo" src="/jerseys/caps.svg" />
                             </span>
                         </button>
-                        <button onClick={(event) => buttonClick(['Navy Third'])} className="jersey-button" title="Navy" type="button">
+                        <button onClick={(event) => buttonClick(['Navy Third'])} className="jersey-button" title="Navy Third" type="button">
                             <img alt="Navy logo" className="jersey-logo" src="/jerseys/navy.svg" />
                         </button>
                         <button onClick={(event) => buttonClick(['Reverse Retro Black', 'Reverse Retro Red'])} className="jersey-button" title="Reverse Retro" type="button">
                             <img alt="Reverse Retro logo" className="jersey-logo" src="/jerseys/retro.svg" />
+                        </button>
+                        <button onClick={(event) => buttonClick(['Blue Dynamo', 'White Dynamo'])} className="jersey-button" title="HC Moscow Dynamo" type="button">
+                            <img alt="Moscow Dynamo logo" className="jersey-logo" src="/jerseys/dynamo.svg" />
                         </button>
                     </div>
                     <div>
