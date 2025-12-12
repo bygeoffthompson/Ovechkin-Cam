@@ -300,8 +300,8 @@ function SearchForm({jsonData}) {
                         <button onClick={(event) => buttonClick(['Reverse Retro Black', 'Reverse Retro Red'])} className="jersey-button" title="Reverse Retro" type="button">
                             <img alt="Reverse Retro logo" className="jersey-logo" src="/jerseys/retro.svg" />
                         </button>
-                        <button onClick={(event) => buttonClick(['Blue Dynamo', 'White Dynamo'])} className="jersey-button" title="HC Moscow Dynamo" type="button">
-                            <img alt="Moscow Dynamo logo" className="jersey-logo" src="/jerseys/dynamo.svg" />
+                        <button onClick={(event) => buttonClick(['Blue Dynamo', 'White Dynamo'])} className="jersey-button" title="HC Dynamo Moscow" type="button">
+                            <img alt="HC Dynamo Moscow logo" className="jersey-logo" src="/jerseys/dynamo.svg" />
                         </button>
                     </div>
                     <div>
@@ -354,7 +354,7 @@ function SearchForm({jsonData}) {
                             <div>
                                 <strong className="goal-count">
                                     <span>{result.goal.toString().split('.')[0]}</span>
-                                    <span>{result.goal.toString().split('.')[1]}</span>
+                                    <span data-float={result.goal.toString().split('.')[1]}>{result.goal.toString().split('.')[1]}</span>
                                 </strong>
                                 <div className="goal-siren">
                                     <img alt="Goal Siren icon" src="/icons/goal-siren.svg"/>
