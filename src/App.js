@@ -59,7 +59,7 @@ function SearchForm({jsonData}) {
     }, [searchGoal, searchText1, searchText2, searchText3, jsonData]);
 
     useEffect(() => {
-        const query = window.location.search.slice(1).replace(/-/g, ' ').toLowerCase();
+        const query = window.location.search.slice(1).replace(/-/g, ' ').toLowerCase().split('|')[0];
         const queryInteger = parseInt(query);
         if (queryInteger >= 1 && queryInteger <= totalGoals) {
             setSearchGoal(queryInteger);
@@ -74,6 +74,28 @@ function SearchForm({jsonData}) {
             setSearchText1(query.split('&', 1));
             setSearchText2('');
             setSearchText3('');
+        }
+
+        if (window.location.search.slice(1).split('|')[1]) {
+            const queryFilter = window.location.search.slice(1).split('|')[1].toLowerCase();
+            const type = document.getElementById('type');
+            if (queryFilter.includes('regular')) {
+                type.value = 'Regular';
+            } else if (queryFilter.includes('playoff')) {
+                type.value = 'Playoff';
+            } else if (queryFilter.includes('allstar')) {
+                type.value = 'All Star';
+            } else if (queryFilter.includes('iihf')) {
+                type.value = 'IIHF';
+            } else if (queryFilter.includes('khl')) {
+                type.value = 'KHL';
+            } else if (queryFilter.includes('olympic')) {
+                type.value = 'Olympic';
+            } else if (queryFilter.includes('world')) {
+                type.value = 'World Cup';
+            } else {
+                type.value = '';
+            }
         }
     },[]);
 
