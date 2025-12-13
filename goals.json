@@ -1,7 +1,7 @@
 [
   {
     "goal": 0.01,
-    "link": "https://www.youtube.com/embed/bBw5Tknduno?si=uTTZAk2nqhx4bF9h&amp;start=44",
+    "link": "https://www.youtube.com/embed/bBw5Tknduno?si=uTTZAk2nqhx4bF9h&amp;start=44&end=77",
     "team": "Denmark",
     "goalie": "Jan Jensen",
     "month": "April",
@@ -30,7 +30,7 @@
   },
   {
     "goal": 0.03,
-    "link": "https://www.youtube.com/embed/cr-GSpKMp98?si=a9xT8B-XgXTrgpcK&amp;start=95",
+    "link": "https://www.youtube.com/embed/cr-GSpKMp98?si=a9xT8B-XgXTrgpcK&amp;start=95&end=159",
     "team": "Kazakhstan",
     "goalie": "Vitaliy Kolesnik",
     "month": "May",
@@ -44,7 +44,7 @@
   },
   {
     "goal": 0.04,
-    "link": "https://www.youtube.com/embed/-nGroV6TKB0?si=6t7zHS6Qnxlmgprj&amp;start=193",
+    "link": "https://www.youtube.com/embed/-nGroV6TKB0?si=6t7zHS6Qnxlmgprj&amp;start=193&end=244",
     "team": "Finland",
     "goalie": "Niklas Bäckström",
     "goalie2": "Niklas Backstrom",
@@ -59,7 +59,7 @@
   },
   {
     "goal": 0.05,
-    "link": "https://www.youtube.com/embed/SLWCJ_vBqkU?si=qDdUZo8PZMDc5vod&amp;start=835",
+    "link": "https://www.youtube.com/embed/SLWCJ_vBqkU?si=qDdUZo8PZMDc5vod&amp;start=835&end=886",
     "team": "Canada",
     "goalie": "Martin Brodeur",
     "month": "May",
@@ -73,7 +73,7 @@
   },
   {
     "goal": 0.06,
-    "link": "https://www.youtube.com/embed/MBRXgP4F4gc?si=QcmtX4dlP2NBbs4Z&amp;start=551",
+    "link": "https://www.youtube.com/embed/MBRXgP4F4gc?si=QcmtX4dlP2NBbs4Z&amp;start=551&end=593",
     "team": "Sweden",
     "goalie": "Johan Holmqvist",
     "month": "May",
@@ -87,7 +87,7 @@
   },
   {
     "goal": 0.01,
-    "link": "https://www.youtube.com/embed/okK1M-lW8XY?si=mL1djqhhNefKN1OG&amp;start=823",
+    "link": "https://www.youtube.com/embed/okK1M-lW8XY?si=mL1djqhhNefKN1OG&amp;start=823&end=874",
     "team": "Slovakia",
     "goalie": "Ján Lašák",
     "goalie2": "Jan Lasak",
@@ -243,7 +243,7 @@
   },
   {
     "goal": 11,
-    "link": "https://www.youtube.com/embed/IM3Hi3DVmDE?si=shPdwOWeXaZ3I0F9&amp;start=66",
+    "link": "https://www.youtube.com/embed/IM3Hi3DVmDE?si=shPdwOWeXaZ3I0F9&amp;start=66&end=112",
     "team": "Toronto Maple Leafs",
     "goalie": "Ed Belfour",
     "month": "November",
@@ -257,7 +257,7 @@
   },
   {
     "goal": 12,
-    "link": "https://www.youtube.com/embed/IM3Hi3DVmDE?si=shPdwOWeXaZ3I0F9&amp;start=256",
+    "link": "https://www.youtube.com/embed/IM3Hi3DVmDE?si=shPdwOWeXaZ3I0F9&amp;start=256&end=306",
     "team": "Toronto Maple Leafs",
     "goalie": "Ed Belfour",
     "month": "November",
@@ -615,7 +615,7 @@
   },
   {
     "goal": 36.01,
-    "link": "https://www.youtube.com/embed/-gePdvk1Wro?si=bd_eu6lmBqWDJAjY&amp;start=24",
+    "link": "https://www.youtube.com/embed/-gePdvk1Wro?si=bd_eu6lmBqWDJAjY&amp;start=24&end=50",
     "team": "Slovakia",
     "goalie": "Peter Budaj",
     "month": "February",
@@ -629,7 +629,7 @@
   },
   {
     "goal": 36.02,
-    "link": "https://www.youtube.com/embed/-gePdvk1Wro?si=bd_eu6lmBqWDJAjY&amp;start=57",
+    "link": "https://www.youtube.com/embed/-gePdvk1Wro?si=bd_eu6lmBqWDJAjY&amp;start=57&end=90",
     "team": "Sweden",
     "goalie": "Henrik Lundqvist",
     "month": "February",
@@ -643,7 +643,7 @@
   },
   {
     "goal": 36.03,
-    "link": "https://www.youtube.com/embed/-gePdvk1Wro?si=bd_eu6lmBqWDJAjY&amp;start=98",
+    "link": "https://www.youtube.com/embed/-gePdvk1Wro?si=bd_eu6lmBqWDJAjY&amp;start=98&end=136",
     "team": "Latvia",
     "goalie": "Edgars Masaļskis",
     "goalie2": "Edgars Masalskis",
@@ -658,7 +658,7 @@
   },
   {
     "goal": 36.04,
-    "link": "https://www.youtube.com/embed/-gePdvk1Wro?si=bd_eu6lmBqWDJAjY&amp;start=146",
+    "link": "https://www.youtube.com/embed/-gePdvk1Wro?si=bd_eu6lmBqWDJAjY&amp;start=146&end=184",
     "team": "USA",
     "goalie": "Robert Esche",
     "month": "February",
@@ -672,7 +672,7 @@
   },
   {
     "goal": 36.05,
-    "link": "https://www.youtube.com/embed/-gePdvk1Wro?si=bd_eu6lmBqWDJAjY&amp;start=196",
+    "link": "https://www.youtube.com/embed/-gePdvk1Wro?si=bd_eu6lmBqWDJAjY&amp;start=196&end=245",
     "team": "Canada",
     "goalie": "Martin Brodeur",
     "month": "February",
@@ -912,7 +912,7 @@
   },
   {
     "goal": 52.07,
-    "link": "https://www.youtube.com/embed/HYd7_jFRTrM?si=IfW8VGoBeyfZC70_&amp;start=58",
+    "link": "https://www.youtube.com/embed/HYd7_jFRTrM?si=IfW8VGoBeyfZC70_&amp;start=58&end=101",
     "team": "Kazakhstan",
     "goalie": "Roman Medvedev",
     "month": "May",
@@ -926,7 +926,7 @@
   },
   {
     "goal": 52.08,
-    "link": "https://www.youtube.com/embed/HYd7_jFRTrM?si=NgfcXFrSc4ZOVlKP&amp;start=420",
+    "link": "https://www.youtube.com/embed/HYd7_jFRTrM?si=NgfcXFrSc4ZOVlKP&amp;start=420&end=474",
     "team": "Kazakhstan",
     "goalie": "Roman Medvedev",
     "month": "May",
@@ -940,7 +940,7 @@
   },
   {
     "goal": 52.09,
-    "link": "https://www.youtube.com/embed/HYd7_jFRTrM?si=TYO4VGhYt1EOeZ72&amp;start=530",
+    "link": "https://www.youtube.com/embed/HYd7_jFRTrM?si=TYO4VGhYt1EOeZ72&amp;start=530&end=586",
     "team": "Kazakhstan",
     "goalie": "Roman Medvedev",
     "month": "May",
@@ -954,7 +954,7 @@
   },
   {
     "goal": 52.10,
-    "link": "https://www.youtube.com/embed/dJK6idoVboQ?si=KTfreVnFBwev6emR&amp;start=506",
+    "link": "https://www.youtube.com/embed/dJK6idoVboQ?si=KTfreVnFBwev6emR&amp;start=506&end=553",
     "team": "Ukraine",
     "goalie": "Igor Karpenko",
     "month": "May",
@@ -968,7 +968,7 @@
   },
   {
     "goal": 52.11,
-    "link": "https://www.youtube.com/embed/1LLOR1nfaJ0?si=ypQIsKTat6Q2MOBP&amp;start=72",
+    "link": "https://www.youtube.com/embed/1LLOR1nfaJ0?si=ypQIsKTat6Q2MOBP&amp;start=72&end=139",
     "team": "Sweden",
     "goalie": "Johan Holmqvist",
     "month": "May",
@@ -982,7 +982,7 @@
   },
   {
     "goal": 52.12,
-    "link": "https://www.youtube.com/embed/-0-HB1UjGa8?si=I-2X8PVqLAxbDx0m&amp;start=114",
+    "link": "https://www.youtube.com/embed/-0-HB1UjGa8?si=I-2X8PVqLAxbDx0m&amp;start=114&end=157",
     "team": "Czech Republic",
     "goalie": "Milan Hnilička",
     "goalie2": "Milan Hnilicka",
@@ -1404,8 +1404,8 @@
     "jersey": "Screagle"
   },
   {
-    "goal": "81.01",
-    "link": "https://www.youtube.com/embed/aEEe5MkmHng?si=Ukx52D8Pqgi8EDb6&amp;start=4658",
+    "goal": 81.01,
+    "link": "https://www.youtube.com/embed/aEEe5MkmHng?si=Ukx52D8Pqgi8EDb6&amp;start=4658&end=4704",
     "team": "NHL",
     "goalie": "Miikka Kiprusoff",
     "month": "January",
@@ -1657,7 +1657,7 @@
   },
   {
     "goal": 98.13,
-    "link": "https://www.youtube.com/embed/u-AbCqQwSfQ?si=vOkdLiqncq1xc2eB&amp;start=5467",
+    "link": "https://www.youtube.com/embed/u-AbCqQwSfQ?si=vOkdLiqncq1xc2eB&amp;start=5467&end=5529",
     "team": "Denmark",
     "goalie": "Peter Hirsch",
     "month": "April",
@@ -2222,7 +2222,7 @@
   },
   {
     "goal": 137.02,
-    "link": "https://www.youtube.com/embed/sFz5srKPlRM?si=eVVigyX9Yhunm4tF&amp;start=33",
+    "link": "https://www.youtube.com/embed/sFz5srKPlRM?si=eVVigyX9Yhunm4tF&amp;start=33&end=90",
     "team": "NHL",
     "goalie": "Chris Osgood",
     "month": "January",
@@ -2631,7 +2631,7 @@
   },
   {
     "goal": 163.02,
-    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=36",
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=37&end=58",
     "team": "Philadelphia Flyers",
     "goalie": "Martin Biron",
     "month": "April",
@@ -2645,7 +2645,7 @@
   },
   {
     "goal": 163.03,
-    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=60",
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=60&end=103",
     "team": "Philadelphia Flyers",
     "goalie": "Martin Biron",
     "month": "April",
@@ -2659,7 +2659,7 @@
   },
   {
     "goal": 163.04,
-    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=105",
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=105&end=166",
     "team": "Philadelphia Flyers",
     "goalie": "Martin Biron",
     "month": "April",
@@ -2673,7 +2673,7 @@
   },
   {
     "goal": 163.14,
-    "link": "https://www.youtube.com/embed/oMx5F1gmiv4?si=0M0FtQT3pnciNbrJ&amp;start=2779",
+    "link": "https://www.youtube.com/embed/oMx5F1gmiv4?si=0M0FtQT3pnciNbrJ&amp;start=2779&end=2845",
     "team": "Italy",
     "goalie": "Thomas Tragust",
     "month": "May",
@@ -2687,7 +2687,7 @@
   },
   {
     "goal": 163.15,
-    "link": "https://www.youtube.com/embed/jFufoWx_jog?si=vB4v4P5B0kGmtPve&amp;start=2987",
+    "link": "https://www.youtube.com/embed/jFufoWx_jog?si=vB4v4P5B0kGmtPve&amp;start=2987&end=3040",
     "team": "Denmark",
     "goalie": "Patrick Galbraith",
     "month": "May",
@@ -2701,7 +2701,7 @@
   },
   {
     "goal": 163.16,
-    "link": "https://www.youtube.com/embed/hBXx0tuFDvc?si=j0mkQSZCxBYM_CZz&amp;start=4553",
+    "link": "https://www.youtube.com/embed/hBXx0tuFDvc?si=j0mkQSZCxBYM_CZz&amp;start=4553&end=4610",
     "team": "Belarus",
     "goalie": "Vitali Koval",
     "month": "May",
@@ -2715,7 +2715,7 @@
   },
   {
     "goal": 163.17,
-    "link": "https://www.youtube.com/embed/RCH_o1HdWZE?si=YEZRvB_hfZZnexJX&amp;start=6433",
+    "link": "https://www.youtube.com/embed/RCH_o1HdWZE?si=YEZRvB_hfZZnexJX&amp;start=6433&end=6520",
     "team": "Sweden",
     "goalie": "Henrik Lundqvist",
     "month": "May",
@@ -2729,7 +2729,7 @@
   },
   {
     "goal": 163.18,
-    "link": "https://www.youtube.com/embed/UntIHH4G8R8?si=3vwssitirwT3lp4t&amp;start=1931",
+    "link": "https://www.youtube.com/embed/UntIHH4G8R8?si=3vwssitirwT3lp4t&amp;start=1931&end=1982",
     "team": "Switzerland",
     "goalie": "Jonas Hiller",
     "month": "May",
@@ -2743,7 +2743,7 @@
   },
   {
     "goal": 163.19,
-    "link": "https://www.youtube.com/embed/ITv7wyWwBWw?si=KITJBEq86aJm_A_6&amp;start=4303",
+    "link": "https://www.youtube.com/embed/ITv7wyWwBWw?si=KITJBEq86aJm_A_6&amp;start=4303&end=4359",
     "team": "Switzerland",
     "goalie": "Jonas Hiller",
     "month": "May",
@@ -3200,7 +3200,7 @@
   },
   {
     "goal": 194.04,
-    "link": "https://www.youtube.com/embed/zwaFycf2iP0?si=7WsHJESGP1ytM88p&amp;start=2086",
+    "link": "https://www.youtube.com/embed/zwaFycf2iP0?si=7WsHJESGP1ytM88p&amp;start=2086&end=2136",
     "team": "NHL",
     "goalie": "Jean-Sébastien Giguère",
     "goalie2": "Jean-Sebastien Giguere Jean Sebastien Giguere",
@@ -3572,7 +3572,7 @@
   },
   {
     "goal": 219.05,
-    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=168",
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=168&end=196",
     "team": "New York Rangers",
     "goalie": "Henrik Lundqvist",
     "month": "April",
@@ -3586,7 +3586,7 @@
   },
   {
     "goal": 219.06,
-    "link": "https://www.youtube.com/embed/5DxTJmOCn5U?si=dGC5rJ84wmZztk3P&amp;start=41",
+    "link": "https://www.youtube.com/embed/5DxTJmOCn5U?si=dGC5rJ84wmZztk3P&amp;start=41&end=98",
     "team": "New York Rangers",
     "goalie": "Henrik Lundqvist",
     "month": "April",
@@ -3600,7 +3600,7 @@
   },
   {
     "goal": 219.07,
-    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=257",
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=257&end=303",
     "team": "New York Rangers",
     "goalie": "Henrik Lundqvist",
     "month": "April",
@@ -3614,7 +3614,7 @@
   },
   {
     "goal": 219.08,
-    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=306",
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=306&end=352",
     "team": "Pittsburgh Penguins",
     "goalie": "Marc-André Fleury",
     "goalie2": "Marc Andre Fleury Marc-Andre Fleury",
@@ -3629,7 +3629,7 @@
   },
   {
     "goal": 219.09,
-    "link": "https://www.youtube.com/embed/pfU8Dvort5k?si=25h9BElV-oEh3Zfp&amp;start=165",
+    "link": "https://www.youtube.com/embed/pfU8Dvort5k?si=25h9BElV-oEh3Zfp&amp;start=165&end=222",
     "team": "Pittsburgh Penguins",
     "goalie": "Marc-André Fleury",
     "goalie2": "Marc Andre Fleury Marc-Andre Fleury",
@@ -3644,7 +3644,7 @@
   },
   {
     "goal": 219.10,
-    "link": "https://www.youtube.com/embed/pfU8Dvort5k?si=25h9BElV-oEh3Zfp&amp;start=295",
+    "link": "https://www.youtube.com/embed/pfU8Dvort5k?si=25h9BElV-oEh3Zfp&amp;start=295&end=360",
     "team": "Pittsburgh Penguins",
     "goalie": "Marc-André Fleury",
     "goalie2": "Marc Andre Fleury Marc-Andre Fleury",
@@ -3659,7 +3659,7 @@
   },
   {
     "goal": 219.11,
-    "link": "https://www.youtube.com/embed/pfU8Dvort5k?si=25h9BElV-oEh3Zfp&amp;start=403",
+    "link": "https://www.youtube.com/embed/pfU8Dvort5k?si=25h9BElV-oEh3Zfp&amp;start=413&end=496",
     "team": "Pittsburgh Penguins",
     "goalie": "Marc-André Fleury",
     "goalie2": "Marc Andre Fleury Marc-Andre Fleury",
@@ -3674,7 +3674,7 @@
   },
   {
     "goal": 219.12,
-    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=580",
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=580&end=637",
     "team": "Pittsburgh Penguins",
     "goalie": "Marc-André Fleury",
     "goalie2": "Marc Andre Fleury Marc-Andre Fleury",
@@ -3689,7 +3689,7 @@
   },
   {
     "goal": 219.13,
-    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=639",
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=640&end=692",
     "team": "Pittsburgh Penguins",
     "goalie": "Marc-André Fleury",
     "goalie2": "Marc Andre Fleury Marc-Andre Fleury",
@@ -3704,7 +3704,7 @@
   },
   {
     "goal": 219.14,
-    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=695",
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=695&end=752",
     "team": "Pittsburgh Penguins",
     "goalie": "Marc-André Fleury",
     "goalie2": "Marc Andre Fleury Marc-Andre Fleury",
@@ -3719,7 +3719,7 @@
   },
   {
     "goal": 219.15,
-    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=746",
+    "link": "https://www.youtube.com/embed/6G71ZHD3FBI?si=IF0YpW4gE0NJj3wS&amp;start=746&end=781",
     "team": "Pittsburgh Penguins",
     "goalie": "Marc-André Fleury",
     "goalie2": "Marc Andre Fleury Marc-Andre Fleury",
