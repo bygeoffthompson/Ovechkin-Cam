@@ -309,7 +309,7 @@
 
 [data-season='All Star'] {
     .goal-count:before {
-        content: 'ASG';
+        content: 'AllStar';
     }
 
     .logo {
@@ -596,10 +596,6 @@ button {
     max-width: 2.25rem;
 }
 
-[src="/jerseys/dynamo.svg"] {
-    max-width: 1.5rem;
-}
-
 [src="/jerseys/russia.svg"] {
     max-width: 1.33rem;
 }
@@ -610,6 +606,7 @@ button {
 }
 
 [src="/jerseys/brick.svg"],
+[src="/jerseys/dynamo.svg"],
 [src="/jerseys/navy.svg"] {
     max-width: 1.5rem;
 }

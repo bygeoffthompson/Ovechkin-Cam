@@ -110,7 +110,7 @@
     "day": 5,
     "year": 2005,
     "type": "",
-    "tags": "Start",
+    "tags": "First Rookie",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -124,7 +124,7 @@
     "day": 5,
     "year": 2005,
     "type": "2nd",
-    "tags": "PPG",
+    "tags": "PPG Rookie",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -138,7 +138,7 @@
     "day": 10,
     "year": 2005,
     "type": "GWG",
-    "tags": "Once PPG",
+    "tags": "Once PPG Rookie",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -152,7 +152,7 @@
     "day": 12,
     "year": 2005,
     "type": "",
-    "tags": "Backhand",
+    "tags": "Backhand Rookie",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -166,7 +166,7 @@
     "day": 20,
     "year": 2005,
     "type": "",
-    "tags": "",
+    "tags": "Rookie",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -180,7 +180,7 @@
     "day": 20,
     "year": 2005,
     "type": "2nd",
-    "tags": "",
+    "tags": "Rookie",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -194,7 +194,7 @@
     "day": 28,
     "year": 2005,
     "type": "",
-    "tags": "",
+    "tags": "Rookie",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -208,7 +208,7 @@
     "day": 28,
     "year": 2005,
     "type": "SHG",
-    "tags": "2nd",
+    "tags": "2nd Rookie",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -222,7 +222,7 @@
     "day": 6,
     "year": 2005,
     "type": "PPG",
-    "tags": "",
+    "tags": "Rookie",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -236,7 +236,7 @@
     "day": 6,
     "year": 2005,
     "type": "GWG",
-    "tags": "2nd PPG",
+    "tags": "2nd PPG Rookie",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -250,7 +250,7 @@
     "day": 8,
     "year": 2005,
     "type": "",
-    "tags": "",
+    "tags": "Rookie",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -264,7 +264,7 @@
     "day": 8,
     "year": 2005,
     "type": "2nd",
-    "tags": "PPG",
+    "tags": "PPG Rookie",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -278,7 +278,7 @@
     "day": 11,
     "year": 2005,
     "type": "",
-    "tags": "",
+    "tags": "Rookie",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -292,7 +292,7 @@
     "day": 15,
     "year": 2005,
     "type": "",
-    "tags": "Backhand",
+    "tags": "Backhand Rookie",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -306,7 +306,7 @@
     "day": 17,
     "year": 2005,
     "type": "PPG",
-    "tags": "",
+    "tags": "Rookie",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -320,7 +320,7 @@
     "day": 3,
     "year": 2005,
     "type": "",
-    "tags": "",
+    "tags": "Rookie",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -334,7 +334,7 @@
     "day": 7,
     "year": 2005,
     "type": "PPG",
-    "tags": "",
+    "tags": "Rookie",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -348,7 +348,7 @@
     "day": 9,
     "year": 2005,
     "type": "PPG",
-    "tags": "Once",
+    "tags": "Once Rookie",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -362,7 +362,7 @@
     "day": 22,
     "year": 2005,
     "type": "PPG",
-    "tags": "Once",
+    "tags": "Once Rookie",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -376,7 +376,7 @@
     "day": 23,
     "year": 2005,
     "type": "#20",
-    "tags": "20th Teammate",
+    "tags": "20th Rookie Teammate",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -390,7 +390,7 @@
     "day": 27,
     "year": 2005,
     "type": "",
-    "tags": "Once",
+    "tags": "Once Rookie",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -404,7 +404,7 @@
     "day": 28,
     "year": 2005,
     "type": "PPG",
-    "tags": "Backhand",
+    "tags": "Backhand Rookie",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -419,7 +419,7 @@
     "day": 31,
     "year": 2005,
     "type": "PPG",
-    "tags": "New Years Eve",
+    "tags": "New Years Eve Rookie",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -433,7 +433,7 @@
     "day": 1,
     "year": 2006,
     "type": "",
-    "tags": "New Years Day",
+    "tags": "New Years Day Rookie",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -448,7 +448,7 @@
     "day": 6,
     "year": 2006,
     "type": "PPG",
-    "tags": "",
+    "tags": "Rookie",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -462,7 +462,7 @@
     "day": 10,
     "year": 2006,
     "type": "",
-    "tags": "Once",
+    "tags": "Once Rookie",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -476,7 +476,7 @@
     "day": 12,
     "year": 2006,
     "type": "",
-    "tags": "",
+    "tags": "Rookie",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -491,7 +491,7 @@
     "day": 13,
     "year": 2006,
     "type": "",
-    "tags": "Anaheim Ducks Backhand",
+    "tags": "Anaheim Ducks Backhand Rookie",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -506,7 +506,7 @@
     "day": 13,
     "year": 2006,
     "type": "2nd",
-    "tags": "360 Anaheim Ducks",
+    "tags": "360 Anaheim Ducks Rookie",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -521,7 +521,7 @@
     "day": 13,
     "year": 2006,
     "type": "OT",
-    "tags": "30th 3rd Hat Trick Overtime GWG Anaheim Ducks",
+    "tags": "30th 3rd Hat Trick Overtime GWG Anaheim Ducks Rookie",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -535,7 +535,7 @@
     "day": 16,
     "year": 2006,
     "type": "PPG",
-    "tags": "Arizona Coyotes",
+    "tags": "Arizona Coyotes Rookie",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -550,7 +550,7 @@
     "day": 16,
     "year": 2006,
     "type": "2nd",
-    "tags": "360 Arizona Coyotes Backhand Simply Sensational",
+    "tags": "360 Arizona Coyotes Backhand Rookie Simply Sensational",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -564,7 +564,7 @@
     "day": 19,
     "year": 2006,
     "type": "",
-    "tags": "Once",
+    "tags": "Once Rookie",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -579,7 +579,7 @@
     "day": 25,
     "year": 2006,
     "type": "PPG",
-    "tags": "",
+    "tags": "Rookie",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -593,7 +593,7 @@
     "day": 10,
     "year": 2006,
     "type": "PPG",
-    "tags": "",
+    "tags": "Rookie",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -608,7 +608,7 @@
     "day": 11,
     "year": 2006,
     "type": "SHG",
-    "tags": "",
+    "tags": "Rookie",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -693,7 +693,7 @@
     "day": 28,
     "year": 2006,
     "type": "PPG",
-    "tags": "",
+    "tags": "Rookie",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -707,7 +707,7 @@
     "day": 2,
     "year": 2006,
     "type": "SHG",
-    "tags": "",
+    "tags": "Rookie",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -721,7 +721,7 @@
     "day": 4,
     "year": 2006,
     "type": "PPG",
-    "tags": "",
+    "tags": "Rookie",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -735,7 +735,7 @@
     "day": 6,
     "year": 2006,
     "type": "#40",
-    "tags": "40th",
+    "tags": "40th Rookie",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -749,7 +749,7 @@
     "day": 6,
     "year": 2006,
     "type": "GWG",
-    "tags": "2nd",
+    "tags": "2nd Rookie",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -764,7 +764,7 @@
     "day": 8,
     "year": 2006,
     "type": "PPG",
-    "tags": "Once",
+    "tags": "Once Rookie",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -778,7 +778,7 @@
     "day": 14,
     "year": 2006,
     "type": "PPG",
-    "tags": "",
+    "tags": "Rookie",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -792,7 +792,7 @@
     "day": 20,
     "year": 2006,
     "type": "PPG",
-    "tags": "Teammate",
+    "tags": "Rookie Teammate",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -806,7 +806,7 @@
     "day": 23,
     "year": 2006,
     "type": "",
-    "tags": "",
+    "tags": "Rookie",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -820,7 +820,7 @@
     "day": 23,
     "year": 2006,
     "type": "2nd",
-    "tags": "",
+    "tags": "Rookie",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -834,7 +834,7 @@
     "day": 25,
     "year": 2006,
     "type": "",
-    "tags": "",
+    "tags": "Rookie",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -848,7 +848,7 @@
     "day": 29,
     "year": 2006,
     "type": "PPG",
-    "tags": "",
+    "tags": "Rookie",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -863,7 +863,7 @@
     "day": 10,
     "year": 2006,
     "type": "OT",
-    "tags": "Overtime GWG",
+    "tags": "GWG Overtime Rookie",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -877,7 +877,7 @@
     "day": 13,
     "year": 2006,
     "type": "#50",
-    "tags": "50th",
+    "tags": "50th Rookie",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -891,7 +891,7 @@
     "day": 15,
     "year": 2006,
     "type": "",
-    "tags": "Once",
+    "tags": "Once Rookie",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -905,7 +905,7 @@
     "day": 17,
     "year": 2006,
     "type": "",
-    "tags": "End",
+    "tags": "Last Rookie",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -1004,7 +1004,7 @@
     "day": 7,
     "year": 2006,
     "type": "GWG",
-    "tags": "Start",
+    "tags": "First",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -1650,7 +1650,7 @@
     "day": 4,
     "year": 2007,
     "type": "GWG",
-    "tags": "End 2nd",
+    "tags": "Last 2nd",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -1678,7 +1678,7 @@
     "day": 6,
     "year": 2007,
     "type": "GWG",
-    "tags": "Start",
+    "tags": "First",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -2439,7 +2439,7 @@
     "day": 5,
     "year": 2008,
     "type": "",
-    "tags": "Rocket Richard Trophy",
+    "tags": "Rocket Richard",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -2537,7 +2537,7 @@
     "day": 21,
     "year": 2008,
     "type": "#60",
-    "tags": "60th 2nd Sixty Sixtieth",
+    "tags": "2nd 60th",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -2610,7 +2610,7 @@
     "day": 3,
     "year": 2008,
     "type": "GWG",
-    "tags": "End 2nd GWG PPG",
+    "tags": "Last 2nd GWG PPG",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -2764,7 +2764,7 @@
     "day": 11,
     "year": 2008,
     "type": "",
-    "tags": "Start",
+    "tags": "First",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -3409,7 +3409,7 @@
     "day": 28,
     "year": 2009,
     "type": "",
-    "tags": "Vezina Trophy",
+    "tags": "Vezina",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -3438,7 +3438,7 @@
     "day": 8,
     "year": 2009,
     "type": "PPG",
-    "tags": "Rocket Richard Trophy",
+    "tags": "Rocket Richard",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -3565,7 +3565,7 @@
     "day": 11,
     "year": 2009,
     "type": "",
-    "tags": "End Teammate",
+    "tags": "Last Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -3741,7 +3741,7 @@
     "day": 1,
     "year": 2009,
     "type": "GWG",
-    "tags": "Start",
+    "tags": "First",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -3967,7 +3967,7 @@
     "day": 25,
     "year": 2009,
     "type": "GWG",
-    "tags": "Vezina Trophy",
+    "tags": "Vezina",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -4065,7 +4065,7 @@
     "day": 23,
     "year": 2009,
     "type": "PPG",
-    "tags": "Vezina Trophy",
+    "tags": "Vezina",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -4101,7 +4101,7 @@
   {
     "goal": 246,
     "link": "https://www.youtube.com/embed/w-9-N7vCdXE?si=xx0tcW1LwSmlL8t9",
-    "text": "\"Start Goal Wearing the C\"",
+    "text": "\"First Goal Wearing the C\"",
     "team": "Ottawa Senators",
     "goalie": "Pascal Leclaire",
     "month": "January",
@@ -4470,7 +4470,7 @@
     "day": 9,
     "year": 2010,
     "type": "#50",
-    "tags": "GWG End 2nd 50th",
+    "tags": "GWG Last 2nd 50th",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -4626,7 +4626,7 @@
     "day": 9,
     "year": 2010,
     "type": "GWG",
-    "tags": "Start",
+    "tags": "First",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -5081,7 +5081,7 @@
     "day": 6,
     "year": 2011,
     "type": "ENG",
-    "tags": "Empty Net End",
+    "tags": "Empty Net Last",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -5165,7 +5165,7 @@
     "day": 13,
     "year": 2011,
     "type": "Teammate",
-    "tags": "Start",
+    "tags": "First",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -5263,7 +5263,7 @@
     "day": 25,
     "year": 2011,
     "type": "",
-    "tags": "Vezina Trophy",
+    "tags": "Vezina",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -5691,7 +5691,7 @@
     "day": 7,
     "year": 2012,
     "type": "",
-    "tags": "End Vezina Trophy",
+    "tags": "Last Vezina",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White Throwback"
@@ -6069,7 +6069,7 @@
     "day": 27,
     "year": 2013,
     "type": "GWG",
-    "tags": "Start PPG",
+    "tags": "First PPG",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -6483,7 +6483,7 @@
     "day": 20,
     "year": 2013,
     "type": "#30",
-    "tags": "30th 2nd PPG Rocket Richard Trophy",
+    "tags": "30th 2nd PPG Rocket Richard",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White Throwback"
@@ -6511,7 +6511,7 @@
     "day": 25,
     "year": 2013,
     "type": "",
-    "tags": "End Teammate",
+    "tags": "Last Teammate",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -6553,7 +6553,7 @@
     "day": 1,
     "year": 2013,
     "type": "PPG",
-    "tags": "Start",
+    "tags": "First",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -7150,7 +7150,7 @@
     "day": 1,
     "year": 2014,
     "type": "PPG",
-    "tags": "Vezina Trophy",
+    "tags": "Vezina",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White Throwback"
@@ -7165,7 +7165,7 @@
     "day": 1,
     "year": 2014,
     "type": "2nd",
-    "tags": "PPG Vezina Trophy",
+    "tags": "PPG Vezina",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White Throwback"
@@ -7179,7 +7179,7 @@
     "day": 5,
     "year": 2014,
     "type": "PPG",
-    "tags": "Rocket Richard Trophy",
+    "tags": "Rocket Richard",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White Throwback"
@@ -7264,7 +7264,7 @@
     "day": 8,
     "year": 2014,
     "type": "#50",
-    "tags": "50th PPG",
+    "tags": "50th Post PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -7278,7 +7278,7 @@
     "day": 11,
     "year": 2014,
     "type": "GWG",
-    "tags": "End PPG",
+    "tags": "Last PPG",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -7348,7 +7348,7 @@
     "day": 11,
     "year": 2014,
     "type": "GWG",
-    "tags": "Start PPG",
+    "tags": "First PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -7958,7 +7958,7 @@
     "day": 7,
     "year": 2015,
     "type": "PPG",
-    "tags": "Rocket Richard Trophy",
+    "tags": "Rocket Richard",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -8056,7 +8056,7 @@
     "day": 2,
     "year": 2015,
     "type": "PPG",
-    "tags": "Hart Trophy Vezina Trophy",
+    "tags": "Vezina",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White Throwback"
@@ -8070,7 +8070,7 @@
     "day": 2,
     "year": 2015,
     "type": "2nd",
-    "tags": "Hart Trophy PPG Vezina Trophy",
+    "tags": "PPG Vezina",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White Throwback"
@@ -8084,7 +8084,7 @@
     "day": 11,
     "year": 2015,
     "type": "PPG",
-    "tags": "End",
+    "tags": "Last",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Brick Stars & Stripes"
@@ -8184,7 +8184,7 @@
     "day": 10,
     "year": 2015,
     "type": "",
-    "tags": "Start",
+    "tags": "First",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -8836,7 +8836,7 @@
     "day": 5,
     "year": 2016,
     "type": "2nd",
-    "tags": "Pat Verbeek Rocket Richard Trophy",
+    "tags": "Pat Verbeek Rocket Richard",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -8878,7 +8878,7 @@
     "day": 9,
     "year": 2016,
     "type": "#50",
-    "tags": "End 3rd 50th Hat Trick",
+    "tags": "Last 3rd 50th Hat Trick",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -8993,7 +8993,7 @@
     "day": 18,
     "year": 2016,
     "type": "GWG",
-    "tags": "Start PPG Teammate",
+    "tags": "First PPG Teammate",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -9106,7 +9106,7 @@
     "day": 20,
     "year": 2016,
     "type": "PPG",
-    "tags": "Vezina Trophy",
+    "tags": "Vezina",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -9462,7 +9462,7 @@
     "day": 28,
     "year": 2017,
     "type": "3rd",
-    "tags": "Hat Trick End PPG",
+    "tags": "Hat Trick Last PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -9548,7 +9548,7 @@
     "day": 5,
     "year": 2017,
     "type": "",
-    "tags": "Start Teammate",
+    "tags": "First Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -9660,7 +9660,7 @@
     "day": 13,
     "year": 2017,
     "type": "PPG",
-    "tags": "",
+    "tags": "Post",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -10183,7 +10183,7 @@
     "day": 26,
     "year": 2018,
     "type": "GWG",
-    "tags": "PPG Rocket Richard Trophy",
+    "tags": "PPG Rocket Richard",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -10239,7 +10239,7 @@
     "day": 7,
     "year": 2018,
     "type": "GWG",
-    "tags": "End 2nd",
+    "tags": "Last 2nd",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -10324,7 +10324,7 @@
     "day": 26,
     "year": 2018,
     "type": "",
-    "tags": "Semifinals Game 1 100th Postseason Point",
+    "tags": "Semifinals Game 1 100th Playoff Point",
     "season": "Playoffs",
     "arena": "Home",
     "jersey": "Red"
@@ -10470,7 +10470,7 @@
     "day": 3,
     "year": 2018,
     "type": "PPG",
-    "tags": "Banner Raise Start",
+    "tags": "Banner Raise First",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -11121,7 +11121,7 @@
     "day": 16,
     "year": 2019,
     "type": "PPG",
-    "tags": "Vezina Trophy",
+    "tags": "Vezina",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -11135,7 +11135,7 @@
     "day": 16,
     "year": 2019,
     "type": "2nd",
-    "tags": "Vezina Trophy",
+    "tags": "Vezina",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -11165,7 +11165,7 @@
     "day": 30,
     "year": 2019,
     "type": "#50",
-    "tags": "50th Vezina Trophy",
+    "tags": "50th Vezina",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -11179,7 +11179,7 @@
     "day": 30,
     "year": 2019,
     "type": "2nd",
-    "tags": "End PPG Rocket Richard Trophy Vezina Trophy",
+    "tags": "Last PPG Rocket Richard Vezina",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -11278,7 +11278,7 @@
     "day": 2,
     "year": 2019,
     "type": "",
-    "tags": "Start",
+    "tags": "First",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -11863,7 +11863,7 @@
     "day": 22,
     "year": 2020,
     "type": "",
-    "tags": "700th Century",
+    "tags": "700th Century Post",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -11947,7 +11947,7 @@
     "day": 9,
     "year": 2020,
     "type": "",
-    "tags": "End Rocket Richard Trophy",
+    "tags": "Last Rocket Richard",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -12017,7 +12017,7 @@
     "day": 17,
     "year": 2021,
     "type": "",
-    "tags": "Backhand Start",
+    "tags": "Backhand First",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -12342,7 +12342,7 @@
     "day": 17,
     "year": 2021,
     "type": "2nd",
-    "tags": "End PPG",
+    "tags": "Last PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -12385,7 +12385,7 @@
     "day": 13,
     "year": 2021,
     "type": "PPG",
-    "tags": "Start",
+    "tags": "First",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -12822,7 +12822,7 @@
     "day": 24,
     "year": 2022,
     "type": "",
-    "tags": "Vezina Trophy",
+    "tags": "Vezina",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -13076,7 +13076,7 @@
     "day": 20,
     "year": 2022,
     "type": "#50",
-    "tags": "End 2nd 50th Teammate",
+    "tags": "Last 2nd 50th Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -13104,7 +13104,7 @@
     "day": 17,
     "year": 2022,
     "type": "PPG",
-    "tags": "Start",
+    "tags": "First",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Navy Third"
@@ -13706,7 +13706,7 @@
     "day": 25,
     "year": 2023,
     "type": "PPG",
-    "tags": "End",
+    "tags": "Last",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -13720,7 +13720,7 @@
     "day": 24,
     "year": 2023,
     "type": "PPG",
-    "tags": "Start",
+    "tags": "First",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -14058,7 +14058,7 @@
     "day": 24,
     "year": 2024,
     "type": "",
-    "tags": "Vezina Trophy",
+    "tags": "Vezina",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -14072,7 +14072,7 @@
     "day": 24,
     "year": 2024,
     "type": "2nd",
-    "tags": "Vezina Trophy",
+    "tags": "Vezina",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -14142,7 +14142,7 @@
     "day": 16,
     "year": 2024,
     "type": "",
-    "tags": "End",
+    "tags": "Last",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -14157,7 +14157,7 @@
     "day": 19,
     "year": 2024,
     "type": "",
-    "tags": "Start",
+    "tags": "First",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -14481,7 +14481,7 @@
     "day": 1,
     "year": 2025,
     "type": "",
-    "tags": "Hart Trophy Vezina Trophy",
+    "tags": "Vezina",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Reverse Retro Black"
@@ -14650,7 +14650,7 @@
     "day": 25,
     "year": 2025,
     "type": "",
-    "tags": "Hart Trophy Vezina Trophy",
+    "tags": "Vezina",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -14764,7 +14764,7 @@
     "day": 17,
     "year": 2025,
     "type": "PPG",
-    "tags": "End",
+    "tags": "Last",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -14848,7 +14848,7 @@
     "day": 17,
     "year": 2025,
     "type": "",
-    "tags": "Start",
+    "tags": "First Post",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Reverse Retro Red"
