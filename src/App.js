@@ -129,6 +129,29 @@ function SearchForm({jsonData}) {
         clickTrack('Outdoor Click');
     };
 
+    const allstar = () => {
+        const input = parseFloat(document.querySelector('#search-goal').value)
+        console.log(input)
+        if (input === 81.01) {
+            setSearchGoal(137.03)
+        } else if (input === 137.02) {
+            setSearchGoal(588.07)
+        } else if (input === 137.03) {
+            setSearchGoal(548.06)
+        } else if (input === 194.04) {
+            setSearchGoal(813.08)
+        } else if (input === 288.05) {
+            setSearchGoal(194.04)
+        } else if (input === 548.06) {
+            setSearchGoal(137.02)
+        } else if (input === 588.07) {
+            setSearchGoal(288.05)
+        } else {
+            setSearchGoal(81.01)
+        }
+        clickTrack('All Star Click');
+    };
+
     function buttonClick(value) {
         randomGoal(value);
         clickTrack(value[0].replace(' Third', '').replace('Red ', '').replace(' Black', '') + ' Click');
@@ -352,7 +375,7 @@ function SearchForm({jsonData}) {
                     </div>
                     <div>
                         <button onClick={(event) => setSearchGoal(random(1, 52))} title="Rookie Goal" type="button">Rookie</button>
-                        <button onClick={(event) => buttonClick(['All Star'])} title="All Star Goal" type="button">All&nbsp;Star</button>
+                        <button onClick={allstar} title="All Star Goal" type="button">All&nbsp;Star</button>
                         <button onClick={spinorama} title="360 Goal" type="button">360°</button>
                         <button onClick={fourth} title="Fourth Goal" type="button">4th</button>
                         <button onClick={(event) => buttonClick(['Backhand'])} title="Backhand Goal" type="button">Backhand</button>
