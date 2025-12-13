@@ -521,7 +521,7 @@
     "day": 13,
     "year": 2006,
     "type": "OT",
-    "tags": "30th 3rd Hat Trick Overtime GWG Anaheim Ducks Rookie",
+    "tags": "30th 3rd Hat Trick GWG Overtime Anaheim Ducks Rookie",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -1285,7 +1285,7 @@
     "day": 15,
     "year": 2006,
     "type": "OT",
-    "tags": "3rd Hat Trick Overtime GWG",
+    "tags": "3rd Hat Trick GWG Overtime",
     "season": "Regular",
     "arena": "Away",
     "jersey": "Screagle"
@@ -2299,7 +2299,7 @@
     "day": 28,
     "year": 2008,
     "type": "4th",
-    "tags": "Overtime GWG Teammate",
+    "tags": "GWG Overtime Teammate",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -2327,7 +2327,7 @@
     "day": 5,
     "year": 2008,
     "type": "OT",
-    "tags": "2nd Once Overtime GWG",
+    "tags": "2nd Once GWG Overtime",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -3023,7 +3023,7 @@
     "day": 16,
     "year": 2008,
     "type": "OT",
-    "tags": "2nd Overtime GWG",
+    "tags": "2nd GWG Overtime",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -3037,7 +3037,7 @@
     "day": 18,
     "year": 2008,
     "type": "#20",
-    "tags": "20th PPG",
+    "tags": "20th Post PPG",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -3193,7 +3193,7 @@
     "day": 19,
     "year": 2009,
     "type": "OT",
-    "tags": "2nd Overtime GWG PPG",
+    "tags": "2nd GWG Overtime PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -3579,7 +3579,7 @@
     "day": 22,
     "year": 2009,
     "type": "",
-    "tags": "Quarterfinals Game 4",
+    "tags": "Quarterfinals Game 4 Post",
     "season": "Playoffs",
     "arena": "Away",
     "jersey": "White"
@@ -3981,7 +3981,7 @@
     "day": 28,
     "year": 2009,
     "type": "",
-    "tags": "",
+    "tags": "Post",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -4654,7 +4654,7 @@
     "day": 11,
     "year": 2010,
     "type": "OT",
-    "tags": "Overtime GWG",
+    "tags": "GWG Overtime",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -5052,7 +5052,7 @@
     "day": 2,
     "year": 2011,
     "type": "OT",
-    "tags": "30th Overtime GWG",
+    "tags": "30th GWG Overtime",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -5520,7 +5520,7 @@
     "day": 28,
     "year": 2012,
     "type": "OT",
-    "tags": "Overtime GWG",
+    "tags": "GWG Overtime",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -5534,7 +5534,7 @@
     "day": 8,
     "year": 2012,
     "type": "OT",
-    "tags": "Overtime GWG",
+    "tags": "GWG Overtime",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -6739,7 +6739,7 @@
     "day": 12,
     "year": 2013,
     "type": "OT",
-    "tags": "Overtime GWG",
+    "tags": "GWG Overtime",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -6839,7 +6839,7 @@
     "day": 30,
     "year": 2013,
     "type": "OT",
-    "tags": "Overtime GWG",
+    "tags": "GWG Overtime",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -7079,7 +7079,7 @@
     "day": 28,
     "year": 2014,
     "type": "2nd",
-    "tags": "",
+    "tags": "Post Tip",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White Throwback"
@@ -7418,7 +7418,7 @@
     "day": 2,
     "year": 2014,
     "type": "PPG",
-    "tags": "",
+    "tags": "360",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -8184,7 +8184,7 @@
     "day": 10,
     "year": 2015,
     "type": "",
-    "tags": "First",
+    "tags": "First Post",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -8198,7 +8198,7 @@
     "day": 15,
     "year": 2015,
     "type": "",
-    "tags": "",
+    "tags": "Post",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -8510,7 +8510,7 @@
     "day": 9,
     "year": 2016,
     "type": "OT",
-    "tags": "2nd Overtime GWG",
+    "tags": "2nd GWG Overtime",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -8766,7 +8766,7 @@
     "day": 15,
     "year": 2016,
     "type": "OT",
-    "tags": "Overtime GWG",
+    "tags": "GWG Overtime",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red Throwback"
@@ -9063,7 +9063,7 @@
     "day": 3,
     "year": 2016,
     "type": "OT",
-    "tags": "2nd Overtime GWG PPG",
+    "tags": "2nd GWG Overtime PPG",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red Throwback"
@@ -9234,7 +9234,7 @@
     "day": 3,
     "year": 2017,
     "type": "OT",
-    "tags": "Overtime GWG",
+    "tags": "GWG Overtime",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -9675,7 +9675,7 @@
     "day": 20,
     "year": 2017,
     "type": "OT",
-    "tags": "Overtime GWG PPG",
+    "tags": "GWG Overtime PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -9731,7 +9731,7 @@
     "day": 22,
     "year": 2017,
     "type": "",
-    "tags": "Teammate",
+    "tags": "Post Teammate",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -9857,7 +9857,7 @@
     "day": 16,
     "year": 2017,
     "type": "OT",
-    "tags": "Overtime GWG",
+    "tags": "GWG Overtime Post",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -9885,7 +9885,7 @@
     "day": 2,
     "year": 2018,
     "type": "",
-    "tags": "",
+    "tags": "Backhand",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -9899,7 +9899,7 @@
     "day": 2,
     "year": 2018,
     "type": "OT",
-    "tags": "2nd Overtime GWG",
+    "tags": "2nd GWG Overtime",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -10155,7 +10155,7 @@
     "day": 18,
     "year": 2018,
     "type": "",
-    "tags": "",
+    "tags": "Backhand",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -10697,7 +10697,7 @@
     "day": 24,
     "year": 2018,
     "type": "",
-    "tags": "",
+    "tags": "Backhand",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -11320,7 +11320,7 @@
     "day": 12,
     "year": 2019,
     "type": "ENG",
-    "tags": "Empty Net",
+    "tags": "Backhand Empty Net",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -11419,7 +11419,7 @@
     "day": 29,
     "year": 2019,
     "type": "OT",
-    "tags": "2nd Overtime GWG PPG",
+    "tags": "2nd GWG Overtime PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -12032,7 +12032,7 @@
     "day": 30,
     "year": 2021,
     "type": "OT",
-    "tags": "Overtime GWG",
+    "tags": "GWG Overtime",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -12725,7 +12725,7 @@
     "day": 15,
     "year": 2022,
     "type": "ENG",
-    "tags": "Empty Net",
+    "tags": "Backhand Empty Net",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -13232,7 +13232,7 @@
     "day": 23,
     "year": 2022,
     "type": "OT",
-    "tags": "Overtime GWG",
+    "tags": "GWG Overtime",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -13793,7 +13793,7 @@
     "day": 21,
     "year": 2023,
     "type": "OT",
-    "tags": "Overtime GWG PPG",
+    "tags": "GWG Overtime PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -14143,7 +14143,7 @@
     "day": 16,
     "year": 2024,
     "type": "",
-    "tags": "Last",
+    "tags": "Last Tip",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -14440,7 +14440,7 @@
     "day": 16,
     "year": 2025,
     "type": "OT",
-    "tags": "Merilainen Overtime GWG",
+    "tags": "GWG Once Overtime",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
