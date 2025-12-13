@@ -148,6 +148,20 @@ function SearchForm({jsonData}) {
         });
     }
 
+    const fourth = () => {
+        const input = parseInt(document.querySelector('#search-goal').value)
+        if (input === 128) {
+            setSearchGoal(397)
+        } else if (input === 141) {
+            setSearchGoal(565)
+        } else if (input === 397) {
+            setSearchGoal(141)
+        } else {
+            setSearchGoal(128)
+        }
+        clickTrack('4th Click');
+    };
+
     const handleColumnChange = (event) => {
         const columnValue = parseInt(document.getElementById('column').value);
         document.getElementById('wrapper').classList.remove('column-2', 'column-3', 'multi-column');
@@ -234,6 +248,22 @@ function SearchForm({jsonData}) {
         setSearchText3('');
     }
 
+    const shg = () => {
+        const input = parseInt(document.querySelector('#search-goal').value)
+        if (input === 8) {
+            setSearchGoal(190)
+        } else if (input === 36) {
+            setSearchGoal(38)
+        } else if (input === 38) {
+            setSearchGoal(732)
+        } else if (input === 190) {
+            setSearchGoal(36)
+        } else {
+            setSearchGoal(8)
+        }
+        clickTrack('SHG Click');
+    };
+
     return (
         <div>
             <div id="goal">
@@ -259,18 +289,6 @@ function SearchForm({jsonData}) {
                 </div>
                 <div className="buttons-group">
                     <div>
-                        <small>Type</small>
-                        <button onClick={(event) => buttonClick(['Home'])} title="Home Goal" type="button">Home</button>
-                        <button onClick={(event) => buttonClick(['Away'])} title="Away Goal" type="button">Away</button>
-                        <button onClick={canadaGoal} title="Canadian Goal" type="button">Canada</button>
-                        <button onClick={(event) => buttonClick(['PPG'])} title="Power Play Goal" type="button">PPG</button>
-                        <button onClick={(event) => buttonClick(['GWG', 'OT'])} title="Game Winning Goal" type="button">GWG</button>
-                        <button onClick={(event) => buttonClick(['Empty Net'])} title="Empty Net Goal" type="button">ENG</button>
-                        <button onClick={(event) => buttonClick(['OT'])} title="Overtime Goal" type="button">OT</button>
-                        <button onClick={(event) => buttonClick(['Hat Trick'])} title="Hat Trick Goal" type="button">Trick</button>
-                    </div>
-                    <div>
-                        <small>Jersey</small>
                         <button onClick={(event) => buttonClick(['Red Russia', 'White Russia'])} className="jersey-button" title="Russia" type="button">
                             <img alt="Throwback logo" className="jersey-logo" src="/jerseys/russia.svg" />
                         </button>
@@ -307,7 +325,26 @@ function SearchForm({jsonData}) {
                         </button>
                     </div>
                     <div>
-                        <small>Coach</small>
+                        <button onClick={(event) => buttonClick(['Home'])} title="Home Goal" type="button">Home</button>
+                        <button onClick={(event) => buttonClick(['Away'])} title="Away Goal" type="button">Away</button>
+                        <button onClick={(event) => buttonClick(['PPG'])} title="Power Play Goal" type="button">PPG</button>
+                        <button onClick={shg} title="Shorthand Goal" type="button">SHG</button>
+                        <button onClick={(event) => buttonClick(['Empty Net'])} title="Empty Net Goal" type="button">ENG</button>
+                        <button onClick={(event) => buttonClick(['GWG', 'OT'])} title="Game Winning Goal" type="button">GWG</button>
+                        <button onClick={(event) => buttonClick(['OT'])} title="Overtime Goal" type="button">OT</button>
+                        <button onClick={(event) => buttonClick(['Hat Trick'])} title="Hat Trick Goal" type="button">Hats</button>
+                    </div>
+                    <div>
+                        <button onClick={(event) => setSearchGoal(random(1, 52))} title="Rookie Goal" type="button">Rookie</button>
+                        <button onClick={(event) => buttonClick(['All Star'])} title="All Star Goal" type="button">All&nbsp;Star</button>
+                        <button onClick={(event) => buttonClick(['360'])} title="360 Goal" type="button">360°</button>
+                        <button onClick={fourth} title="Fourth Goal" type="button">4th</button>
+                        <button onClick={(event) => buttonClick(['Backhand'])} title="Backhand Goal" type="button">Backhand</button>
+                        <button onClick={(event) => buttonClick(['Post'])} title="Post Goal" type="button">Post</button>
+                        <button onClick={(event) => buttonClick(['Tip'])} title="Tip Goal" type="button">Tip</button>
+                        <button onClick={canadaGoal} title="Canada Goal" type="button">Canada</button>
+                    </div>
+                 {/*<div>
                         <button onClick={(event) => setSearchGoal(random(1, 112))} className="coach-button" title="Glen Hanlon" type="button">Hanlon</button>
                         <button onClick={(event) => setSearchGoal(random(113, 309))} className="coach-button" title="Bruce Boudreau" type="button">Bruce</button>
                         <button onClick={(event) => setSearchGoal(random(310, 339))} className="coach-button" title="Dale Hunter" type="button">Hunter</button>
@@ -316,7 +353,7 @@ function SearchForm({jsonData}) {
                         <button onClick={(event) => setSearchGoal(random(608, 706))} className="coach-button" title="Todd Reirden" type="button">Reirden</button>
                         <button onClick={(event) => setSearchGoal(random(707, 853))} className="coach-button" title="Peter Laviolette" type="button">Lavi</button>
                         <button onClick={(event) => setSearchGoal(random(854, totalGoals))} className="coach-button" title="Spencer Carbery" type="button">Carbery</button>
-                    </div>
+                    </div>*/}
                 </div>
                 <button onClick={reset} title="Reset Filters" type="button">Reset</button>
             </form>
