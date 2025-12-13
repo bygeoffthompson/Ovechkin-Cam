@@ -99,6 +99,22 @@ function SearchForm({jsonData}) {
         }
     },[]);
 
+    const spinorama = () => {
+        const input = parseInt(document.querySelector('#search-goal').value)
+        if (input === 29) {
+            setSearchGoal(428)
+        } else if (input === 32) {
+            setSearchGoal(205)
+        } else if (input === 205) {
+            setSearchGoal(562)
+        } else if (input === 428) {
+            setSearchGoal(32)
+        } else {
+            setSearchGoal(29)
+        }
+        clickTrack('360 Click');
+    };
+
     const outdoor = () => {
         const input = parseInt(document.querySelector('#search-goal').value)
         if (input === 440) {
@@ -337,7 +353,7 @@ function SearchForm({jsonData}) {
                     <div>
                         <button onClick={(event) => setSearchGoal(random(1, 52))} title="Rookie Goal" type="button">Rookie</button>
                         <button onClick={(event) => buttonClick(['All Star'])} title="All Star Goal" type="button">All&nbsp;Star</button>
-                        <button onClick={(event) => buttonClick(['360'])} title="360 Goal" type="button">360°</button>
+                        <button onClick={spinorama} title="360 Goal" type="button">360°</button>
                         <button onClick={fourth} title="Fourth Goal" type="button">4th</button>
                         <button onClick={(event) => buttonClick(['Backhand'])} title="Backhand Goal" type="button">Backhand</button>
                         <button onClick={(event) => buttonClick(['Post'])} title="Post Goal" type="button">Post</button>
