@@ -622,7 +622,7 @@
     "day": 15,
     "year": 2006,
     "type": "PPG",
-    "tags": "Torino",
+    "tags": "2006 Torino Tip",
     "season": "Olympics",
     "arena": "Away",
     "jersey": "Red Russia"
@@ -636,7 +636,7 @@
     "day": 16,
     "year": 2006,
     "type": "",
-    "tags": "Torino",
+    "tags": "2006 Torino",
     "season": "Olympics",
     "arena": "Home",
     "jersey": "Red Russia"
@@ -651,7 +651,7 @@
     "day": 19,
     "year": 2006,
     "type": "",
-    "tags": "Torino",
+    "tags": "2006 Torino",
     "season": "Olympics",
     "arena": "Away",
     "jersey": "Red Russia"
@@ -665,7 +665,7 @@
     "day": 21,
     "year": 2006,
     "type": "",
-    "tags": "Torino",
+    "tags": "2006 Torino",
     "season": "Olympics",
     "arena": "Home",
     "jersey": "White Russia"
@@ -679,7 +679,7 @@
     "day": 22,
     "year": 2006,
     "type": "GWG",
-    "tags": "PPG Torino",
+    "tags": "2006 Torino PPG",
     "season": "Olympics",
     "arena": "Away",
     "jersey": "Red Russia"
@@ -961,7 +961,7 @@
     "day": 11,
     "year": 2006,
     "type": "",
-    "tags": "2006 World Championships Gold Tuuks",
+    "tags": "2006 World Championships Gold Tuuks Tip",
     "season": "IIHF",
     "arena": "Away",
     "jersey": "Red Russia"
@@ -1355,8 +1355,8 @@
     "month": "January",
     "day": 6,
     "year": 2007,
-    "type": "PPG",
-    "tags": "",
+    "type": "5v3",
+    "tags": "PPG",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Capitol"
@@ -2736,7 +2736,7 @@
     "day": 12,
     "year": 2008,
     "type": "PPG",
-    "tags": "2008 World Championships Russia Tuuks",
+    "tags": "2008 World Championships Russia Tuuks Tip",
     "season": "IIHF",
     "arena": "Home",
     "jersey": "White Russia"
@@ -4696,8 +4696,8 @@
     "month": "October",
     "day": 30,
     "year": 2010,
-    "type": "PPG",
-    "tags": "",
+    "type": "5v3",
+    "tags": "PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -5066,8 +5066,8 @@
     "month": "April",
     "day": 5,
     "year": 2011,
-    "type": "PPG",
-    "tags": "300th Century",
+    "type": "5v3",
+    "tags": "300th Century PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -5150,8 +5150,8 @@
     "month": "May",
     "day": 3,
     "year": 2011,
-    "type": "",
-    "tags": "Semifinals Game 3",
+    "type": "5v3",
+    "tags": "Semifinals Game 3 PPG",
     "season": "Playoffs",
     "arena": "Away",
     "jersey": "White"
@@ -6399,7 +6399,7 @@
     "day": 7,
     "year": 2013,
     "type": "",
-    "tags": "",
+    "tags": "Tip",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -6611,7 +6611,7 @@
     "day": 10,
     "year": 2013,
     "type": "",
-    "tags": "",
+    "tags": "Tip",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -7287,7 +7287,7 @@
     "goal": 422.28,
     "link": "https://www.youtube.com/embed/Uv4Z5Dc8huw?si=IhxdHyzmjAvRUnxa&amp;start=63",
     "team": "Switzerland",
-    "goalie": "",
+    "goalie": "Leonardo Genoni",
     "month": "May",
     "day": 9,
     "year": 2014,
@@ -7299,14 +7299,14 @@
   },
   {
     "goal": 422.29,
-    "link": "https://www.youtube.com/embed/p3J9l7GdwLg?si=SpPYFVEqVGWS4N8T&amp;start=99",
+    "link": "https://www.youtube.com/embed/Es-oo7unnt8?si=I06kSJXjigyPQLVM&amp;start=60",
     "team": "Finland",
     "goalie": "Mikko Koskinen",
     "month": "May",
     "day": 11,
     "year": 2014,
-    "type": "PPG",
-    "tags": "2014 World Championships",
+    "type": "5v3",
+    "tags": "2014 World Championships PPG",
     "season": "IIHF",
     "arena": "Home",
     "jersey": "Red Russia"
@@ -7315,12 +7315,12 @@
     "goal": 422.30,
     "link": "https://www.youtube.com/embed/p3J9l7GdwLg?si=SpPYFVEqVGWS4N8T&amp;start=99",
     "team": "USA",
-    "goalie": "Pekka Rinne",
+    "goalie": "Tim Thomas",
     "month": "May",
     "day": 16,
     "year": 2014,
     "type": "PS",
-    "tags": "2014 World Championships",
+    "tags": "2014 World Championships Backhand Penalty Shot",
     "season": "IIHF",
     "arena": "Away",
     "jersey": "White Russia"
@@ -7334,7 +7334,7 @@
     "day": 25,
     "year": 2014,
     "type": "",
-    "tags": "2014 World Championships",
+    "tags": "2014 World Championships Backhand",
     "season": "IIHF",
     "arena": "Away",
     "jersey": "White Russia"
@@ -7930,7 +7930,7 @@
     "day": 3,
     "year": 2015,
     "type": "",
-    "tags": "",
+    "tags": "Tip",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -8114,7 +8114,7 @@
     "day": 21,
     "year": 2015,
     "type": "",
-    "tags": "Quarterfinals Game 4",
+    "tags": "Quarterfinals Game 4 Tip",
     "season": "Playoffs",
     "arena": "Away",
     "jersey": "White Throwback"
@@ -10123,8 +10123,8 @@
     "month": "March",
     "day": 12,
     "year": 2018,
-    "type": "PPG",
-    "tags": "",
+    "type": "5v3",
+    "tags": "PPG",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -10484,7 +10484,7 @@
     "day": 4,
     "year": 2018,
     "type": "",
-    "tags": "",
+    "tags": "Tip",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -12527,6 +12527,7 @@
     "day": 8,
     "year": 2021,
     "type": "",
+    "tags": "Tip",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -13076,7 +13077,7 @@
     "day": 20,
     "year": 2022,
     "type": "#50",
-    "tags": "Last 2nd 50th Teammate",
+    "tags": "2nd 50th Last Teammate",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -13634,7 +13635,7 @@
     "day": 15,
     "year": 2023,
     "type": "",
-    "tags": "",
+    "tags": "Tip",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -14114,7 +14115,7 @@
     "day": 5,
     "year": 2024,
     "type": "2nd",
-    "tags": "",
+    "tags": "Tip",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -14352,8 +14353,8 @@
     "month": "November",
     "day": 18,
     "year": 2024,
-    "type": "2nd",
-    "tags": "PPG",
+    "type": "5v3",
+    "tags": "2nd PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -14622,7 +14623,7 @@
     "day": 15,
     "year": 2025,
     "type": "",
-    "tags": "",
+    "tags": "Tip",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -14664,7 +14665,7 @@
     "day": 30,
     "year": 2025,
     "type": "",
-    "tags": "",
+    "tags": "Backhand Tip",
     "season": "Regular",
     "arena": "Home",
     "jersey": "Red"
@@ -14691,8 +14692,8 @@
     "month": "April",
     "day": 2,
     "year": 2025,
-    "type": "PPG",
-    "tags": "",
+    "type": "5v3",
+    "tags": "PPG",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White"
@@ -14833,8 +14834,8 @@
     "month": "May",
     "day": 12,
     "year": 2025,
-    "type": "",
-    "tags": "Semifinals Game 4",
+    "type": "5v3",
+    "tags": "Semifinals Game 4 PPG",
     "season": "Playoffs",
     "arena": "Away",
     "jersey": "White"
