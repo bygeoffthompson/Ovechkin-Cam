@@ -22,7 +22,26 @@
       gtag('config', 'G-5RVBYX6N0S');
     </script>
     <style>
-      main{max-width:1024px;padding:0 16px;text-align:start;}
+      main {
+        max-width:1024px;
+        padding:0 16px;
+        text-align:start;
+
+        > div {
+          align-items: center;
+          display: flex;
+          gap: 1rem;
+          justify-content: center;
+          margin-bottom: 1rem;
+        }
+      }
+      .btn {
+        background: #ccc;
+        border-radius: .375rem;
+        min-width: 75px;
+        padding: .625rem 1rem;
+        text-align: center;
+      }
     </style>
   </head>
   <body>
@@ -34,28 +53,34 @@
       <p>Our searchable sequential index allows users to find Ovi goals in a new and useful way.</p>
       <p>Ovechkin.cam accepts a URL query to retrieve specific goals (<a href="/?1">?1</a> to <a href="/?911">?911</a>) or a set of filtered search results (<a href="/?fleury+golden-knights">?fleury+golden-knights</a>). A type filter can be added to the query to further reduce results (<a href="/?fleury+golden-knights|playoff">?fleury+golden-knights|playoff</a>).</p>
       <h2>Goal Search</h2>
-      <ul>
-        <li>[20th] for Twentieth Goals</li>
-        <li>[30th] for Thirtieth Goals</li>
-        <li>[40th] for Fortieth Goals</li>
-        <li>[50th] for Fiftieth Goals</li>
-        <li>[60th] for the Sixtieth Goal</li>
-        <li>[Start] for Season Starting Goals</li>
-        <li>[End] For Season Ending Goals</li>
-        <li>[Rocket] for Rocket Richard Winning Goals</li>
-        <li>[Century] for Hundredth Goals</li>
-        <li>[Empty Net] for Empty Net Goals</li>
-        <li>[GWG] for Game Winning Goals</li>
-        <li>[PPG] for Power Play Goals</li>
-        <li>[SHG] for Shorthanded Goals</li>
-        <li>[Overtime] for Overtime Goals</li>
-        <li>[Away] for Away Goals</li>
-        <li>[Home] for Home Goals</li>
-        <li>[2nd] for Second Goals</li>
-        <li>[3rd] for Hat Trick Goals</li>
-        <li>[4th] for Fourth Goals</li>
-        <li>[Teammate] for Former Teammate Goals</li>
-      </ul>
+      <div>
+        <a class="btn" href="/?20th">20th</a>
+        <a class="btn" href="/?30th">30th</a>
+        <a class="btn" href="/?40th">40th</a>
+        <a class="btn" href="/?50th">50th</a>
+        <a class="btn" href="/?60th">60th</a>
+        <a class="btn" href="/?century">Hundredth Goals</a>
+      </div>
+      <div>
+        <a class="btn" href="/?away">Away Goals</a>
+        <a class="btn" href="/?home">Home Goals</a>
+        <a class="btn" href="/?start">First of Season Goals</a>
+        <a class="btn" href="/?end">Last of Season Goals</a>
+        <a class="btn" href="/?ppg">Power Play Goals</a>
+        <a class="btn" href="/?shg">Shorthand Goals</a>
+      </div>
+      <div>
+        <a class="btn" href="/?empty-net">Empty Net Goals</a>
+        <a class="btn" href="/?gwg">Game Winning Goals</a>
+        <a class="btn" href="/?overtime">Overtime Goals</a>
+        <a class="btn" href="/?2nd">Second Goals</a>
+        <a class="btn" href="/?3rd">Hat Trick Goals</a>
+        <a class="btn" href="/?4th">Fourth Goals</a>
+      </div>
+      <div>
+        <a class="btn" href="/?rocket">Rocket Richard Clinching Goals</a>
+        <a class="btn" href="/?teammate">Former Teammate Goals</a>
+      </div>
       <h2>Date Search</h2>
       <ul>
         <li>[Month DD YYYY] Format</li>
