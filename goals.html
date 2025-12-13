@@ -54,23 +54,6 @@
         // Call the function to fetch data and create the table when the page loads
         document.addEventListener('DOMContentLoaded', fetchDataAndCreateTable);
     </script>
-    <style>
-        #ovechkin-goals_wrapper {
-            margin: 0 auto;
-            max-height: 800px;
-            max-width: 1024px;
-            overflow: scroll;
-            padding: 0 1rem;
-        }
-        .dt-empty {
-            display: none;
-        }
-        @media (max-width:768px) {
-            body {
-                align-items: start;
-            }
-        }
-    </style>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script src="https://cdn.datatables.net/2.3.3/js/dataTables.min.js"></script>
     <link rel="stylesheet" href="https://cdn.datatables.net/2.3.3/css/dataTables.dataTables.min.css">
@@ -79,7 +62,7 @@
     <header>
       <h1>The Complete List of Ovechkin Goals</h1>
     </header>
-    <main>
+    <main class="container">
         <p style="margin-bottom:2rem;">A chronological and comprehensive list of Ovechkin goals with supporting details.</p>
         <table id="ovechkin-goals">
             <thead>

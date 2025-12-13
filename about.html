@@ -21,65 +21,43 @@
       gtag('js', new Date());
       gtag('config', 'G-5RVBYX6N0S');
     </script>
-    <style>
-      main {
-        max-width:1024px;
-        padding:0 16px;
-        text-align:start;
-
-        > div {
-          align-items: center;
-          display: flex;
-          gap: 1rem;
-          justify-content: center;
-          margin-bottom: 1rem;
-        }
-      }
-      .btn {
-        background: #ccc;
-        border-radius: .375rem;
-        min-width: 75px;
-        padding: .625rem 1rem;
-        text-align: center;
-      }
-    </style>
   </head>
   <body>
     <header>
       <h1>About Ovechkin Cam</h1>
     </header>
-    <main>
+    <main class="container">
       <p><a href="/">Ovechkin Cam</a> is a catalog of goal videos from first to last (911) that also includes All Star Game (8), Playoff (77), IIHF (35), KHL (19), and Olympic (8) goals for a total of 1,058.</p>
       <p>Our searchable sequential index allows users to find Ovi goals in a new and useful way.</p>
       <p>Ovechkin.cam accepts a URL query to retrieve specific goals (<a href="/?1">?1</a> to <a href="/?911">?911</a>) or a set of filtered search results (<a href="/?fleury+golden-knights">?fleury+golden-knights</a>). A type filter can be added to the query to further reduce results (<a href="/?fleury+golden-knights|playoff">?fleury+golden-knights|playoff</a>).</p>
       <h2>Goal Search</h2>
-      <div>
-        <a class="btn" href="/?20th">20th</a>
-        <a class="btn" href="/?30th">30th</a>
-        <a class="btn" href="/?40th">40th</a>
-        <a class="btn" href="/?50th">50th</a>
-        <a class="btn" href="/?60th">60th</a>
-        <a class="btn" href="/?century">Hundredth Goals</a>
+      <div class="badge-flex">
+        <a href="/?20th">20th</a>
+        <a href="/?30th">30th</a>
+        <a href="/?40th">40th</a>
+        <a href="/?50th">50th</a>
+        <a href="/?60th">60th</a>
       </div>
-      <div>
-        <a class="btn" href="/?away">Away Goals</a>
-        <a class="btn" href="/?home">Home Goals</a>
-        <a class="btn" href="/?start">First of Season Goals</a>
-        <a class="btn" href="/?end">Last of Season Goals</a>
-        <a class="btn" href="/?ppg">Power Play Goals</a>
-        <a class="btn" href="/?shg">Shorthand Goals</a>
+      <div class="badge-flex">
+        <a href="/?2nd">Second Goals</a>
+        <a href="/?3rd">Hat Trick Goals</a>
+        <a href="/?4th">Fourth Goals</a>
+        <a href="/?century">Hundredth Goals</a>
+        <a href="/?rocket">Rocket Richard Clinching Goals</a>
       </div>
-      <div>
-        <a class="btn" href="/?empty-net">Empty Net Goals</a>
-        <a class="btn" href="/?gwg">Game Winning Goals</a>
-        <a class="btn" href="/?overtime">Overtime Goals</a>
-        <a class="btn" href="/?2nd">Second Goals</a>
-        <a class="btn" href="/?3rd">Hat Trick Goals</a>
-        <a class="btn" href="/?4th">Fourth Goals</a>
+      <div class="badge-flex">
+        <a href="/?away">Away Goals</a>
+        <a href="/?home">Home Goals</a>
+        <a href="/?first">First of Season Goals</a>
+        <a href="/?last">Last of Season Goals</a>
+        <a href="/?teammate">Former Teammate Goals</a>
       </div>
-      <div>
-        <a class="btn" href="/?rocket">Rocket Richard Clinching Goals</a>
-        <a class="btn" href="/?teammate">Former Teammate Goals</a>
+      <div class="badge-flex">
+        <a href="/?gwg">Game Winning Goals</a>
+        <a href="/?overtime">Overtime Goals</a>
+        <a href="/?ppg">Power Play Goals</a>
+        <a href="/?shg">Shorthand Goals</a>
+        <a href="/?empty-net">Empty Net Goals</a>
       </div>
       <h2>Date Search</h2>
       <ul>
