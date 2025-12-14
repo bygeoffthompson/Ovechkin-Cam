@@ -31,7 +31,8 @@ function SearchForm({jsonData}) {
                     item.year + ' ' +
                     item.goalie + ' ' + item.goalie2 + ' ' +
                     item.team + ' ' +
-                    item.tags + ' ' + item.arena
+                    item.arena + ' ' +
+                    item.tag + ' ' + item.tag2 + ' ' + item.tag3
                 return (
                     search.replace('undefined', '').toLowerCase().includes(searchText1) &&
                     search.replace('undefined', '').toLowerCase().includes(searchText2) &&
@@ -451,7 +452,7 @@ function SearchForm({jsonData}) {
                             <iframe width="560" height="315" src={result.link.replace(/"/g, "")} title="Alex Ovechkin Goal Video"
                                 referrerPolicy="cross-origin-with-strict-origin" allowFullScreen loading="lazy"></iframe>
                         </div>
-                        <small className="tags">{result.tags}</small>
+                        <small className="tags">{result.tag} {result.tag2} {result.tag3}</small>
                     </div>
                 ))}
             </div>
