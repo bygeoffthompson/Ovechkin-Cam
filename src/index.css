@@ -63,6 +63,7 @@
 }
 
 #click-goal {
+  cursor: url('../public/icons/puck.png') 7 3, auto;
   height: 100vh;
   left: 0;
   position: fixed;
@@ -362,22 +363,23 @@
   width: 4rem;
 }
 
-body {
-  cursor: url('../public/icons/puck.png') 7 3, auto;
-
-    &.shot {
+.shot {
+    #click-goal {
         cursor: auto;
+    }
 
-        #puck {
-            animation: goalClick 750ms ease-in 1;
-            opacity: 1;
-        }
+    #puck {
+        animation: goalClick 750ms ease-in 1;
+        opacity: 1;
     }
 }
 
 .goal-lights {
   animation: goalLights .5s linear infinite;
-  cursor: auto;
+
+    #click-goal {
+        cursor: auto;
+    }
 
     #goal:before {
         background: url('../public/icons/puck.png') no-repeat;

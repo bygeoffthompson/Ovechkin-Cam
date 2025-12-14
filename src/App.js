@@ -32,7 +32,8 @@ function SearchForm({jsonData}) {
                     item.goalie + ' ' + item.goalie2 + ' ' +
                     item.team + ' ' +
                     item.arena + ' ' +
-                    item.tag + ' ' + item.tag2 + ' ' + item.tag3
+                    item.search + ' ' +
+                    item.tag1 + ' ' + item.tag2 + ' ' + item.tag3
                 return (
                     search.replace('undefined', '').toLowerCase().includes(searchText1) &&
                     search.replace('undefined', '').toLowerCase().includes(searchText2) &&
@@ -155,7 +156,7 @@ function SearchForm({jsonData}) {
 
     function buttonClick(value) {
         randomGoal(value);
-        clickTrack(value[0].replace(' Third', '').replace('Red ', '').replace(' Black', '') + ' Click');
+        clickTrack(value[0] + ' Click');
     }
 
     const canadaGoal = () => {
@@ -340,7 +341,7 @@ function SearchForm({jsonData}) {
                                 <img alt="Screagle logo" className="jersey-logo" src="/jerseys/screagle.svg" />
                             </span>
                         </button>
-                        <button onClick={(event) => buttonClick(['Red', 'White'])} className="jersey-button" title="Capitals" type="button">
+                        <button onClick={(event) => buttonClick(['Red Capitals', 'White Capitals'])} className="jersey-button" title="Capitals" type="button">
                             <img alt="Capitals logo" className="jersey-logo" src="/jerseys/capitals.svg" />
                         </button>
                         <button onClick={(event) => buttonClick(['Red Throwback', 'White Throwback'])} className="jersey-button" title="Throwback Third" type="button">
@@ -357,7 +358,7 @@ function SearchForm({jsonData}) {
                         <button onClick={(event) => buttonClick(['Navy Third'])} className="jersey-button" title="Navy Third" type="button">
                             <img alt="Navy logo" className="jersey-logo" src="/jerseys/navy.svg" />
                         </button>
-                        <button onClick={(event) => buttonClick(['Reverse Retro Black', 'Reverse Retro Red'])} className="jersey-button" title="Reverse Retro" type="button">
+                        <button onClick={(event) => buttonClick(['Black Reverse Retro', 'Red Reverse Retro'])} className="jersey-button" title="Reverse Retro" type="button">
                             <img alt="Reverse Retro logo" className="jersey-logo" src="/jerseys/retro.svg" />
                         </button>
                         <button onClick={(event) => buttonClick(['Blue Dynamo', 'White Dynamo'])} className="jersey-button" title="HC Dynamo Moscow" type="button">
@@ -452,7 +453,7 @@ function SearchForm({jsonData}) {
                             <iframe width="560" height="315" src={result.link.replace(/"/g, "")} title="Alex Ovechkin Goal Video"
                                 referrerPolicy="cross-origin-with-strict-origin" allowFullScreen loading="lazy"></iframe>
                         </div>
-                        <small className="tags">{result.tag} {result.tag2} {result.tag3}</small>
+                        <small className="tags">{result.tag1} {result.tag2} {result.tag3}</small>
                     </div>
                 ))}
             </div>
