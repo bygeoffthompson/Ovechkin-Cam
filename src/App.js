@@ -63,7 +63,7 @@ function SearchForm({jsonData}) {
     useEffect(() => {
         const query = window.location.search.slice(1).replace(/-/g, ' ').toLowerCase().split('|')[0];
         const queryInteger = parseFloat(query);
-        if (!['20th', '30th', '40th', '50th', '60th', '2nd', '3rd', '4th'].includes(query) && queryInteger > 0 && queryInteger <= totalGoals) {
+        if (!['20th', '30th', '40th', '50th', '60th', '2nd', '3rd', '4th', '6v5', '5v3', '4v4'].includes(query) && queryInteger > 0 && queryInteger <= totalGoals) {
             setSearchGoal(queryInteger);
         } else if (query.includes('+')) {
             const multipleSearch = query.split('+');
