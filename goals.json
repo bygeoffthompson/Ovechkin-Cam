@@ -86,7 +86,7 @@
     "jersey": "Red Russia"
   },
   {
-    "goal": 0.01,
+    "goal": -0.01,
     "link": "https://www.youtube.com/embed/okK1M-lW8XY?si=mL1djqhhNefKN1OG&amp;start=823&end=874",
     "team": "Slovakia",
     "goalie": "Ján Lašák",
@@ -4616,7 +4616,7 @@
     "jersey": "Red Capitals"
   },
   {
-    "goal": 269.20,
+    "goal": -269.20,
     "link": "https://www.youtube.com/embed/PUse3zsREUk?si=jM8BbbClRBMyxKrb&amp;start=40",
     "team": "Slovakia",
     "goalie": "Peter Budaj",
@@ -5870,7 +5870,7 @@
     "jersey": "Red Russia"
   },
   {
-    "goal": 339.26,
+    "goal": -339.26,
     "link": "https://www.youtube.com/embed/ZfAlcGQ1cz8?si=QgYgB2eTuWjbcGwF",
     "team": "Finland",
     "goalie": "Petri Vehanen",
@@ -8301,7 +8301,7 @@
     "jersey": "White Throwback"
   },
   {
-    "goal": 475.32,
+    "goal": -475.32,
     "link": "https://www.youtube.com/embed/D38FdMTNMuU?si=ZG9AiYTdN2Hi-dQv",
     "team": "USA",
     "goalie": "Connor Hellebuyck",
