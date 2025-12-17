@@ -33,7 +33,7 @@ function SearchForm({jsonData}) {
                     item.team + ' ' +
                     item.arena + ' ' +
                     item.search + ' ' +
-                    item.tag1 + ' ' + item.tag2 + ' ' + item.tag3
+                    item.btn1 + ' ' + item.btn2 + ' ' + item.btn3
                 return (
                     search.replace('undefined', '').toLowerCase().includes(searchText1) &&
                     search.replace('undefined', '').toLowerCase().includes(searchText2) &&
@@ -100,22 +100,6 @@ function SearchForm({jsonData}) {
             }
         }
     },[]);
-
-    const spinorama = () => {
-        const input = parseInt(document.querySelector('#search-goal').value)
-        if (input === 29) {
-            setSearchGoal(428)
-        } else if (input === 32) {
-            setSearchGoal(205)
-        } else if (input === 205) {
-            setSearchGoal(562)
-        } else if (input === 428) {
-            setSearchGoal(32)
-        } else {
-            setSearchGoal(29)
-        }
-        clickTrack('360 Click');
-    };
 
     const outdoor = () => {
         const input = parseInt(document.querySelector('#search-goal').value)
@@ -378,7 +362,7 @@ function SearchForm({jsonData}) {
                     <div>
                         <button onClick={(event) => setSearchGoal(random(1, 52))} title="Rookie Goal" type="button">Rookie</button>
                         <button onClick={allstar} title="All Star Goal" type="button">All&nbsp;Star</button>
-                        <button onClick={spinorama} title="360 Goal" type="button">360°</button>
+                        <button onClick={(event) => buttonClick(['5v3'])} title="5v3 Goal" type="button">5v3</button>
                         <button onClick={fourth} title="Fourth Goal" type="button">4th</button>
                         <button onClick={(event) => buttonClick(['Backhand'])} title="Backhand Goal" type="button">Backhand</button>
                         <button onClick={(event) => buttonClick(['Post'])} title="Post Goal" type="button">Post</button>
@@ -453,7 +437,7 @@ function SearchForm({jsonData}) {
                             <iframe width="560" height="315" src={result.link.replace(/"/g, "")} title="Alex Ovechkin Goal Video"
                                 referrerPolicy="cross-origin-with-strict-origin" allowFullScreen loading="lazy"></iframe>
                         </div>
-                        <small className="tags">{result.tag1} {result.tag2} {result.tag3}</small>
+                        <small className="tags">{result.search} {result.btn1} {result.btn2} {result.btn3}</small>
                     </div>
                 ))}
             </div>
