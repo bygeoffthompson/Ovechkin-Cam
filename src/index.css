@@ -72,6 +72,19 @@
   z-index: 0;
 }
 
+#count {
+    &:not([data-count='1']):after {
+      content: 's';
+    }
+
+    &[data-count='0'],
+    &[data-count='1'] {
+        ~ .column-control  {
+            display: none;
+        }
+    }
+}
+
 .goal-count {
   color: #111;
   font-size: 3rem !important;

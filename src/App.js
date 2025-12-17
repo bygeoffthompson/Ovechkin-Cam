@@ -43,11 +43,8 @@ function SearchForm({jsonData}) {
             });
             document.getElementById('advanced').classList.add('show');
             document.getElementById('minimum').classList.remove('show');
-            if (results.length === 0) {
-                document.querySelector('#count').innerHTML = 'No Results of';
-            } else {
-                document.querySelector('#count').innerHTML = results.length + ' Goals of';
-            }
+            document.getElementById('count').setAttribute('data-count', results.length);
+            document.getElementById('count').innerHTML = results.length + ' Result';
             setSearchResults(results);
         }
         if (search1Value === 0) {
@@ -389,6 +386,7 @@ function SearchForm({jsonData}) {
 
             <div className="search-accordion" id="advanced">
                 <strong id="count"></strong>
+                <strong>of</strong>
                 <label htmlFor="type">Type</label>
                 <select id="type" name="Type" onChange={handleSeasonChange}>
                     <option name="All" value="" selected>All</option>
