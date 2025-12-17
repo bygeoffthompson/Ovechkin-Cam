@@ -176,8 +176,8 @@ function SearchForm({jsonData}) {
                 document.querySelector('body').classList.remove('shot');
                 setTimeout(function() {
                     document.querySelector('body').classList.remove('goal-lights');
-                }, 1500);
-            }, 750);
+                }, 1000);
+            }, 500);
         });
     };
 

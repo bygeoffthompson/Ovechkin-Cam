@@ -181,13 +181,13 @@
     }
     95% {
         left: 50%;
-        top: 140px;
-        transform: translateX(-50%);
+        top: 150px;
+        transform: scale(.5) translateX(-50%);
     }
     100% {
         left: 50%;
-        top: 180px;
-        transform: translateX(-50%);
+        top: 200px;
+        transform: scale(.75) translateX(-50%);
     }
 }
 
@@ -369,7 +369,7 @@
     }
 
     #puck {
-        animation: goalClick 750ms ease-in 1;
+        animation: goalClick 500ms ease-in 1;
         opacity: 1;
     }
 }
@@ -389,6 +389,7 @@
         left: 30px;
         height: .5rem;
         position: absolute;
+        transform: scale(.75);
         width: 14px;
     }
 }
