@@ -21,7 +21,7 @@
     "month": "April",
     "day": 12,
     "year": 2003,
-    "type": "",
+    "type": "PPG",
     "search": "2003 World Junior U18 Yaroslavl Russia",
     "season": "World Junior U18",
     "arena": "",
@@ -3174,7 +3174,7 @@
     "day": 15,
     "year": 2008,
     "type": "6v5",
-    "btn1": "2nd Final Minute Final Second",
+    "btn1": "2nd Final Minute Final",
     "season": "Regular",
     "arena": "Away",
     "jersey": "White Capitals"
