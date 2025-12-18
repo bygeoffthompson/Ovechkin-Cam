@@ -29,7 +29,6 @@
     <main class="container">
       <p><a href="/">Ovechkin Cam</a> is a catalog of goal videos from first to last (911) that also includes All Star Game (8), Playoff (77), IIHF (35), KHL (19), and Olympic (8) goals for a total of 1,058.</p>
       <p>Our searchable and sequential index allows users to find Ovi goals in a new and useful way.</p>
-      <p>Ovechkin.cam accepts a URL query to retrieve specific goals (<a href="/?1">?1</a> to <a href="/?911">?911</a>) or a set of filtered search results (<a href="/?fleury+golden-knights">?fleury+golden-knights</a>). A type filter can be appended to further reduce results (<a href="/?fleury+golden-knights|playoff">?fleury+golden-knights|playoff</a>).</p>
       <h2>Date Search</h2>
       <ul>
         <li>[Month DD YYYY] Format</li>
@@ -39,16 +38,6 @@
           <li>November 5 2022</li>
         </ul>
       </ul>
-      <h2>League Search</h2>
-      <ul>
-        <li>[All Star] for All Star Goals or use query filter <code>|allstar</code></li>
-        <li>[IIHF] for IIHF/World Championship Goals or use query filter <code>|iihf</code></li>
-        <li>[KHL] for KHL Goals or use query filter <code>|khl</code></li>
-        <li>[Olympic] for Olympic Goals or use query filter <code>|olympic</code></li>
-        <li>[Playoff] for Playoff Goals or use query filter <code>|playoff</code></li>
-        <li>[World Cup] for World Cup Goals or use query filter <code>|worldcup</code></li>
-      </ul>
-
       <h2 id="number">Number Search</h2>
       <p>All goals are identified by a unique integer. NHL regular season goals are indexed 1 to 911.</p>
       <p>All other goals are intertwined as floats with the format [NHL-Goals].[League-Goals]</p>
@@ -59,6 +48,16 @@
         <li><code>897.75</code> Playoff Goal #75 After NHL Season 20</li>
       </ul>
       <p>In a few cases this indexing produced duplicate floats. In this event the latter was made negative to remain distinct (<code>-339.26</code>).</p>
+      <h2>League Search</h2>
+      <ul>
+       <li>"All Star" for All Star Goals</li>
+       <li>"IIHF" for IIHF/World Championship Goals</li>
+       <li>"KHL" for KHL Goals</li>
+       <li>"NHL" for NHL Regular Season Goals</li>
+       <li>"Olympic" for Olympic Goals</li>
+       <li>"Playoff" for NHL Playoff Goals</li>
+       <li>"World Cup" for World Cup Goals</li>
+     </ul>
       <h2 id="text">Text Search</h2>
       <div class="badge-flex">
         <a href="/?20th">20th</a>
@@ -88,6 +87,8 @@
         <a href="/?shg">Shorthand Goals</a>
         <a href="/?empty-net">Empty Net Goals</a>
       </div>
+      <h2>URL Queries</h2>
+      <p>Ovechkin.cam accepts URL queries to return specific goals (<a href="/?1">?1</a> to <a href="/?911">?911</a>) or a set of filtered search results (<a href="/?fleury+golden-knights">?fleury+golden-knights</a>).</p>
       <h2>Thank You</h2>
       <p>@NHL895, @EveryOvechkinGoal, @Capitals, @KHL, @Sportsnet, and all other embedded Youtube channels.</p>
       <h2>Contact</h2>
