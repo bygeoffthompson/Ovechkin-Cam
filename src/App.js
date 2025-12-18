@@ -24,7 +24,7 @@ function SearchForm({jsonData}) {
         if (search1Value > 2) {
             const results = jsonData.filter((item) => {
                 const search =
-                    item.season.replace('Regular', '') + ' ' +
+                    item.season + ' ' +
                     item.type.replace('ENG', '') + ' ' +
                     item.month + ' ' +
                     item.day + ' ' +
@@ -58,7 +58,7 @@ function SearchForm({jsonData}) {
     }, [searchGoal, searchText1, searchText2, searchText3, jsonData]);
 
     useEffect(() => {
-        const query = window.location.search.slice(1).replace(/-/g, ' ').toLowerCase().split('|')[0].split('?')[0];
+        const query = window.location.search.slice(1).split('?')[0].replace(/-/g, ' ').toLowerCase();
         const queryInteger = parseFloat(query);
         if (!['20th', '30th', '40th', '50th', '60th', '2nd', '3rd', '4th', '6v5', '5v3', '4v4'].includes(query) && queryInteger > 0 && queryInteger <= totalGoals) {
             setSearchGoal(queryInteger);
@@ -73,28 +73,6 @@ function SearchForm({jsonData}) {
             setSearchText1(query.split('&', 1));
             setSearchText2('');
             setSearchText3('');
-        }
-
-        if (window.location.search.slice(1).split('|')[1]) {
-            const queryFilter = window.location.search.slice(1).split('|')[1].toLowerCase();
-            const type = document.getElementById('type');
-            if (queryFilter.includes('regular')) {
-                type.value = 'Regular';
-            } else if (queryFilter.includes('playoff')) {
-                type.value = 'Playoff';
-            } else if (queryFilter.includes('allstar')) {
-                type.value = 'All Star';
-            } else if (queryFilter.includes('iihf')) {
-                type.value = 'IIHF';
-            } else if (queryFilter.includes('khl')) {
-                type.value = 'KHL';
-            } else if (queryFilter.includes('olympic')) {
-                type.value = 'Olympic';
-            } else if (queryFilter.includes('world')) {
-                type.value = 'World Cup';
-            } else {
-                type.value = '';
-            }
         }
     },[]);
 
@@ -237,7 +215,7 @@ function SearchForm({jsonData}) {
         const result = jsonData.filter(item =>
             Object.values(item).some(value =>
                 type.includes(value)
-            ) && item.season === 'Regular' && item.arena === 'Away'
+            ) && item.season === 'NHL' && item.arena === 'Away'
         );
         const goal = Object.values(result[random(1, Object.keys(result).length)]);
         setSearchGoal(goal[0]);
@@ -389,7 +367,7 @@ function SearchForm({jsonData}) {
                 <label htmlFor="type">Type</label>
                 <select id="type" name="Type" onChange={handleSeasonChange}>
                     <option name="All" value="" selected>All</option>
-                    <option name="Regular" value="Regular">NHL Regular</option>
+                    <option name="Regular" value="NHL">NHL Regular</option>
                     <option name="Playoff" value="Playoff">NHL Playoff</option>
                     <option name="All Star" value="All Star">NHL All Star</option>
                     <option name="IIHF" value="IIHF">IIHF</option>

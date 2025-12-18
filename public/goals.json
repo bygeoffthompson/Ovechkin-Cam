@@ -397,7 +397,7 @@
     "year": 2005,
     "type": "",
     "btn1": "First Rookie Welcome On Board",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -412,7 +412,7 @@
     "type": "2nd",
     "btn1": "Rookie",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -428,7 +428,7 @@
     "search": "Once Rookie",
     "btn1": "GWG",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -443,7 +443,7 @@
     "type": "",
     "btn1": "Backhand",
     "btn2": "Rookie",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -457,7 +457,7 @@
     "year": 2005,
     "type": "",
     "btn1": "Rookie",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -471,7 +471,7 @@
     "year": 2005,
     "type": "2nd",
     "btn1": "Rookie",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -485,7 +485,7 @@
     "year": 2005,
     "type": "",
     "btn1": "Rookie",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -499,7 +499,7 @@
     "year": 2005,
     "type": "SHG",
     "btn1": "2nd Rookie",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -513,7 +513,7 @@
     "year": 2005,
     "type": "PPG",
     "btn1": "Rookie",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -528,7 +528,7 @@
     "type": "GWG",
     "btn1": "2nd Rookie",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -542,7 +542,7 @@
     "year": 2005,
     "type": "",
     "btn1": "Rookie",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -557,7 +557,7 @@
     "type": "2nd",
     "btn1": "Rookie",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -571,7 +571,7 @@
     "year": 2005,
     "type": "",
     "btn1": "Rookie",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -586,7 +586,7 @@
     "type": "",
     "btn1": "Backhand",
     "btn2": "Rookie",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -600,7 +600,7 @@
     "year": 2005,
     "type": "PPG",
     "btn1": "Rookie",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -615,7 +615,7 @@
     "type": "",
     "btn1": "Post",
     "btn2": "Rookie",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -629,7 +629,7 @@
     "year": 2005,
     "type": "PPG",
     "btn1": "Rookie",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -643,7 +643,7 @@
     "year": 2005,
     "type": "PPG",
     "btn1": "Once Rookie",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -658,7 +658,7 @@
     "type": "5v3",
     "btn1": "Once Rookie",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -672,7 +672,7 @@
     "year": 2005,
     "type": "20th",
     "btn1": "Rookie Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -686,7 +686,7 @@
     "year": 2005,
     "type": "",
     "btn1": "Once Rookie",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -701,7 +701,7 @@
     "type": "PPG",
     "btn1": "Backhand",
     "btn2": "Rookie",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -717,7 +717,7 @@
     "type": "PPG",
     "search": "New Years Eve Rookie",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -732,7 +732,7 @@
     "type": "",
     "search": "New Years Day Rookie",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -747,7 +747,7 @@
     "year": 2006,
     "type": "PPG",
     "btn1": "Rookie",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -761,7 +761,7 @@
     "year": 2006,
     "type": "",
     "btn1": "Once Rookie",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -775,7 +775,7 @@
     "year": 2006,
     "type": "",
     "btn1": "Rookie",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -791,7 +791,7 @@
     "type": "",
     "btn1": "Anaheim Ducks Rookie",
     "btn2": "Backhand",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -807,7 +807,7 @@
     "type": "2nd",
     "btn1": "Anaheim Ducks Rookie",
     "btn2": "360",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -824,7 +824,7 @@
     "search": "30th 3rd Overtime Anaheim Ducks Rookie",
     "btn1": "Hat Trick",
     "btn2": "GWG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -838,7 +838,7 @@
     "year": 2006,
     "type": "PPG",
     "btn1": "Arizona Coyotes Rookie",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -855,7 +855,7 @@
     "search": "Arizona Coyotes Rookie Simply Sensational",
     "btn1": "360",
     "btn2": "Backhand",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -869,7 +869,7 @@
     "year": 2006,
     "type": "",
     "btn1": "Once Rookie",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -884,7 +884,7 @@
     "year": 2006,
     "type": "PPG",
     "btn1": "Rookie",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -898,7 +898,7 @@
     "year": 2006,
     "type": "PPG",
     "btn1": "Rookie",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -913,7 +913,7 @@
     "year": 2006,
     "type": "SHG",
     "btn1": "Rookie",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -1000,7 +1000,7 @@
     "year": 2006,
     "type": "PPG",
     "btn1": "Rookie",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -1014,7 +1014,7 @@
     "year": 2006,
     "type": "SHG",
     "btn1": "Rookie",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -1029,7 +1029,7 @@
     "type": "PPG",
     "btn1": "Final Minute Rookie",
     "btn2": "Tip",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -1043,7 +1043,7 @@
     "year": 2006,
     "type": "40th",
     "btn1": "Rookie",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -1057,7 +1057,7 @@
     "year": 2006,
     "type": "GWG",
     "btn1": "2nd Rookie",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -1072,7 +1072,7 @@
     "year": 2006,
     "type": "PPG",
     "btn1": "Once Rookie",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -1086,7 +1086,7 @@
     "year": 2006,
     "type": "PPG",
     "btn1": "Rookie",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -1100,7 +1100,7 @@
     "year": 2006,
     "type": "PPG",
     "btn1": "Rookie Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -1114,7 +1114,7 @@
     "year": 2006,
     "type": "",
     "btn1": "Rookie",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -1128,7 +1128,7 @@
     "year": 2006,
     "type": "2nd",
     "btn1": "Rookie",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -1142,7 +1142,7 @@
     "year": 2006,
     "type": "",
     "btn1": "Rookie",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -1156,7 +1156,7 @@
     "year": 2006,
     "type": "PPG",
     "btn1": "Rookie",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -1172,7 +1172,7 @@
     "type": "OT",
     "btn1": "Overtime Rookie",
     "btn2": "GWG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -1186,7 +1186,7 @@
     "year": 2006,
     "type": "50th",
     "btn1": "Rookie",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -1200,7 +1200,7 @@
     "year": 2006,
     "type": "",
     "btn1": "Once Rookie",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -1214,7 +1214,7 @@
     "year": 2006,
     "type": "",
     "btn1": "Last Rookie",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -1316,7 +1316,7 @@
     "year": 2006,
     "type": "GWG",
     "btn1": "First",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -1330,7 +1330,7 @@
     "year": 2006,
     "type": "2nd",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -1344,7 +1344,7 @@
     "year": 2006,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -1358,7 +1358,7 @@
     "year": 2006,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -1372,7 +1372,7 @@
     "year": 2006,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -1386,7 +1386,7 @@
     "year": 2006,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -1400,7 +1400,7 @@
     "year": 2006,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -1414,7 +1414,7 @@
     "year": 2006,
     "type": "GWG",
     "btn1": "2nd",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -1428,7 +1428,7 @@
     "year": 2006,
     "type": "",
     "btn1": "Tip",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -1442,7 +1442,7 @@
     "year": 2006,
     "type": "2nd",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -1456,7 +1456,7 @@
     "year": 2006,
     "type": "GWG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -1470,7 +1470,7 @@
     "year": 2006,
     "type": "GWG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -1484,7 +1484,7 @@
     "year": 2006,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -1498,7 +1498,7 @@
     "year": 2006,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -1512,7 +1512,7 @@
     "year": 2006,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -1526,7 +1526,7 @@
     "year": 2006,
     "type": "ENG",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -1540,7 +1540,7 @@
     "year": 2006,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -1555,7 +1555,7 @@
     "year": 2006,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -1569,7 +1569,7 @@
     "year": 2006,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -1584,7 +1584,7 @@
     "type": "20th",
     "btn1": "2nd Final Minute",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -1600,7 +1600,7 @@
     "search": "3rd Overtime",
     "btn1": "Hat Trick",
     "btn2": "GWG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -1615,7 +1615,7 @@
     "year": 2006,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -1629,7 +1629,7 @@
     "year": 2006,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -1643,7 +1643,7 @@
     "year": 2006,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -1657,7 +1657,7 @@
     "year": 2006,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -1671,7 +1671,7 @@
     "year": 2007,
     "type": "5v3",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -1685,7 +1685,7 @@
     "year": 2007,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -1699,7 +1699,7 @@
     "year": 2007,
     "type": "GWG",
     "btn1": "2nd",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -1713,14 +1713,14 @@
     "year": 2007,
     "type": "ENG",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
   {
     "goal": 81.01,
     "link": "https://www.youtube.com/embed/aEEe5MkmHng?si=Ukx52D8Pqgi8EDb6&amp;start=4658&end=4704",
-    "team": "NHL",
+    "team": "West",
     "goalie": "Miikka Kiprusoff",
     "month": "January",
     "day": 24,
@@ -1742,7 +1742,7 @@
     "type": "30th",
     "btn1": "PPG",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -1756,7 +1756,7 @@
     "year": 2007,
     "type": "PPG",
     "btn1": "Post",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -1770,7 +1770,7 @@
     "year": 2007,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -1784,7 +1784,7 @@
     "year": 2007,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -1798,7 +1798,7 @@
     "year": 2007,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -1812,7 +1812,7 @@
     "year": 2007,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -1826,7 +1826,7 @@
     "year": 2007,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -1840,7 +1840,7 @@
     "year": 2007,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -1854,7 +1854,7 @@
     "year": 2007,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -1868,7 +1868,7 @@
     "year": 2007,
     "type": "",
     "btn1": "Backhand",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -1882,7 +1882,7 @@
     "year": 2007,
     "type": "40th",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -1896,7 +1896,7 @@
     "year": 2007,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -1910,7 +1910,7 @@
     "year": 2007,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -1924,7 +1924,7 @@
     "year": 2007,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -1938,7 +1938,7 @@
     "year": 2007,
     "type": "GWG",
     "btn1": "Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Capitol"
   },
@@ -1952,7 +1952,7 @@
     "year": 2007,
     "type": "PPG",
     "btn1": "Post",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -1966,7 +1966,7 @@
     "year": 2007,
     "type": "GWG",
     "btn1": "Last 2nd",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "Screagle"
   },
@@ -1994,7 +1994,7 @@
     "year": 2007,
     "type": "GWG",
     "btn1": "First",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -2009,7 +2009,7 @@
     "year": 2007,
     "type": "PPG",
     "btn1": "100th Century",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -2023,7 +2023,7 @@
     "year": 2007,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -2037,7 +2037,7 @@
     "year": 2007,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -2051,7 +2051,7 @@
     "year": 2007,
     "type": "ENG",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -2065,7 +2065,7 @@
     "year": 2007,
     "type": "PPG",
     "btn1": "Backhand",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -2079,7 +2079,7 @@
     "year": 2007,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -2093,7 +2093,7 @@
     "year": 2007,
     "type": "2nd",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -2108,7 +2108,7 @@
     "year": 2007,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -2122,7 +2122,7 @@
     "year": 2007,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -2136,7 +2136,7 @@
     "year": 2007,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -2151,7 +2151,7 @@
     "year": 2007,
     "type": "",
     "btn1": "Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -2165,7 +2165,7 @@
     "year": 2007,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -2179,7 +2179,7 @@
     "year": 2007,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -2193,7 +2193,7 @@
     "year": 2007,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -2207,7 +2207,7 @@
     "year": 2007,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -2221,7 +2221,7 @@
     "year": 2007,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -2235,7 +2235,7 @@
     "year": 2007,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -2249,7 +2249,7 @@
     "year": 2007,
     "type": "2nd",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -2265,7 +2265,7 @@
     "type": "20th",
     "search": "Teammate",
     "btn1": "GWG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -2279,7 +2279,7 @@
     "year": 2007,
     "type": "GWG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -2293,7 +2293,7 @@
     "year": 2007,
     "type": "",
     "btn1": "Tip",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -2307,7 +2307,7 @@
     "year": 2007,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -2321,7 +2321,7 @@
     "year": 2007,
     "type": "PPG",
     "btn1": "Once",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -2335,7 +2335,7 @@
     "year": 2007,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -2349,7 +2349,7 @@
     "year": 2007,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -2363,7 +2363,7 @@
     "year": 2007,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -2377,7 +2377,7 @@
     "year": 2007,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -2392,7 +2392,7 @@
     "type": "3rd",
     "btn1": "GWG",
     "btn2": "Hat Trick",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -2407,7 +2407,7 @@
     "type": "4th",
     "search": "30th",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -2421,7 +2421,7 @@
     "year": 2008,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -2435,7 +2435,7 @@
     "year": 2008,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -2449,7 +2449,7 @@
     "year": 2008,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -2463,7 +2463,7 @@
     "year": 2008,
     "type": "GWG",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -2477,7 +2477,7 @@
     "year": 2008,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -2492,7 +2492,7 @@
     "year": 2008,
     "type": "PPG",
     "btn1": "Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -2506,7 +2506,7 @@
     "year": 2008,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -2520,7 +2520,7 @@
     "year": 2008,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -2534,14 +2534,14 @@
     "year": 2008,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
   {
     "goal": 137.02,
     "link": "https://www.youtube.com/embed/sFz5srKPlRM?si=eVVigyX9Yhunm4tF&amp;start=33&end=90",
-    "team": "NHL",
+    "team": "West",
     "goalie": "Chris Osgood",
     "month": "January",
     "day": 27,
@@ -2555,7 +2555,7 @@
   {
     "goal": 137.03,
     "link": "https://www.youtube.com/embed/sFz5srKPlRM?si=eVVigyX9Yhunm4tF&amp;start=102",
-    "team": "NHL",
+    "team": "West",
     "goalie": "Chris Osgood",
     "month": "January",
     "day": 27,
@@ -2576,7 +2576,7 @@
     "year": 2008,
     "type": "40th",
     "btn1": "Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -2590,7 +2590,7 @@
     "year": 2008,
     "type": "2nd",
     "btn1": "Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -2605,7 +2605,7 @@
     "type": "3rd",
     "search": "Teammate",
     "btn1": "Hat Trick",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -2620,7 +2620,7 @@
     "type": "4th",
     "search": "Overtime Teammate",
     "btn1": "GWG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -2634,7 +2634,7 @@
     "year": 2008,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -2649,7 +2649,7 @@
     "type": "OT",
     "search": "2nd Once Overtime",
     "btn1": "GWG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -2663,7 +2663,7 @@
     "year": 2008,
     "type": "GWG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -2677,7 +2677,7 @@
     "year": 2008,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -2691,7 +2691,7 @@
     "year": 2008,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -2705,7 +2705,7 @@
     "year": 2008,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -2719,7 +2719,7 @@
     "year": 2008,
     "type": "50th",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -2733,7 +2733,7 @@
     "year": 2008,
     "type": "GWG",
     "btn1": "2nd",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -2748,7 +2748,7 @@
     "type": "3rd",
     "btn1": "Hat Trick",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -2762,7 +2762,7 @@
     "year": 2008,
     "type": "",
     "btn1": "Rocket Richard",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -2776,7 +2776,7 @@
     "year": 2008,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -2790,7 +2790,7 @@
     "year": 2008,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -2805,7 +2805,7 @@
     "type": "GWG",
     "btn1": "2nd",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -2819,7 +2819,7 @@
     "year": 2008,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -2833,7 +2833,7 @@
     "year": 2008,
     "type": "ENG",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -2847,7 +2847,7 @@
     "year": 2008,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -2861,7 +2861,7 @@
     "year": 2008,
     "type": "60th",
     "btn1": "2nd",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -2875,7 +2875,7 @@
     "year": 2008,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -2890,7 +2890,7 @@
     "year": 2008,
     "type": "",
     "btn1": "Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -2904,7 +2904,7 @@
     "year": 2008,
     "type": "",
     "btn1": "April Fools Day",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -2919,7 +2919,7 @@
     "year": 2008,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -2935,7 +2935,7 @@
     "type": "GWG",
     "btn1": "2nd Last",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -3090,7 +3090,7 @@
     "year": 2008,
     "type": "",
     "btn1": "First",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -3104,7 +3104,7 @@
     "year": 2008,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -3119,7 +3119,7 @@
     "year": 2008,
     "type": "",
     "btn1": "Once Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -3133,7 +3133,7 @@
     "year": 2008,
     "type": "",
     "btn1": "Once",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -3147,7 +3147,7 @@
     "year": 2008,
     "type": "ENG",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -3161,7 +3161,7 @@
     "year": 2008,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -3175,7 +3175,7 @@
     "year": 2008,
     "type": "6v5",
     "btn1": "2nd Final Minute Final",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -3190,7 +3190,7 @@
     "year": 2008,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -3205,7 +3205,7 @@
     "year": 2008,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -3220,7 +3220,7 @@
     "year": 2008,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -3235,7 +3235,7 @@
     "year": 2008,
     "type": "2nd",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -3251,7 +3251,7 @@
     "type": "3rd",
     "btn1": "GWG",
     "btn2": "Hat Trick",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -3266,7 +3266,7 @@
     "year": 2008,
     "type": "",
     "btn1": "Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -3280,7 +3280,7 @@
     "year": 2008,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -3294,7 +3294,7 @@
     "year": 2008,
     "type": "ENG",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -3308,7 +3308,7 @@
     "year": 2008,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -3322,7 +3322,7 @@
     "year": 2008,
     "type": "2nd",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -3336,7 +3336,7 @@
     "year": 2008,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -3351,7 +3351,7 @@
     "type": "OT",
     "search": "2nd Overtime",
     "btn1": "GWG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -3367,7 +3367,7 @@
     "search": "",
     "btn1": "Post",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -3381,7 +3381,7 @@
     "year": 2008,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -3395,7 +3395,7 @@
     "year": 2008,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -3409,7 +3409,7 @@
     "year": 2008,
     "type": "GWG",
     "btn1": "Once",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -3424,7 +3424,7 @@
     "type": "GWG",
     "search": "4v4",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -3438,7 +3438,7 @@
     "year": 2008,
     "type": "2nd",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -3453,7 +3453,7 @@
     "type": "",
     "search": "New Years Day",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -3467,7 +3467,7 @@
     "year": 2009,
     "type": "GWG",
     "btn1": "SHG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -3482,7 +3482,7 @@
     "year": 2009,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -3497,7 +3497,7 @@
     "year": 2009,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -3511,7 +3511,7 @@
     "year": 2009,
     "type": "30th",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -3527,14 +3527,14 @@
     "search": "2nd Overtime",
     "btn1": "GWG",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
   {
     "goal": 194.04,
     "link": "https://www.youtube.com/embed/zwaFycf2iP0?si=7WsHJESGP1ytM88p&amp;start=2086&end=2136",
-    "team": "NHL",
+    "team": "West",
     "goalie": "Jean-Sébastien Giguère",
     "goalie2": "Jean-Sebastien Giguere Jean Sebastien Giguere",
     "month": "January",
@@ -3556,7 +3556,7 @@
     "year": 2009,
     "type": "GWG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -3570,7 +3570,7 @@
     "year": 2009,
     "type": "2nd",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -3584,7 +3584,7 @@
     "year": 2009,
     "type": "PPG",
     "btn1": "Superbowl Super Bowl Sunday",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -3598,7 +3598,7 @@
     "year": 2009,
     "type": "2nd",
     "btn1": "Superbowl Super Bowl Sunday",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -3613,7 +3613,7 @@
     "type": "3rd",
     "search": "Superbowl Super Bowl Sunday",
     "btn1": "Hat Trick",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -3628,7 +3628,7 @@
     "year": 2009,
     "type": "",
     "btn1": "200th Century",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -3642,7 +3642,7 @@
     "year": 2009,
     "type": "GWG",
     "btn1": "Valentine's Valentines Day",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -3657,7 +3657,7 @@
     "year": 2009,
     "type": "PPG",
     "btn1": "Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -3674,7 +3674,7 @@
     "search": "2nd Teammate",
     "btn1": "GWG",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -3690,7 +3690,7 @@
     "search": "Backhand",
     "btn1": "Empty Net",
     "btn2": "Hat Trick",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -3704,7 +3704,7 @@
     "year": 2009,
     "type": "",
     "btn1": "360",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -3719,7 +3719,7 @@
     "year": 2009,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -3734,7 +3734,7 @@
     "year": 2009,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -3748,7 +3748,7 @@
     "year": 2009,
     "type": "",
     "btn1": "Vezina",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -3762,7 +3762,7 @@
     "year": 2009,
     "type": "",
     "btn1": "Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -3777,7 +3777,7 @@
     "year": 2009,
     "type": "PPG",
     "btn1": "Rocket Richard",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -3791,7 +3791,7 @@
     "year": 2009,
     "type": "GWG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -3805,7 +3805,7 @@
     "year": 2009,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -3819,7 +3819,7 @@
     "year": 2009,
     "type": "50th",
     "btn1": "Hot Stick",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -3834,7 +3834,7 @@
     "type": "PPG",
     "search": "",
     "btn1": "Backhand",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -3848,7 +3848,7 @@
     "year": 2009,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -3862,7 +3862,7 @@
     "year": 2009,
     "type": "2nd",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -3876,7 +3876,7 @@
     "year": 2009,
     "type": "",
     "btn1": "April Fools Day",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -3890,7 +3890,7 @@
     "year": 2009,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -3905,7 +3905,7 @@
     "year": 2009,
     "type": "",
     "btn1": "Last Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -4088,7 +4088,7 @@
     "year": 2009,
     "type": "GWG",
     "btn1": "First",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -4102,7 +4102,7 @@
     "year": 2009,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -4116,7 +4116,7 @@
     "year": 2009,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -4131,7 +4131,7 @@
     "type": "",
     "search": "",
     "btn1": "Post",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -4145,7 +4145,7 @@
     "year": 2009,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -4159,7 +4159,7 @@
     "year": 2009,
     "type": "GWG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -4173,7 +4173,7 @@
     "year": 2009,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -4187,7 +4187,7 @@
     "year": 2009,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -4201,7 +4201,7 @@
     "year": 2009,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -4215,7 +4215,7 @@
     "year": 2009,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -4229,7 +4229,7 @@
     "year": 2009,
     "type": "2nd",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -4244,7 +4244,7 @@
     "year": 2009,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -4259,7 +4259,7 @@
     "year": 2009,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -4273,7 +4273,7 @@
     "year": 2009,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -4287,7 +4287,7 @@
     "year": 2009,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -4301,7 +4301,7 @@
     "year": 2009,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -4315,7 +4315,7 @@
     "year": 2009,
     "type": "GWG",
     "btn1": "Vezina",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -4329,7 +4329,7 @@
     "year": 2009,
     "type": "",
     "btn1": "Post",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -4343,7 +4343,7 @@
     "year": 2009,
     "type": "GWG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -4358,7 +4358,7 @@
     "type": "20th",
     "btn1": "2nd",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -4372,7 +4372,7 @@
     "year": 2009,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -4386,7 +4386,7 @@
     "year": 2009,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -4400,7 +4400,7 @@
     "year": 2009,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -4414,7 +4414,7 @@
     "year": 2009,
     "type": "PPG",
     "btn1": "Vezina",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -4428,7 +4428,7 @@
     "year": 2009,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -4442,7 +4442,7 @@
     "year": 2009,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -4457,7 +4457,7 @@
     "year": 2010,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -4472,7 +4472,7 @@
     "year": 2010,
     "type": "",
     "btn1": "Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -4486,7 +4486,7 @@
     "year": 2010,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -4501,7 +4501,7 @@
     "type": "PS",
     "search": "30th",
     "btn1": "Penalty Shot",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -4515,7 +4515,7 @@
     "year": 2010,
     "type": "PPG",
     "btn1": "Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -4529,7 +4529,7 @@
     "year": 2010,
     "type": "2nd",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -4544,7 +4544,7 @@
     "type": "ENG",
     "search": "Arizona Coyotes",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -4559,7 +4559,7 @@
     "year": 2010,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -4573,7 +4573,7 @@
     "year": 2010,
     "type": "GWG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -4587,7 +4587,7 @@
     "year": 2010,
     "type": "ENG",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -4601,7 +4601,7 @@
     "year": 2010,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -4616,7 +4616,7 @@
     "year": 2010,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -4631,7 +4631,7 @@
     "year": 2010,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -4646,7 +4646,7 @@
     "year": 2010,
     "type": "40th",
     "btn1": "Broken Camera Goalcam Superbowl Super Bowl Sunday",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -4661,7 +4661,7 @@
     "year": 2010,
     "type": "2nd",
     "btn1": "Superbowl Super Bowl Sunday",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -4677,7 +4677,7 @@
     "type": "3rd",
     "search": "Superbowl Super Bowl Sunday",
     "btn1": "Hat Trick",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -4721,7 +4721,7 @@
     "year": 2010,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -4735,7 +4735,7 @@
     "year": 2010,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -4750,7 +4750,7 @@
     "year": 2010,
     "type": "GWG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -4764,7 +4764,7 @@
     "year": 2010,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -4778,7 +4778,7 @@
     "year": 2010,
     "type": "PPG",
     "search": "Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -4792,7 +4792,7 @@
     "year": 2010,
     "type": "2nd",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -4807,7 +4807,7 @@
     "year": 2010,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -4823,7 +4823,7 @@
     "type": "50th",
     "search": "2nd Last",
     "btn1": "GWG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -4981,7 +4981,7 @@
     "year": 2010,
     "type": "GWG",
     "btn1": "First",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -4995,7 +4995,7 @@
     "year": 2010,
     "type": "PS",
     "btn1": "2nd Penalty Shot",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -5010,7 +5010,7 @@
     "type": "OT",
     "search": "Overtime",
     "btn1": "GWG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -5024,7 +5024,7 @@
     "year": 2010,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -5039,7 +5039,7 @@
     "year": 2010,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -5053,7 +5053,7 @@
     "year": 2010,
     "type": "5v3",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -5068,7 +5068,7 @@
     "type": "GWG",
     "btn1": "2nd",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -5082,7 +5082,7 @@
     "year": 2010,
     "type": "ENG",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -5096,7 +5096,7 @@
     "year": 2010,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -5110,7 +5110,7 @@
     "year": 2010,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -5125,7 +5125,7 @@
     "year": 2010,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -5139,7 +5139,7 @@
     "year": 2010,
     "type": "",
     "btn1": "Once",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -5153,7 +5153,7 @@
     "year": 2010,
     "type": "GWG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -5167,7 +5167,7 @@
     "year": 2010,
     "type": "ENG",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -5181,7 +5181,7 @@
     "year": 2011,
     "type": "GWG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -5195,7 +5195,7 @@
     "year": 2011,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -5210,7 +5210,7 @@
     "year": 2011,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -5225,7 +5225,7 @@
     "year": 2011,
     "type": "GWG",
     "btn1": "2nd",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -5240,14 +5240,14 @@
     "type": "3rd",
     "btn1": "Empty Net",
     "btn2": "Hat Trick",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
   {
     "goal": 288.05,
     "link": "https://www.youtube.com/embed/UF-oqPdmLSo?si=Z8HEoSbZaNMWheVg&amp;start=30",
-    "team": "NHL",
+    "team": "Lidstrom",
     "goalie": "Marc-André Fleury",
     "goalie2": "Marc Andre Fleury Marc-Andre Fleury",
     "month": "January",
@@ -5270,7 +5270,7 @@
     "type": "20th",
     "btn1": "GWG",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -5284,7 +5284,7 @@
     "year": 2011,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -5298,7 +5298,7 @@
     "year": 2011,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -5312,7 +5312,7 @@
     "year": 2011,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -5327,7 +5327,7 @@
     "year": 2011,
     "type": "GWG",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -5342,7 +5342,7 @@
     "type": "OT",
     "search": "Once Overtime",
     "btn1": "GWG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -5356,7 +5356,7 @@
     "year": 2011,
     "type": "GWG",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -5370,7 +5370,7 @@
     "year": 2011,
     "type": "2nd",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -5384,7 +5384,7 @@
     "year": 2011,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -5398,7 +5398,7 @@
     "year": 2011,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -5413,7 +5413,7 @@
     "type": "OT",
     "search": "30th Overtime",
     "btn1": "GWG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -5429,7 +5429,7 @@
     "type": "5v3",
     "btn1": "300th Century",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -5445,7 +5445,7 @@
     "search": "Last",
     "btn1": "Backhand",
     "btn2": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -5532,7 +5532,7 @@
     "year": 2011,
     "type": "Teammate",
     "btn1": "First",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -5546,7 +5546,7 @@
     "year": 2011,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -5560,7 +5560,7 @@
     "year": 2011,
     "type": "2nd",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -5574,7 +5574,7 @@
     "year": 2011,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -5588,7 +5588,7 @@
     "year": 2011,
     "type": "2nd",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -5602,7 +5602,7 @@
     "year": 2011,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -5616,7 +5616,7 @@
     "year": 2011,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -5630,7 +5630,7 @@
     "year": 2011,
     "type": "",
     "btn1": "Vezina",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -5644,7 +5644,7 @@
     "year": 2011,
     "type": "",
     "btn1": "Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -5659,7 +5659,7 @@
     "year": 2011,
     "type": "GWG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -5674,7 +5674,7 @@
     "year": 2011,
     "type": "",
     "btn1": "Once",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -5688,7 +5688,7 @@
     "year": 2011,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -5702,7 +5702,7 @@
     "year": 2011,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -5716,7 +5716,7 @@
     "year": 2011,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -5731,7 +5731,7 @@
     "type": "",
     "search": "New Years Eve",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -5746,7 +5746,7 @@
     "type": "2nd",
     "search": "New Years Eve",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -5760,7 +5760,7 @@
     "year": 2012,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -5774,7 +5774,7 @@
     "year": 2012,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -5788,7 +5788,7 @@
     "year": 2012,
     "type": "PPG",
     "btn1": "Post",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Throwback"
   },
@@ -5803,7 +5803,7 @@
     "year": 2012,
     "type": "20th",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Throwback"
   },
@@ -5817,7 +5817,7 @@
     "year": 2012,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -5831,7 +5831,7 @@
     "year": 2012,
     "type": "2nd",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -5846,7 +5846,7 @@
     "year": 2012,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -5861,7 +5861,7 @@
     "year": 2012,
     "type": "PPG",
     "btn1": "Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -5875,7 +5875,7 @@
     "year": 2012,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -5890,7 +5890,7 @@
     "type": "OT",
     "search": "Overtime",
     "btn1": "GWG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -5905,7 +5905,7 @@
     "type": "OT",
     "search": "Overtime",
     "btn1": "GWG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -5919,7 +5919,7 @@
     "year": 2012,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -5933,7 +5933,7 @@
     "year": 2012,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -5947,7 +5947,7 @@
     "year": 2012,
     "type": "30th",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Throwback"
   },
@@ -5961,7 +5961,7 @@
     "year": 2012,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Throwback"
   },
@@ -5975,7 +5975,7 @@
     "year": 2012,
     "type": "2nd",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Throwback"
   },
@@ -5989,7 +5989,7 @@
     "year": 2012,
     "type": "",
     "btn1": "Post",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Throwback"
   },
@@ -6004,7 +6004,7 @@
     "year": 2012,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -6019,7 +6019,7 @@
     "year": 2012,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -6033,7 +6033,7 @@
     "year": 2012,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -6048,7 +6048,7 @@
     "year": 2012,
     "type": "",
     "btn1": "Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -6062,7 +6062,7 @@
     "year": 2012,
     "type": "",
     "btn1": "Last Vezina",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Throwback"
   },
@@ -6457,7 +6457,7 @@
     "type": "GWG",
     "search": "First",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -6471,7 +6471,7 @@
     "year": 2013,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -6486,7 +6486,7 @@
     "year": 2013,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -6501,7 +6501,7 @@
     "year": 2013,
     "type": "PPG",
     "btn1": "Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -6515,7 +6515,7 @@
     "year": 2013,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -6529,7 +6529,7 @@
     "year": 2013,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -6543,7 +6543,7 @@
     "year": 2013,
     "type": "GWG",
     "btn1": "2nd",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -6559,7 +6559,7 @@
     "search": "",
     "btn1": "Hat Trick",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -6573,7 +6573,7 @@
     "year": 2013,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -6587,7 +6587,7 @@
     "year": 2013,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -6601,7 +6601,7 @@
     "year": 2013,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -6617,7 +6617,7 @@
     "type": "PPG",
     "search": "",
     "btn1": "Post",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Throwback"
   },
@@ -6632,7 +6632,7 @@
     "year": 2013,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Throwback"
   },
@@ -6646,7 +6646,7 @@
     "year": 2013,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Throwback"
   },
@@ -6660,7 +6660,7 @@
     "year": 2013,
     "type": "2nd",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Throwback"
   },
@@ -6674,7 +6674,7 @@
     "year": 2013,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Throwback"
   },
@@ -6688,7 +6688,7 @@
     "year": 2013,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -6702,7 +6702,7 @@
     "year": 2013,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -6716,7 +6716,7 @@
     "year": 2013,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -6732,7 +6732,7 @@
     "type": "20th",
     "search": "2nd Once Teammate",
     "btn1": "GWG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -6747,7 +6747,7 @@
     "year": 2013,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -6762,7 +6762,7 @@
     "year": 2013,
     "type": "2nd",
     "btn1": "Post",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -6780,7 +6780,7 @@
     "btn1": "GWG",
     "btn2": "PPG",
     "btn3": "Hat Trick",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -6794,7 +6794,7 @@
     "year": 2013,
     "type": "",
     "btn1": "Tip",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -6808,7 +6808,7 @@
     "year": 2013,
     "type": "2nd",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -6822,7 +6822,7 @@
     "year": 2013,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -6836,7 +6836,7 @@
     "year": 2013,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -6850,7 +6850,7 @@
     "year": 2013,
     "type": "PPG",
     "btn1": "Once",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -6864,7 +6864,7 @@
     "year": 2013,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Throwback"
   },
@@ -6880,7 +6880,7 @@
     "search": "Rocket Richard",
     "btn1": "2nd",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Throwback"
   },
@@ -6894,7 +6894,7 @@
     "year": 2013,
     "type": "ENG",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -6909,7 +6909,7 @@
     "type": "",
     "btn1": "Last Teammate",
     "btn2": "Backhand",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -6952,7 +6952,7 @@
     "year": 2013,
     "type": "PPG",
     "btn1": "First",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -6967,7 +6967,7 @@
     "year": 2013,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -6982,7 +6982,7 @@
     "year": 2013,
     "type": "2nd",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -6996,7 +6996,7 @@
     "year": 2013,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -7010,7 +7010,7 @@
     "year": 2013,
     "type": "",
     "btn1": "Tip",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -7024,7 +7024,7 @@
     "year": 2013,
     "type": "GWG",
     "btn1": "Once",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -7038,7 +7038,7 @@
     "year": 2013,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -7053,7 +7053,7 @@
     "year": 2013,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -7068,7 +7068,7 @@
     "year": 2013,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -7082,7 +7082,7 @@
     "year": 2013,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -7096,7 +7096,7 @@
     "year": 2013,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -7110,7 +7110,7 @@
     "year": 2013,
     "type": "2nd",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -7124,7 +7124,7 @@
     "year": 2013,
     "type": "PPG",
     "btn1": "Once",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -7139,7 +7139,7 @@
     "type": "OT",
     "search": "Overtime",
     "btn1": "GWG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -7153,7 +7153,7 @@
     "year": 2013,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -7168,7 +7168,7 @@
     "year": 2013,
     "type": "",
     "btn1": "Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -7184,7 +7184,7 @@
     "type": "GWG",
     "btn1": "2nd Teammate",
     "btn2": "Backhand",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -7198,7 +7198,7 @@
     "year": 2013,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -7212,7 +7212,7 @@
     "year": 2013,
     "type": "",
     "btn1": "2nd",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -7226,7 +7226,7 @@
     "year": 2013,
     "type": "20th",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -7241,7 +7241,7 @@
     "type": "OT",
     "search": "Overtime",
     "btn1": "GWG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -7255,7 +7255,7 @@
     "year": 2013,
     "type": "PPG",
     "btn1": "Once",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -7269,7 +7269,7 @@
     "year": 2013,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -7283,7 +7283,7 @@
     "year": 2013,
     "type": "PPG",
     "btn1": "2nd",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -7298,7 +7298,7 @@
     "type": "3rd",
     "btn1": "Hat Trick",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -7313,7 +7313,7 @@
     "type": "4th",
     "search": "",
     "btn1": "6v5 Final Minute",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -7327,7 +7327,7 @@
     "year": 2013,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -7341,7 +7341,7 @@
     "year": 2013,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Throwback"
   },
@@ -7357,7 +7357,7 @@
     "type": "ENG",
     "search": "400th Century",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Throwback"
   },
@@ -7371,7 +7371,7 @@
     "year": 2013,
     "type": "30th",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -7385,7 +7385,7 @@
     "year": 2014,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -7399,7 +7399,7 @@
     "year": 2014,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -7413,7 +7413,7 @@
     "year": 2014,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -7428,7 +7428,7 @@
     "year": 2014,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Throwback"
   },
@@ -7442,7 +7442,7 @@
     "year": 2014,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Throwback"
   },
@@ -7457,7 +7457,7 @@
     "type": "GWG",
     "search": "Juggle",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Throwback"
   },
@@ -7471,7 +7471,7 @@
     "year": 2014,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Throwback"
   },
@@ -7486,7 +7486,7 @@
     "type": "2nd",
     "btn1": "Post",
     "btn2": "Tip",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Throwback"
   },
@@ -7502,7 +7502,7 @@
     "search": "Overtime Superbowl Super Bowl Sunday",
     "btn1": "GWG",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -7517,7 +7517,7 @@
     "year": 2014,
     "type": "40th",
     "btn1": "GWG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -7545,7 +7545,7 @@
     "year": 2014,
     "type": "GWG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -7559,7 +7559,7 @@
     "year": 2014,
     "type": "PPG",
     "btn1": "Vezina",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Throwback"
   },
@@ -7574,7 +7574,7 @@
     "year": 2014,
     "type": "2nd",
     "btn1": "PPG Vezina",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Throwback"
   },
@@ -7588,7 +7588,7 @@
     "year": 2014,
     "type": "PPG",
     "btn1": "Rocket Richard",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Throwback"
   },
@@ -7603,7 +7603,7 @@
     "year": 2014,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -7618,7 +7618,7 @@
     "type": "GWG",
     "btn1": "Once",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -7632,7 +7632,7 @@
     "year": 2014,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -7646,7 +7646,7 @@
     "year": 2014,
     "type": "2nd",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -7660,7 +7660,7 @@
     "year": 2014,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -7676,7 +7676,7 @@
     "search": "",
     "btn1": "Post",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -7691,7 +7691,7 @@
     "type": "GWG",
     "btn1": "Last",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -7765,7 +7765,7 @@
     "type": "GWG",
     "btn1": "First",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -7779,7 +7779,7 @@
     "year": 2014,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -7793,7 +7793,7 @@
     "year": 2014,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -7807,7 +7807,7 @@
     "year": 2014,
     "type": "2nd",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -7821,7 +7821,7 @@
     "year": 2014,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -7835,7 +7835,7 @@
     "year": 2014,
     "type": "PPG",
     "btn1": "360",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -7849,7 +7849,7 @@
     "year": 2014,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -7863,7 +7863,7 @@
     "year": 2014,
     "type": "GWG",
     "btn1": "2nd",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -7877,7 +7877,7 @@
     "year": 2014,
     "type": "GWG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -7892,7 +7892,7 @@
     "year": 2014,
     "type": "PPG",
     "btn1": "Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Throwback"
   },
@@ -7908,7 +7908,7 @@
     "type": "2nd",
     "btn1": "Teammate",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Throwback"
   },
@@ -7922,7 +7922,7 @@
     "year": 2014,
     "type": "GWG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -7936,7 +7936,7 @@
     "year": 2014,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -7950,7 +7950,7 @@
     "year": 2014,
     "type": "2nd",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -7964,7 +7964,7 @@
     "year": 2014,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -7978,7 +7978,7 @@
     "year": 2014,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Throwback"
   },
@@ -7993,7 +7993,7 @@
     "year": 2014,
     "type": "",
     "btn1": "Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Throwback"
   },
@@ -8008,7 +8008,7 @@
     "type": "",
     "search": "Nationals Park New Years Day Outdoor Washington Winter Classic",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Brick Stars & Stripes"
   },
@@ -8022,7 +8022,7 @@
     "year": 2015,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -8036,7 +8036,7 @@
     "year": 2015,
     "type": "20th",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -8050,7 +8050,7 @@
     "year": 2015,
     "type": "PPG",
     "btn1": "Post",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -8065,7 +8065,7 @@
     "type": "GWG",
     "btn1": "Teammate",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -8079,7 +8079,7 @@
     "year": 2015,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -8093,7 +8093,7 @@
     "year": 2015,
     "type": "2nd",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -8107,7 +8107,7 @@
     "year": 2015,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -8121,7 +8121,7 @@
     "year": 2015,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -8135,7 +8135,7 @@
     "year": 2015,
     "type": "2nd",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -8151,7 +8151,7 @@
     "type": "GWG",
     "search": "",
     "btn1": "Tip",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -8166,7 +8166,7 @@
     "year": 2015,
     "type": "2nd",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -8180,7 +8180,7 @@
     "year": 2015,
     "type": "30th",
     "btn1": "PPG Superbowl Super Bowl Sunday",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -8194,7 +8194,7 @@
     "year": 2015,
     "type": "2nd",
     "btn1": "Superbowl Super Bowl Sunday",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -8208,7 +8208,7 @@
     "year": 2015,
     "type": "GWG",
     "btn1": "Tip",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -8223,7 +8223,7 @@
     "type": "PPG",
     "search": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -8237,7 +8237,7 @@
     "year": 2015,
     "type": "",
     "btn1": "Valentine's Valentines Day",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Throwback"
   },
@@ -8251,7 +8251,7 @@
     "year": 2015,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Throwback"
   },
@@ -8265,7 +8265,7 @@
     "year": 2015,
     "type": "2nd",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Throwback"
   },
@@ -8280,7 +8280,7 @@
     "year": 2015,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Throwback"
   },
@@ -8295,7 +8295,7 @@
     "year": 2015,
     "type": "GWG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -8310,7 +8310,7 @@
     "year": 2015,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -8324,7 +8324,7 @@
     "year": 2015,
     "type": "40th",
     "btn1": "GWG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -8339,7 +8339,7 @@
     "type": "2nd",
     "search": "",
     "btn1": "Backhand",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -8353,7 +8353,7 @@
     "year": 2015,
     "type": "",
     "btn1": "Tip",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -8368,7 +8368,7 @@
     "type": "GWG",
     "btn1": "2nd",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -8382,7 +8382,7 @@
     "year": 2015,
     "type": "PPG",
     "btn1": "Rocket Richard",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -8396,7 +8396,7 @@
     "year": 2015,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -8410,7 +8410,7 @@
     "year": 2015,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -8424,7 +8424,7 @@
     "year": 2015,
     "type": "GWG",
     "btn1": "2nd",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -8438,7 +8438,7 @@
     "year": 2015,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Throwback"
   },
@@ -8452,7 +8452,7 @@
     "year": 2015,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Throwback"
   },
@@ -8466,7 +8466,7 @@
     "year": 2015,
     "type": "50th",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -8480,7 +8480,7 @@
     "year": 2015,
     "type": "PPG",
     "btn1": "Vezina",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Throwback"
   },
@@ -8494,7 +8494,7 @@
     "year": 2015,
     "type": "2nd",
     "btn1": "PPG Vezina",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Throwback"
   },
@@ -8508,7 +8508,7 @@
     "year": 2015,
     "type": "PPG",
     "btn1": "Last",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Brick Stars & Stripes"
   },
@@ -8611,7 +8611,7 @@
     "type": "",
     "btn1": "First",
     "btn2": "Post",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -8626,7 +8626,7 @@
     "type": "",
     "search": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -8640,7 +8640,7 @@
     "year": 2015,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -8657,7 +8657,7 @@
     "type": "",
     "search": "",
     "btn1": "Backhand",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -8671,7 +8671,7 @@
     "year": 2015,
     "type": "GWG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -8685,7 +8685,7 @@
     "year": 2015,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -8699,7 +8699,7 @@
     "year": 2015,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -8713,7 +8713,7 @@
     "year": 2015,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -8727,7 +8727,7 @@
     "year": 2015,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -8741,7 +8741,7 @@
     "year": 2015,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -8755,7 +8755,7 @@
     "year": 2015,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -8769,7 +8769,7 @@
     "year": 2015,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -8783,7 +8783,7 @@
     "year": 2015,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -8797,7 +8797,7 @@
     "year": 2015,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -8811,7 +8811,7 @@
     "year": 2015,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -8825,7 +8825,7 @@
     "year": 2015,
     "type": "2nd",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -8839,7 +8839,7 @@
     "year": 2015,
     "type": "GWG",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -8853,7 +8853,7 @@
     "year": 2015,
     "type": "GWG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -8867,7 +8867,7 @@
     "year": 2015,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Throwback"
   },
@@ -8882,7 +8882,7 @@
     "type": "20th",
     "search": "2nd",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Throwback"
   },
@@ -8898,7 +8898,7 @@
     "type": "",
     "search": "New Years Eve",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -8913,7 +8913,7 @@
     "year": 2016,
     "type": "GWG",
     "btn1": "Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -8927,7 +8927,7 @@
     "year": 2016,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -8942,7 +8942,7 @@
     "type": "OT",
     "search": "2nd Overtime",
     "btn1": "GWG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -8957,7 +8957,7 @@
     "year": 2016,
     "type": "PPG",
     "btn1": "500th Century",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -8971,7 +8971,7 @@
     "year": 2016,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -8985,7 +8985,7 @@
     "year": 2016,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Throwback"
   },
@@ -9000,7 +9000,7 @@
     "year": 2016,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -9015,7 +9015,7 @@
     "year": 2016,
     "type": "GWG",
     "btn1": "Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Throwback"
   },
@@ -9029,7 +9029,7 @@
     "year": 2016,
     "type": "30th",
     "btn1": "Superbowl Super Bowl Sunday",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Throwback"
   },
@@ -9043,7 +9043,7 @@
     "year": 2016,
     "type": "PPG",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -9057,7 +9057,7 @@
     "year": 2016,
     "type": "",
     "btn1": "Jean Beliveau",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -9071,7 +9071,7 @@
     "year": 2016,
     "type": "2nd",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -9085,7 +9085,7 @@
     "year": 2016,
     "type": "3rd",
     "btn1": "Hat Trick",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -9099,7 +9099,7 @@
     "year": 2016,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -9113,7 +9113,7 @@
     "year": 2016,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -9128,7 +9128,7 @@
     "type": "2nd",
     "btn1": "Gilbert Perreault",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -9142,7 +9142,7 @@
     "year": 2016,
     "type": "",
     "btn1": "Jeremy Roenick",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -9156,7 +9156,7 @@
     "year": 2016,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -9171,7 +9171,7 @@
     "type": "40th",
     "btn1": "Teammate",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -9185,7 +9185,7 @@
     "year": 2016,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -9201,7 +9201,7 @@
     "type": "OT",
     "search": "Overtime",
     "btn1": "GWG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Throwback"
   },
@@ -9215,7 +9215,7 @@
     "year": 2016,
     "type": "PPG",
     "btn1": "Dale Hawerchuk Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -9229,7 +9229,7 @@
     "year": 2016,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -9243,7 +9243,7 @@
     "year": 2016,
     "type": "PPG",
     "btn1": "April Fools Day Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -9257,7 +9257,7 @@
     "year": 2016,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -9272,7 +9272,7 @@
     "type": "2nd",
     "btn1": "Pat Verbeek",
     "btn2": "Rocket Richard",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -9286,7 +9286,7 @@
     "year": 2016,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -9300,7 +9300,7 @@
     "year": 2016,
     "type": "GWG",
     "btn1": "Bryan Trottier 2nd",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -9315,7 +9315,7 @@
     "type": "50th",
     "btn1": "3rd Last",
     "btn2": "Hat Trick",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -9435,7 +9435,7 @@
     "type": "GWG",
     "btn1": "First Teammate",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -9449,7 +9449,7 @@
     "year": 2016,
     "type": "GWG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -9463,7 +9463,7 @@
     "year": 2016,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -9477,7 +9477,7 @@
     "year": 2016,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -9491,7 +9491,7 @@
     "year": 2016,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Throwback"
   },
@@ -9507,7 +9507,7 @@
     "search": "2nd Overtime",
     "btn1": "GWG",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Throwback"
   },
@@ -9521,7 +9521,7 @@
     "year": 2016,
     "type": "",
     "btn1": "Tip",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -9536,7 +9536,7 @@
     "year": 2016,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -9550,7 +9550,7 @@
     "year": 2016,
     "type": "PPG",
     "btn1": "Vezina",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -9564,7 +9564,7 @@
     "year": 2016,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -9578,7 +9578,7 @@
     "year": 2016,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -9593,7 +9593,7 @@
     "type": "3rd",
     "btn1": "GWG",
     "btn2": "Hat Trick",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -9609,7 +9609,7 @@
     "type": "GWG",
     "btn1": "Keith Tkachuk",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -9623,7 +9623,7 @@
     "year": 2016,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -9637,7 +9637,7 @@
     "year": 2016,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Throwback"
   },
@@ -9652,7 +9652,7 @@
     "year": 2016,
     "type": "",
     "btn1": "Stan Makita Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -9667,7 +9667,7 @@
     "type": "",
     "search": "New Years Eve",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -9682,7 +9682,7 @@
     "type": "OT",
     "search": "Overtime",
     "btn1": "GWG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -9696,7 +9696,7 @@
     "year": 2017,
     "type": "PPG",
     "btn1": "Maurice Richard",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -9712,7 +9712,7 @@
     "year": 2017,
     "type": "20th",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -9727,7 +9727,7 @@
     "year": 2017,
     "type": "2nd",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -9741,7 +9741,7 @@
     "year": 2017,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -9755,14 +9755,14 @@
     "year": 2017,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
   {
     "goal": 548.06,
     "link": "https://www.youtube.com/embed/Uc9PcE458p4?si=z6XvuOrkQcTTQq2e&amp;start=569",
-    "team": "NHL",
+    "team": "Atlantic",
     "goalie": "Tuukka Rask",
     "month": "January",
     "day": 29,
@@ -9783,7 +9783,7 @@
     "year": 2017,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -9797,7 +9797,7 @@
     "year": 2017,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -9812,7 +9812,7 @@
     "year": 2017,
     "type": "GWG",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -9826,7 +9826,7 @@
     "year": 2017,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -9840,7 +9840,7 @@
     "year": 2017,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -9854,7 +9854,7 @@
     "year": 2017,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -9868,7 +9868,7 @@
     "year": 2017,
     "type": "30th",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -9882,7 +9882,7 @@
     "year": 2017,
     "type": "PPG",
     "btn1": "Johnny Bucyk",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -9896,7 +9896,7 @@
     "year": 2017,
     "type": "2nd",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -9912,7 +9912,7 @@
     "search": "Last",
     "btn1": "Hat Trick",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -10000,7 +10000,7 @@
     "year": 2017,
     "type": "",
     "btn1": "First Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -10014,7 +10014,7 @@
     "year": 2017,
     "type": "2nd",
     "btn1": "Guy Lafleur Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -10029,7 +10029,7 @@
     "type": "3rd",
     "search": "Teammate",
     "btn1": "Hat Trick",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -10043,7 +10043,7 @@
     "year": 2017,
     "type": "",
     "btn1": "360",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -10057,7 +10057,7 @@
     "year": 2017,
     "type": "2nd",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -10072,7 +10072,7 @@
     "type": "3rd",
     "btn1": "Hat Trick",
     "btn2": "Tip",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -10087,7 +10087,7 @@
     "type": "4th",
     "search": "",
     "btn1": "Backhand",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -10101,7 +10101,7 @@
     "year": 2017,
     "type": "",
     "btn1": "Patrick Marleau",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -10115,7 +10115,7 @@
     "year": 2017,
     "type": "PPG",
     "btn1": "Post",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -10132,7 +10132,7 @@
     "search": "Overtime",
     "btn1": "GWG",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -10146,7 +10146,7 @@
     "year": 2017,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -10160,7 +10160,7 @@
     "year": 2017,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -10174,7 +10174,7 @@
     "year": 2017,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -10189,7 +10189,7 @@
     "type": "",
     "btn1": "Post",
     "btn2": "Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -10203,7 +10203,7 @@
     "year": 2017,
     "type": "",
     "btn1": "Mike Bossy",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -10217,7 +10217,7 @@
     "year": 2017,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -10231,7 +10231,7 @@
     "year": 2017,
     "type": "2nd",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -10246,7 +10246,7 @@
     "type": "3rd",
     "btn1": "Empty Net",
     "btn2": "Hat Trick",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -10260,7 +10260,7 @@
     "year": 2017,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -10276,7 +10276,7 @@
     "search": "",
     "btn1": "Backhand",
     "btn2": "GWG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -10290,7 +10290,7 @@
     "year": 2017,
     "type": "GWG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -10304,7 +10304,7 @@
     "year": 2017,
     "type": "ENG",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -10320,7 +10320,7 @@
     "search": "Overtime",
     "btn1": "GWG",
     "btn2": "Post",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -10334,7 +10334,7 @@
     "year": 2017,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -10348,7 +10348,7 @@
     "year": 2018,
     "type": "",
     "btn1": "Backhand",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -10363,7 +10363,7 @@
     "type": "OT",
     "search": "2nd Overtime",
     "btn1": "GWG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -10377,7 +10377,7 @@
     "year": 2018,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -10391,7 +10391,7 @@
     "year": 2018,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -10405,7 +10405,7 @@
     "year": 2018,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -10420,14 +10420,14 @@
     "year": 2018,
     "type": "30th",
     "btn1": "Once",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
   {
     "goal": 588.07,
     "link": "https://www.youtube.com/embed/EYNL3TGlFOI?si=E8UFgLBFF-A5CP5v&amp;start=410",
-    "team": "NHL",
+    "team": "Atlantic",
     "goalie": "Andrei Vasilevskiy",
     "month": "January",
     "day": 28,
@@ -10448,7 +10448,7 @@
     "year": 2018,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -10462,7 +10462,7 @@
     "year": 2018,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -10476,7 +10476,7 @@
     "year": 2018,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -10490,7 +10490,7 @@
     "year": 2018,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -10504,7 +10504,7 @@
     "year": 2018,
     "type": "",
     "btn1": "Tip",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -10518,7 +10518,7 @@
     "year": 2018,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -10532,7 +10532,7 @@
     "year": 2018,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -10546,7 +10546,7 @@
     "year": 2018,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -10560,7 +10560,7 @@
     "year": 2018,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -10574,7 +10574,7 @@
     "year": 2018,
     "type": "40th",
     "btn1": "Annapolis Maryland Naval Academy Outdoor Stadium Series",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Navy Stadium Series"
   },
@@ -10588,7 +10588,7 @@
     "year": 2018,
     "type": "5v3",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -10603,7 +10603,7 @@
     "year": 2018,
     "type": "2nd",
     "btn1": "600th Century",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -10619,7 +10619,7 @@
     "year": 2018,
     "type": "",
     "btn1": "Backhand",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -10633,7 +10633,7 @@
     "year": 2018,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Navy Stadium Series"
   },
@@ -10648,7 +10648,7 @@
     "type": "GWG",
     "btn1": "PPG",
     "btn2": "Rocket Richard",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -10662,7 +10662,7 @@
     "year": 2018,
     "type": "PPG",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -10676,7 +10676,7 @@
     "year": 2018,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -10690,7 +10690,7 @@
     "year": 2018,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -10704,7 +10704,7 @@
     "year": 2018,
     "type": "GWG",
     "btn1": "Last 2nd",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -10942,7 +10942,7 @@
     "year": 2018,
     "type": "PPG",
     "btn1": "Banner Raise First",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -10956,7 +10956,7 @@
     "year": 2018,
     "type": "",
     "btn1": "Tip",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -10972,7 +10972,7 @@
     "year": 2018,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -10987,7 +10987,7 @@
     "year": 2018,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -11002,7 +11002,7 @@
     "type": "PPG",
     "search": "",
     "btn1": "Post",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -11018,7 +11018,7 @@
     "search": "",
     "btn1": "Post",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -11033,7 +11033,7 @@
     "type": "GWG",
     "search": "",
     "btn1": "Tip",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11047,7 +11047,7 @@
     "year": 2018,
     "type": "2nd",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11061,7 +11061,7 @@
     "year": 2018,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11075,7 +11075,7 @@
     "year": 2018,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11089,7 +11089,7 @@
     "year": 2018,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -11103,7 +11103,7 @@
     "year": 2018,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -11117,7 +11117,7 @@
     "year": 2018,
     "type": "",
     "btn1": "Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11131,7 +11131,7 @@
     "year": 2018,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11145,7 +11145,7 @@
     "year": 2018,
     "type": "2nd",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11159,7 +11159,7 @@
     "year": 2018,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -11173,7 +11173,7 @@
     "year": 2018,
     "type": "",
     "btn1": "Backhand",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11188,7 +11188,7 @@
     "year": 2018,
     "type": "ENG",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11202,7 +11202,7 @@
     "year": 2018,
     "type": "ENG",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Throwback"
   },
@@ -11217,7 +11217,7 @@
     "year": 2018,
     "type": "20th",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11231,7 +11231,7 @@
     "year": 2018,
     "type": "ENG",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11245,7 +11245,7 @@
     "year": 2018,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11259,7 +11259,7 @@
     "year": 2018,
     "type": "GWG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -11273,7 +11273,7 @@
     "year": 2018,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -11287,7 +11287,7 @@
     "year": 2018,
     "type": "3rd",
     "btn1": "Hat Trick",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -11301,7 +11301,7 @@
     "year": 2018,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11315,7 +11315,7 @@
     "year": 2018,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11330,7 +11330,7 @@
     "type": "3rd",
     "btn1": "Hat Trick",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11344,7 +11344,7 @@
     "year": 2018,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -11358,7 +11358,7 @@
     "year": 2019,
     "type": "30th",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11374,7 +11374,7 @@
     "type": "",
     "search": "Teammate",
     "btn1": "Post",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11388,7 +11388,7 @@
     "year": 2019,
     "type": "2nd",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11403,7 +11403,7 @@
     "day": 14,
     "year": 2019,
     "type": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -11417,7 +11417,7 @@
     "year": 2019,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -11431,7 +11431,7 @@
     "year": 2019,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -11445,7 +11445,7 @@
     "year": 2019,
     "type": "3rd",
     "btn1": "Hat Trick",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -11459,7 +11459,7 @@
     "year": 2019,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11473,7 +11473,7 @@
     "year": 2019,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -11487,7 +11487,7 @@
     "year": 2019,
     "type": "",
     "btn1": "Valentine's Valentines Day",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11501,7 +11501,7 @@
     "year": 2019,
     "type": "40th",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11515,7 +11515,7 @@
     "year": 2019,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11530,7 +11530,7 @@
     "type": "GWG",
     "btn1": "2nd",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11544,7 +11544,7 @@
     "year": 2019,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11558,7 +11558,7 @@
     "year": 2019,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11572,7 +11572,7 @@
     "year": 2019,
     "type": "GWG",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11586,7 +11586,7 @@
     "year": 2019,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11600,7 +11600,7 @@
     "year": 2019,
     "type": "PPG",
     "btn1": "Vezina",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11614,7 +11614,7 @@
     "year": 2019,
     "type": "2nd",
     "btn1": "Vezina",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11630,7 +11630,7 @@
     "year": 2019,
     "type": "GWG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Throwback"
   },
@@ -11644,7 +11644,7 @@
     "year": 2019,
     "type": "50th",
     "btn1": "Vezina",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11659,7 +11659,7 @@
     "type": "2nd",
     "search": "Last Rocket Richard Vezina",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11761,7 +11761,7 @@
     "year": 2019,
     "type": "",
     "btn1": "First",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11775,7 +11775,7 @@
     "year": 2019,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11789,7 +11789,7 @@
     "year": 2019,
     "type": "2nd",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11804,7 +11804,7 @@
     "type": "ENG",
     "btn1": "Backhand",
     "btn2": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11818,7 +11818,7 @@
     "year": 2019,
     "type": "",
     "btn1": "Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -11832,7 +11832,7 @@
     "year": 2019,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11846,7 +11846,7 @@
     "year": 2019,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11860,7 +11860,7 @@
     "year": 2019,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11874,7 +11874,7 @@
     "year": 2019,
     "type": "2nd",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11889,7 +11889,7 @@
     "year": 2019,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11905,7 +11905,7 @@
     "search": "2nd Overtime",
     "btn1": "GWG",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11919,7 +11919,7 @@
     "year": 2019,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11933,7 +11933,7 @@
     "year": 2019,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -11947,7 +11947,7 @@
     "year": 2019,
     "type": "PPG",
     "btn1": "Post",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -11961,7 +11961,7 @@
     "year": 2019,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -11975,7 +11975,7 @@
     "year": 2019,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -11989,7 +11989,7 @@
     "year": 2019,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -12003,7 +12003,7 @@
     "year": 2019,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -12017,7 +12017,7 @@
     "year": 2019,
     "type": "2nd",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -12033,7 +12033,7 @@
     "search": "20th",
     "btn1": "Empty Net",
     "btn2": "Hat Trick",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -12047,7 +12047,7 @@
     "year": 2019,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Throwback"
   },
@@ -12061,7 +12061,7 @@
     "year": 2019,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -12075,7 +12075,7 @@
     "year": 2019,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -12090,7 +12090,7 @@
     "year": 2019,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -12104,7 +12104,7 @@
     "year": 2020,
     "type": "",
     "btn1": "Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -12121,7 +12121,7 @@
     "type": "2nd",
     "search": "",
     "btn1": "Post",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -12136,7 +12136,7 @@
     "year": 2020,
     "type": "GWG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -12151,7 +12151,7 @@
     "year": 2020,
     "type": "2nd",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -12165,7 +12165,7 @@
     "year": 2020,
     "type": "5v3",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Throwback"
   },
@@ -12179,7 +12179,7 @@
     "year": 2020,
     "type": "30th",
     "btn1": "2nd",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Throwback"
   },
@@ -12193,7 +12193,7 @@
     "year": 2020,
     "type": "3rd",
     "btn1": "Hat Trick",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Throwback"
   },
@@ -12208,7 +12208,7 @@
     "year": 2020,
     "type": "",
     "btn1": "Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -12222,7 +12222,7 @@
     "year": 2020,
     "type": "2nd",
     "btn1": "Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -12238,7 +12238,7 @@
     "type": "3rd",
     "btn1": "Empty Net",
     "btn2": "Hat Trick",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -12252,7 +12252,7 @@
     "year": 2020,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -12268,7 +12268,7 @@
     "year": 2020,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -12283,7 +12283,7 @@
     "type": "2nd",
     "btn1": "Empty Net",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -12297,7 +12297,7 @@
     "year": 2020,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -12311,7 +12311,7 @@
     "year": 2020,
     "type": "GWG",
     "btn1": "2nd",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -12327,7 +12327,7 @@
     "search": "40th",
     "btn1": "Empty Net",
     "btn2": "Hat Trick",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -12341,7 +12341,7 @@
     "year": 2020,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -12357,7 +12357,7 @@
     "type": "",
     "btn1": "700th Century",
     "btn2": "Post",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -12371,7 +12371,7 @@
     "year": 2020,
     "type": "",
     "btn1": "Once",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -12385,7 +12385,7 @@
     "year": 2020,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -12399,7 +12399,7 @@
     "year": 2020,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -12413,7 +12413,7 @@
     "year": 2020,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -12427,7 +12427,7 @@
     "year": 2020,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -12441,7 +12441,7 @@
     "year": 2020,
     "type": "",
     "btn1": "Last Rocket Richard",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -12515,7 +12515,7 @@
     "type": "",
     "btn1": "Backhand",
     "btn2": "First",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -12531,7 +12531,7 @@
     "type": "OT",
     "search": "Overtime",
     "btn1": "GWG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -12545,7 +12545,7 @@
     "year": 2021,
     "type": "",
     "btn1": "Post",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -12559,7 +12559,7 @@
     "year": 2021,
     "type": "PPG",
     "btn1": "Superbowl Super Bowl Sunday",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Navy Third"
   },
@@ -12573,7 +12573,7 @@
     "year": 2021,
     "type": "2nd",
     "btn1": "Superbowl Super Bowl Sunday",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Navy Third"
   },
@@ -12587,7 +12587,7 @@
     "year": 2021,
     "type": "GWG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Navy Third"
   },
@@ -12601,7 +12601,7 @@
     "year": 2021,
     "type": "GWG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -12615,7 +12615,7 @@
     "year": 2021,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -12630,7 +12630,7 @@
     "type": "",
     "search": "",
     "btn1": "Post",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -12644,7 +12644,7 @@
     "year": 2021,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -12659,7 +12659,7 @@
     "year": 2021,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -12675,7 +12675,7 @@
     "type": "GWG",
     "btn1": "Teammate",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Reverse Retro"
   },
@@ -12689,7 +12689,7 @@
     "year": 2021,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -12703,7 +12703,7 @@
     "year": 2021,
     "type": "GWG",
     "btn1": "2nd",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -12717,7 +12717,7 @@
     "year": 2021,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -12731,7 +12731,7 @@
     "year": 2021,
     "type": "GWG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Navy Third"
   },
@@ -12745,7 +12745,7 @@
     "year": 2021,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Navy Third"
   },
@@ -12759,7 +12759,7 @@
     "year": 2021,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -12773,7 +12773,7 @@
     "year": 2021,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -12787,7 +12787,7 @@
     "year": 2021,
     "type": "20th",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Navy Third"
   },
@@ -12801,7 +12801,7 @@
     "year": 2021,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -12815,7 +12815,7 @@
     "year": 2021,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -12829,7 +12829,7 @@
     "year": 2021,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -12844,7 +12844,7 @@
     "type": "2nd",
     "btn1": "Last",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -12889,7 +12889,7 @@
     "year": 2021,
     "type": "PPG",
     "btn1": "First",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -12904,7 +12904,7 @@
     "type": "SHG",
     "btn1": "2nd",
     "btn2": "Backhand",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -12918,7 +12918,7 @@
     "year": 2021,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -12932,7 +12932,7 @@
     "year": 2021,
     "type": "ENG",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -12946,7 +12946,7 @@
     "year": 2021,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -12960,7 +12960,7 @@
     "year": 2021,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -12974,7 +12974,7 @@
     "year": 2021,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -12988,7 +12988,7 @@
     "year": 2021,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -13002,7 +13002,7 @@
     "year": 2021,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -13016,7 +13016,7 @@
     "year": 2021,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -13032,7 +13032,7 @@
     "year": 2021,
     "type": "",
     "btn1": "Tip",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -13046,7 +13046,7 @@
     "year": 2021,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -13060,7 +13060,7 @@
     "year": 2021,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -13074,7 +13074,7 @@
     "year": 2021,
     "type": "2nd",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -13088,7 +13088,7 @@
     "year": 2021,
     "type": "",
     "btn1": "Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -13102,7 +13102,7 @@
     "year": 2021,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Navy Third"
   },
@@ -13116,7 +13116,7 @@
     "year": 2021,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Navy Third"
   },
@@ -13131,7 +13131,7 @@
     "type": "3rd",
     "btn1": "GWG",
     "btn2": "Hat Trick",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Navy Third"
   },
@@ -13145,7 +13145,7 @@
     "year": 2021,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -13159,7 +13159,7 @@
     "year": 2021,
     "type": "20th",
     "btn1": "GWG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Navy Third"
   },
@@ -13174,7 +13174,7 @@
     "year": 2021,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -13188,7 +13188,7 @@
     "year": 2021,
     "type": "ENG",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -13204,7 +13204,7 @@
     "type": "GWG",
     "search": "New Years Eve",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -13219,7 +13219,7 @@
     "type": "2nd",
     "search": "New Years Eve",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -13234,7 +13234,7 @@
     "type": "ENG",
     "btn1": "Backhand",
     "btn2": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -13248,7 +13248,7 @@
     "year": 2022,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Navy Third"
   },
@@ -13262,7 +13262,7 @@
     "year": 2022,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -13276,7 +13276,7 @@
     "year": 2022,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Navy Third"
   },
@@ -13290,7 +13290,7 @@
     "year": 2022,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Navy Third"
   },
@@ -13304,7 +13304,7 @@
     "year": 2022,
     "type": "30th",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -13318,7 +13318,7 @@
     "year": 2022,
     "type": "2nd",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -13332,7 +13332,7 @@
     "year": 2022,
     "type": "",
     "btn1": "Vezina",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -13346,7 +13346,7 @@
     "year": 2022,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -13360,7 +13360,7 @@
     "year": 2022,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -13374,7 +13374,7 @@
     "year": 2022,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -13390,7 +13390,7 @@
     "type": "GWG",
     "search": "2nd",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -13404,7 +13404,7 @@
     "year": 2022,
     "type": "",
     "btn1": "Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -13419,7 +13419,7 @@
     "year": 2022,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -13433,7 +13433,7 @@
     "year": 2022,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -13447,7 +13447,7 @@
     "year": 2022,
     "type": "40th",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -13461,7 +13461,7 @@
     "year": 2022,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -13475,7 +13475,7 @@
     "year": 2022,
     "type": "GWG",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Navy Third"
   },
@@ -13489,7 +13489,7 @@
     "year": 2022,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -13503,7 +13503,7 @@
     "year": 2022,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -13517,7 +13517,7 @@
     "year": 2022,
     "type": "ENG",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Navy Third"
   },
@@ -13531,7 +13531,7 @@
     "year": 2022,
     "type": "",
     "btn1": "Backhand",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -13545,7 +13545,7 @@
     "year": 2022,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -13559,7 +13559,7 @@
     "year": 2022,
     "type": "PPG",
     "btn1": "Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -13573,7 +13573,7 @@
     "year": 2022,
     "type": "",
     "btn1": "Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -13587,7 +13587,7 @@
     "year": 2022,
     "type": "50th",
     "btn1": "2nd Last Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -13615,7 +13615,7 @@
     "year": 2022,
     "type": "PPG",
     "btn1": "First",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Navy Third"
   },
@@ -13629,7 +13629,7 @@
     "year": 2022,
     "type": "2nd",
     "btn1": "Tip",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Navy Third"
   },
@@ -13643,7 +13643,7 @@
     "year": 2022,
     "type": "GWG",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -13657,7 +13657,7 @@
     "year": 2022,
     "type": "ENG",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -13671,7 +13671,7 @@
     "year": 2022,
     "type": "PPG",
     "btn1": "Halloween",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -13685,7 +13685,7 @@
     "year": 2022,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -13699,7 +13699,7 @@
     "year": 2022,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Black Reverse Retro"
   },
@@ -13713,7 +13713,7 @@
     "year": 2022,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -13727,7 +13727,7 @@
     "year": 2022,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -13743,7 +13743,7 @@
     "type": "OT",
     "search": "Overtime",
     "btn1": "GWG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -13758,7 +13758,7 @@
     "year": 2022,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Black Reverse Retro"
   },
@@ -13772,7 +13772,7 @@
     "year": 2022,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -13786,7 +13786,7 @@
     "year": 2022,
     "type": "GWG",
     "btn1": "2nd",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -13800,7 +13800,7 @@
     "year": 2022,
     "type": "ENG",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -13814,7 +13814,7 @@
     "year": 2022,
     "type": "2nd",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -13828,7 +13828,7 @@
     "year": 2022,
     "type": "ENG",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Black Reverse Retro"
   },
@@ -13842,7 +13842,7 @@
     "year": 2022,
     "type": "ENG",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -13857,7 +13857,7 @@
     "year": 2022,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -13872,7 +13872,7 @@
     "year": 2022,
     "type": "2nd",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -13889,7 +13889,7 @@
     "type": "3rd",
     "search": "20th 800th Century",
     "btn1": "Hat Trick",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -13904,7 +13904,7 @@
     "day": 23,
     "year": 2022,
     "type": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Black Reverse Retro"
   },
@@ -13918,7 +13918,7 @@
     "year": 2022,
     "type": "2nd",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Black Reverse Retro"
   },
@@ -13932,7 +13932,7 @@
     "year": 2022,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -13947,7 +13947,7 @@
     "type": "",
     "search": "New Years Eve",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Black Reverse Retro"
   },
@@ -13963,7 +13963,7 @@
     "search": "New Years Eve",
     "btn1": "Post",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Black Reverse Retro"
   },
@@ -13978,7 +13978,7 @@
     "type": "3rd",
     "search": "New Years Eve",
     "btn1": "Hat Trick",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Black Reverse Retro"
   },
@@ -13994,7 +13994,7 @@
     "type": "",
     "search": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Black Reverse Retro"
   },
@@ -14009,7 +14009,7 @@
     "year": 2023,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Black Reverse Retro"
   },
@@ -14024,7 +14024,7 @@
     "year": 2023,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14038,7 +14038,7 @@
     "year": 2023,
     "type": "30th",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Black Reverse Retro"
   },
@@ -14052,7 +14052,7 @@
     "year": 2023,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14066,14 +14066,14 @@
     "year": 2023,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
   {
     "goal": 813.08,
     "link": "https://www.youtube.com/embed/7n6PUBU_pRc?si=g_v8eX-IkFbx7ZzW&amp;start=302",
-    "team": "NHL",
+    "team": "Atlantic",
     "goalie": "Andrei Vasilevskiy",
     "month": "February",
     "day": 4,
@@ -14095,7 +14095,7 @@
     "year": 2023,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14110,7 +14110,7 @@
     "year": 2023,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14125,7 +14125,7 @@
     "year": 2023,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14141,7 +14141,7 @@
     "search": "Teammate",
     "btn1": "Post",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14156,7 +14156,7 @@
     "year": 2023,
     "type": "",
     "btn1": "Tip",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14171,7 +14171,7 @@
     "year": 2023,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14186,7 +14186,7 @@
     "year": 2023,
     "type": "2nd",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14200,7 +14200,7 @@
     "year": 2023,
     "type": "40th",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -14214,7 +14214,7 @@
     "year": 2023,
     "type": "",
     "btn1": "Backhand",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -14228,7 +14228,7 @@
     "year": 2023,
     "type": "PPG",
     "btn1": "Last",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14242,7 +14242,7 @@
     "year": 2023,
     "type": "PPG",
     "btn1": "First",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -14256,7 +14256,7 @@
     "year": 2023,
     "type": "ENG",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14270,7 +14270,7 @@
     "year": 2023,
     "type": "",
     "btn1": "Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14284,7 +14284,7 @@
     "year": 2023,
     "type": "2nd",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14299,7 +14299,7 @@
     "year": 2023,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -14316,7 +14316,7 @@
     "search": "Overtime",
     "btn1": "GWG",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14330,7 +14330,7 @@
     "year": 2023,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Navy Third"
   },
@@ -14344,7 +14344,7 @@
     "year": 2024,
     "type": "GWG",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14358,7 +14358,7 @@
     "year": 2024,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14372,7 +14372,7 @@
     "year": 2024,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Navy Third"
   },
@@ -14386,7 +14386,7 @@
     "year": 2024,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14400,7 +14400,7 @@
     "year": 2024,
     "type": "ENG",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14414,7 +14414,7 @@
     "year": 2024,
     "type": "",
     "btn1": "Superbowl Super Bowl Sunday",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -14428,7 +14428,7 @@
     "year": 2024,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -14442,7 +14442,7 @@
     "year": 2024,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Navy Third"
   },
@@ -14456,7 +14456,7 @@
     "year": 2024,
     "type": "2nd",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Navy Third"
   },
@@ -14470,7 +14470,7 @@
     "year": 2024,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -14484,7 +14484,7 @@
     "year": 2024,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14498,7 +14498,7 @@
     "year": 2024,
     "type": "GWG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14512,7 +14512,7 @@
     "year": 2024,
     "type": "20th",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14527,7 +14527,7 @@
     "type": "GWG",
     "btn1": "2nd",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14541,7 +14541,7 @@
     "year": 2024,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -14555,7 +14555,7 @@
     "year": 2024,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -14569,7 +14569,7 @@
     "year": 2024,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -14583,7 +14583,7 @@
     "year": 2024,
     "type": "",
     "btn1": "Vezina",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -14597,7 +14597,7 @@
     "year": 2024,
     "type": "2nd",
     "btn1": "Vezina",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -14611,7 +14611,7 @@
     "year": 2024,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -14625,7 +14625,7 @@
     "year": 2024,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14639,7 +14639,7 @@
     "year": 2024,
     "type": "2nd",
     "btn1": "Tip",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14653,7 +14653,7 @@
     "year": 2024,
     "type": "30th",
     "btn1": "GWG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14668,7 +14668,7 @@
     "type": "",
     "btn1": "Last",
     "btn2": "Tip",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14683,7 +14683,7 @@
     "year": 2024,
     "type": "",
     "btn1": "First",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14698,7 +14698,7 @@
     "type": "ENG",
     "btn1": "Backhand",
     "btn2": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -14712,7 +14712,7 @@
     "year": 2024,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -14726,7 +14726,7 @@
     "year": 2024,
     "type": "2nd",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -14740,7 +14740,7 @@
     "year": 2024,
     "type": "",
     "btn1": "Halloween",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -14754,7 +14754,7 @@
     "year": 2024,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -14769,7 +14769,7 @@
     "type": "5v3",
     "search": "",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14783,7 +14783,7 @@
     "year": 2024,
     "type": "GWG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Black Reverse Retro"
   },
@@ -14797,7 +14797,7 @@
     "year": 2024,
     "type": "GWG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14811,7 +14811,7 @@
     "year": 2024,
     "type": "2nd",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14825,7 +14825,7 @@
     "year": 2024,
     "type": "PPG",
     "btn1": "Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14839,7 +14839,7 @@
     "year": 2024,
     "type": "2nd",
     "btn1": "Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14854,7 +14854,7 @@
     "type": "3rd",
     "btn1": "Empty Net",
     "btn2": "Hat Trick",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14868,7 +14868,7 @@
     "year": 2024,
     "type": "GWG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14883,7 +14883,7 @@
     "type": "5v3",
     "btn1": "2nd",
     "btn2": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14897,7 +14897,7 @@
     "year": 2024,
     "type": "ENG",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14911,7 +14911,7 @@
     "year": 2024,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14926,7 +14926,7 @@
     "year": 2025,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -14941,7 +14941,7 @@
     "type": "GWG",
     "search": "",
     "btn1": "Backhand",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -14955,7 +14955,7 @@
     "year": 2025,
     "type": "20th",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14971,7 +14971,7 @@
     "type": "OT",
     "search": "Once Overtime",
     "btn1": "GWG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14985,7 +14985,7 @@
     "year": 2025,
     "type": "ENG",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -14999,7 +14999,7 @@
     "year": 2025,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -15013,7 +15013,7 @@
     "year": 2025,
     "type": "",
     "btn1": "Vezina",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Black Reverse Retro"
   },
@@ -15027,7 +15027,7 @@
     "year": 2025,
     "type": "ENG",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -15041,7 +15041,7 @@
     "year": 2025,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -15055,7 +15055,7 @@
     "year": 2025,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -15069,7 +15069,7 @@
     "year": 2025,
     "type": "GWG",
     "btn1": "2nd",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -15084,7 +15084,7 @@
     "type": "3rd",
     "btn1": "Empty Net",
     "btn2": "Hat Trick",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -15098,7 +15098,7 @@
     "year": 2025,
     "type": "30th",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -15112,7 +15112,7 @@
     "year": 2025,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -15126,7 +15126,7 @@
     "year": 2025,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -15142,7 +15142,7 @@
     "type": "ENG",
     "btn1": "Backhand",
     "btn2": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -15156,7 +15156,7 @@
     "year": 2025,
     "type": "",
     "btn1": "Tip",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -15170,7 +15170,7 @@
     "year": 2025,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -15184,7 +15184,7 @@
     "year": 2025,
     "type": "",
     "btn1": "Vezina",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -15199,7 +15199,7 @@
     "type": "",
     "btn1": "Backhand",
     "btn2": "Tip",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -15213,7 +15213,7 @@
     "year": 2025,
     "type": "PPG",
     "btn1": "April Fools Day",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -15227,7 +15227,7 @@
     "year": 2025,
     "type": "5v3",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -15241,7 +15241,7 @@
     "year": 2025,
     "type": "40th",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -15256,7 +15256,7 @@
     "year": 2025,
     "type": "GWG",
     "btn1": "2nd PPG Wayne Gretzky",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -15271,7 +15271,7 @@
     "year": 2025,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -15285,7 +15285,7 @@
     "year": 2025,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Black Reverse Retro"
   },
@@ -15299,7 +15299,7 @@
     "year": 2025,
     "type": "PPG",
     "btn1": "Last",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -15388,7 +15388,7 @@
     "type": "",
     "btn1": "First",
     "btn2": "Post",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Reverse Retro"
   },
@@ -15402,7 +15402,7 @@
     "year": 2025,
     "type": "GWG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -15417,7 +15417,7 @@
     "type": "GWG",
     "btn1": "900th Century",
     "btn2": "Backhand",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -15431,7 +15431,7 @@
     "year": 2025,
     "type": "ENG",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -15445,7 +15445,7 @@
     "year": 2025,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Reverse Retro"
   },
@@ -15459,7 +15459,7 @@
     "year": 2025,
     "type": "GWG",
     "btn1": "Teammate",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -15473,7 +15473,7 @@
     "year": 2025,
     "type": "",
     "btn1": "Tip",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -15487,7 +15487,7 @@
     "year": 2025,
     "type": "PPG",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -15503,7 +15503,7 @@
     "type": "2nd",
     "search": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -15518,7 +15518,7 @@
     "type": "3rd",
     "btn1": "Empty Net",
     "btn2": "Hat Trick",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -15532,7 +15532,7 @@
     "year": 2025,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Home",
     "jersey": "Red Capitals"
   },
@@ -15546,7 +15546,7 @@
     "year": 2025,
     "type": "ENG",
     "btn1": "Empty Net",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -15560,7 +15560,7 @@
     "year": 2025,
     "type": "",
     "btn1": "",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   },
@@ -15574,7 +15574,7 @@
     "year": 2025,
     "type": "2nd",
     "btn1": "PPG",
-    "season": "Regular",
+    "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
   }

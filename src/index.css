@@ -280,7 +280,7 @@
         position: absolute;
     }
 
-    &:not([data-season='Regular']) .goal-count span:first-of-type {
+    &:not([data-season='NHL']) .goal-count span:first-of-type {
         display: none;
     }
 }
@@ -299,7 +299,7 @@
     }
 }
 
-[data-season='Regular'] .goal-count {
+[data-season='NHL'] .goal-count {
   color: #F34133;
 }
 
