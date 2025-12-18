@@ -306,7 +306,7 @@
 [data-season='IIHF'] .logo,
 [data-season='KHL'] .logo,
 [data-season='Olympics'] .logo,
-[data-season='World Cup'] .logo {
+[data-season*='World'] .logo {
   height: 2.25rem;
   width: 4rem;
   padding: 0 .5rem;
