@@ -28,8 +28,8 @@
     </header>
     <main class="container">
       <p><a href="/">Ovechkin Cam</a> is a catalog of goal videos from first to last (911) that also includes All Star Game (8), Playoff (77), IIHF (35), KHL (19), and Olympic (8) goals for a total of 1,058.</p>
-      <p>Our searchable index allows users to find Ovi goals in a new and useful way.</p>
-      <p>Ovechkin.cam accepts a URL query to retrieve specific goals (<a href="/?1">?1</a> to <a href="/?911">?911</a>) or a set of filtered search results (<a href="/?fleury+golden-knights">?fleury+golden-knights</a>). A type filter can be added to the query to further reduce results (<a href="/?fleury+golden-knights|playoff">?fleury+golden-knights|playoff</a>).</p>
+      <p>Our searchable and sequential index allows users to find Ovi goals in a new and useful way.</p>
+      <p>Ovechkin.cam accepts a URL query to retrieve specific goals (<a href="/?1">?1</a> to <a href="/?911">?911</a>) or a set of filtered search results (<a href="/?fleury+golden-knights">?fleury+golden-knights</a>). A type filter can be appended to further reduce results (<a href="/?fleury+golden-knights|playoff">?fleury+golden-knights|playoff</a>).</p>
       <h2>Date Search</h2>
       <ul>
         <li>[Month DD YYYY] Format</li>
@@ -49,14 +49,16 @@
         <li>[World Cup] for World Cup Goals or use query filter <code>|worldcup</code></li>
       </ul>
 
-      <h2 id="number">Number Catalog</h2>
-      <p>All goals are identified by a unique integer. NHL regular season goals are indexed sequentially from 1 to 911. Non-NHL regular season goals are intertwined as floats in the format of [NHL-Goals].[League-Goals]</p>
+      <h2 id="number">Number Search</h2>
+      <p>All goals are identified by a unique integer. NHL regular season goals are indexed 1 to 911.</p>
+      <p>Non-NHL regular season goals are intertwined as floats with format [NHL-Goals].[League-Goals]</p>
       <ul>
-        <li><code>36.05</code> Olympic Goal #5 During NHL Season 1</li>
+        <li><code>36.01</code> Olympic Goal #1 During NHL Season 1</li>
+        <li><code>288.05</code> All Star Goal #5 During NHL Season 6</li>
         <li><code>525.02</code> World Cup Goal #2 Before NHL Season 12</li>
         <li><code>897.75</code> Playoff Goal #75 After NHL Season 20</li>
       </ul>
-      <p>In a few cases this indexing produced duplicate floats. In these events the latter float was made negative to remain distinct (<code>-339.26</code>).</p>
+      <p>In a few cases this indexing produced duplicate floats. In this event the latter float was made negative to remain distinct (<code>-339.26</code>).</p>
       <h2 id="text">Text Search</h2>
       <div class="badge-flex">
         <a href="/?20th">20th</a>
