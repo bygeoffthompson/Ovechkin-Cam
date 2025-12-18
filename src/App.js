@@ -293,12 +293,11 @@ function SearchForm({jsonData}) {
             </div>
             <form onSubmit={preventSubmit}>
                 <div>
-                    <div id="search-flex">
-                        <h2>Search</h2>
-                        <label htmlFor="search-goal">Number</label>
-                    </div>
+                    <h2 className="number"><a href="/about.html#number">Search by Number</a></h2>
+                    <label className="hide" htmlFor="search-goal">Number</label>
                     <input id="search-goal" min="1" max={totalGoals} step="any" type="number" placeholder="#" value={searchGoal} onChange={handleGoalChange}/>
-                    <label htmlFor="search-text-1">Text</label>
+                    <h2><a href="/about.html#text"><span className="hide">Search by </span>Text</a></h2>
+                    <label className="hide" htmlFor="search-text-1">Text</label>
                     <label className="hide" htmlFor="search-text-2">Text</label>
                     <label className="hide" htmlFor="search-text-3">Text</label>
                     <input id="search-text-1" type="text" placeholder="Search" value={searchText1} onChange={handleText1}/>
