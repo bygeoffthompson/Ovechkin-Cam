@@ -271,7 +271,7 @@ function SearchForm({jsonData}) {
                 <img alt="Goal Net" src="icons/net.svg"/>
             </div>
             <form onSubmit={preventSubmit}>
-                <div>
+                <div className="search-group">
                     <h2 className="number"><a href="/about.html#number">Search by Number</a></h2>
                     <label className="hide" htmlFor="search-goal">Number</label>
                     <input id="search-goal" min="1" max={totalGoals} step="any" type="number" placeholder="#" value={searchGoal} onChange={handleGoalChange}/>

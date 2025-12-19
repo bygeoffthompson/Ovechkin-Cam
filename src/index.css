@@ -69,7 +69,7 @@
   position: fixed;
   top: 0;
   width: 100vw;
-  z-index: 0;
+  z-index: 1;
 }
 
 #count {
@@ -109,7 +109,6 @@
   flex-direction: column;
   gap: 3rem;
   margin: 0 auto;
-  max-width: 1400px;
 }
 
 .multi-column {
@@ -437,7 +436,6 @@ button {
   position: relative;
   transition: transform .2s;
   width: 100%;
-  z-index: 1;
 
   &:hover,
   &:active {
@@ -580,6 +578,10 @@ button {
     }
 }
 
+.search-group {
+    max-width: 950px;
+}
+
 .coach-button:nth-child(odd) {
     background: #C8102E;
     color: #FFF;
@@ -623,7 +625,7 @@ button {
 form {
   align-items: center;
   background: rgba(203, 236, 255,.25);
-  border-radius: 6rem;
+  border-radius: 4rem;
   box-shadow: 0 .5rem 1rem rgba(41,41,41,.25);
   cursor: default !important;
   display: flex;
@@ -635,7 +637,7 @@ form {
   max-width: 1024px;
   padding: 2rem 1rem 1rem;
   position: relative;
-  z-index: 1;
+  z-index: 2;
 
     a {
         color: #111;
@@ -670,6 +672,7 @@ iframe {
   min-height: 0;
   position: relative;
   width: 100% !important;
+  z-index: 2;
 }
 
 label {
@@ -748,7 +751,6 @@ input {
     &[type="text"] {
         caret-color: #C8102E;
         color: #C8102E;
-        font-size: 1.5rem;
         font-weight: bold;
         height: 0;
         margin-top: -1rem;
@@ -818,13 +820,13 @@ input {
   form > div {
     align-items: center;
     flex-direction: row;
-    gap: 1rem;
+    gap: .75rem;
     justify-content: end;
+  }
 
-      &:first-of-type {
-          justify-content: center;
-          margin-bottom: 1rem;
-      }
+  .search-group {
+    justify-content: center;
+    margin-bottom: 1rem;
   }
 
   input[type="text"] {
@@ -845,6 +847,9 @@ input {
   }
 }
 @media (min-width:992px) {
+    #wrapper {
+      max-width: 95%;
+    }
   .multi-column {
     flex-direction: row !important;
     flex-wrap: wrap;
