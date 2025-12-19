@@ -20,6 +20,7 @@ function SearchForm({jsonData}) {
             setSearchResults(results);
             ReactGA.event({
                 category: new Date().getFullYear()  + ' Goals Served',
+                event: 'Goal #' + goalQuery,
                 label: 'Goal #' + goalQuery,
                 value: 1
             });
