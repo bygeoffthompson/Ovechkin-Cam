@@ -266,6 +266,7 @@ function SearchForm({jsonData}) {
 
     return (
         <div>
+            <div id="click-goal" onClick={clickGoal}></div>
             <div id="goal">
                 <img alt="Goal Net" src="icons/net.svg"/>
             </div>
@@ -383,8 +384,6 @@ function SearchForm({jsonData}) {
                 </select>
                 <label className="column-control" htmlFor="column">Column</label>
             </div>
-
-            <div id="click-goal" onClick={clickGoal}></div>
 
             <div id="wrapper">
                 {searchResults.map((result, index) => (

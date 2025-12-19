@@ -569,7 +569,7 @@ button {
 .buttons-group {
   align-items: start;
   flex-direction: row;
-  max-width: 325px;
+  max-width: 375px;
 
     > div {
         align-items: center;
@@ -622,7 +622,8 @@ button {
 
 form {
   align-items: center;
-  background: rgba(242,240,239,.5);
+  background: rgba(203, 236, 255,.25);
+  border-radius: 6rem;
   box-shadow: 0 .5rem 1rem rgba(41,41,41,.25);
   cursor: default !important;
   display: flex;
@@ -632,7 +633,7 @@ form {
   justify-content: center;
   margin: 0 auto 2rem;
   max-width: 1024px;
-  padding: 1.5rem;
+  padding: 2rem 1rem 1rem;
   position: relative;
   z-index: 1;
 
@@ -747,6 +748,8 @@ input {
     &[type="text"] {
         caret-color: #C8102E;
         color: #C8102E;
+        font-size: 1.5rem;
+        font-weight: bold;
         height: 0;
         margin-top: -1rem;
         max-width: 0;
@@ -757,6 +760,7 @@ input {
         width: 100%;
 
         &::placeholder {
+            font-weight: normal;
             text-transform: none;
         }
 
