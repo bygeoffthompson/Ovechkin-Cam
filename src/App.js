@@ -18,6 +18,12 @@ function SearchForm({jsonData}) {
             const goalQuery = parseFloat(searchGoal);
             const results = jsonData.filter(item => item.goal === goalQuery)
             setSearchResults(results);
+            ReactGA.event({
+                category: new Date().getFullYear()  + ' Goals Served',
+                label: 'Goal #' + goalQuery,
+                value: 1
+            });
+
         }
 
         const search1Value = document.getElementById('search-text-1').value.length;
@@ -50,7 +56,7 @@ function SearchForm({jsonData}) {
         if (search1Value === 0) {
             document.getElementById('advanced').classList.remove('show');
             document.getElementById('minimum').classList.remove('show');
-        } else if (search1Value === 1 || search1Value === 2) {
+        } else if (search1Value < 3) {
             document.getElementById('advanced').classList.remove('show');
             document.getElementById('minimum').classList.add('show');
             setSearchResults([]);
@@ -76,51 +82,24 @@ function SearchForm({jsonData}) {
         }
     },[]);
 
-    const outdoor = () => {
-        const input = parseInt(document.querySelector('#search-goal').value)
-        if (input === 440) {
-            setSearchGoal(598)
-        } else if (input === 475) {
-            setSearchGoal(602)
-        } else if (input === 598) {
-            setSearchGoal(475)
-        } else {
-            setSearchGoal(440)
-        }
-        clickTrack('Outdoor Click');
-    };
-
     const allstar = () => {
         const input = parseFloat(document.querySelector('#search-goal').value)
-        console.log(input)
-        if (input === 81.01) {
-            setSearchGoal(137.03)
-        } else if (input === 137.02) {
-            setSearchGoal(588.07)
-        } else if (input === 137.03) {
-            setSearchGoal(548.06)
-        } else if (input === 194.04) {
-            setSearchGoal(813.08)
-        } else if (input === 288.05) {
-            setSearchGoal(194.04)
-        } else if (input === 548.06) {
-            setSearchGoal(137.02)
-        } else if (input === 588.07) {
-            setSearchGoal(288.05)
-        } else {
-            setSearchGoal(81.01)
-        }
-        clickTrack('All Star Click');
+        if (input === 81.01) {setSearchGoal(137.03)}
+        else if (input === 137.02) {setSearchGoal(588.07)}
+        else if (input === 137.03) {setSearchGoal(548.06)}
+        else if (input === 194.04) {setSearchGoal(813.08)}
+        else if (input === 288.05) {setSearchGoal(194.04)}
+        else if (input === 548.06) {setSearchGoal(137.02)}
+        else if (input === 588.07) {setSearchGoal(288.05)}
+        else {setSearchGoal(81.01)}
     };
 
     function buttonClick(value) {
         randomGoal(value);
-        clickTrack(value[0] + ' Click');
     }
 
     const canadaGoal = () => {
         randomAway(['Calgary Flames', 'Edmonton Oilers', 'Montreal Canadiens', 'Ottawa Senators', 'Toronto Maple Leafs', 'Vancouver Canucks', 'Winnipeg Jets']);
-        clickTrack('Canada Click');
     };
 
     const clickGoal = () => {
@@ -140,26 +119,12 @@ function SearchForm({jsonData}) {
         });
     };
 
-    function clickTrack(value) {
-        ReactGA.event({
-            category: 'Click',
-            action: value,
-            value: 1
-        });
-    }
-
     const fourth = () => {
         const input = parseInt(document.querySelector('#search-goal').value)
-        if (input === 128) {
-            setSearchGoal(397)
-        } else if (input === 141) {
-            setSearchGoal(565)
-        } else if (input === 397) {
-            setSearchGoal(141)
-        } else {
-            setSearchGoal(128)
-        }
-        clickTrack('4th Click');
+        if (input === 128) {setSearchGoal(397)}
+        else if (input === 141) {setSearchGoal(565)}
+        else if (input === 397) {setSearchGoal(141)}
+        else {setSearchGoal(128)}
     };
 
     const handleColumnChange = (event) => {
@@ -198,6 +163,14 @@ function SearchForm({jsonData}) {
     const handleText3 = (event) => {
         setSearchGoal('');
         setSearchText3(event.target.value.toLowerCase());
+    };
+
+    const outdoor = () => {
+        const input = parseInt(document.querySelector('#search-goal').value)
+        if (input === 440) {setSearchGoal(598)}
+        else if (input === 475) {setSearchGoal(602)}
+        else if (input === 598) {setSearchGoal(475)}
+        else {setSearchGoal(440)}
     };
 
     const preventSubmit = (event) => {
@@ -250,18 +223,11 @@ function SearchForm({jsonData}) {
 
     const shg = () => {
         const input = parseInt(document.querySelector('#search-goal').value)
-        if (input === 8) {
-            setSearchGoal(190)
-        } else if (input === 36) {
-            setSearchGoal(38)
-        } else if (input === 38) {
-            setSearchGoal(732)
-        } else if (input === 190) {
-            setSearchGoal(36)
-        } else {
-            setSearchGoal(8)
-        }
-        clickTrack('SHG Click');
+        if (input === 8) {setSearchGoal(190)}
+        else if (input === 36) {setSearchGoal(38)}
+        else if (input === 38) {setSearchGoal(732)}
+        else if (input === 190) {setSearchGoal(36)}
+        else {setSearchGoal(8)}
     };
 
     return (

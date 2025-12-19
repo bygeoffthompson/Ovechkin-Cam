@@ -107,8 +107,9 @@
   align-items: center;
   display: flex;
   flex-direction: column;
-  gap: 3rem;
+  gap: 4rem;
   margin: 0 auto;
+  max-width: 1500px;
 }
 
 .multi-column {
@@ -146,23 +147,14 @@
 
 .column-2 {
     .frame {
-        flex-basis: calc(50% - 1.5rem);
+        flex-basis: calc(50% - 32px);
     }
 }
 
 .column-3 {
     .frame {
-        flex-basis: calc(33.33% - 3rem);
+        flex-basis: calc(100% / 3 - 43px);
     }
-}
-
-#ovi {
-  display: block;
-  margin-left: -65px;
-  margin-top: -68px;
-  pointer-events: none;
-  position: fixed;
-  z-index: 0;
 }
 
 #puck {
@@ -200,7 +192,8 @@
   height: auto;
   margin-top: 0;
   max-width: 325px;
-  padding: 3px 8px;
+  padding: .375rem .5rem;
+
 }
 
 #search-text-3 + div {
@@ -219,16 +212,27 @@
   height: auto;
   margin-top: 0;
   max-width: 75px;
-  padding: 3px 8px;
+  padding: .375rem .5rem;
+  text-align: center;
 }
 
-#advanced select {
-  background-color: transparent;
-  border-color: #111;
-  font-size: 1.125rem;
-  font-weight: bold;
-  min-width: 3.5rem;
-  padding: .25rem;
+#advanced {
+    margin: 0 auto 1.5rem;
+    max-width: 768px;
+
+    &.show {
+        border-bottom: 2px solid rgba(200,16,46,.34);
+        padding-bottom: 2rem;
+    }
+
+    select {
+        background-color: transparent;
+        border-color: #111;
+        font-size: 1.25rem;
+        font-weight: bold;
+        min-width: 3.5rem;
+        padding: .25rem;
+    }
 }
 
 .column-control {
@@ -432,7 +436,7 @@ button {
   max-width: 100px;
   min-height: 40px;
   overflow: hidden;
-  padding: .625rem 0;
+  padding: .625rem .25rem;
   position: relative;
   transition: transform .2s;
   width: 100%;
@@ -624,9 +628,9 @@ button {
 
 form {
   align-items: center;
-  background: rgba(203, 236, 255,.25);
+  background: rgba(203,236,255,.2);
   border-radius: 4rem;
-  box-shadow: 0 .5rem 1rem rgba(41,41,41,.25);
+  box-shadow: 0 .5rem 1rem rgba(75,75,75,.2);
   cursor: default !important;
   display: flex;
   flex-direction: column;
@@ -757,7 +761,6 @@ input {
         max-width: 0;
         overflow: hidden;
         padding: 0;
-        text-align: center;
         text-transform: uppercase;
         width: 100%;
 
@@ -770,7 +773,7 @@ input {
             height: auto;
             margin-top: 0;
             max-width: 325px;
-            padding: 3px .5rem;
+            padding: .375rem .5rem;
         }
     }
 }
@@ -847,9 +850,6 @@ input {
   }
 }
 @media (min-width:992px) {
-    #wrapper {
-      max-width: 95%;
-    }
   .multi-column {
     flex-direction: row !important;
     flex-wrap: wrap;

@@ -926,8 +926,8 @@
     "day": 15,
     "year": 2006,
     "type": "PPG",
-    "btn1": "2006 Torino",
-    "btn2": "Tip",
+    "search": "Torino 2006 Winter Olympics Turin Italy ",
+    "btn1": "Tip",
     "season": "Olympics",
     "arena": "Away",
     "jersey": "Red Russia"
@@ -941,7 +941,7 @@
     "day": 16,
     "year": 2006,
     "type": "",
-    "btn1": "2006 Torino",
+    "search": "Torino 2006 Winter Olympics Turin Italy ",
     "season": "Olympics",
     "arena": "Home",
     "jersey": "Red Russia"
@@ -956,7 +956,7 @@
     "day": 19,
     "year": 2006,
     "type": "",
-    "btn1": "2006 Torino",
+    "search": "Torino 2006 Winter Olympics Turin Italy ",
     "season": "Olympics",
     "arena": "Away",
     "jersey": "Red Russia"
@@ -970,7 +970,7 @@
     "day": 21,
     "year": 2006,
     "type": "",
-    "btn1": "2006 Torino",
+    "search": "Torino 2006 Winter Olympics Turin Italy ",
     "season": "Olympics",
     "arena": "Home",
     "jersey": "White Russia"
@@ -984,8 +984,8 @@
     "day": 22,
     "year": 2006,
     "type": "GWG",
-    "btn1": "2006 Torino",
-    "btn2": "PPG",
+    "search": "Torino 2006 Winter Olympics Turin Italy ",
+    "btn1": "PPG",
     "season": "Olympics",
     "arena": "Away",
     "jersey": "Red Russia"
@@ -4691,7 +4691,7 @@
     "day": 16,
     "year": 2010,
     "type": "GWG",
-    "btn1": "Fire Tuuks Flame Tuuks Vancouver",
+    "search": "Vancouver 2010 Winter Olympics Fire Tuuks Flame Tuuks Canada",
     "season": "Olympics",
     "arena": "Away",
     "jersey": "Red Russia"
@@ -4706,7 +4706,7 @@
     "day": 16,
     "year": 2010,
     "type": "2nd",
-    "btn1": "Fire Tuuks Flame Tuuks Vancouver",
+    "search": "Vancouver 2010 Winter Olympics Fire Tuuks Flame Tuuks Canada",
     "season": "Olympics",
     "arena": "Away",
     "jersey": "Red Russia"
@@ -7530,7 +7530,7 @@
     "day": 13,
     "year": 2014,
     "type": "",
-    "btn1": "Sochi",
+    "search": "Sochi 2014 Winter Olympics Russia",
     "season": "Olympics",
     "arena": "Away",
     "jersey": "Red Russia"
