@@ -119,10 +119,15 @@ header {
     margin: 2rem 0;
     padding: 0 .5rem;
     position: relative;
-    z-index: 1;
+    z-index: 0;
 
-    a:hover {
-        color: #C8102E;
+    a {
+        position: relative;
+        z-index: 2;
+
+        &:hover {
+            color: #C8102E;
+        }
     }
 
     > div {
