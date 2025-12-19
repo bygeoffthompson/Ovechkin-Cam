@@ -334,9 +334,9 @@ function SearchForm({jsonData}) {
                 <label htmlFor="type">Type</label>
                 <select id="type" name="Type" onChange={handleSeasonChange}>
                     <option name="All" value="" selected>All</option>
-                    <option name="Regular" value="NHL">NHL Regular</option>
-                    <option name="Playoff" value="Playoff">NHL Playoff</option>
-                    <option name="All Star" value="All Star">NHL All Star</option>
+                    <option name="NHL Regular" value="NHL">NHL Regular</option>
+                    <option name="NHL Playoff" value="Playoff">NHL Playoff</option>
+                    <option name="All Star" value="All Star">All Star</option>
                     <option name="IIHF" value="IIHF">IIHF</option>
                     <option name="KHL" value="KHL">KHL</option>
                     <option name="Olympic" value="Olympic">Olympic</option>

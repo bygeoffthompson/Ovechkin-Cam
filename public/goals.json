@@ -1,20 +1,6 @@
 [
   {
     "goal": -2.01,
-    "link": "https://www.youtube.com/embed/7DgICI6N3oo?si=h1hhJZNDxtRWLVnb&amp;start=4",
-    "team": "USA",
-    "goalie": "Mike Brown",
-    "month": "April",
-    "day": null,
-    "year": 2002,
-    "type": "",
-    "search": "2003 World Juniors U18 Yaroslavl Russia",
-    "season": "World Juniors",
-    "arena": "",
-    "jersey": "Red Russia"
-  },
-  {
-    "goal": -2.02,
     "link": "https://www.youtube.com/embed/HKqu-JB3HVU?si=PYj1jFEr3c-SKQEc&amp;start=1489&end=1527",
     "team": "Canada",
     "goalie": "Ryan Munce",
@@ -24,8 +10,22 @@
     "type": "PPG",
     "search": "2003 World Juniors U18 Yaroslavl Russia",
     "season": "World Juniors",
-    "arena": "",
+    "arena": "Home",
     "jersey": "White Russia"
+  },
+  {
+    "goal": -2.02,
+    "link": "https://www.youtube.com/embed/7DgICI6N3oo?si=h1hhJZNDxtRWLVnb&amp;start=4",
+    "team": "USA",
+    "goalie": "Mike Brown",
+    "month": "April",
+    "day": 22,
+    "year": 2003,
+    "type": "",
+    "search": "2003 World Juniors U18 Yaroslavl Russia",
+    "season": "World Juniors",
+    "arena": "",
+    "jersey": "Red Russia"
   },
   {
     "goal": -1.01,
@@ -12800,7 +12800,7 @@
     "day": 9,
     "year": 2021,
     "type": "",
-    "btn1": "",
+    "btn1": "Post",
     "season": "NHL",
     "arena": "Away",
     "jersey": "White Capitals"
