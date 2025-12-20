@@ -146,16 +146,14 @@ function SearchForm({jsonData}) {
         setSearchText3(event.target.value.toLowerCase());
     };
 
-    function onThisDate() {
+    function onThisDay() {
         const month = new Date().toLocaleString('default', { month: 'long' })
         const day = new Date().getDate()
-        const date = month + ' ' + day
         const onThisDay = jsonData.filter(item => item.month === month && item.day === day)
 
         if (!onThisDay[0]) {
             document.getElementById('otd').disabled = true;
-            document.getElementById('on-this-date').classList.add('show')
-            document.querySelector('#on-this-date strong').append(date)
+            document.getElementById('otd').textContent = 'None'
         } else {
             const random = Math.floor(Math.random() * onThisDay.length);
             setSearchGoal(onThisDay[random].goal)
@@ -211,7 +209,6 @@ function SearchForm({jsonData}) {
     function resultsHide() {
         document.getElementById('advanced').classList.remove('show');
         document.getElementById('minimum').classList.remove('show');
-        document.getElementById('on-this-date').classList.remove('show');
         document.getElementById('column').value = '1';
         document.getElementById('type').value = '';
         document.getElementById('wrapper').classList.remove('column-2', 'column-3', 'multi-column');
@@ -307,7 +304,7 @@ function SearchForm({jsonData}) {
                         <button onClick={(event) => buttonClick(['Post'])} title="Post Goal" type="button">Post</button>
                         <button onClick={(event) => buttonClick(['Tip'])} title="Tip Goal" type="button">Tip</button>
                         <button onClick={(event) => buttonClick(['Hat Trick'])} title="Hat Trick Goal" type="button">Trick</button>
-                        <button onClick={onThisDate} id="otd" title="On This Date Goals" type="button">On&nbsp;This Date</button>
+                        <button onClick={onThisDay} id="otd" title="On This Day Goals" type="button">On This Day</button>
                     </div>
                 </div>
                 <button onClick={reset} title="Reset Filters" type="button">Reset</button>
@@ -315,10 +312,6 @@ function SearchForm({jsonData}) {
 
             <div className="search-accordion" id="minimum">
                 <strong>Search Requires 3 Letters Minimum</strong>
-            </div>
-
-            <div className="search-accordion" id="on-this-date">
-                <strong>Ovechkin has never scored on </strong>
             </div>
 
             <div className="search-accordion" id="advanced">
