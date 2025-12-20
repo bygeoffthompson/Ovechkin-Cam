@@ -449,6 +449,11 @@ button {
     transform: scale(1.05);
   }
 
+    &[disabled] {
+        opacity: .25;
+        pointer-events: none;
+    }
+
     &[title="Glen Hanlon"]:hover {
         background: #111;
     }

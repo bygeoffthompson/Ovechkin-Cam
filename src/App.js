@@ -83,20 +83,22 @@ function SearchForm({jsonData}) {
         }
     },[]);
 
-    const allstar = () => {
-        const input = parseFloat(document.querySelector('#search-goal').value)
-        if (input === 81.01) {setSearchGoal(137.03)}
-        else if (input === 137.02) {setSearchGoal(588.07)}
-        else if (input === 137.03) {setSearchGoal(548.06)}
-        else if (input === 194.04) {setSearchGoal(813.08)}
-        else if (input === 288.05) {setSearchGoal(194.04)}
-        else if (input === 548.06) {setSearchGoal(137.02)}
-        else if (input === 588.07) {setSearchGoal(288.05)}
-        else {setSearchGoal(81.01)}
-    };
-
     function buttonClick(value) {
         randomGoal(value);
+    }
+
+    function onThisDate() {
+        const month = new Date().toLocaleString('default', { month: 'long' })
+        const day = new Date().getDate()
+        const onThisDay = jsonData.filter(item => item.month === month && item.day === day)
+
+        if (!onThisDay[0]) {
+            document.getElementById('otd').disabled = true;
+            alert('Ovi has yet to score on ' + month + ' ' + day)
+        } else {
+            const random = Math.floor(Math.random() * onThisDay.length);
+            setSearchGoal(onThisDay[random].goal)
+        }
     }
 
     const canadaGoal = () => {
@@ -303,24 +305,14 @@ function SearchForm({jsonData}) {
                     </div>
                     <div>
                         <button onClick={(event) => setSearchGoal(random(1, 52))} title="Rookie Goal" type="button">Rookie</button>
-                        <button onClick={allstar} title="All Star Goal" type="button">All&nbsp;Star</button>
+                        <button onClick={canadaGoal} title="Canada Goal" type="button">Canada</button>
                         <button onClick={(event) => buttonClick(['5v3'])} title="5v3 Goal" type="button">5v3</button>
                         <button onClick={fourth} title="Fourth Goal" type="button">4th</button>
                         <button onClick={(event) => buttonClick(['Backhand'])} title="Backhand Goal" type="button">Backhand</button>
                         <button onClick={(event) => buttonClick(['Post'])} title="Post Goal" type="button">Post</button>
                         <button onClick={(event) => buttonClick(['Tip'])} title="Tip Goal" type="button">Tip</button>
-                        <button onClick={canadaGoal} title="Canada Goal" type="button">Canada</button>
+                        <button onClick={onThisDate} id="otd" title="On This Date Goals" type="button">Today</button>
                     </div>
-                 {/*<div>
-                        <button onClick={(event) => setSearchGoal(random(1, 112))} className="coach-button" title="Glen Hanlon" type="button">Hanlon</button>
-                        <button onClick={(event) => setSearchGoal(random(113, 309))} className="coach-button" title="Bruce Boudreau" type="button">Bruce</button>
-                        <button onClick={(event) => setSearchGoal(random(310, 339))} className="coach-button" title="Dale Hunter" type="button">Hunter</button>
-                        <button onClick={(event) => setSearchGoal(random(340, 422))} className="coach-button" title="Adam Oates" type="button">Oates</button>
-                        <button onClick={(event) => setSearchGoal(random(423, 607))} className="coach-button" title="Barry Trotz" type="button">Trotz</button>
-                        <button onClick={(event) => setSearchGoal(random(608, 706))} className="coach-button" title="Todd Reirden" type="button">Reirden</button>
-                        <button onClick={(event) => setSearchGoal(random(707, 853))} className="coach-button" title="Peter Laviolette" type="button">Lavi</button>
-                        <button onClick={(event) => setSearchGoal(random(854, totalGoals))} className="coach-button" title="Spencer Carbery" type="button">Carbery</button>
-                    </div>*/}
                 </div>
                 <button onClick={reset} title="Reset Filters" type="button">Reset</button>
             </form>
