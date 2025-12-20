@@ -87,20 +87,6 @@ function SearchForm({jsonData}) {
         randomGoal(value);
     }
 
-    function onThisDate() {
-        const month = new Date().toLocaleString('default', { month: 'long' })
-        const day = new Date().getDate()
-        const onThisDay = jsonData.filter(item => item.month === month && item.day === day)
-
-        if (!onThisDay[0]) {
-            document.getElementById('otd').disabled = true;
-            alert('Ovi has yet to score on ' + month + ' ' + day)
-        } else {
-            const random = Math.floor(Math.random() * onThisDay.length);
-            setSearchGoal(onThisDay[random].goal)
-        }
-    }
-
     const canadaGoal = () => {
         randomAway(['Calgary Flames', 'Edmonton Oilers', 'Montreal Canadiens', 'Ottawa Senators', 'Toronto Maple Leafs', 'Vancouver Canucks', 'Winnipeg Jets']);
     };
@@ -168,6 +154,22 @@ function SearchForm({jsonData}) {
         setSearchText3(event.target.value.toLowerCase());
     };
 
+    function onThisDate() {
+        const month = new Date().toLocaleString('default', { month: 'long' })
+        const day = new Date().getDate()
+        const date = month + ' ' + day
+        const onThisDay = jsonData.filter(item => item.month === month && item.day === day)
+
+        if (!onThisDay[0]) {
+            document.getElementById('otd').disabled = true;
+            document.getElementById('on-this-date').classList.add('show')
+            document.querySelector('#on-this-date strong').append(date)
+        } else {
+            const random = Math.floor(Math.random() * onThisDay.length);
+            setSearchGoal(onThisDay[random].goal)
+        }
+    }
+
     const outdoor = () => {
         const input = parseInt(document.querySelector('#search-goal').value)
         if (input === 440) {setSearchGoal(598)}
@@ -215,7 +217,9 @@ function SearchForm({jsonData}) {
     };
 
     function resultsHide() {
-        document.querySelector('.search-accordion').classList.remove('show');
+        document.getElementById('advanced').classList.remove('show');
+        document.getElementById('minimum').classList.remove('show');
+        document.getElementById('on-this-date').classList.remove('show');
         document.getElementById('column').value = '1';
         document.getElementById('type').value = '';
         document.getElementById('wrapper').classList.remove('column-2', 'column-3', 'multi-column');
@@ -294,14 +298,14 @@ function SearchForm({jsonData}) {
                         </button>
                     </div>
                     <div>
-                        <button onClick={(event) => buttonClick(['Home'])} title="Home Goal" type="button">Home</button>
                         <button onClick={(event) => buttonClick(['Away'])} title="Away Goal" type="button">Away</button>
+                        <button onClick={(event) => buttonClick(['Home'])} title="Home Goal" type="button">Home</button>
                         <button onClick={(event) => buttonClick(['PPG'])} title="Power Play Goal" type="button">PPG</button>
                         <button onClick={shg} title="Shorthand Goal" type="button">SHG</button>
                         <button onClick={(event) => buttonClick(['Empty Net'])} title="Empty Net Goal" type="button">ENG</button>
                         <button onClick={(event) => buttonClick(['GWG', 'OT'])} title="Game Winning Goal" type="button">GWG</button>
                         <button onClick={(event) => buttonClick(['OT'])} title="Overtime Goal" type="button">OT</button>
-                        <button onClick={(event) => buttonClick(['Hat Trick'])} title="Hat Trick Goal" type="button">Hats</button>
+                        <button onClick={(event) => buttonClick(['Hat Trick'])} title="Hat Trick Goal" type="button">Trick</button>
                     </div>
                     <div>
                         <button onClick={(event) => setSearchGoal(random(1, 52))} title="Rookie Goal" type="button">Rookie</button>
@@ -319,6 +323,10 @@ function SearchForm({jsonData}) {
 
             <div className="search-accordion" id="minimum">
                 <strong>Search Requires 3 Letters Minimum</strong>
+            </div>
+
+            <div className="search-accordion" id="on-this-date">
+                <strong>Ovechkin has never scored on </strong>
             </div>
 
             <div className="search-accordion" id="advanced">
