@@ -470,14 +470,10 @@ button {
         background: #FFF;
     }
 
-    &[title="Barry Trotz"] {
+    &[title="Cup Run"] {
         background: #E0E0E0 url('../public/bg/cup.jpg') no-repeat scroll center / 100%;
+        border: 1px solid #A0A0A0;
         color: #333;
-
-        &:hover {
-            box-shadow: 0 .5rem 2rem #A0A0A0;
-            color: #333;
-        }
     }
 
     &.multi-logo {

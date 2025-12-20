@@ -108,14 +108,6 @@ function SearchForm({jsonData}) {
         });
     };
 
-    const fourth = () => {
-        const input = parseInt(document.querySelector('#search-goal').value)
-        if (input === 128) {setSearchGoal(397)}
-        else if (input === 141) {setSearchGoal(565)}
-        else if (input === 397) {setSearchGoal(141)}
-        else {setSearchGoal(128)}
-    };
-
     const handleColumnChange = (event) => {
         const columnValue = parseInt(document.getElementById('column').value);
         document.getElementById('wrapper').classList.remove('column-2', 'column-3', 'multi-column');
@@ -301,20 +293,20 @@ function SearchForm({jsonData}) {
                         <button onClick={(event) => buttonClick(['Away'])} title="Away Goal" type="button">Away</button>
                         <button onClick={(event) => buttonClick(['Home'])} title="Home Goal" type="button">Home</button>
                         <button onClick={(event) => buttonClick(['PPG'])} title="Power Play Goal" type="button">PPG</button>
+                        <button onClick={(event) => buttonClick(['5v3'])} title="5v3 Goal" type="button">5v3</button>
                         <button onClick={shg} title="Shorthand Goal" type="button">SHG</button>
                         <button onClick={(event) => buttonClick(['Empty Net'])} title="Empty Net Goal" type="button">ENG</button>
                         <button onClick={(event) => buttonClick(['GWG', 'OT'])} title="Game Winning Goal" type="button">GWG</button>
                         <button onClick={(event) => buttonClick(['OT'])} title="Overtime Goal" type="button">OT</button>
-                        <button onClick={(event) => buttonClick(['Hat Trick'])} title="Hat Trick Goal" type="button">Trick</button>
                     </div>
                     <div>
                         <button onClick={(event) => setSearchGoal(random(1, 52))} title="Rookie Goal" type="button">Rookie</button>
-                        <button onClick={canadaGoal} title="Canada Goal" type="button">Canadian</button>
-                        <button onClick={(event) => buttonClick(['5v3'])} title="5v3 Goal" type="button">5v3</button>
-                        <button onClick={fourth} title="Fourth Goal" type="button">4th</button>
                         <button onClick={(event) => buttonClick(['Backhand'])} title="Backhand Goal" type="button">Backhand</button>
+                        <button onClick={canadaGoal} title="Canada Goal" type="button">Canadian</button>
+                        <button onClick={(event) => buttonClick(['Cup Run'])} title="Cup Run" type="button">Cup Run</button>
                         <button onClick={(event) => buttonClick(['Post'])} title="Post Goal" type="button">Post</button>
                         <button onClick={(event) => buttonClick(['Tip'])} title="Tip Goal" type="button">Tip</button>
+                        <button onClick={(event) => buttonClick(['Hat Trick'])} title="Hat Trick Goal" type="button">Trick</button>
                         <button onClick={onThisDate} id="otd" title="On This Date Goals" type="button">On&nbsp;This Date</button>
                     </div>
                 </div>
