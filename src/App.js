@@ -309,13 +309,13 @@ function SearchForm({jsonData}) {
                     </div>
                     <div>
                         <button onClick={(event) => setSearchGoal(random(1, 52))} title="Rookie Goal" type="button">Rookie</button>
-                        <button onClick={canadaGoal} title="Canada Goal" type="button">Canada</button>
+                        <button onClick={canadaGoal} title="Canada Goal" type="button">Canadian</button>
                         <button onClick={(event) => buttonClick(['5v3'])} title="5v3 Goal" type="button">5v3</button>
                         <button onClick={fourth} title="Fourth Goal" type="button">4th</button>
                         <button onClick={(event) => buttonClick(['Backhand'])} title="Backhand Goal" type="button">Backhand</button>
                         <button onClick={(event) => buttonClick(['Post'])} title="Post Goal" type="button">Post</button>
                         <button onClick={(event) => buttonClick(['Tip'])} title="Tip Goal" type="button">Tip</button>
-                        <button onClick={onThisDate} id="otd" title="On This Date Goals" type="button">Today</button>
+                        <button onClick={onThisDate} id="otd" title="On This Date Goals" type="button">On&nbsp;This Date</button>
                     </div>
                 </div>
                 <button onClick={reset} title="Reset Filters" type="button">Reset</button>
