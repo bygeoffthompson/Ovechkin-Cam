@@ -38,7 +38,7 @@ function SearchForm({jsonData}) {
                     item.year + ' ' +
                     item.goalie + ' ' + item.goalie2 + ' ' +
                     item.team + ' ' +
-                    item.arena + ' ' +
+                    item.awayhome + ' ' +
                     item.search + ' ' +
                     item.btn1 + ' ' + item.btn2 + ' ' + item.btn3
                 return (

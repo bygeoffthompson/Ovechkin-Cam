@@ -50,7 +50,7 @@
 }
 
 #goal {
-  cursor: none;
+  cursor: default;
   height: 55px;
   position: relative;
   width: 75px;
@@ -465,7 +465,6 @@ button {
         border: 1px solid #E0E0E0;
         color: #111;
         font-family: Georgia, serif;
-        letter-spacing: .5px;
     }
 
     &.multi-logo {
