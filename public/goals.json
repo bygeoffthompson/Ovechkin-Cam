@@ -713,7 +713,7 @@
     "btn1": "Rookie Teammate",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Capitol"
   },
   {
@@ -1745,7 +1745,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "Screagle"
   },
   {
@@ -3601,7 +3601,7 @@
     "day": 23,
     "year": 2008,
     "type": "",
-    "search": "",
+    "search": "360*",
     "season": "NHL",
     "hoa": "Away",
     "period": "Second",
@@ -3619,7 +3619,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -4707,7 +4707,7 @@
     "btn1": "Vezina",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Capitals"
   },
   {
@@ -8505,9 +8505,10 @@
     "year": 2014,
     "type": "PPG",
     "search": "",
+    "btn1": "Post",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Throwback"
   },
   {
@@ -10271,10 +10272,10 @@
     "day": 23,
     "year": 2016,
     "type": "",
-    "search": "",
+    "btn1": "Backhand",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Throwback"
   },
   {
@@ -14834,6 +14835,7 @@
     "day": 23,
     "year": 2022,
     "type": "2nd",
+    "search": "360*",
     "btn1": "Empty Net",
     "season": "NHL",
     "hoa": "Home",
