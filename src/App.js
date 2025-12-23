@@ -183,7 +183,7 @@ function SearchForm({jsonData}) {
         const result = jsonData.filter(item =>
             Object.values(item).some(value =>
                 type.includes(value)
-            ) && item.season === 'NHL' && item.arena === 'Away'
+            ) && item.season === 'NHL' && item.hoa === 'Away'
         );
         const goal = Object.values(result[random(1, Object.keys(result).length)]);
         setSearchGoal(goal[0]);
