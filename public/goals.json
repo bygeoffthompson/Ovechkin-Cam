@@ -291,6 +291,7 @@
     "day": 2,
     "year": 2005,
     "type": "ENG",
+    "btn1": "Empty Net",
     "search": "2005 World Juniors U20 Empty Net Grand Forks North Dakota",
     "season": "World Juniors",
     "hoa": "Home",
@@ -430,8 +431,8 @@
     "day": 5,
     "year": 2005,
     "type": "2nd",
-    "btn1": "Rookie",
-    "btn2": "PPG",
+    "search": "Rookie",
+    "btn1": "PPG",
     "season": "NHL",
     "hoa": "Home",
     "period": "Second",
@@ -479,7 +480,7 @@
     "day": 20,
     "year": 2005,
     "type": "",
-    "btn1": "Rookie",
+    "search": "Rookie",
     "season": "NHL",
     "hoa": "Away",
     "period": "First",
@@ -494,7 +495,7 @@
     "day": 20,
     "year": 2005,
     "type": "2nd",
-    "btn1": "Rookie",
+    "search": "Rookie",
     "season": "NHL",
     "hoa": "Away",
     "period": "First",
@@ -509,7 +510,7 @@
     "day": 28,
     "year": 2005,
     "type": "",
-    "btn1": "Rookie",
+    "search": "Rookie",
     "season": "NHL",
     "hoa": "Away",
     "period": "First",
@@ -524,7 +525,7 @@
     "day": 28,
     "year": 2005,
     "type": "SHG",
-    "btn1": "2nd Rookie",
+    "search": "2nd Rookie",
     "season": "NHL",
     "hoa": "Away",
     "period": "First",
@@ -539,7 +540,7 @@
     "day": 6,
     "year": 2005,
     "type": "PPG",
-    "btn1": "Rookie",
+    "search": "Rookie",
     "season": "NHL",
     "hoa": "Home",
     "period": "First",
@@ -569,8 +570,8 @@
     "month": "November",
     "day": 8,
     "year": 2005,
-    "type": "",
-    "btn1": "Rookie",
+    "type": "4v4",
+    "search": "Rookie",
     "season": "NHL",
     "hoa": "Away",
     "period": "First",
@@ -584,12 +585,12 @@
     "month": "November",
     "day": 8,
     "year": 2005,
-    "type": "2nd",
-    "btn1": "Rookie",
-    "btn2": "PPG",
+    "type": "5v3",
+    "search": "2nd Rookie",
+    "btn1": "PPG",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "Screagle"
   },
   {
@@ -601,7 +602,7 @@
     "day": 11,
     "year": 2005,
     "type": "",
-    "btn1": "Rookie",
+    "search": "Rookie",
     "season": "NHL",
     "hoa": "Home",
     "period": "First",
@@ -632,7 +633,7 @@
     "day": 17,
     "year": 2005,
     "type": "PPG",
-    "btn1": "Rookie",
+    "search": "Rookie",
     "season": "NHL",
     "hoa": "Away",
     "period": "First",
@@ -663,7 +664,7 @@
     "day": 7,
     "year": 2005,
     "type": "PPG",
-    "btn1": "Rookie",
+    "search": "Rookie",
     "season": "NHL",
     "hoa": "Away",
     "period": "First",
@@ -757,7 +758,6 @@
     "year": 2005,
     "type": "PPG",
     "search": "New Years Eve Rookie",
-    "search": "",
     "season": "NHL",
     "hoa": "Home",
     "period": "First",
@@ -788,7 +788,7 @@
     "day": 6,
     "year": 2006,
     "type": "PPG",
-    "btn1": "Rookie",
+    "search": "Rookie",
     "season": "NHL",
     "hoa": "Home",
     "period": "First",
@@ -818,7 +818,7 @@
     "day": 12,
     "year": 2006,
     "type": "",
-    "btn1": "Rookie",
+    "search": "Rookie",
     "season": "NHL",
     "hoa": "Away",
     "period": "First",
@@ -851,10 +851,10 @@
     "day": 13,
     "year": 2006,
     "type": "2nd",
-    "search": "Anaheim Ducks Rookie Spinorama",
+    "search": "360* Anaheim Ducks Rookie",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "Screagle"
   },
   {
@@ -899,11 +899,11 @@
     "day": 16,
     "year": 2006,
     "type": "2nd",
-    "search": "Arizona Coyotes Rookie Spinorama \"Simply Sensational\"",
+    "search": "360* Arizona Coyotes Rookie \"Simply Sensational\"",
     "btn1": "Backhand",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "Screagle"
   },
   {
@@ -931,7 +931,7 @@
     "day": 25,
     "year": 2006,
     "type": "PPG",
-    "btn1": "Rookie",
+    "search": "Rookie",
     "season": "NHL",
     "hoa": "Away",
     "period": "First",
@@ -946,7 +946,7 @@
     "day": 10,
     "year": 2006,
     "type": "PPG",
-    "btn1": "Rookie",
+    "search": "Rookie",
     "season": "NHL",
     "hoa": "Away",
     "period": "First",
@@ -962,7 +962,7 @@
     "day": 11,
     "year": 2006,
     "type": "SHG",
-    "btn1": "Rookie",
+    "search": "Rookie",
     "season": "NHL",
     "hoa": "Home",
     "period": "First",
@@ -1055,7 +1055,7 @@
     "day": 28,
     "year": 2006,
     "type": "PPG",
-    "btn1": "Rookie",
+    "search": "Rookie",
     "season": "NHL",
     "hoa": "Away",
     "period": "First",
@@ -1070,7 +1070,7 @@
     "day": 2,
     "year": 2006,
     "type": "SHG",
-    "btn1": "Rookie",
+    "search": "Rookie",
     "season": "NHL",
     "hoa": "Away",
     "period": "First",
@@ -1101,7 +1101,7 @@
     "day": 6,
     "year": 2006,
     "type": "40th",
-    "btn1": "Rookie",
+    "search": "Rookie",
     "season": "NHL",
     "hoa": "Home",
     "period": "First",
@@ -1147,7 +1147,7 @@
     "day": 14,
     "year": 2006,
     "type": "PPG",
-    "btn1": "Rookie",
+    "search": "Rookie",
     "season": "NHL",
     "hoa": "Home",
     "period": "First",
@@ -1177,7 +1177,7 @@
     "day": 23,
     "year": 2006,
     "type": "",
-    "btn1": "Rookie",
+    "search": "Rookie",
     "season": "NHL",
     "hoa": "Away",
     "period": "First",
@@ -1192,7 +1192,7 @@
     "day": 23,
     "year": 2006,
     "type": "2nd",
-    "btn1": "Rookie",
+    "search": "Rookie",
     "season": "NHL",
     "hoa": "Away",
     "period": "First",
@@ -1207,7 +1207,7 @@
     "day": 25,
     "year": 2006,
     "type": "",
-    "btn1": "Rookie",
+    "search": "Rookie",
     "season": "NHL",
     "hoa": "Away",
     "period": "First",
@@ -1222,7 +1222,7 @@
     "day": 29,
     "year": 2006,
     "type": "PPG",
-    "btn1": "Rookie",
+    "search": "Rookie",
     "season": "NHL",
     "hoa": "Away",
     "period": "First",
@@ -1253,7 +1253,7 @@
     "day": 13,
     "year": 2006,
     "type": "50th",
-    "btn1": "Rookie",
+    "search": "Rookie",
     "season": "NHL",
     "hoa": "Away",
     "period": "First",
@@ -1545,7 +1545,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Capitol"
   },
   {
@@ -1986,7 +1986,7 @@
     "btn1": "Backhand",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "Screagle"
   },
   {
@@ -2016,7 +2016,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "Screagle"
   },
   {
@@ -2106,7 +2106,7 @@
     "btn1": "2007 World Championships",
     "season": "IIHF",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Russia"
   },
   {
@@ -2242,7 +2242,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Capitals"
   },
   {
@@ -2257,7 +2257,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -2288,7 +2288,7 @@
     "search": "Teammate",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -2344,11 +2344,11 @@
     "month": "November",
     "day": 24,
     "year": 2007,
-    "type": "2nd",
-    "search": "",
+    "type": "4v4",
+    "search": "2nd",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Capitals"
   },
   {
@@ -2592,7 +2592,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -3003,7 +3003,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Capitals"
   },
   {
@@ -3416,7 +3416,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -3526,7 +3526,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -3604,7 +3604,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -3944,7 +3944,7 @@
     "day": 18,
     "year": 2009,
     "type": "",
-    "search": "Spinorama",
+    "search": "360*",
     "season": "NHL",
     "hoa": "Home",
     "period": "First",
@@ -4097,8 +4097,8 @@
     "month": "March",
     "day": 27,
     "year": 2009,
-    "type": "PPG",
-    "search": "",
+    "type": "5v3",
+    "btn1": "PPG",
     "season": "NHL",
     "hoa": "Home",
     "period": "First",
@@ -4311,7 +4311,7 @@
     "btn1": "Semifinals Game 5",
     "season": "Playoffs",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -4505,7 +4505,8 @@
     "day": 27,
     "year": 2009,
     "type": "2nd",
-    "btn1": "Empty Net",
+    "btn1": "Backhand",
+    "btn2": "Empty Net",
     "season": "NHL",
     "hoa": "Home",
     "period": "Third",
@@ -4691,7 +4692,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -4767,7 +4768,7 @@
     "search": "Teammate",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -4918,10 +4919,9 @@
     "year": 2010,
     "type": "2nd",
     "search": "500th Career Point",
-    "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -5281,7 +5281,7 @@
     "btn1": "2010 World Championships",
     "season": "IIHF",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Russia"
   },
   {
@@ -5837,7 +5837,7 @@
     "btn1": "Backhand",
     "season": "Playoffs",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -6266,7 +6266,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -6599,11 +6599,11 @@
     "month": "October",
     "day": 1,
     "year": 2012,
-    "type": "",
+    "type": "PPG",
     "search": "Dynamo Moscow",
     "season": "KHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Blue Dynamo"
   },
   {
@@ -7035,7 +7035,7 @@
     "day": 17,
     "year": 2013,
     "type": "",
-    "search": "",
+    "search": "Opening Minute",
     "season": "NHL",
     "hoa": "Home",
     "period": "First",
@@ -7229,7 +7229,7 @@
     "btn3": "Hat Trick",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -7858,7 +7858,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Capitals"
   },
   {
@@ -8044,7 +8044,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -8351,7 +8351,7 @@
     "day": 2,
     "year": 2014,
     "type": "PPG",
-    "search": "Spinorama",
+    "search": "360*",
     "season": "NHL",
     "hoa": "Home",
     "period": "First",
@@ -8395,11 +8395,11 @@
     "month": "November",
     "day": 20,
     "year": 2014,
-    "type": "GWG",
-    "search": "",
+    "type": "4v4",
+    "btn1": "GWG",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -8459,7 +8459,7 @@
     "day": 9,
     "year": 2014,
     "type": "",
-    "search": "",
+    "search": "Opening Minute",
     "season": "NHL",
     "hoa": "Away",
     "period": "First",
@@ -9244,7 +9244,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -9289,7 +9289,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -10025,7 +10025,7 @@
     "btn1": "2016 World Championships",
     "season": "IIHF",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Russia"
   },
   {
@@ -10259,7 +10259,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -10473,7 +10473,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -10627,7 +10627,7 @@
     "btn1": "Semifinals Game 1",
     "season": "Playoffs",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -10701,7 +10701,7 @@
     "day": 7,
     "year": 2017,
     "type": "",
-    "search": "Spinorama",
+    "search": "360* Opening Minute",
     "season": "NHL",
     "hoa": "Home",
     "period": "First",
@@ -10843,7 +10843,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -10935,7 +10935,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -11195,7 +11195,7 @@
     "btn1": "Tip",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -11703,7 +11703,7 @@
     "search": "Bobby Hull",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -11813,7 +11813,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -11828,7 +11828,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -12070,7 +12070,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -12602,11 +12602,11 @@
     "month": "October",
     "day": 14,
     "year": 2019,
-    "type": "",
+    "type": "6v5",
     "search": "Teammate",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Capitals"
   },
   {
@@ -12651,7 +12651,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -12788,7 +12788,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Capitals"
   },
   {
@@ -13114,7 +13114,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Capitals"
   },
   {
@@ -13177,7 +13177,7 @@
     "btn1": "Post",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -13267,7 +13267,7 @@
     "search": "End Rocket Richard",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -13708,10 +13708,9 @@
     "year": 2021,
     "type": "PPG",
     "search": "Quarterfinals Game 3",
-    "search": "",
     "season": "Playoffs",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -13724,7 +13723,6 @@
     "year": 2021,
     "type": "PPG",
     "search": "Quarterfinals Game 4 Broken Stick",
-    "search": "",
     "season": "Playoffs",
     "hoa": "Away",
     "period": "First",
@@ -13740,7 +13738,6 @@
     "year": 2021,
     "type": "PPG",
     "search": "Marcel Dionne Start",
-    "search": "",
     "season": "NHL",
     "hoa": "Home",
     "period": "First",
@@ -14017,7 +14014,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -14216,7 +14213,7 @@
     "btn1": "Vezina",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -14353,7 +14350,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -14951,7 +14948,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -15027,7 +15024,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -15241,11 +15238,11 @@
     "month": "November",
     "day": 18,
     "year": 2023,
-    "type": "",
+    "type": "4v4",
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -16360,7 +16357,7 @@
     "btn1": "Quarterfinals Game 3",
     "season": "Playoffs",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -16373,7 +16370,6 @@
     "year": 2025,
     "type": "PPG",
     "search": "Quarterfinals Game 5",
-    "search": "",
     "season": "Playoffs",
     "hoa": "Home",
     "period": "First",
@@ -16393,7 +16389,7 @@
     "btn2": "PPG",
     "season": "Playoffs",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {

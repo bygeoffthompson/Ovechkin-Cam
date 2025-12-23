@@ -38,7 +38,8 @@ function SearchForm({jsonData}) {
                     item.year + ' ' +
                     item.goalie + ' ' + item.goalie2 + ' ' +
                     item.team + ' ' +
-                    item.awayhome + ' ' +
+                    item.period + ' ' +
+                    item.hoa + ' ' +
                     item.search + ' ' +
                     item.btn1 + ' ' + item.btn2 + ' ' + item.btn3
                 return (
@@ -67,7 +68,7 @@ function SearchForm({jsonData}) {
     useEffect(() => {
         const query = window.location.search.slice(1).split('?')[0].replace(/-/g, ' ').toLowerCase();
         const queryInteger = parseFloat(query);
-        if (!['20th', '30th', '40th', '50th', '60th', '2nd', '3rd', '4th', '6v5', '5v3', '4v4'].includes(query) && queryInteger > 0 && queryInteger <= totalGoals) {
+        if (!['20th', '30th', '40th', '50th', '60th', '2nd', '3rd', '4th', '6v5', '5v3', '4v4', '360*'].includes(query) && queryInteger > 0 && queryInteger <= totalGoals) {
             setSearchGoal(queryInteger);
         } else if (query.includes('+')) {
             const multipleSearch = query.split('+');
