@@ -1027,7 +1027,7 @@
     "search": "Torino 2006 Winter Olympics Turin Italy",
     "season": "Olympics",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Russia"
   },
   {
@@ -1455,7 +1455,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "Screagle"
   },
   {
@@ -1713,9 +1713,10 @@
     "year": 2006,
     "type": "",
     "search": "",
+    "btn1": "Post",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Capitol"
   },
   {
@@ -1956,7 +1957,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Capitol"
   },
   {
@@ -2046,7 +2047,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "Screagle"
   },
   {
@@ -2422,10 +2423,10 @@
     "day": 8,
     "year": 2007,
     "type": "GWG",
-    "search": "",
+    "btn1": "Tip",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -2440,7 +2441,7 @@
     "btn1": "Tip",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Capitals"
   },
   {
@@ -2546,7 +2547,7 @@
     "btn2": "Hat Trick",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -2698,7 +2699,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -4131,7 +4132,7 @@
     "btn1": "April Fools Day",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -6235,7 +6236,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Capitals"
   },
   {
@@ -7147,7 +7148,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -7506,7 +7507,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Capitals"
   },
   {
@@ -8365,7 +8366,8 @@
     "month": "November",
     "day": 11,
     "year": 2014,
-    "type": "PPG",
+    "type": "5v3",
+    "btn1": "PPG",
     "search": "",
     "season": "NHL",
     "hoa": "Home",
@@ -8964,11 +8966,11 @@
     "month": "March",
     "day": 19,
     "year": 2015,
-    "type": "",
+    "type": "4v4",
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -9089,7 +9091,7 @@
     "btn1": "Quarterfinals Game 2",
     "season": "Playoffs",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -9198,7 +9200,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Capitals"
   },
   {
@@ -9213,7 +9215,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Capitals"
   },
   {
@@ -10212,7 +10214,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -10504,7 +10506,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Capitals"
   },
   {
@@ -11014,7 +11016,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -12561,7 +12563,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -12682,7 +12684,7 @@
     "search": "Luc Robitaille",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -13560,7 +13562,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -14603,10 +14605,10 @@
     "day": 5,
     "year": 2022,
     "type": "PPG",
-    "search": "",
+    "btn1": "Post",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Black Reverse Retro"
   },
   {
@@ -15321,7 +15323,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Navy Third"
   },
   {
@@ -15849,7 +15851,7 @@
     "day": 18,
     "year": 2024,
     "type": "GWG",
-    "search": "",
+    "search": "Broken Leg",
     "season": "NHL",
     "hoa": "Away",
     "period": "First",
@@ -15864,6 +15866,7 @@
     "day": 18,
     "year": 2024,
     "type": "5v3",
+    "search": "Broken Leg",
     "btn1": "2nd",
     "btn2": "PPG",
     "season": "NHL",
