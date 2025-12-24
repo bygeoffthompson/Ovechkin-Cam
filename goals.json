@@ -341,7 +341,7 @@
     "btn1": "2005 World Championships",
     "season": "IIHF",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Russia"
   },
   {
@@ -605,7 +605,7 @@
     "search": "Rookie",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Capitol"
   },
   {
@@ -1286,7 +1286,7 @@
     "search": "End Rookie",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Capitol"
   },
   {
@@ -1440,7 +1440,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Capitol"
   },
   {
@@ -3557,7 +3557,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -5267,7 +5267,7 @@
     "btn1": "2010 World Championships",
     "season": "IIHF",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Russia"
   },
   {
@@ -5854,7 +5854,7 @@
     "btn1": "Backhand",
     "season": "Playoffs",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -6434,7 +6434,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Capitals"
   },
   {
@@ -6481,7 +6481,7 @@
     "btn1": "Post",
     "season": "Playoffs",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -7368,7 +7368,7 @@
     "btn1": "Backhand",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Capitals"
   },
   {
@@ -9015,7 +9015,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Throwback"
   },
   {
@@ -9489,7 +9489,7 @@
     "search": "New Years Eve",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -11092,7 +11092,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -12028,7 +12028,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -12850,10 +12850,10 @@
     "day": 9,
     "year": 2019,
     "type": "",
-    "search": "",
+    "btn1": "Backhand",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Throwback"
   },
   {
@@ -13380,7 +13380,7 @@
     "btn1": "Post",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -13971,7 +13971,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Navy Third"
   },
   {
@@ -14773,7 +14773,7 @@
     "day": 13,
     "year": 2022,
     "type": "",
-    "search": "",
+    "search": "Opening Minute",
     "season": "NHL",
     "hoa": "Away",
     "period": "First",
@@ -15308,7 +15308,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -15519,7 +15519,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Capitals"
   },
   {
