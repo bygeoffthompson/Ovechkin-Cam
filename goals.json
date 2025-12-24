@@ -3143,7 +3143,7 @@
     "btn1": "Quarterfinals Game 1",
     "season": "Playoffs",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Capitals"
   },
   {
@@ -3158,7 +3158,7 @@
     "btn1": "Quarterfinals Game 6",
     "season": "Playoffs",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -3173,7 +3173,7 @@
     "btn1": "Quarterfinals Game 6",
     "season": "Playoffs",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -3188,7 +3188,7 @@
     "btn1": "Quarterfinals Game 7",
     "season": "Playoffs",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -3728,7 +3728,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -4211,7 +4211,7 @@
     "btn1": "Tip",
     "season": "Playoffs",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -4328,7 +4328,7 @@
     "btn1": "Semifinals Game 5",
     "season": "Playoffs",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Capitals"
   },
   {
@@ -4344,7 +4344,7 @@
     "btn1": "Semifinals Game 7",
     "season": "Playoffs",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -5160,7 +5160,7 @@
     "btn1": "Backhand",
     "season": "Playoffs",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Capitals"
   },
   {
@@ -5175,7 +5175,7 @@
     "btn1": "Quarterfinals Game 3",
     "season": "Playoffs",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -5188,7 +5188,6 @@
     "year": 2010,
     "type": "PPG",
     "search": "Quarterfinals Game 4",
-    "search": "",
     "season": "Playoffs",
     "hoa": "Away",
     "period": "First",
@@ -5206,7 +5205,7 @@
     "btn1": "Quarterfinals Game 4",
     "season": "Playoffs",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -5222,7 +5221,7 @@
     "btn1": "Quarterfinals Game 5 Teammate",
     "season": "Playoffs",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -5885,7 +5884,7 @@
     "btn2": "PPG",
     "season": "Playoffs",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -5971,7 +5970,7 @@
     "month": "November",
     "day": 5,
     "year": 2011,
-    "type": "",
+    "type": "4v4",
     "search": "",
     "season": "NHL",
     "hoa": "Away",
@@ -6511,7 +6510,7 @@
     "search": "Semifinals Game 2 Vezina",
     "season": "Playoffs",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -7383,7 +7382,7 @@
     "search": "Quarterfinals Game 1",
     "season": "Playoffs",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -8337,7 +8336,7 @@
     "day": 16,
     "year": 2014,
     "type": "",
-    "search": "",
+    "search": "Opening Minute",
     "season": "NHL",
     "hoa": "Home",
     "period": "First",
@@ -9121,7 +9120,6 @@
     "year": 2015,
     "type": "PPG",
     "search": "Semifinals Game 1",
-    "search": "",
     "season": "Playoffs",
     "hoa": "Away",
     "period": "First",
@@ -9139,7 +9137,7 @@
     "btn1": "Semifinals Game 2",
     "season": "Playoffs",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Throwback"
   },
   {
@@ -9307,7 +9305,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Capitals"
   },
   {
@@ -9949,7 +9947,7 @@
     "search": "Quarterfinals Game 2",
     "season": "Playoffs",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -9964,7 +9962,7 @@
     "btn1": "Quarterfinals Game 3",
     "season": "Playoffs",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -9980,7 +9978,7 @@
     "btn1": "PPG",
     "season": "Playoffs",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -9996,7 +9994,7 @@
     "btn1": "Semifinals Game 3",
     "season": "Playoffs",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -10583,7 +10581,7 @@
     "search": "Quarterfinals Game 2",
     "season": "Playoffs",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -10646,7 +10644,7 @@
     "btn1": "Semifinals Game 5",
     "season": "Playoffs",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Capitals"
   },
   {
@@ -11444,7 +11442,7 @@
     "btn2": "PPG",
     "season": "Playoffs",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -11460,7 +11458,7 @@
     "btn1": "Cup Run",
     "season": "Playoffs",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -11477,7 +11475,7 @@
     "btn2": "Cup Run",
     "season": "Playoffs",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -11495,7 +11493,7 @@
     "btn3": "PPG",
     "season": "Playoffs",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -11511,7 +11509,7 @@
     "btn1": "Cup Run",
     "season": "Playoffs",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Capitals"
   },
   {
@@ -11544,7 +11542,7 @@
     "btn2": "Tip",
     "season": "Playoffs",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -11625,7 +11623,7 @@
     "btn1": "Cup Run",
     "season": "Playoffs",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -11660,7 +11658,7 @@
     "btn1": "Cup Run",
     "season": "Playoffs",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -11771,7 +11769,7 @@
     "btn1": "Tip",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -12468,10 +12466,9 @@
     "year": 2019,
     "type": "PPG",
     "search": "Quarterfinals Game 4",
-    "search": "",
     "season": "Playoffs",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -12484,10 +12481,9 @@
     "year": 2019,
     "type": "PPG",
     "search": "Quarterfinals Game 5",
-    "search": "",
     "season": "Playoffs",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Capitals"
   },
   {
@@ -13302,7 +13298,7 @@
     "btn1": "Tip",
     "season": "Playoffs",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -13315,10 +13311,9 @@
     "year": 2020,
     "type": "PPG",
     "search": "Quarterfinals Game 4 Teammate",
-    "search": "",
     "season": "Playoffs",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -13330,10 +13325,10 @@
     "day": 18,
     "year": 2020,
     "type": "2nd",
-    "btn1": "Quarterfinals Game 4 Teammate",
+    "search": "Quarterfinals Game 4 Teammate",
     "season": "Playoffs",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -13592,7 +13587,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Navy Third"
   },
   {
@@ -13728,7 +13723,7 @@
     "search": "Quarterfinals Game 4 Broken Stick",
     "season": "Playoffs",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -13819,7 +13814,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -14503,7 +14498,7 @@
     "btn1": "Quarterfinals Game 3",
     "season": "Playoffs",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Capitals"
   },
   {
