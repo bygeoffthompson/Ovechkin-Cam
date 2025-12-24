@@ -88,9 +88,12 @@ function SearchForm({jsonData}) {
         randomGoal(value);
     }
 
-    const canadaGoal = () => {
-        randomAway(['Calgary Flames', 'Edmonton Oilers', 'Montreal Canadiens', 'Ottawa Senators', 'Toronto Maple Leafs', 'Vancouver Canucks', 'Winnipeg Jets']);
-    };
+    function canadian() {
+        const canada = ['Calgary Flames', 'Edmonton Oilers', 'Montreal Canadiens', 'Ottawa Senators', 'Toronto Maple Leafs', 'Vancouver Canucks', 'Winnipeg Jets']
+        const canadian = jsonData.filter(item => item.hoa === 'Away' && canada.includes(item.team))
+        const random = Math.floor(Math.random() * canadian.length);
+        setSearchGoal(canadian[random].goal)
+    }
 
     const clickGoal = () => {
         document.getElementById('click-goal').addEventListener('click', function(event) {
@@ -108,6 +111,12 @@ function SearchForm({jsonData}) {
             }, 500);
         });
     };
+
+    function cupRun() {
+        const cupRun = jsonData.filter(item => item.year === 2018 && item.season === 'Playoffs')
+        const random = Math.floor(Math.random() * cupRun.length);
+        setSearchGoal(cupRun[random].goal)
+    }
 
     const handleColumnChange = (event) => {
         const columnValue = parseInt(document.getElementById('column').value);
@@ -177,17 +186,6 @@ function SearchForm({jsonData}) {
         min = Math.ceil(min);
         max = Math.floor(max);
         return Math.floor(Math.random() * (max - min + 1)) + min;
-    }
-
-    function randomAway(type) {
-        resultsHide();
-        const result = jsonData.filter(item =>
-            Object.values(item).some(value =>
-                type.includes(value)
-            ) && item.season === 'NHL' && item.hoa === 'Away'
-        );
-        const goal = Object.values(result[random(1, Object.keys(result).length)]);
-        setSearchGoal(goal[0]);
     }
 
     function randomGoal(type) {
@@ -300,8 +298,8 @@ function SearchForm({jsonData}) {
                     <div>
                         <button onClick={(event) => setSearchGoal(random(1, 52))} title="Rookie Goal" type="button">Rookie</button>
                         <button onClick={(event) => buttonClick(['Backhand'])} title="Backhand Goal" type="button">Backhand</button>
-                        <button onClick={canadaGoal} title="Canada Goal" type="button">Canadian</button>
-                        <button onClick={(event) => buttonClick(['Cup Run'])} title="Cup Run" type="button">Cup&nbsp;Run</button>
+                        <button onClick={canadian} title="Canada Goal" type="button">Canadian</button>
+                        <button onClick={cupRun} title="Cup Run" type="button">Cup&nbsp;Run</button>
                         <button onClick={(event) => buttonClick(['Post'])} title="Post Goal" type="button">Post</button>
                         <button onClick={(event) => buttonClick(['Tip'])} title="Tip Goal" type="button">Tip</button>
                         <button onClick={(event) => buttonClick(['Hat Trick'])} title="Hat Trick Goal" type="button">Trick</button>
