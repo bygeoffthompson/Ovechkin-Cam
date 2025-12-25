@@ -229,11 +229,12 @@ function SearchForm({jsonData}) {
         <div>
             <div id="click-goal" onClick={clickGoal}></div>
             <div id="goal">
+                <img alt="Goal Light" className="goal-light" src="/goal-light.gif"/>
                 <img alt="Goal Net" src="icons/net.svg"/>
             </div>
             <form onSubmit={preventSubmit}>
                 <div>
-                    <h2 className="number"><a href="/about.html#number">Search by Number</a></h2>
+                <h2 className="number"><a href="/about.html#number">Search by Number</a></h2>
                     <label className="hide" htmlFor="search-goal">Number</label>
                     <input id="search-goal" min="1" max={totalGoals} step="any" type="number" placeholder="#" value={searchGoal} onChange={handleGoalChange}/>
                     <h2><a href="/about.html#text"><span className="hide">Search by </span>Text</a></h2>

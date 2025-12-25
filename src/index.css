@@ -35,17 +35,16 @@
 
 #cracked-ice {
   animation: iceChange 8s infinite alternate;
-  background: url('../public/bg/cracked-ice.jpg');
 }
 
 @keyframes iceChange {
   0% {
     opacity: .5;
-    transform: scale(1.0);
+    transform: rotate(180deg) scale(1);
   }
   100% {
-    opacity: .25;
-    transform: scale(1.125);
+      opacity: .75;
+      transform: rotate(180deg) scale(1.125);
   }
 }
 
@@ -56,7 +55,7 @@
   width: 75px;
   z-index: 1;
 
-    img {
+    img[alt='Goal Net'] {
         height: auto;
         width: 100%;
     }
@@ -181,12 +180,12 @@
     }
     95% {
         left: 50%;
-        top: 150px;
+        top: 136px;
         transform: scale(.5) translateX(-50%);
     }
     100% {
         left: 50%;
-        top: 200px;
+        top: 160px;
         transform: scale(.75) translateX(-50%);
     }
 }
