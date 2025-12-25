@@ -52,7 +52,7 @@ function SearchForm({jsonData}) {
             document.getElementById('advanced').classList.add('show');
             document.getElementById('minimum').classList.remove('show');
             document.getElementById('count').setAttribute('data-count', results.length);
-            document.getElementById('count').innerHTML = results.length + ' Result';
+            document.getElementById('count').innerHTML = results.length + '&nbsp;Result';
             setSearchResults(results);
         }
         if (search1Value === 0) {
@@ -293,8 +293,8 @@ function SearchForm({jsonData}) {
                         <button onClick={(event) => buttonClick(['5v3'])} title="5v3 Goal" type="button">5v3</button>
                         <button onClick={shg} title="Shorthand Goal" type="button">SHG</button>
                         <button onClick={(event) => buttonClick(['Empty Net'])} title="Empty Net Goal" type="button">ENG</button>
-                        <button onClick={(event) => buttonClick(['GWG', 'OT'])} title="Game Winning Goal" type="button">GWG</button>
-                        <button onClick={(event) => buttonClick(['OT'])} title="Overtime Goal" type="button">OT</button>
+                        <button onClick={(event) => buttonClick(['GWG', 'Overtime'])} title="Game Winning Goal" type="button">GWG</button>
+                        <button onClick={(event) => buttonClick(['Overtime'])} title="Overtime Goal" type="button">OT</button>
                     </div>
                     <div>
                         <button onClick={(event) => setSearchGoal(random(1, 52))} title="Rookie Goal" type="button">Rookie</button>
@@ -360,10 +360,13 @@ function SearchForm({jsonData}) {
                             </div>
                         </div>
                         <div className="shadow">
-                            <iframe width="560" height="315" src={result.link.replace(/"/g, "")} title="Alex Ovechkin Goal Video"
+                            <iframe width="560" height="315" src={'https://www.youtube.com/embed' + result.link.replace(/"/g, "")} title="Alex Ovechkin Goal Video"
                                 referrerPolicy="cross-origin-with-strict-origin" allowFullScreen loading="lazy"></iframe>
                         </div>
-                        <small className="tags">{result.search} {result.btn1} {result.btn2} {result.btn3}</small>
+                        <div className="tags">
+                            <small className="terms">{result.search} {result.btn1} {result.btn2} {result.btn3}</small>
+                            <small>ovechkin.cam/?{result.goal}</small>
+                        </div>
                     </div>
                 ))}
             </div>

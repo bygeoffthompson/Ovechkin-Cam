@@ -14,6 +14,7 @@
     margin: 0;
     opacity: 0;
     overflow: hidden;
+    user-select: none;
 
     &.show {
         height: auto;
@@ -229,6 +230,7 @@
         font-weight: bold;
         min-width: 3.5rem;
         padding: .25rem;
+        user-select: none;
     }
 }
 
@@ -244,6 +246,7 @@
   justify-content: center;
   position: relative;
   transition: all .25s ease-in-out;
+  user-select: none;
   z-index: 1;
 
     > div {
@@ -634,15 +637,11 @@ form {
   max-width: 1024px;
   padding: 2rem 1rem 1rem;
   position: relative;
+  user-select: none;
   z-index: 2;
 
     a {
         color: #111;
-    }
-
-    h2,
-    strong {
-        user-select: none;
     }
 
     > div {
@@ -691,6 +690,7 @@ select {
   margin: 0 0 1rem;
   max-width: 992px;
   position: relative;
+  user-select: none;
 
     &:before {
         content: "";
@@ -706,16 +706,23 @@ select {
 }
 
 .tags {
+  align-items: center;
   bottom: -2px;
-  display: block;
-  margin: 0 0 0 1.25rem;
-  max-height: .9375rem;
+  display: flex;
+  justify-content: space-between;
+  left: 1.25rem;
+  margin: 0;
+  max-height: 15px;
   overflow: hidden;
-  pointer-events: none;
   position: absolute;
   text-align: start;
-  width: 100%;
-  z-index: 1 ;
+  width: calc(100% - .625rem);
+  z-index: 1;
+
+    .terms {
+        pointer-events: none;
+        user-select: none;
+    }
 }
 
 #search-goal {

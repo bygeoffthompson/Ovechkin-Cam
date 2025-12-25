@@ -32,18 +32,20 @@
 
                 data.forEach(item => {
                     const row = tableBody.insertRow();
-                    const seasonCell = row.insertCell();
-                    seasonCell.textContent = item.season;
                     const goalCell = row.insertCell();
                     goalCell.textContent = item.goal;
-                    const teamCell = row.insertCell();
-                    teamCell.textContent = item.team;
-                    const goalieCell = row.insertCell();
-                    goalieCell.textContent = item.goalie;
+                    const seasonCell = row.insertCell();
+                    seasonCell.textContent = item.season;
                     const dateCell = row.insertCell();
                     dateCell.textContent = item.month + ' ' + item.day + ', ' + item.year;
-                    const arenaCell = row.insertCell();
-                    arenaCell.textContent = item.arena;
+                    const goalieCell = row.insertCell();
+                    goalieCell.textContent = item.goalie;
+                    const teamCell = row.insertCell();
+                    teamCell.textContent = item.team;
+                    const hoaCell = row.insertCell();
+                    hoaCell.textContent = item.hoa;
+                    const periodCell = row.insertCell();
+                    periodCell.textContent = item.period;
                     const typeCell = row.insertCell();
                     typeCell.textContent = item.type;
                 });
@@ -68,11 +70,12 @@
         <table id="ovechkin-goals">
             <thead>
               <tr>
-                  <th>Type</th>
                   <th>Goal</th>
-                  <th>Team</th>
-                  <th>Goalie</th>
+                  <th>Season</th>
                   <th>Date</th>
+                  <th>Goalie</th>
+                  <th>Opponent</th>
+                  <th>Period</th>
                   <th>Home/Away</th>
                   <th>Note</th>
               </tr>
