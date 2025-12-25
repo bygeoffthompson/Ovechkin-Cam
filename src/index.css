@@ -116,6 +116,10 @@
   margin: 0 auto 3rem;
   max-width: 1500px;
   position: relative;
+
+    &:before {
+        background: url('../public/bg/autograph.svg') center / cover no-repeat scroll;
+    }
 }
 
 .multi-column {
