@@ -147,7 +147,7 @@
     }
 
     .tags {
-        bottom: -1.125rem;
+        bottom: -1.25rem;
     }
 }
 
@@ -198,7 +198,7 @@
   height: auto;
   margin-top: 0;
   max-width: 325px;
-  padding: .375rem .5rem;
+  padding: .325rem .5rem;
 
 }
 
@@ -218,7 +218,7 @@
   height: auto;
   margin-top: 0;
   max-width: 75px;
-  padding: .375rem .5rem;
+  padding: .325rem .5rem;
   text-align: center;
 }
 
@@ -469,6 +469,7 @@ button {
         border: 1px solid #E0E0E0;
         color: #111;
         font-family: Georgia, serif;
+        letter-spacing: 1px;
     }
 
     &.multi-logo {
@@ -652,7 +653,7 @@ form {
         justify-content: center;
 
         &:first-of-type {
-            margin-bottom: 1rem;
+            margin-bottom: 1.5rem;
         }
     }
 }
@@ -711,7 +712,7 @@ select {
 
 .tags {
   align-items: center;
-  bottom: -2px;
+  bottom: -3px;
   display: flex;
   justify-content: space-between;
   left: 1.25rem;
@@ -782,7 +783,7 @@ input {
             height: auto;
             margin-top: 0;
             max-width: 325px;
-            padding: .375rem .5rem;
+            padding: .325rem .5rem;
         }
     }
 }

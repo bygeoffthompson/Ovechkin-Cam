@@ -522,7 +522,7 @@
     "search": "Rookie",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "Screagle"
   },
   {
@@ -1050,7 +1050,7 @@
     "btn2": "Tip",
     "season": "IIHF",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Russia"
   },
   {
@@ -1583,7 +1583,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "Screagle"
   },
   {
@@ -2065,7 +2065,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -2309,7 +2309,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -2781,7 +2781,7 @@
     "search": "Teammate",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -3291,7 +3291,7 @@
     "btn2": "PPG",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Capitals"
   },
   {
@@ -4482,7 +4482,7 @@
     "day": 15,
     "year": 2010,
     "type": "",
-    "search": "",
+    "search": "Opening Minute",
     "season": "NHL",
     "hoa": "Home",
     "period": "First",
@@ -5226,7 +5226,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Capitals"
   },
   {
@@ -5241,7 +5241,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -5302,10 +5302,10 @@
     "day": 30,
     "year": 2011,
     "type": "",
-    "search": "",
+    "search": "Opening Minute",
     "season": "All Star",
     "hoa": "Away",
-    "period": "Second",
+    "period": "First",
     "jersey": "ASG White"
   },
   {
@@ -6119,7 +6119,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -7329,7 +7329,7 @@
     "btn1": "Post",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -10853,7 +10853,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -11606,7 +11606,7 @@
     "btn1": "Backhand",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -11653,7 +11653,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -11882,7 +11882,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -12048,7 +12048,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -12767,7 +12767,7 @@
     "search": "Mark Messier",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -12887,8 +12887,9 @@
     "month": "March",
     "day": 1,
     "year": 2020,
-    "type": "PPG",
-    "search": "",
+    "type": "5v3",
+    "btn1": "Post",
+    "btn2": "PPG",
     "season": "NHL",
     "hoa": "Away",
     "period": "First",
@@ -13102,10 +13103,10 @@
     "day": 21,
     "year": 2021,
     "type": "GWG",
-    "search": "",
+    "btn1": "PPG",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Navy Third"
   },
   {
@@ -13728,7 +13729,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -14692,7 +14693,7 @@
     "search": "",
     "season": "All Star",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "ASG White"
   },
   {
@@ -15458,7 +15459,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
