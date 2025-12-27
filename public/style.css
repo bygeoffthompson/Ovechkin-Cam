@@ -125,6 +125,7 @@ h1 {
 
     span {
         animation: flames 1.5s infinite alternate ease-in-out;
+        color: #C81020;
     }
 }
 

@@ -429,7 +429,7 @@
     "btn1": "Once Rookie",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Capitol"
   },
   {
@@ -3336,7 +3336,7 @@
     "btn1": "Once",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Capitals"
   },
   {
@@ -3349,7 +3349,6 @@
     "year": 2008,
     "type": "GWG",
     "search": "4v4",
-    "search": "",
     "season": "NHL",
     "hoa": "Away",
     "period": "First",
@@ -5767,7 +5766,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -6534,7 +6533,7 @@
     "month": "December",
     "day": 26,
     "year": 2012,
-    "type": "",
+    "type": "PPG",
     "search": "Dynamo Moscow",
     "season": "KHL",
     "hoa": "Home",
@@ -9989,7 +9988,9 @@
     "day": 27,
     "year": 2016,
     "type": "",
-    "btn1": "Stan Makita Teammate",
+    "btn1": "Backhand",
+    "btn2": "Post",
+    "search": "Stan Makita Teammate",
     "season": "NHL",
     "hoa": "Away",
     "period": "Third",
@@ -12701,7 +12702,7 @@
     "day": 18,
     "year": 2020,
     "type": "",
-    "btn1": "Mario Lemieux Teammate",
+    "search": "Mario Lemieux Teammate",
     "season": "NHL",
     "hoa": "Away",
     "period": "First",
