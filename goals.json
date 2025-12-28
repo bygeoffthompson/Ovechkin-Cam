@@ -2370,7 +2370,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -4589,7 +4589,8 @@
     "day": 2,
     "year": 2010,
     "type": "ENG",
-    "btn1": "Empty Net",
+    "btn1": "Backhand",
+    "btn2": "Empty Net",
     "season": "NHL",
     "hoa": "Away",
     "period": "Third",
@@ -4749,7 +4750,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Capitals"
   },
   {
@@ -6395,7 +6396,7 @@
     "search": "Dynamo Moscow",
     "season": "KHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Blue Dynamo"
   },
   {
@@ -7650,7 +7651,7 @@
     "btn1": "PPG",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Throwback"
   },
   {
@@ -8593,7 +8594,7 @@
     "btn1": "Backhand",
     "season": "NHL",
     "hoa": "Home",
-    "period": "Third",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -9816,10 +9817,10 @@
     "day": 3,
     "year": 2016,
     "type": "",
-    "search": "",
+    "btn1": "Backhand",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Throwback"
   },
   {
@@ -10466,10 +10467,10 @@
     "day": 11,
     "year": 2017,
     "type": "",
-    "btn1": "Patrick Marleau",
+    "search": "Patrick Marleau",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Capitals"
   },
   {
@@ -10484,7 +10485,7 @@
     "btn1": "Post",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -10532,7 +10533,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -10575,7 +10576,7 @@
     "day": 24,
     "year": 2017,
     "type": "",
-    "btn1": "Mike Bossy",
+    "search": "Mike Bossy",
     "season": "NHL",
     "hoa": "Home",
     "period": "First",
@@ -10656,7 +10657,7 @@
     "btn2": "GWG",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -10732,7 +10733,7 @@
     "btn1": "Backhand",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -10778,7 +10779,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -10809,7 +10810,7 @@
     "btn1": "Once",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -10839,7 +10840,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -10929,7 +10930,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Capitals"
   },
   {
@@ -10944,7 +10945,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Capitals"
   },
   {
@@ -11004,7 +11005,7 @@
     "search": "600th Century",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -11048,8 +11049,9 @@
     "day": 26,
     "year": 2018,
     "type": "GWG",
-    "btn1": "PPG",
-    "btn2": "Rocket Richard",
+    "btn1": "Post",
+    "btn2": "PPG",
+    "search": "Rocket Richard",
     "season": "NHL",
     "hoa": "Away",
     "period": "First",
@@ -11082,7 +11084,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -13761,7 +13763,7 @@
     "btn1": "PPG",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -14602,7 +14604,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Black Reverse Retro"
   },
   {
@@ -14618,7 +14620,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Black Reverse Retro"
   },
   {
@@ -14646,7 +14648,7 @@
     "day": 14,
     "year": 2023,
     "type": "30th",
-    "search": "",
+    "btn1": "Backhand",
     "season": "NHL",
     "hoa": "Home",
     "period": "First",
@@ -14726,7 +14728,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -14742,7 +14744,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -14759,7 +14761,7 @@
     "btn2": "PPG",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -14775,7 +14777,7 @@
     "btn1": "Tip",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -14791,7 +14793,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Capitals"
   },
   {
@@ -14807,7 +14809,7 @@
     "btn1": "PPG",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -14837,7 +14839,7 @@
     "btn1": "Backhand",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Capitals"
   },
   {
@@ -14852,7 +14854,7 @@
     "search": "End",
     "season": "NHL",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -14867,7 +14869,7 @@
     "search": "Start",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -14960,7 +14962,7 @@
     "search": "",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Navy Third"
   },
   {
@@ -15050,7 +15052,7 @@
     "btn1": "Superbowl Super Bowl",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -15231,7 +15233,7 @@
     "btn1": "Vezina",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Capitals"
   },
   {
@@ -16291,6 +16293,20 @@
     "season": "NHL",
     "hoa": "Away",
     "period": "First",
+    "jersey": "White Capitals"
+  },
+  {
+    "goal": 912,
+    "link": "/p0YFbphDW6M?si=ZQ1pC9WQPv783Nw9",
+    "team": "New Jersey Devils",
+    "goalie": "",
+    "month": "December",
+    "day": 27,
+    "year": 2025,
+    "type": "",
+    "season": "NHL",
+    "hoa": "Away",
+    "period": "Third",
     "jersey": "White Capitals"
   }
 ]
