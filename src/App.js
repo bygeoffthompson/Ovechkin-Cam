@@ -84,10 +84,6 @@ function SearchForm({jsonData}) {
         }
     },[]);
 
-    function buttonClick(value) {
-        randomGoal(value);
-    }
-
     function canadian() {
         const canada = ['Calgary Flames', 'Edmonton Oilers', 'Montreal Canadiens', 'Ottawa Senators', 'Toronto Maple Leafs', 'Vancouver Canucks', 'Winnipeg Jets']
         const canadian = jsonData.filter(item => item.hoa === 'Away' && canada.includes(item.team))
@@ -188,11 +184,11 @@ function SearchForm({jsonData}) {
         return Math.floor(Math.random() * (max - min + 1)) + min;
     }
 
-    function randomGoal(type) {
+    function singleGoal(match) {
         resultsHide();
         const result = jsonData.filter(item =>
             Object.values(item).some(value =>
-                type.includes(value)
+                match.includes(value)
             )
         );
         const goal = Object.values(result[random(1, Object.keys(result).length)]);
@@ -246,15 +242,15 @@ function SearchForm({jsonData}) {
                     <input id="search-text-3" type="text" placeholder="And" value={searchText3} onChange={handleText3}/>
                     <div>
                         <strong>or</strong>
-                        <h3><button onClick={(event) => buttonClick([''])} title="Random Goal" type="button">Random</button></h3>
+                        <h3><button onClick={(event) => singleGoal([''])} title="Random Goal" type="button">Random</button></h3>
                     </div>
                 </div>
                 <div className="buttons-group">
                     <div>
-                        <button onClick={(event) => buttonClick(['Red Russia', 'White Russia'])} className="jersey-button" title="Russia" type="button">
+                        <button onClick={(event) => singleGoal(['Red Russia', 'White Russia'])} className="jersey-button" title="Russia" type="button">
                             <img alt="Throwback logo" className="jersey-logo" src="/jerseys/russia.svg" />
                         </button>
-                        <button onClick={(event) => buttonClick(['Capitol', 'Screagle'])} className="jersey-button multi-logo" title="Capitol / Screagle" type="button">
+                        <button onClick={(event) => singleGoal(['Capitol', 'Screagle'])} className="jersey-button multi-logo" title="Capitol / Screagle" type="button">
                             <span>
                                 <img alt="Capitol logo" className="jersey-logo" src="/jerseys/capitol.svg" />
                             </span>
@@ -262,10 +258,10 @@ function SearchForm({jsonData}) {
                                 <img alt="Screagle logo" className="jersey-logo" src="/jerseys/screagle.svg" />
                             </span>
                         </button>
-                        <button onClick={(event) => buttonClick(['Red Capitals', 'White Capitals'])} className="jersey-button" title="Capitals" type="button">
+                        <button onClick={(event) => singleGoal(['Red Capitals', 'White Capitals'])} className="jersey-button" title="Capitals" type="button">
                             <img alt="Capitals logo" className="jersey-logo" src="/jerseys/capitals.svg" />
                         </button>
-                        <button onClick={(event) => buttonClick(['Red Throwback', 'White Throwback'])} className="jersey-button" title="Throwback Third" type="button">
+                        <button onClick={(event) => singleGoal(['Red Throwback', 'White Throwback'])} className="jersey-button" title="Throwback Third" type="button">
                             <img alt="Throwback logo" className="jersey-logo" src="/jerseys/throwback.svg" />
                         </button>
                         <button onClick={outdoor} className="jersey-button multi-logo" title="Brick / Stadium" type="button">
@@ -276,34 +272,34 @@ function SearchForm({jsonData}) {
                                 <img alt="Stadium Series logo" className="jersey-logo" src="/jerseys/caps.svg" />
                             </span>
                         </button>
-                        <button onClick={(event) => buttonClick(['Navy Third'])} className="jersey-button" title="Navy Third" type="button">
+                        <button onClick={(event) => singleGoal(['Navy Third'])} className="jersey-button" title="Navy Third" type="button">
                             <img alt="Navy logo" className="jersey-logo" src="/jerseys/navy.svg" />
                         </button>
-                        <button onClick={(event) => buttonClick(['Black Reverse Retro', 'Red Reverse Retro'])} className="jersey-button" title="Reverse Retro" type="button">
+                        <button onClick={(event) => singleGoal(['Black Reverse Retro', 'Red Reverse Retro'])} className="jersey-button" title="Reverse Retro" type="button">
                             <img alt="Reverse Retro logo" className="jersey-logo" src="/jerseys/retro.svg" />
                         </button>
-                        <button onClick={(event) => buttonClick(['Blue Dynamo', 'White Dynamo'])} className="jersey-button" title="HC Dynamo Moscow" type="button">
+                        <button onClick={(event) => singleGoal(['Blue Dynamo', 'White Dynamo'])} className="jersey-button" title="HC Dynamo Moscow" type="button">
                             <img alt="HC Dynamo Moscow logo" className="jersey-logo" src="/jerseys/dynamo.svg" />
                         </button>
                     </div>
                     <div>
-                        <button onClick={(event) => buttonClick(['Away'])} title="Away Goal" type="button">Away</button>
-                        <button onClick={(event) => buttonClick(['Home'])} title="Home Goal" type="button">Home</button>
-                        <button onClick={(event) => buttonClick(['PPG'])} title="Power Play Goal" type="button">PPG</button>
-                        <button onClick={(event) => buttonClick(['5v3'])} title="5v3 Goal" type="button">5v3</button>
+                        <button onClick={(event) => singleGoal(['Away'])} title="Away Goal" type="button">Away</button>
+                        <button onClick={(event) => singleGoal(['Home'])} title="Home Goal" type="button">Home</button>
+                        <button onClick={(event) => singleGoal(['PPG'])} title="Power Play Goal" type="button">PPG</button>
+                        <button onClick={(event) => singleGoal(['5v3'])} title="5v3 Goal" type="button">5v3</button>
                         <button onClick={shg} title="Shorthand Goal" type="button">SHG</button>
-                        <button onClick={(event) => buttonClick(['Empty Net'])} title="Empty Net Goal" type="button">ENG</button>
-                        <button onClick={(event) => buttonClick(['GWG', 'Overtime'])} title="Game Winning Goal" type="button">GWG</button>
-                        <button onClick={(event) => buttonClick(['Overtime'])} title="Overtime Goal" type="button">OT</button>
+                        <button onClick={(event) => singleGoal(['Empty Net'])} title="Empty Net Goal" type="button">ENG</button>
+                        <button onClick={(event) => singleGoal(['GWG', 'Overtime'])} title="Game Winning Goal" type="button">GWG</button>
+                        <button onClick={(event) => singleGoal(['Overtime'])} title="Overtime Goal" type="button">OT</button>
                     </div>
                     <div>
                         <button onClick={(event) => setSearchGoal(random(1, 52))} title="Rookie Goal" type="button">Rookie</button>
-                        <button onClick={(event) => buttonClick(['Backhand'])} title="Backhand Goal" type="button">Backhand</button>
+                        <button onClick={(event) => singleGoal(['Backhand'])} title="Backhand Goal" type="button">Backhand</button>
                         <button onClick={canadian} title="Canada Goal" type="button">Canadian</button>
                         <button onClick={cupRun} title="Cup Run" type="button">Cup&nbsp;Run</button>
-                        <button onClick={(event) => buttonClick(['Post'])} title="Post Goal" type="button">Post</button>
-                        <button onClick={(event) => buttonClick(['Tip'])} title="Tip Goal" type="button">Tip</button>
-                        <button onClick={(event) => buttonClick(['Hat Trick'])} title="Hat Trick Goal" type="button">Trick</button>
+                        <button onClick={(event) => singleGoal(['Post'])} title="Post Goal" type="button">Post</button>
+                        <button onClick={(event) => singleGoal(['Tip'])} title="Tip Goal" type="button">Tip</button>
+                        <button onClick={(event) => singleGoal(['Hat Trick'])} title="Hat Trick Goal" type="button">Trick</button>
                         <button onClick={onThisDay} id="otd" title="On This Day Goals" type="button">On&nbsp;This&nbsp;Day</button>
                     </div>
                 </div>
