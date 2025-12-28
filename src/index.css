@@ -716,14 +716,26 @@ iframe {
     iframe {
         box-shadow: rgba(206, 137, 70, 0.4) 10px 10px, rgba(206, 137, 70, 0.2) 20px 20px, rgba(206, 137, 70, 0.1) 30px 30px;
     }
+
+    .tags {
+        color: #000;
+    }
 }
 
 [data-jersey*='Dynamo'] {
     box-shadow: rgba(0, 51, 160, 0.4) -10px -10px, rgba(0, 51, 160, 0.2) -20px -20px, rgba(0, 51, 160, 0.1) -30px -30px;
+
+    .tags {
+        color: #0033A0;
+    }
 }
 
 [data-jersey='Screagle'] {
     box-shadow: rgba(6, 45, 96, 0.4) -10px -10px, rgba(6, 45, 96, 0.2) -20px -20px, rgba(6, 45, 96, 0.1) -30px -30px;
+
+    .tags {
+        color: #062D60;
+    }
 }
 
 [data-jersey*='Reverse Retro'] {
@@ -732,30 +744,43 @@ iframe {
     iframe {
         box-shadow: rgba(200, 16, 46, 0.4) 10px 10px, rgba(200, 16, 46, 0.2) 20px 20px, rgba(200, 16, 46, 0.1) 30px 30px;
     }
+
+    .tags {
+        color: #000;
+    }
 }
 
 [data-jersey*='Navy'] {
-    box-shadow: rgba(6, 45, 96, 0.4) -10px -10px, rgba(6, 45, 96, 0.2) -20px -20px, rgba(6, 45, 96, 0.1) -30px -30px;
+    box-shadow: rgba(200, 16, 46, 0.4) -10px -10px, rgba(200, 16, 46, 0.2) -20px -20px, rgba(200, 16, 46, 0.1) -30px -30px;
 
     iframe {
-        box-shadow: rgba(200, 16, 46, 0.4) 10px 10px, rgba(200, 16, 46, 0.2) 20px 20px, rgba(200, 16, 46, 0.1) 30px 30px;
+        box-shadow: rgba(6, 45, 96, 0.4) 10px 10px, rgba(6, 45, 96, 0.2) 20px 20px, rgba(6, 45, 96, 0.1) 30px 30px;
+    }
+
+    .tags {
+        color: #FFF;
     }
 }
 
 .tags {
   align-items: center;
-  bottom: 7px;
+  bottom: -9px;
+  color: #C8102E;
   display: flex;
+  font-size: 12px;
   justify-content: space-between;
   left: 12px;
   margin: 0;
-  max-height: 15px;
   opacity: .75;
   overflow: hidden;
   position: absolute;
   text-align: start;
   width: calc(100% - 14px);
   z-index: 2;
+
+    strong {
+        user-select: all;
+    }
 
     .terms {
         pointer-events: none;
