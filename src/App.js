@@ -355,7 +355,7 @@ function SearchForm({jsonData}) {
                                 <strong><small>{result.month} {result.day} {result.year}</small></strong>
                             </div>
                         </div>
-                        <div className="shadow">
+                        <div className="shadow" data-jersey={result.jersey}>
                             <iframe width="560" height="315" src={'https://www.youtube.com/embed' + result.link.replace(/"/g, "")} title="Alex Ovechkin Goal Video"
                                 referrerPolicy="cross-origin-with-strict-origin" allowFullScreen loading="lazy"></iframe>
                         </div>

@@ -147,7 +147,7 @@
     }
 
     .tags {
-        bottom: -1.25rem;
+        bottom: -9px;
     }
 }
 
@@ -669,18 +669,6 @@ h2.number {
   min-width: 175px;
 }
 
-iframe {
-  aspect-ratio: 16 / 9;
-  background: #111;
-  border: 0;
-  box-shadow: rgba(200, 16, 46, 0.4) 10px 10px, rgba(200, 16, 46, 0.2) 20px 20px;
-  height: auto;
-  min-height: 0;
-  position: relative;
-  width: 100% !important;
-  z-index: 2;
-}
-
 label {
   font-weight: bold;
 }
@@ -690,8 +678,20 @@ select {
   z-index: 1;
 }
 
+iframe {
+    aspect-ratio: 16 / 9;
+    background: #111;
+    border: 0;
+    box-shadow: rgba(255, 255, 255, 0.7) 10px 10px, rgba(255, 255, 255, 0.5) 20px 20px, rgba(255, 255, 255, 0.3) 30px 30px;
+    height: auto;
+    min-height: 0;
+    position: relative;
+    width: 100% !important;
+    z-index: 2;
+}
+
 .shadow {
-  box-shadow: rgba(4, 30, 66, 0.4) -10px -10px, rgba(4, 30, 66, 0.2) -20px -20px;
+  box-shadow: rgba(200, 16, 46, 0.4) -10px -10px, rgba(200, 16, 46, 0.2) -20px -20px, rgba(200, 16, 46, 0.1) -30px -30px;
   margin: 0 0 1rem;
   max-width: 992px;
   position: relative;
@@ -710,19 +710,52 @@ select {
     }
 }
 
+[data-jersey='Capitol'] {
+    box-shadow: rgba(0, 0, 0, 0.4) -10px -10px, rgba(0, 0, 0, 0.2) -20px -20px, rgba(0, 0, 0, 0.1) -30px -30px;
+
+    iframe {
+        box-shadow: rgba(206, 137, 70, 0.4) 10px 10px, rgba(206, 137, 70, 0.2) 20px 20px, rgba(206, 137, 70, 0.1) 30px 30px;
+    }
+}
+
+[data-jersey*='Dynamo'] {
+    box-shadow: rgba(0, 51, 160, 0.4) -10px -10px, rgba(0, 51, 160, 0.2) -20px -20px, rgba(0, 51, 160, 0.1) -30px -30px;
+}
+
+[data-jersey='Screagle'] {
+    box-shadow: rgba(6, 45, 96, 0.4) -10px -10px, rgba(6, 45, 96, 0.2) -20px -20px, rgba(6, 45, 96, 0.1) -30px -30px;
+}
+
+[data-jersey*='Reverse Retro'] {
+    box-shadow: rgba(0, 0, 0, 0.4) -10px -10px, rgba(0, 0, 0, 0.2) -20px -20px, rgba(0, 0, 0, 0.1) -30px -30px;
+
+    iframe {
+        box-shadow: rgba(200, 16, 46, 0.4) 10px 10px, rgba(200, 16, 46, 0.2) 20px 20px, rgba(200, 16, 46, 0.1) 30px 30px;
+    }
+}
+
+[data-jersey*='Navy'] {
+    box-shadow: rgba(6, 45, 96, 0.4) -10px -10px, rgba(6, 45, 96, 0.2) -20px -20px, rgba(6, 45, 96, 0.1) -30px -30px;
+
+    iframe {
+        box-shadow: rgba(200, 16, 46, 0.4) 10px 10px, rgba(200, 16, 46, 0.2) 20px 20px, rgba(200, 16, 46, 0.1) 30px 30px;
+    }
+}
+
 .tags {
   align-items: center;
-  bottom: -3px;
+  bottom: 7px;
   display: flex;
   justify-content: space-between;
-  left: 1.25rem;
+  left: 12px;
   margin: 0;
   max-height: 15px;
+  opacity: .75;
   overflow: hidden;
   position: absolute;
   text-align: start;
-  width: calc(100% - .625rem);
-  z-index: 1;
+  width: calc(100% - 14px);
+  z-index: 2;
 
     .terms {
         pointer-events: none;
