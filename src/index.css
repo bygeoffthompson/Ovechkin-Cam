@@ -682,7 +682,7 @@ iframe {
     aspect-ratio: 16 / 9;
     background: #111;
     border: 0;
-    box-shadow: rgba(255, 255, 255, 0.7) 10px 10px, rgba(255, 255, 255, 0.5) 20px 20px, rgba(255, 255, 255, 0.3) 30px 30px;
+    box-shadow: rgba(255, 255, 255, 0.6) 10px 10px, rgba(255, 255, 255, 0.4) 20px 20px, rgba(255, 255, 255, 0.2) 30px 30px;
     height: auto;
     min-height: 0;
     position: relative;
@@ -708,6 +708,10 @@ iframe {
         width: 100%;
         z-index: 3;
     }
+}
+
+[data-jersey*='Brick'] {
+    box-shadow: rgba(152, 1, 46, 0.4) -10px -10px, rgba(152, 1, 46, 0.2) -20px -20px, rgba(152, 1, 46, 0.1) -30px -30px;
 }
 
 [data-jersey='Capitol'] {
@@ -751,14 +755,10 @@ iframe {
 }
 
 [data-jersey*='Navy'] {
-    box-shadow: rgba(200, 16, 46, 0.4) -10px -10px, rgba(200, 16, 46, 0.2) -20px -20px, rgba(200, 16, 46, 0.1) -30px -30px;
+    box-shadow: rgba(6, 45, 96, 0.4) -10px -10px, rgba(6, 45, 96, 0.2) -20px -20px, rgba(6, 45, 96, 0.1) -30px -30px;
 
     iframe {
-        box-shadow: rgba(6, 45, 96, 0.4) 10px 10px, rgba(6, 45, 96, 0.2) 20px 20px, rgba(6, 45, 96, 0.1) 30px 30px;
-    }
-
-    .tags {
-        color: #FFF;
+        box-shadow: rgba(255, 255, 255, 0.6) 10px 10px, rgba(255, 255, 255, 0.4) 20px 20px, rgba(255, 255, 255, 0.2) 30px 30px;
     }
 }
 
