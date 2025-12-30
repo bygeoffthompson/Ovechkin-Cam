@@ -283,7 +283,7 @@
         position: absolute;
     }
 
-    &:not([data-season='NHL']) .goal-count span:first-of-type {
+    &:not([data-season='NHL Regular']) .goal-count span:first-of-type {
         display: none;
     }
 }
@@ -302,7 +302,7 @@
     }
 }
 
-[data-season='NHL'] .goal-count {
+[data-season='NHL Regular'] .goal-count {
   color: #F34133;
 }
 
@@ -682,7 +682,7 @@ iframe {
     aspect-ratio: 16 / 9;
     background: #111;
     border: 0;
-    box-shadow: rgba(255, 255, 255, 0.6) 10px 10px, rgba(255, 255, 255, 0.4) 20px 20px, rgba(255, 255, 255, 0.2) 30px 30px;
+    box-shadow: rgba(255, 255, 255, 0.6) 5px 5px, rgba(255, 255, 255, 0.4) 10px 10px, rgba(255, 255, 255, 0.2) 15px 15px;
     height: auto;
     min-height: 0;
     position: relative;
@@ -691,7 +691,7 @@ iframe {
 }
 
 .shadow {
-  box-shadow: rgba(200, 16, 46, 0.4) -10px -10px, rgba(200, 16, 46, 0.2) -20px -20px, rgba(200, 16, 46, 0.1) -30px -30px;
+  box-shadow: rgba(200, 16, 46, 0.4) -5px -5px, rgba(200, 16, 46, 0.2) -5px -5px, rgba(200, 16, 46, 0.1) -15px -15px;
   margin: 0 0 1rem;
   max-width: 992px;
   position: relative;
@@ -711,14 +711,14 @@ iframe {
 }
 
 [data-jersey*='Brick'] {
-    box-shadow: rgba(152, 1, 46, 0.4) -10px -10px, rgba(152, 1, 46, 0.2) -20px -20px, rgba(152, 1, 46, 0.1) -30px -30px;
+    box-shadow: rgba(152, 1, 46, 0.4) -5px -5px, rgba(152, 1, 46, 0.2) -10px -10px, rgba(152, 1, 46, 0.1) -15px -15px;
 }
 
 [data-jersey='Capitol'] {
-    box-shadow: rgba(0, 0, 0, 0.4) -10px -10px, rgba(0, 0, 0, 0.2) -20px -20px, rgba(0, 0, 0, 0.1) -30px -30px;
+    box-shadow: rgba(0, 0, 0, 0.4) -5px -5px, rgba(0, 0, 0, 0.2) -10px -10px, rgba(0, 0, 0, 0.1) -15px -15px;
 
     iframe {
-        box-shadow: rgba(206, 137, 70, 0.4) 10px 10px, rgba(206, 137, 70, 0.2) 20px 20px, rgba(206, 137, 70, 0.1) 30px 30px;
+        box-shadow: rgba(206, 137, 70, 0.4) 5px 5px, rgba(206, 137, 70, 0.2) 10px 10px, rgba(206, 137, 70, 0.1) 15px 15px;
     }
 
     .tags {
@@ -727,7 +727,7 @@ iframe {
 }
 
 [data-jersey*='Dynamo'] {
-    box-shadow: rgba(0, 51, 160, 0.4) -10px -10px, rgba(0, 51, 160, 0.2) -20px -20px, rgba(0, 51, 160, 0.1) -30px -30px;
+    box-shadow: rgba(0, 51, 160, 0.4) -5px -5px, rgba(0, 51, 160, 0.2) -10px -10px, rgba(0, 51, 160, 0.1) -15px -15px;
 
     .tags {
         color: #0033A0;
@@ -735,7 +735,7 @@ iframe {
 }
 
 [data-jersey='Screagle'] {
-    box-shadow: rgba(6, 45, 96, 0.4) -10px -10px, rgba(6, 45, 96, 0.2) -20px -20px, rgba(6, 45, 96, 0.1) -30px -30px;
+    box-shadow: rgba(6, 45, 96, 0.4) -5px -5px, rgba(6, 45, 96, 0.2) -10px -10px, rgba(6, 45, 96, 0.1) -15px -15px;
 
     .tags {
         color: #062D60;
@@ -743,10 +743,10 @@ iframe {
 }
 
 [data-jersey*='Reverse Retro'] {
-    box-shadow: rgba(0, 0, 0, 0.4) -10px -10px, rgba(0, 0, 0, 0.2) -20px -20px, rgba(0, 0, 0, 0.1) -30px -30px;
+    box-shadow: rgba(0, 0, 0, 0.4) -5px -5px, rgba(0, 0, 0, 0.2) -10px -10px, rgba(0, 0, 0, 0.1) -15px -15px;
 
     iframe {
-        box-shadow: rgba(200, 16, 46, 0.4) 10px 10px, rgba(200, 16, 46, 0.2) 20px 20px, rgba(200, 16, 46, 0.1) 30px 30px;
+        box-shadow: rgba(200, 16, 46, 0.4) 5px 5px, rgba(200, 16, 46, 0.2) 10px 10px, rgba(200, 16, 46, 0.1) 15px 15px;
     }
 
     .tags {
@@ -755,10 +755,10 @@ iframe {
 }
 
 [data-jersey*='Navy'] {
-    box-shadow: rgba(6, 45, 96, 0.4) -10px -10px, rgba(6, 45, 96, 0.2) -20px -20px, rgba(6, 45, 96, 0.1) -30px -30px;
+    box-shadow: rgba(6, 45, 96, 0.4) -5px -5px, rgba(6, 45, 96, 0.2) -10px -10px, rgba(6, 45, 96, 0.1) -15px -15px;
 
     iframe {
-        box-shadow: rgba(255, 255, 255, 0.6) 10px 10px, rgba(255, 255, 255, 0.4) 20px 20px, rgba(255, 255, 255, 0.2) 30px 30px;
+        box-shadow: rgba(255, 255, 255, 0.6) 5px 5px, rgba(255, 255, 255, 0.4) 10px 10px, rgba(255, 255, 255, 0.2) 15px 15px;
     }
 }
 
