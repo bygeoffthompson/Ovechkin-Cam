@@ -4229,9 +4229,11 @@
     "month": "January",
     "day": 7,
     "year": 2010,
+    "btn1": "Backhand",
+    "btn2": "Post",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Capitals"
   },
   {
@@ -13791,7 +13793,7 @@
     "year": 2022,
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -13823,7 +13825,7 @@
     "btn2": "PPG",
     "season": "NHL",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Black Reverse Retro"
   },
   {
