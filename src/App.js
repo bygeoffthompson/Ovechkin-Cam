@@ -107,7 +107,7 @@ function SearchForm({jsonData}) {
     };
 
     function cupRun() {
-        const cupRun = jsonData.filter(item => item.year === 2018 && item.season === 'Playoffs')
+        const cupRun = jsonData.filter(item => item.year === 2018 && item.season === 'NHL Playoffs')
         const random = Math.floor(Math.random() * cupRun.length);
         setSearchGoal(cupRun[random].goal)
     }
@@ -361,7 +361,7 @@ function SearchForm({jsonData}) {
                             </div>
                         </div>
                         <div className="shadow" data-jersey={result.jersey}>
-                            <iframe width="560" height="315" src={'https://www.youtube.com/embed' + result.link.replace(/"/g, "") + '&autohide=0&controls=0&rel=0&modestbranding=1'} title="Alex Ovechkin Goal Video"
+                            <iframe width="560" height="315" src={'https://www.youtube.com/embed' + result.link.replace(/"/g, "") + '&autohide=0&rel=0&modestbranding=1'} title="Alex Ovechkin Goal Video"
                                 referrerPolicy="cross-origin-with-strict-origin" allowFullScreen loading="lazy"></iframe>
                             <div className="tags">
                                 <strong className="terms">{result.search} {result.btn1} {result.btn2} {result.btn3}</strong>
