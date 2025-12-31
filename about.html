@@ -13,13 +13,17 @@
     <meta property="twitter:image" content="/ovechkin.jpg">
     <link rel="stylesheet" href="/style.css">
     <link rel="manifest" href="/manifest.json">
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-5RVBYX6N0S"></script>
     <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-5RVBYX6N0S');
+        if (window.location.hostname !== 'localhost') {
+            <!-- Google tag (gtag.js) -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=G-5RVBYX6N0S"></script>
+            <script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+                gtag('config', 'G-5RVBYX6N0S');
+            </script>
+        }
     </script>
   </head>
   <body>
