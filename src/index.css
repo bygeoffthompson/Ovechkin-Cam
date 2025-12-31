@@ -338,7 +338,7 @@
     content: 'Olympic';
 }
 
-[data-season='Playoffs'] .goal-count:before {
+[data-season='NHL Playoffs'] .goal-count:before {
     content: 'Playoff';
 }
 
