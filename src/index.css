@@ -347,9 +347,13 @@
 }
 
 .frame {
-  margin: 0;
+  margin: 0 0 2rem;
   max-width: 894px;
   position: relative;
+
+    &:last-of-type {
+        margin: 0;
+    }
 }
 
 .goal-siren {
