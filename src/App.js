@@ -1,7 +1,10 @@
 import React, {useState, useEffect} from 'react';
 import ReactGA from 'react-ga4';
 
-ReactGA.initialize('G-5RVBYX6N0S');
+
+if (window.location.hostname !== 'localhost') {
+    ReactGA.initialize('G-5RVBYX6N0S');
+}
 
 const totalGoals = 912;
 
