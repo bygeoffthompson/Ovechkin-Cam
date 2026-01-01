@@ -3,6 +3,13 @@
   width: 0;
 }
 
+body {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
 .search-accordion {
     align-items: center;
     color: #111;
@@ -802,29 +809,17 @@ iframe {
     iframe {
         box-shadow: rgba(206, 137, 70, 0.4) 5px 5px, rgba(206, 137, 70, 0.2) 10px 10px, rgba(206, 137, 70, 0.1) 15px 15px;
     }
-
-    .tags {
-        color: #000;
-    }
 }
 
 [data-jersey*='Dynamo'] {
     .shadow {
         box-shadow: rgba(0, 51, 160, 0.4) -5px -5px, rgba(0, 51, 160, 0.2) -10px -10px, rgba(0, 51, 160, 0.1) -15px -15px;
     }
-
-    .tags {
-        color: #0033A0;
-    }
 }
 
 [data-jersey='Screagle'] {
     .shadow {
         box-shadow: rgba(6, 45, 96, 0.4) -5px -5px, rgba(6, 45, 96, 0.2) -10px -10px, rgba(6, 45, 96, 0.1) -15px -15px;
-    }
-
-    .tags {
-        color: #062D60;
     }
 }
 
@@ -835,10 +830,6 @@ iframe {
 
     iframe {
         box-shadow: rgba(200, 16, 46, 0.4) 5px 5px, rgba(200, 16, 46, 0.2) 10px 10px, rgba(200, 16, 46, 0.1) 15px 15px;
-    }
-
-    .tags {
-        color: #000;
     }
 }
 
@@ -855,7 +846,7 @@ iframe {
 .tags {
   align-items: center;
   bottom: -9px;
-  color: #C8102E;
+  color: #111;
   display: flex;
   font-size: 12px;
   justify-content: space-between;
