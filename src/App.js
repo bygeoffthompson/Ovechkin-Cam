@@ -343,8 +343,8 @@ function SearchForm({jsonData}) {
 
             <div id="wrapper">
                 {searchResults.map((result, index) => (
-                    <div className="frame" key={index}>
-                        <div className="note" data-season={result.season}>
+                    <div className="frame" data-jersey={result.jersey} data-season={result.season} key={index}>
+                        <div className="note">
                             <div>
                                 <strong className="goal-count">
                                     <span>{result.goal.toString().split('.')[0]}</span>
@@ -363,9 +363,8 @@ function SearchForm({jsonData}) {
                                 <strong><small>{result.month} {result.day} {result.year}</small></strong>
                             </div>
                         </div>
-                        <div className="shadow" data-jersey={result.jersey}>
-                            <iframe width="560" height="315" src={'https://www.youtube.com/embed' + result.link.replace(/"/g, "") + '&autohide=0&rel=0&modestbranding=1'} title="Alex Ovechkin Goal Video"
-                                referrerPolicy="cross-origin-with-strict-origin" allowFullScreen loading="lazy"></iframe>
+                        <div className="shadow">
+                            <iframe width="560" height="315" src={'https://www.youtube.com/embed' + result.link.replace(/"/g, "") + '&autohide=0&rel=0&modestbranding=1'} title="Alex Ovechkin Goal Video" referrerPolicy="cross-origin-with-strict-origin" allowFullScreen loading="lazy"></iframe>
                             <div className="tags">
                                 <strong className="terms">{result.search} {result.btn1} {result.btn2} {result.btn3}</strong>
                                 <strong>ovechkin.cam/?{result.goal}</strong>
