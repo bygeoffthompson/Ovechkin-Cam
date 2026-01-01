@@ -152,10 +152,6 @@ body {
         strong {
             font-size: 1.25rem;
         }
-
-        div:first-of-type {
-            margin-top: -.325rem !important;
-        }
     }
 
     .frame,
@@ -286,11 +282,6 @@ body {
 
         &:first-of-type {
             gap: 0;
-            margin-top: -.325rem;
-
-            @media (min-width: 576px) {
-                margin-top: 0;
-            }
         }
     }
 
@@ -310,7 +301,7 @@ body {
 
     .type {
         background: radial-gradient(#EF4933 40%, transparent);
-        bottom: 1.25rem;
+        bottom: 1rem;
         color: #FFD2C7;
         font-size: 1.125rem !important;
         letter-spacing: -1px;
