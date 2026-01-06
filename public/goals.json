@@ -15526,5 +15526,19 @@
     "hoa": "Away",
     "period": "Third",
     "jersey": "White Capitals"
+  },
+  {
+    "goal": 913,
+    "link": "/dj3eqmjzFyg?si=2lCMy8JXsoULH1rm",
+    "team": "Anaheim Ducks",
+    "goalie": "Petr Mrázek",
+    "goalie2": "Petr Mrazek",
+    "month": "January",
+    "day": 5,
+    "year": 2026,
+    "season": "NHL Regular",
+    "hoa": "Home",
+    "period": "Second",
+    "jersey": "Red Capitals"
   }
 ]
