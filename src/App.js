@@ -6,7 +6,7 @@ if (window.location.hostname !== 'localhost') {
     ReactGA.initialize('G-5RVBYX6N0S');
 }
 
-const totalGoals = 913;
+const totalGoals = 914;
 
 function SearchForm({jsonData}) {
     const [searchGoal, setSearchGoal] = useState('');
