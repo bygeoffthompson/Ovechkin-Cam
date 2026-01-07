@@ -366,7 +366,7 @@ function SearchForm({jsonData}) {
                         <div className="shadow">
                             <iframe width="560" height="315" src={'https://www.youtube.com/embed' + result.link.replace(/"/g, "") + '&autohide=0&rel=0&modestbranding=1'} title="Alex Ovechkin Goal Video" referrerPolicy="cross-origin-with-strict-origin" allowFullScreen loading="lazy"></iframe>
                             <div className="tags">
-                                <strong className="terms">{result.search} {result.btn1} {result.btn2} {result.btn3}</strong>
+                                <span className="terms">{result.type} {result.btn1} {result.btn2} {result.btn3} {result.search}</span>
                                 <strong>ovechkin.cam/?{result.goal}</strong>
                             </div>
                         </div>
