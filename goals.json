@@ -1482,7 +1482,7 @@
     "season": "All Star",
     "hoa": "Away",
     "period": "Second",
-    "jersey": "ASG White"
+    "jersey": "All Star White"
   },
   {
     "goal": 82,
@@ -2304,7 +2304,7 @@
     "season": "All Star",
     "hoa": "Home",
     "period": "First",
-    "jersey": "ASG Red"
+    "jersey": "All Star Red"
   },
   {
     "goal": 137.03,
@@ -2318,7 +2318,7 @@
     "season": "All Star",
     "hoa": "Home",
     "period": "First",
-    "jersey": "ASG Red"
+    "jersey": "All Star Red"
   },
   {
     "goal": 138,
@@ -3312,7 +3312,7 @@
     "season": "All Star",
     "hoa": "Home",
     "period": "First",
-    "jersey": "ASG Red"
+    "jersey": "All Star Red"
   },
   {
     "goal": 195,
@@ -5051,7 +5051,7 @@
     "season": "All Star",
     "hoa": "Away",
     "period": "First",
-    "jersey": "ASG White"
+    "jersey": "All Star White"
   },
   {
     "goal": 289,
@@ -9649,7 +9649,7 @@
     "season": "All Star",
     "hoa": "Away",
     "period": "Second",
-    "jersey": "ASG White"
+    "jersey": "All Star White"
   },
   {
     "goal": 549,
@@ -10329,7 +10329,7 @@
     "season": "All Star",
     "hoa": "Home",
     "period": "First",
-    "jersey": "ASG Grey"
+    "jersey": "All Star Grey"
   },
   {
     "goal": 589,
@@ -13998,7 +13998,7 @@
     "season": "All Star",
     "hoa": "Home",
     "period": "Second",
-    "jersey": "ASG White"
+    "jersey": "All Star White"
   },
   {
     "goal": 813,
@@ -15555,5 +15555,18 @@
     "hoa": "Home",
     "period": "Third",
     "jersey": "Red Capitals"
+  },
+  {
+    "goal": 915,
+    "link": "/V4s8R8N1s5k?si=zO5aeux2iNowyjdY",
+    "team": "Dallas Stars",
+    "goalie": "Casey DeSmith",
+    "month": "January",
+    "day": 7,
+    "year": 2026,
+    "season": "NHL Regular",
+    "hoa": "Home",
+    "period": "Third",
+    "jersey": "Red Throwback"
   }
 ]
