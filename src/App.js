@@ -41,6 +41,7 @@ function SearchForm({jsonData}) {
                     item.team + ' ' +
                     item.period + ' ' +
                     item.hoa + ' ' +
+                    item.jersey.replace('Black ', '').replace('Blue ').replace('Grey', '').replace('Red ', '').replace('White ', '').replace('Capitals', '') + ' ' +
                     item.search + ' ' +
                     item.btn1 + ' ' + item.btn2 + ' ' + item.btn3
                 return (

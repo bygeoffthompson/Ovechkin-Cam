@@ -838,7 +838,7 @@ iframe {
   align-items: center;
   bottom: -10px;
   color: #111;
-  display: flex;
+  display: none;
   font-size: 12px;
   justify-content: space-between;
   left: 12px;
@@ -850,13 +850,17 @@ iframe {
   width: calc(100% - 14px);
   z-index: 2;
 
+    @media (min-width: 576px) {
+      display: flex;
+    }
+
     strong {
-        user-select: all;
+      user-select: all;
     }
 
     .terms {
-        pointer-events: none;
-        user-select: none;
+      pointer-events: none;
+      user-select: none;
     }
 }
 
