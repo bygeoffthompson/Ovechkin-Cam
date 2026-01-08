@@ -15564,6 +15564,8 @@
     "month": "January",
     "day": 7,
     "year": 2026,
+    "type": "6v5",
+    "btn1": "Slapshot",
     "season": "NHL Regular",
     "hoa": "Home",
     "period": "Third",
