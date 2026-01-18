@@ -44,8 +44,6 @@
                     hoaCell.textContent = item.hoa;
                     const periodCell = row.insertCell();
                     periodCell.textContent = item.period;
-                    const typeCell = row.insertCell();
-                    typeCell.textContent = item.type;
                 });
             } catch (error) {
                 console.error('Error fetching data:', error);
@@ -74,9 +72,8 @@
                   <th>Date</th>
                   <th>Goalie</th>
                   <th>Opponent</th>
-                  <th>Period</th>
                   <th>Home/Away</th>
-                  <th>Note</th>
+                  <th>Period</th>
               </tr>
             </thead>
             <tbody></tbody>
