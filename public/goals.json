@@ -569,6 +569,7 @@
     "day": 16,
     "year": 2006,
     "type": "PPG",
+    "btn1": "Backhand",
     "search": "Arizona Coyotes Rookie",
     "season": "NHL Regular",
     "hoa": "Away",
@@ -2233,7 +2234,7 @@
     "year": 2008,
     "season": "NHL Regular",
     "hoa": "Home",
-    "period": "First",
+    "period": "Second",
     "jersey": "Red Capitals"
   },
   {
@@ -4285,11 +4286,11 @@
     "day": 17,
     "year": 2010,
     "type": "PS",
-    "search": "30th",
-    "btn1": "Penalty Shot",
+    "search": "30th Penalty Shot",
+    "btn1": "Backhand",
     "season": "NHL Regular",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Red Capitals"
   },
   {
@@ -7937,6 +7938,7 @@
     "month": "January",
     "day": 16,
     "year": 2015,
+    "btn1": "Slapshot",
     "season": "NHL Regular",
     "hoa": "Away",
     "period": "Second",
@@ -7968,7 +7970,7 @@
     "year": 2015,
     "season": "NHL Regular",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -13169,6 +13171,7 @@
     "day": 16,
     "year": 2022,
     "type": "PPG",
+    "btn1": "Slashot",
     "season": "NHL Regular",
     "hoa": "Home",
     "period": "First",
