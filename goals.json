@@ -5604,7 +5604,7 @@
     "btn2": "Slapshot",
     "season": "NHL Regular",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "White Throwback"
   },
   {
@@ -12150,10 +12150,11 @@
     "day": 18,
     "year": 2020,
     "type": "2nd",
+    "btn1": "Backhand",
     "search": "Teammate",
     "season": "NHL Regular",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "White Capitals"
   },
   {
@@ -15625,6 +15626,20 @@
     "season": "NHL Regular",
     "hoa": "Away",
     "period": "First",
+    "jersey": "White Capitals"
+  },
+  {
+    "goal": 918,
+    "link": "/fkD30eLUyFc?si=Jja-9eRPF3dbmFuk",
+    "team": "Calgary Flames",
+    "month": "January",
+    "day": 23,
+    "year": 2026,
+    "type": "ENG",
+    "search": "Empty Net",
+    "season": "NHL Regular",
+    "hoa": "Away",
+    "period": "Third",
     "jersey": "White Capitals"
   }
 ]
