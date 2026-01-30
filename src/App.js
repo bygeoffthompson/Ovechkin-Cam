@@ -43,7 +43,8 @@ function SearchForm({jsonData}) {
                     item.hoa + ' ' +
                     item.jersey.replace('Black ', '').replace('Blue ').replace('Grey', '').replace('Red ', '').replace('Third', '').replace('White ', '').replace('Capitals', '') + ' ' +
                     item.search + ' ' +
-                    item.btn1 + ' ' + item.btn2 + ' ' + item.btn3
+                    item.btn1 + ' ' + item.btn2 + ' ' + item.btn3 + ' ' +
+                    item.primary + ' ' + item.secondary
                 return (
                     search.replace('undefined', '').toLowerCase().includes(searchText1) &&
                     search.replace('undefined', '').toLowerCase().includes(searchText2) &&
@@ -367,7 +368,7 @@ function SearchForm({jsonData}) {
                         <div className="shadow">
                             <iframe width="560" height="315" src={'https://www.youtube.com/embed' + result.link.replace(/"/g, "") + '&autohide=0&rel=0&modestbranding=1'} title="Alex Ovechkin Goal Video" referrerPolicy="cross-origin-with-strict-origin" allowFullScreen loading="lazy"></iframe>
                             <div className="tags">
-                                <span className="terms">{result.type} {result.btn1} {result.btn2} {result.btn3} {result.search}</span>
+                                <span className="terms">{result.type} {result.btn1} {result.btn2} {result.btn3} {result.search} {result.primary} {result.secondary}</span>
                                 <strong>ovechkin.cam/?{result.goal}</strong>
                             </div>
                         </div>
