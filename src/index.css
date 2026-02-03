@@ -766,6 +766,10 @@ iframe {
     z-index: 2;
 }
 
+.more {
+    color: #C8102E;
+}
+
 .shadow {
   box-shadow: rgba(200, 16, 46, 0.4) -5px -5px, rgba(200, 16, 46, 0.2) -5px -5px, rgba(200, 16, 46, 0.1) -15px -15px;
   margin: 0 0 1rem;
