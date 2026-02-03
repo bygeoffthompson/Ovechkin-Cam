@@ -329,7 +329,7 @@ function SearchForm({jsonData}) {
                 <strong>for</strong>
                 <label htmlFor="type" hidden>Type</label>
                 <select id="type" name="Type" onChange={handleSeasonChange}>
-                    <option name="All" value="" selected>All Types</option>
+                    <option name="All Goals" value="" selected>All Goals</option>
                     <option name="NHL Regular" value="NHL Regular">NHL Regular</option>
                     <option name="NHL Playoff" value="NHL Playoffs">NHL Playoffs</option>
                     <option name="All Star" value="All Star">All Star</option>
@@ -371,10 +371,10 @@ function SearchForm({jsonData}) {
                         </div>
                         <div className="shadow">
                             <iframe width="560" height="315" src={'https://www.youtube.com/embed' + result.link.replace(/"/g, "") + '&autohide=0&rel=0&modestbranding=1'} title="Alex Ovechkin Goal Video" referrerPolicy="cross-origin-with-strict-origin" allowFullScreen loading="lazy"></iframe>
-                            <div className="tags">
-                                <span className="terms">{result.type} {result.btn1} {result.btn2} {result.btn3} {result.search} {result.primary} {result.secondary}</span>
-                                <strong>ovechkin.cam/?{result.goal}</strong>
-                            </div>
+                        </div>
+                        <div className="tags">
+                            <span>{result.type} {result.btn1} {result.btn2} {result.btn3} {result.search} {result.primary} {result.secondary}</span>
+                            <strong className="link">ovechkin.cam/?{result.goal}</strong>
                         </div>
                     </div>
                 )).slice(0, 36)}
