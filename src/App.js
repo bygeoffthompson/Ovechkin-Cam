@@ -333,9 +333,9 @@ function SearchForm({jsonData}) {
                     <option name="NHL Regular" value="NHL Regular">NHL Regular</option>
                     <option name="NHL Playoff" value="NHL Playoffs">NHL Playoffs</option>
                     <option name="All Star" value="All Star">All Star</option>
-                    <option name="IIHF" value="IIHF">IIHF</option>
                     <option name="KHL" value="KHL">KHL</option>
-                    <option name="Olympic" value="Olympic">Olympic</option>
+                    <option name="Olympics" value="Olympics">Olympics</option>
+                    <option name="World Championships" value="World Championships">Worlds</option>
                     <option name="World Cup" value="World Cup">World Cup</option>
                 </select>
                 <strong className="column-control">in</strong>
