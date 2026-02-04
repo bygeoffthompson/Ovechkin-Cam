@@ -34,14 +34,14 @@ function SearchForm({jsonData}) {
         if (search1Value > 2) {
             const results = jsonData.filter((item) => {
                 const search =
+                    item.month + ' ' + item.day + ' ' + item.year + ' ' +
                     item.season + ' ' +
                     item.type + ' ' +
-                    item.month + ' ' + item.day + ' ' + item.year + ' ' +
                     item.goalie + ' ' + item.goalie2 + ' ' +
                     item.team + ' ' +
                     item.period + ' ' +
                     item.hoa + ' ' +
-                    item.jersey.replace('Black', '').replace('Blue', '').replace('Red', '').replace('Third', '').replace('White', '').replace('Capitals', '') + ' ' +
+                    item.jersey + ' ' +
                     item.search + ' ' +
                     item.btn1 + ' ' + item.btn2 + ' ' + item.btn3 + ' ' +
                     item.primary + ' ' + item.secondary
