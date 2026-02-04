@@ -11,7 +11,6 @@
     "year": 2004,
     "btn1": "2004 World Championships",
     "season": "IIHF",
-    "hoa": "Away",
     "period": "Third",
     "jersey": "Red Russia"
   },
@@ -27,7 +26,6 @@
     "year": 2005,
     "search": "2005 World Championships",
     "season": "IIHF",
-    "hoa": "Away",
     "period": "First",
     "jersey": "Red Russia"
   },
@@ -43,7 +41,6 @@
     "year": 2005,
     "search": "2005 World Championships",
     "season": "IIHF",
-    "hoa": "Away",
     "period": "Second",
     "jersey": "Red Russia"
   },
@@ -60,7 +57,6 @@
     "year": 2005,
     "search": "2005 World Championships",
     "season": "IIHF",
-    "hoa": "Away",
     "period": "First",
     "jersey": "Red Russia"
   },
@@ -76,7 +72,6 @@
     "year": 2005,
     "search": "2005 World Championships",
     "season": "IIHF",
-    "hoa": "Away",
     "period": "Third",
     "jersey": "Red Russia"
   },
@@ -92,7 +87,6 @@
     "year": 2005,
     "search": "2005 World Championships",
     "season": "IIHF",
-    "hoa": "Home",
     "period": "Second",
     "jersey": "Red Russia"
   },
@@ -733,7 +727,6 @@
     "search": "Torino 2006 Winter Olympics Turin Italy",
     "btn1": "Tip",
     "season": "Olympics",
-    "hoa": "Away",
     "period": "First",
     "jersey": "Red Russia"
   },
@@ -749,7 +742,6 @@
     "year": 2006,
     "search": "Torino 2006 Winter Olympics Turin Italy",
     "season": "Olympics",
-    "hoa": "Home",
     "period": "Second",
     "jersey": "Red Russia"
   },
@@ -766,7 +758,6 @@
     "year": 2006,
     "search": "Torino 2006 Winter Olympics Turin Italy",
     "season": "Olympics",
-    "hoa": "Away",
     "period": "First",
     "jersey": "Red Russia"
   },
@@ -782,7 +773,6 @@
     "year": 2006,
     "search": "Torino 2006 Winter Olympics Turin Italy",
     "season": "Olympics",
-    "hoa": "Home",
     "period": "Third",
     "jersey": "White Russia"
   },
@@ -799,7 +789,6 @@
     "search": "Torino 2006 Winter Olympics Turin Italy",
     "btn1": "PPG",
     "season": "Olympics",
-    "hoa": "Away",
     "period": "First",
     "jersey": "Red Russia"
   },
@@ -1082,7 +1071,6 @@
     "type": "PPG",
     "btn1": "2006 World Championships Gold Tuuks",
     "season": "IIHF",
-    "hoa": "Away",
     "period": "First",
     "jersey": "Red Russia"
   },
@@ -1098,7 +1086,6 @@
     "type": "2nd",
     "btn1": "2006 World Championships Gold Tuuks",
     "season": "IIHF",
-    "hoa": "Away",
     "period": "First",
     "jersey": "Red Russia"
   },
@@ -1116,7 +1103,6 @@
     "btn1": "Hat Trick",
     "btn2": "PPG",
     "season": "IIHF",
-    "hoa": "Away",
     "period": "First",
     "jersey": "Red Russia"
   },
@@ -1133,7 +1119,6 @@
     "btn1": "2006 World Championships Gold Tuuks",
     "btn2": "Tip",
     "season": "IIHF",
-    "hoa": "Away",
     "period": "Third",
     "jersey": "Red Russia"
   },
@@ -1149,7 +1134,6 @@
     "year": 2006,
     "btn1": "2006 World Championships Gold Tuuks",
     "season": "IIHF",
-    "hoa": "Home",
     "period": "First",
     "jersey": "Red Russia"
   },
@@ -1166,7 +1150,6 @@
     "year": 2006,
     "btn1": "2006 World Championships Gold Tuuks",
     "season": "IIHF",
-    "hoa": "Away",
     "period": "First",
     "jersey": "Red Russia"
   },
@@ -1640,7 +1623,6 @@
     "day": 24,
     "year": 2007,
     "season": "All Star",
-    "hoa": "Away",
     "period": "Second",
     "jersey": "All Star White"
   },
@@ -1924,7 +1906,6 @@
     "year": 2007,
     "search": "2007 World Championships",
     "season": "IIHF",
-    "hoa": "Away",
     "period": "Second",
     "jersey": "Red Russia"
   },
@@ -2559,7 +2540,6 @@
     "year": 2008,
     "btn1": "Post",
     "season": "All Star",
-    "hoa": "Home",
     "period": "First",
     "jersey": "All Star Red"
   },
@@ -2575,7 +2555,6 @@
     "year": 2008,
     "type": "2nd",
     "season": "All Star",
-    "hoa": "Home",
     "period": "First",
     "jersey": "All Star Red"
   },
@@ -3082,7 +3061,6 @@
     "year": 2008,
     "btn1": "2008 World Championships Russia Tuuks",
     "season": "IIHF",
-    "hoa": "Away",
     "period": "First",
     "jersey": "Red Russia"
   },
@@ -3098,7 +3076,6 @@
     "year": 2008,
     "btn1": "2008 World Championships Russia Tuuks",
     "season": "IIHF",
-    "hoa": "Away",
     "period": "First",
     "jersey": "Red Russia"
   },
@@ -3114,7 +3091,6 @@
     "year": 2008,
     "btn1": "2008 World Championships Russia Tuuks",
     "season": "IIHF",
-    "hoa": "Away",
     "period": "Third",
     "jersey": "Red Russia"
   },
@@ -3130,7 +3106,6 @@
     "type": "GWG",
     "search": "2008 World Championships Final Minute Russia Tuuks",
     "season": "IIHF",
-    "hoa": "Away",
     "period": "Third",
     "jersey": "Red Russia"
   },
@@ -3148,7 +3123,6 @@
     "search": "2008 World Championships",
     "btn1": "Tip",
     "season": "IIHF",
-    "hoa": "Home",
     "period": "First",
     "jersey": "White Russia"
   },
@@ -3164,7 +3138,6 @@
     "year": 2008,
     "btn1": "2008 World Championships Russia Tuuks",
     "season": "IIHF",
-    "hoa": "Away",
     "period": "First",
     "jersey": "Red Russia"
   },
@@ -3690,7 +3663,6 @@
     "day": 25,
     "year": 2009,
     "season": "All Star",
-    "hoa": "Home",
     "period": "First",
     "jersey": "All Star Red"
   },
@@ -4990,7 +4962,6 @@
     "type": "GWG",
     "search": "Vancouver 2010 Winter Olympics Fire Tuuks Flame Tuuks Canada",
     "season": "Olympics",
-    "hoa": "Away",
     "period": "First",
     "jersey": "Red Russia"
   },
@@ -5007,7 +4978,6 @@
     "type": "2nd",
     "search": "Vancouver 2010 Winter Olympics Fire Tuuks Flame Tuuks Canada",
     "season": "Olympics",
-    "hoa": "Away",
     "period": "First",
     "jersey": "Red Russia"
   },
@@ -5236,7 +5206,6 @@
     "year": 2010,
     "search": "2010 World Championships",
     "season": "IIHF",
-    "hoa": "Home",
     "period": "First",
     "jersey": "White Russia"
   },
@@ -5253,7 +5222,6 @@
     "type": "PPG",
     "search": "2010 World Championships",
     "season": "IIHF",
-    "hoa": "Away",
     "period": "First",
     "jersey": "Red Russia"
   },
@@ -5268,7 +5236,6 @@
     "year": 2010,
     "search": "2010 World Championships",
     "season": "IIHF",
-    "hoa": "Away",
     "period": "Second",
     "jersey": "Red Russia"
   },
@@ -5283,7 +5250,6 @@
     "year": 2010,
     "search": "2010 World Championships",
     "season": "IIHF",
-    "hoa": "Away",
     "period": "Third",
     "jersey": "Red Russia"
   },
@@ -5300,7 +5266,6 @@
     "search": "2010 World Championships",
     "btn1": "PPG",
     "season": "IIHF",
-    "hoa": "Home",
     "period": "First",
     "jersey": "White Russia"
   },
@@ -5626,7 +5591,6 @@
     "year": 2011,
     "search": "Opening Minute",
     "season": "All Star",
-    "hoa": "Away",
     "period": "First",
     "jersey": "All Star White"
   },
@@ -6639,7 +6603,6 @@
     "search": "2012 World Championships",
     "btn1": "Backhand",
     "season": "IIHF",
-    "hoa": "Away",
     "period": "First",
     "jersey": "Red Russia"
   },
@@ -6656,7 +6619,6 @@
     "type": "GWG",
     "search": "2012 World Championships",
     "season": "IIHF",
-    "hoa": "Away",
     "period": "First",
     "jersey": "Red Russia"
   },
@@ -7537,7 +7499,6 @@
     "year": 2013,
     "search": "2013 World Championships",
     "season": "IIHF",
-    "hoa": "Away",
     "period": "First",
     "jersey": "Red Russia"
   },
@@ -8231,7 +8192,6 @@
     "year": 2014,
     "search": "Sochi 2014 Winter Olympics Russia",
     "season": "Olympics",
-    "hoa": "Away",
     "period": "First",
     "jersey": "Red Russia"
   },
@@ -8435,7 +8395,6 @@
     "type": "PPG",
     "search": "2014 World Championships",
     "season": "IIHF",
-    "hoa": "Home",
     "period": "First",
     "jersey": "Red Russia"
   },
@@ -8454,7 +8413,6 @@
     "btn1": "PPG",
     "btn2": "Slapshot",
     "season": "IIHF",
-    "hoa": "Home",
     "period": "First",
     "jersey": "Red Russia"
   },
@@ -8470,7 +8428,6 @@
     "search": "2014 World Championships Penalty Shot",
     "btn1": "Backhand",
     "season": "IIHF",
-    "hoa": "Away",
     "period": "First",
     "jersey": "White Russia"
   },
@@ -8486,7 +8443,6 @@
     "search": "2014 World Championships",
     "btn1": "Backhand",
     "season": "IIHF",
-    "hoa": "Away",
     "period": "Second",
     "jersey": "White Russia"
   },
@@ -9468,7 +9424,6 @@
     "year": 2015,
     "search": "2015 World Championships",
     "season": "IIHF",
-    "hoa": "Home",
     "period": "First",
     "jersey": "White Russia"
   },
@@ -10379,7 +10334,6 @@
     "year": 2016,
     "search": "2016 World Championships",
     "season": "IIHF",
-    "hoa": "Away",
     "period": "Third",
     "jersey": "Red Russia"
   },
@@ -10794,7 +10748,6 @@
     "day": 29,
     "year": 2017,
     "season": "All Star",
-    "hoa": "Away",
     "period": "Second",
     "jersey": "All Star White"
   },
@@ -11559,7 +11512,6 @@
     "day": 28,
     "year": 2018,
     "season": "All Star",
-    "hoa": "Home",
     "period": "First",
     "jersey": "All Star Grey"
   },
@@ -13036,7 +12988,6 @@
     "year": 2019,
     "search": "2019 World Championships",
     "season": "IIHF",
-    "hoa": "Away",
     "period": "First",
     "jersey": "Red Russia"
   },
@@ -13053,7 +13004,6 @@
     "year": 2019,
     "search": "2019 World Championships",
     "season": "IIHF",
-    "hoa": "Home",
     "period": "First",
     "jersey": "Red Russia"
   },
@@ -15666,7 +15616,6 @@
     "day": 4,
     "year": 2023,
     "season": "All Star",
-    "hoa": "Home",
     "period": "Second",
     "jersey": "All Star White"
   },
