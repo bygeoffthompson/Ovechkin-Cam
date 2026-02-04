@@ -6,7 +6,7 @@
 
         <loc>https://ovechkin.cam</loc>
 
-        <lastmod>2025-10-23</lastmod>
+        <lastmod>2026-2-1</lastmod>
 
         <changefreq>monthly</changefreq>
 
@@ -18,7 +18,7 @@
 
         <loc>https://ovechkin.cam/about.html</loc>
 
-        <lastmod>2025-10-23</lastmod>
+        <lastmod>2026-2-1</lastmod>
 
         <changefreq>monthly</changefreq>
 
@@ -30,11 +30,23 @@
 
         <loc>https://ovechkin.cam/goals.html</loc>
 
-        <lastmod>2025-10-23</lastmod>
+        <lastmod>2026-2-1</lastmod>
 
         <changefreq>monthly</changefreq>
 
-        <priority>0.8</priority>
+        <priority>0.5</priority>
+
+    </url>
+
+    <url>
+
+        <loc>https://ovechkin.cam/search.html</loc>
+
+        <lastmod>2026-2-1</lastmod>
+
+        <changefreq>monthly</changefreq>
+
+        <priority>0.5</priority>
 
     </url>
 
