@@ -235,6 +235,12 @@ function SearchForm({jsonData}) {
         else {setSearchGoal(8)}
     };
 
+    function unassisted() {
+        const unassisted = jsonData.filter(item => item.primary === undefined)
+        const random = Math.floor(Math.random() * unassisted.length);
+        setSearchGoal(unassisted[random].goal)
+    }
+
     return (
         <div>
             <div id="click-goal" onClick={clickGoal}></div>
