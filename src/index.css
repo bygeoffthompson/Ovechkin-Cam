@@ -260,6 +260,40 @@ body {
     }
 }
 
+.frame {
+    margin: 0 0 2rem;
+    max-width: 894px;
+    position: relative;
+
+    &:last-of-type {
+        margin: 0;
+    }
+
+    &:not([data-season='NHL Regular']) .goal-count span:first-of-type {
+        display: none;
+    }
+}
+
+.goal-siren {
+    display: flex;
+    justify-content: center;
+
+    img {
+        height: auto;
+        width: 60px;
+    }
+}
+
+.loading {
+    opacity: .25;
+}
+
+.logo {
+    height: 27px;
+    margin: 0 .5rem;
+    width: 40px;
+}
+
 .note {
   align-items: center;
   cursor: default;
@@ -332,32 +366,18 @@ body {
   color: #F34133;
 }
 
-[data-season='IIHF'] .logo,
-[data-season='KHL'] .logo,
-[data-season='Olympics'] .logo,
-[data-season*='World'] .logo {
-  height: 2.25rem;
-  width: 4rem;
-  padding: 0 .5rem;
+[data-season*='NHL'] .logo {
+  height: 55px;
+  margin: 0;
+  width: 55px;
 }
 
-[data-season='All Star'] {
-    .goal-count {
-        color: #777;
-
-        &:before {
-            content: 'AllStar';
-        }
-    }
-
-    .logo {
-        margin-right: .25rem;
-        max-width: 2.75rem;
-    }
+[data-season='All Star'] .goal-count:before {
+    content: 'All Star';
 }
 
-[data-season='IIHF'] .goal-count:before {
-    content: 'IIHF';
+[data-season='World Championships'] .goal-count:before {
+    content: 'Worlds';
 }
 
 [data-season='KHL'] .goal-count {
@@ -381,40 +401,7 @@ body {
 }
 
 [data-season='World Cup'] .goal-count:before {
-    content: 'WorldCup';
-}
-
-.frame {
-  margin: 0 0 2rem;
-  max-width: 894px;
-  position: relative;
-
-    &:last-of-type {
-        margin: 0;
-    }
-
-    &:not([data-season='NHL Regular']) .goal-count span:first-of-type {
-        display: none;
-    }
-}
-
-.goal-siren {
-  display: flex;
-  justify-content: center;
-
-    img {
-      height: auto;
-      width: 60px;
-    }
-}
-
-.loading {
-  opacity: .25;
-}
-
-.logo {
-  height: 4rem;
-  width: 4rem;
+    content: 'World Cup';
 }
 
 .shot {
