@@ -1,10 +1,7 @@
 import React, {useState, useEffect} from 'react';
 import ReactGA from 'react-ga4';
 
-
-if (window.location.hostname !== 'localhost') {
-    ReactGA.initialize('G-5RVBYX6N0S');
-}
+ReactGA.initialize('G-5RVBYX6N0S');
 
 const totalGoals = 919;
 
@@ -22,12 +19,12 @@ function SearchForm({jsonData}) {
             const results = jsonData.filter(item => item.goal === goalQuery)
             setSearchResults(results);
             ReactGA.event({
+                action: 'Click',
                 category: new Date().getFullYear()  + ' Goals Served',
                 event: 'Goal #' + goalQuery,
                 label: 'Goal #' + goalQuery,
                 value: 1
             });
-
         }
 
         const search1Value = document.getElementById('search-text-1').value.length;
@@ -44,7 +41,7 @@ function SearchForm({jsonData}) {
                     item.jersey + ' ' +
                     item.search + ' ' +
                     item.btn1 + ' ' + item.btn2 + ' ' + item.btn3 + ' ' +
-                    item.primary + ' ' + item.secondary
+                    item.primary + ' Primary ' + item.secondary + ' Secondary'
                 return (
                     search.replace('undefined', '').toLowerCase().includes(searchText1) &&
                     search.replace('undefined', '').toLowerCase().includes(searchText2) &&
@@ -250,10 +247,10 @@ function SearchForm({jsonData}) {
             </div>
             <form onSubmit={preventSubmit}>
                 <div>
-                <h2 className="number"><a href="/about.html#number">Search by Number</a></h2>
+                <h2 className="number"><a href="/search.html#goal">Search by Number</a></h2>
                     <label className="hide" htmlFor="search-goal">Number</label>
                     <input id="search-goal" min="1" max={totalGoals} step="any" type="number" placeholder="#" value={searchGoal} onChange={handleGoalChange}/>
-                    <h2><a href="/about.html#text"><span className="hide">Search by </span>Text</a></h2>
+                    <h2><a href="/search.html#text"><span className="hide">Search by </span>Text</a></h2>
                     <label className="hide" htmlFor="search-text-1">Text</label>
                     <label className="hide" htmlFor="search-text-2">Text</label>
                     <label className="hide" htmlFor="search-text-3">Text</label>
