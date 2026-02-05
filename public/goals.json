@@ -794,7 +794,7 @@
     "day": 28,
     "year": 2006,
     "type": "PPG",
-    "search": "Rookie Streak",
+    "search": "Review Rookie Streak",
     "season": "NHL Regular",
     "hoa": "Away",
     "period": "Second",
@@ -915,10 +915,10 @@
     "day": 20,
     "year": 2006,
     "type": "PPG",
-    "search": "Rookie Teammate",
+    "search": "Final Minute Rookie Teammate",
     "season": "NHL Regular",
     "hoa": "Home",
-    "period": "First",
+    "period": "Third",
     "jersey": "Capitol"
   },
   {
@@ -950,7 +950,7 @@
     "search": "Rookie",
     "season": "NHL Regular",
     "hoa": "Away",
-    "period": "First",
+    "period": "Third",
     "jersey": "Screagle"
   },
   {
@@ -979,10 +979,11 @@
     "day": 29,
     "year": 2006,
     "type": "PPG",
+    "btn1": "Backhand",
     "search": "Rookie",
     "season": "NHL Regular",
     "hoa": "Away",
-    "period": "First",
+    "period": "Second",
     "jersey": "Screagle"
   },
   {
@@ -10076,6 +10077,7 @@
     "year": 2016,
     "type": "OT",
     "btn1": "GWG",
+    "search": "Review",
     "season": "NHL Regular",
     "hoa": "Home",
     "period": "Overtime",

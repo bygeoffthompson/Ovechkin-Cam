@@ -41,7 +41,7 @@ function SearchForm({jsonData}) {
                     item.jersey + ' ' +
                     item.search + ' ' +
                     item.btn1 + ' ' + item.btn2 + ' ' + item.btn3 + ' ' +
-                    item.primary + ' Primary ' + item.secondary + ' Secondary'
+                    item.primary + ' ' + item.secondary
                 return (
                     search.replace('undefined', '').toLowerCase().includes(searchText1) &&
                     search.replace('undefined', '').toLowerCase().includes(searchText2) &&
@@ -223,15 +223,6 @@ function SearchForm({jsonData}) {
         setSearchText3('');
     }
 
-    const shg = () => {
-        const input = parseInt(document.querySelector('#search-goal').value)
-        if (input === 8) {setSearchGoal(190)}
-        else if (input === 36) {setSearchGoal(38)}
-        else if (input === 38) {setSearchGoal(732)}
-        else if (input === 190) {setSearchGoal(36)}
-        else {setSearchGoal(8)}
-    };
-
     function unassisted() {
         const unassisted = jsonData.filter(item => item.primary === undefined)
         const random = Math.floor(Math.random() * unassisted.length);
@@ -302,10 +293,10 @@ function SearchForm({jsonData}) {
                     <div>
                         <button onClick={(event) => filterGoal(['Away'])} title="Away Goal" type="button">Away</button>
                         <button onClick={(event) => filterGoal(['Home'])} title="Home Goal" type="button">Home</button>
-                        <button onClick={(event) => filterGoal(['5v3', 'PPG'])} title="Power Play Goal" type="button">PPG</button>
-                        <button onClick={shg} title="Shorthand Goal" type="button">SHG</button>
+                        <button onClick={(event) => setSearchGoal(random(1, 52))} title="Rookie Goal" type="button">Rookie</button>
                         <button onClick={(event) => filterGoal(['Empty Net'])} title="Empty Net Goal" type="button">ENG</button>
                         <button onClick={(event) => filterGoal(['GWG', 'Overtime'])} title="Game Winning Goal" type="button">GWG</button>
+                        <button onClick={(event) => filterGoal(['5v3', 'PPG'])} title="Power Play Goal" type="button">PPG</button>
                         <button onClick={(event) => filterGoal(['Overtime'])} title="Overtime Goal" type="button">OT</button>
                         <button onClick={onThisDay} id="otd" title="On This Day Goals" type="button">On&nbsp;This&nbsp;Day</button>
                     </div>
