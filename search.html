@@ -27,7 +27,14 @@
       <h1>Searching Ovechkin Cam</h1>
     </header>
     <main>
-      <h2>Date Search</h2>
+      <h2 id="assist">Assist Search</h2>
+      <p>All assist data is stored in format [Name] Primary [Name] Secondary</p>
+      <ul>
+        <li>Evgeny Kuznetsov Primary</li>
+        <li>Mike Green Secondary</li>
+        <li>Nicklas Backstrom Primary TJ Oshie Secondary</li>
+      </ul>
+      <h2 id="date">Date Search</h2>
       <ul>
         <li>[Month DD YYYY] Format</li>
         <ul>
@@ -36,9 +43,9 @@
           <li>November 5 2022</li>
         </ul>
       </ul>
-      <h2 id="number">Number Search</h2>
-      <p>All goals are identified by a unique integer. NHL regular season goals are indexed 1 to 919.</p>
-      <p>All other goals are intertwined as floats with the format [NHL-RS].[Other]</p>
+      <h2 id="goal">Goal Search</h2>
+      <p>All goals are identified by a unique number. NHL regular season goals are indexed 1 to 919. All other goals are intertwined
+          as floats with format [NHL Regular Goal].[Other Goal]</p>
       <ul>
         <li><code>0.02</code> is World Championship Goal #2 (2005)</li>
         <li><code>36.04</code> is Olympic Goal #4 (2006)</li>
@@ -112,7 +119,7 @@
         <table>
             <tbody>
                 <tr><td><a href="/?gr8-chase">Gr8 Chase</a></td>
-                    <td>Chasing down top goal scorers</td></tr>
+                    <td>Climbing the leaderboard</td></tr>
                 <tr><td><a href="/?super-swedes">Super Swedes</a></td>
                     <td>A pair of Backstrom and Johansson assists</td></tr>
                 <tr><td><a href="/?young-guns">Young Guns</a></td>
