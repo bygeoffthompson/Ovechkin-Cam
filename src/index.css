@@ -105,19 +105,15 @@ body {
   color: #111;
   font-size: 3rem !important;
   position: relative;
+  text-align: end;
 
     &:before {
-        bottom: .75rem;
+        display: block;
         font-size: 1rem;
         position: relative;
         text-align: end;
-
-        @media (min-width: 576px) {
-            min-width: 80px;
-            position: absolute;
-            right: 0;
-            top: -.4rem;
-        }
+        top: .75rem;
+        width: 80px;
     }
 }
 
@@ -325,10 +321,9 @@ body {
     }
 
     strong {
-        font-size: 1.25rem;
-        text-align: start;
+        font-size: 1.125rem;
 
-        @media (min-width:992px) {
+        @media (min-width:576px) {
             font-size: 1.5rem;
         }
     }
