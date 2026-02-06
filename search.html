@@ -28,30 +28,26 @@
     </header>
     <main>
       <h2 id="assist">Assist Search</h2>
-      <p>All assist data is stored in format [Name] Primary [Name] Secondary</p>
+      <p>Assist data is stored in format <code>[Primary Assist Full Name] [Secondary Assist Full Name]</code></p>
       <ul>
-        <li>Evgeny Kuznetsov Primary</li>
-        <li>Mike Green Secondary</li>
-        <li>Nicklas Backstrom Primary TJ Oshie Secondary</li>
+        <li>Nicklas Backstrom TJ Oshie</li>
       </ul>
       <h2 id="date">Date Search</h2>
-      <ul>
-        <li>[Month DD YYYY] Format</li>
+        <p>Dates are stored in format <code>[Month Name] [DD] [YYYY]</code></p>
         <ul>
-          <li>January 13 2010</li>
-          <li>March 31 2015</li>
-          <li>November 5 2022</li>
+            <li>January 13 2010</li>
+            <li>March 31 2015</li>
+            <li>November 5 2022</li>
         </ul>
-      </ul>
       <h2 id="goal">Goal Search</h2>
-      <p>All goals are identified by a unique number. NHL regular season goals are indexed 1 to 919. All other goals are intertwined
-          as floats with format [NHL Regular Goal].[Other Goal]</p>
+      <p>Goals are identified by a unique number. NHL regular season goals are indexed 1 to 919. All other goals are intertwined
+          as floats with format <code>[NHL Regular Goal].[Other Goal]</code></p>
       <ul>
-        <li><code>0.02</code> is World Championship Goal #2 (2005)</li>
-        <li><code>36.04</code> is Olympic Goal #4 (2006)</li>
-        <li><code>288.05</code> is All Star Goal #5 (2011)</li>
-        <li><code>525.02</code> is World Cup Goal #2 (2016)</li>
-        <li><code>897.75</code> is Playoff Goal #75 (2025)</li>
+        <li>0.02 is World Championship Goal #2 (2005)</li>
+        <li>36.04 is Olympic Goal #4 (2006)</li>
+        <li>288.05 is All Star Goal #5 (2011)</li>
+        <li>525.02 is World Cup Goal #2 (2016)</li>
+        <li>897.75 is Playoff Goal #75 (2025)</li>
       </ul>
       <p>In a few cases this cataloging produced duplicate floats which were resolved by incrementing the NHL number by one.</p>
       <h2>League Search</h2>
