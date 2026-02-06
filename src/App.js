@@ -293,9 +293,9 @@ function SearchForm({jsonData}) {
                     <div>
                         <button onClick={(event) => filterGoal(['Away'])} title="Away Goal" type="button">Away</button>
                         <button onClick={(event) => filterGoal(['Home'])} title="Home Goal" type="button">Home</button>
-                        <button onClick={(event) => setSearchGoal(random(1, 52))} title="Rookie Goal" type="button">Rookie</button>
                         <button onClick={(event) => filterGoal(['Empty Net'])} title="Empty Net Goal" type="button">ENG</button>
                         <button onClick={(event) => filterGoal(['GWG', 'Overtime'])} title="Game Winning Goal" type="button">GWG</button>
+                        <button onClick={(event) => filterGoal(['Hat Trick'])} title="Hat Trick Goal" type="button">Hat&nbsp;Trick</button>
                         <button onClick={(event) => filterGoal(['5v3', 'PPG'])} title="Power Play Goal" type="button">PPG</button>
                         <button onClick={(event) => filterGoal(['Overtime'])} title="Overtime Goal" type="button">OT</button>
                         <button onClick={onThisDay} id="otd" title="On This Day Goals" type="button">On&nbsp;This&nbsp;Day</button>
@@ -304,11 +304,11 @@ function SearchForm({jsonData}) {
                         <button onClick={(event) => filterGoal(['Backhand'])} title="Backhand Goal" type="button">Backhand</button>
                         <button onClick={canadian} title="Canada Goal" type="button">Canadian</button>
                         <button onClick={cupRun} title="Cup Run" type="button">Cup&nbsp;Run</button>
-                        <button onClick={(event) => filterGoal(['Hat Trick'])} title="Hat Trick Goal" type="button">Hats</button>
                         <button onClick={(event) => filterGoal(['Post'])} title="Post Goal" type="button">Post</button>
                         <button onClick={(event) => filterGoal(['Slapshot'])} title="Slapshot Goal" type="button">Slapshot</button>
                         <button onClick={(event) => filterGoal(['Tip'])} title="Tip Goal" type="button">Tip</button>
                         <button onClick={unassisted} title="Unassisted Goal" type="button">Unassisted</button>
+                        <button onClick={(event) => filterGoal(['Young Guns'])} title="Young Guns Goal" type="button">Young&nbsp;Guns</button>
                     </div>
                 </div>
                 <button onClick={reset} title="Reset Filters" type="button">Reset</button>
