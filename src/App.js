@@ -199,6 +199,12 @@ function SearchForm({jsonData}) {
         setSearchGoal(goal[0]);
     }
 
+    function justNick() {
+        const justNick = jsonData.filter(item => item.primary === "Nicklas Backstrom" && item.secondary === undefined)
+        const random = Math.floor(Math.random() * justNick.length);
+        setSearchGoal(justNick[random].goal)
+    }
+
     function randomGoal(match) {
         resultsHide();
         const result = jsonData;
@@ -304,9 +310,9 @@ function SearchForm({jsonData}) {
                         <button onClick={(event) => filterGoal(['Backhand'])} title="Backhand Goal" type="button">Backhand</button>
                         <button onClick={canadian} title="Canada Goal" type="button">Canadian</button>
                         <button onClick={cupRun} title="Cup Run" type="button">Cup&nbsp;Run</button>
+                        <button onClick={justNick} title="Nicklas Backstrom Only Assists" type="button">Just&nbsp;Nick</button>
                         <button onClick={(event) => filterGoal(['Post'])} title="Post Goal" type="button">Post</button>
                         <button onClick={(event) => filterGoal(['Slapshot'])} title="Slapshot Goal" type="button">Slapshot</button>
-                        <button onClick={(event) => filterGoal(['Tip'])} title="Tip Goal" type="button">Tip</button>
                         <button onClick={unassisted} title="Unassisted Goal" type="button">Unassisted</button>
                         <button onClick={(event) => filterGoal(['Young Guns'])} title="Young Guns Goal" type="button">Young&nbsp;Guns</button>
                     </div>
