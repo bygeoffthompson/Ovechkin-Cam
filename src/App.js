@@ -43,9 +43,9 @@ function SearchForm({jsonData}) {
                     item.btn1 + ' ' + item.btn2 + ' ' + item.btn3 + ' ' +
                     item.primary + ' ' + item.secondary
                 return (
-                    search.replace('undefined', '').toLowerCase().includes(searchText1) &&
-                    search.replace('undefined', '').toLowerCase().includes(searchText2) &&
-                    search.replace('undefined', '').toLowerCase().includes(searchText3) &&
+                    search.toLowerCase().includes(searchText1) &&
+                    search.toLowerCase().includes(searchText2) &&
+                    search.toLowerCase().includes(searchText3) &&
                     item.season.includes(document.getElementById('type').value)
                 );
             });
@@ -199,10 +199,10 @@ function SearchForm({jsonData}) {
         setSearchGoal(goal[0]);
     }
 
-    function justNick() {
-        const justNick = jsonData.filter(item => item.primary === "Nicklas Backstrom" && item.secondary === undefined)
-        const random = Math.floor(Math.random() * justNick.length);
-        setSearchGoal(justNick[random].goal)
+    function fromNick() {
+        const fromNick = jsonData.filter(item => item.primary === "Nicklas Backstrom")
+        const random = Math.floor(Math.random() * fromNick.length);
+        setSearchGoal(fromNick[random].goal)
     }
 
     function randomGoal(match) {
@@ -310,7 +310,7 @@ function SearchForm({jsonData}) {
                         <button onClick={(event) => filterGoal(['Backhand'])} title="Backhand Goal" type="button">Backhand</button>
                         <button onClick={canadian} title="Canada Goal" type="button">Canadian</button>
                         <button onClick={cupRun} title="Cup Run" type="button">Cup&nbsp;Run</button>
-                        <button onClick={justNick} title="Nicklas Backstrom Only Assists" type="button">Just&nbsp;Nick</button>
+                        <button onClick={fromNick} title="Nicklas Backstrom Primary Goals" type="button">From&nbsp;Nick</button>
                         <button onClick={(event) => filterGoal(['Post'])} title="Post Goal" type="button">Post</button>
                         <button onClick={(event) => filterGoal(['Slapshot'])} title="Slapshot Goal" type="button">Slapshot</button>
                         <button onClick={unassisted} title="Unassisted Goal" type="button">Unassisted</button>
